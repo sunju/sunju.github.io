@@ -8,12 +8,12 @@ tags: top
 
 Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6FaD-UAAAAJ)\] \[[Semantic Scholar](https://www.semanticscholar.org/author/Ju-Sun/1699024)\] \[[arXiv Personal Page](http://arxiv.org/a/sun_j_1)\]
 
-#### Reports 
+### Reports 
 
 > **Beyond the Fourier Transform: A Machine Learning Approach to Microscopy Analysis**.  
 > &nbsp; &nbsp; Sky Cheung, Yenson Lau, Zhengyu Chen, **Ju Sun**, Yuqian Zhang, John Wright, and Abhay Pasupathy. Submitted to Nature Communications, 2017. 
 
-#### Journals 
+### Journals 
 
 > **High-Speed Channel Modeling with Machine Learning Methods for Signal Integrity Analysis**.  \[[Draft](/docs/lu2017highspeed.pdf)\]\[[Paper](https://doi.org/10.1109/TEMC.2017.2784833)\]  
 > &nbsp; &nbsp; Tianjian Lu, **Ju Sun**, Ken Wu, Zhiping Yang. To appear in IEEE Trans. Electromagnetic Compatibility. 
@@ -36,7 +36,7 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > **Robust Recovery of Subspace Structures by Low-Rank Representation**. \[[arXiv](http://arxiv.org/abs/1010.2955)\] \[[paper](http://dx.doi.org/10.1109/TPAMI.2012.88)\] [[Codes](https://sites.google.com/site/guangcanliu/lrr.zip?attredirects=0&d=1)[^pami_lrr]]   
 > &nbsp; &nbsp; Guangcan Liu,  Zhouchen Lin, Shuicheng Yan,  **Ju Sun**, Yong Yu, and Yi Ma.  IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI), 35(1):171 - 184, 2013.
 
-#### Conferences and Workshops
+### Conferences and Workshops
 
 > **A Local Analysis of Block Coordinate Descent for Gaussian Phase Retrieval**. \[[arXiv](http://arxiv.org/abs/1712.02083)\]\[[Codes](/files/BCD.zip)\]  
 > &nbsp; &nbsp; David Barmherzig, **Ju Sun**. NIPS Workshop on Optimization for Machine Learning, 2017.
@@ -81,11 +81,11 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > **3D Ordinal Constraint in Spatial Configuration for Robust Scene Recognition**. \[[PDF](/docs/icpr08_ordinal.pdf)\]  
 > &nbsp; &nbsp; Ching-Lik Teo, Shimiao Li, Loong-Fah Cheong, **Ju Sun**.  IEEE International Conference on Pattern Recognition (ICPR), 2008. 
 
-#### Dissertation 
+### Dissertation 
 
 > **When Are Nonconvex Optimization Problems Not Scary?** \[[PDF](/docs/thesis.pdf)\] \[[Official Version](http://dx.doi.org/10.7916/D8251J7H)\]
 
-#### Unpublished Reports
+### Unpublished Reports
 
 > **Selective Image Super-Resolution**. \[[arXiv](http://arxiv.org/abs/1010.5610)\]  
 > &nbsp; &nbsp; **Ju Sun**, Qiang Chen, Shuicheng Yan, Loong-Fah Cheong. Mar 2010.
