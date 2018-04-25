@@ -1,0 +1,9 @@
+---
+layout: page
+permalink: /research/low-rank/
+title: Low Rank Matrix/Tensor Recovery
+---
+
+> **Disclaimer** - This page is meant to serve a hub for references on this problem, and does not represent in any way personal endorsement of papers listed here. So I do not hold any responsibility for quality and technical correctness of each paper listed here. The reader is advised to use this resource with discretion.
+
+> **If you'd like your paper to be listed here**  - Just drop me a few lines via email (which can be found on "Welcome" page). If you don't bother to spend a word, just deposit your paper on arXiv. I get email alert about new animals there every morning,  and will be happy to hunt one for this zoo if it seems **fit**. 

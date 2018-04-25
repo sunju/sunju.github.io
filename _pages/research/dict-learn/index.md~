@@ -1,0 +1,70 @@
+---
+layout: page
+title: "Dictionary/Deep Learning"
+date: 2014-01-30 17:48
+comments: true
+sharing: true
+footer: true
+---
+Learning dictionaries/atomic sets that induce structured representation on data. Applications are still explosively emerging, especially of deep learning, where one allows multi-level nonlinear cascading of representation. Hence formulations to the problems are fairly diverse. We will roughly organize the references according to the problem they try to solve, concentrated on theoretical literature.  (**Update: Jan 05 2016**)
+
+\[<span style="color:red">**S**</span>\] indicates my contribution. 
+
+## Theory 
+
+### $\mathbf{Y} = \mathbf{A} \mathbf{X}$, $\mathbf{A}$ Square, Invertible, Global Recovery 
+This problem can be reduced to a sequence of problems, each taking the form of finding sparsest vector in a linear subspace. See also [Structured Element Pursuit](/research/struct-elem/). 
+
+ #. [Complete Dictionary Recovery over the Sphere](http://arxiv.org/abs/1504.06785) (\[<span style="color:red">**S**</span>\], 2015)  
+ #. [Dictionary Learning and Tensor Decomposition via the Sum-of-Squares Method](http://arxiv.org/abs/1407.1543) (2014)
+ #. [Sum-of-squares proofs and the quest toward optimal algorithms](http://arxiv.org/abs/1404.5236) (2014)
+ #. [Rounding Sum-of-Squares Relaxations](http://arxiv.org/abs/1312.6652) (2013)
+ #. [Scaling law for recovering the sparsest element in a subspace](http://math.mit.edu/icg/papers/sparsest-element.pdf) (2013)
+ #. [Exact Recovery of Sparsely-Used Dictionaries](http://arxiv.org/abs/1206.5882) (2012)
+ 
+### $\mathbf{Y} = \mathbf{A} \mathbf{X}$, $\mathbf{A}$ Overcomplete, Incoherent, Global Recovery 
+ #. [Simple, Efficient, and Neural Algorithms for Sparse Coding](http://arxiv.org/abs/1503.00778) (2015)
+ #. [Dictionary Learning and Tensor Decomposition via the Sum-of-Squares Method](http://arxiv.org/abs/1407.1543) (2014)
+ #. [Sum-of-squares proofs and the quest toward optimal algorithms](http://arxiv.org/abs/1404.5236) (2014)
+ #. [Rounding Sum-of-Squares Relaxations](http://arxiv.org/abs/1312.6652) (2013)
+ #. [More Algorithms for Provable Dictionary Learning](http://arxiv.org/abs/1401.0579) (2014)
+ #. [Exact Recovery of Sparsely Used Overcomplete Dictionaries](http://arxiv.org/abs/1309.1952) (2013)
+ #. [New Algorithms for Learning Incoherent and Overcomplete Dictionaries](http://arxiv.org/abs/1308.6273) (2013)
+ #. [Learning Sparsely Used Overcomplete Dictionaries via Alternating Minimization](http://arxiv.org/abs/1310.7991) (2013)
+ 
+### $\mathbf{Y} = \mathbf{A} \mathbf{X}$ Local Correctness by $\ell^1$ Hueristics
+ #. [On the Local Correctness of $\ell^1$ Minimization for Dictionary Learning](http://www.columbia.edu/~jw2966/Geng11-IT.pdf) (2011, $\mathbf{A}$ general)
+ #. [Dictionary Identification - Sparse Matrix-Factorisation via $\ell^1$-Minimisation](http://arxiv.org/abs/0904.4774) (2009, $\mathbf{A}$ square)
+ 
+### Convolutional: $\mathbf{Y} = \sum_i \mathbf{A}_i \otimes \mathbf{X}_i$ 
+ 
+### Wavelet/General Scattering Network 
+ #. [A Mathematical Theory of Deep Convolutional Neural Networks for Feature Extraction](http://arxiv.org/abs/1512.06293) (2015)
+ #. [Deep Convolutional Neural Networks Based on Semi-Discrete Frames](http://arxiv.org/abs/1504.05487) (2015)
+ #. [Unsupervised Learning by Deep Scattering Contractions](http://arxiv.org/abs/1406.2390) (2014)
+ #. [Invariant Scattering Convolution Network](http://www.di.ens.fr/data/publications/papers/pami-final.pdf) (2013)
+ #. [Group Invariant Scattering](http://arxiv.org/abs/1101.2286) (2011)
+ 
+### Provable Learning of Deep Structure
+ #. [Sparse Matrix Factorization](http://arxiv.org/abs/1311.3315) (2013)
+ #. [Provable Bounds for Learning Some Deep Representations](http://arxiv.org/abs/1310.6343) (2013)
+
+## Algorithms and Applications 
+
+### Dictionary Learning 
+ #. To get a taste of the applications of dictionary learning in signal and image processing (compression in these areas demands good bases/dictionaries), see the book by Michael Elad: [Sparse and Redundant Representations: From Theory to Applications in Signal and Image Processing](https://www.springer.com/mathematics/analysis/book/978-1-4419-7010-7)
+
+### Convolutional Dictionary Learning
+ #. [Convolutional Dictionary Learning through Tensor Factorization](http://arxiv.org/abs/1506.03509) (2015)
+ #. [Fast Convolutional Sparse Coding](http://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Bristow_Fast_Convolutional_Sparse_2013_CVPR_paper.pdf) (2013)
+ #. [Deconvolutional Network](www.matthewzeiler.com/pubs/cvpr2010/cvpr2010.pdf) (2010)
+
+### Deep Learning
+ #. [Scattering Page](http://www.di.ens.fr/data/scattering/) maintained by Stephane Mallat's group
+
+
+> **Disclaimer** - This page is meant to serve a hub for references on this problem, and does not represent in any way personal endorsement of papers listed here. So I do not hold any responsibility for quality and technical correctness of each paper listed here. The reader is advised to use this resource with discretion.
+
+> **If you'd like your paper to be listed here**  - Just drop me a few lines via email (which can be found on "Welcome" page). If you don't bother to spend a word, just deposit your paper on arXiv. I get email alert about new animals there every morning,  and will be happy to hunt one for this zoo if it seems **fit**. 
+
+

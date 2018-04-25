@@ -1,0 +1,40 @@
+---
+layout: page
+title: "Phase Retrieval and Applications"
+date: 2016-01-05 20:33
+comments: true
+sharing: true
+footer: true
+---
+
+Recover phaseless complex signals from measured magnitudes, or how to revamp Fourier optics and invent algorithmic detectors. Emphasis will be put on recent development. (**Update: Feb 22 2016**)
+
+\[<span style="color:red">**S**</span>\] indicates my contribution. 
+
+### Provable Results with Algorithms
+ #. [A Geometric Analysis of Phase Retrieval](http://arxiv.org/abs/1602.06664) (\[<span style="color:red">**S**</span>\], 2016)
+ #. [A Least Squares Approach for Stable Phase Retrieval from Short-Time Fourier Transform Magnitude](http://arxiv.org/abs/1510.00920) (2015)
+ #. [STFT Phase Retrieval: Uniqueness Guarantees and Recovery Algorithms](http://arxiv.org/abs/1508.02820) (2015)
+ #. [The Local Convexity of Solving Quadratic Equations](http://arxiv.org/abs/1506.07868) (2015)
+ #. [Solving Random Quadratic Systems of Equations Is Nearly as Easy as Solving Linear Systems](http://arxiv.org/abs/1505.05114) (2015)  
+ #. [Phase Retrieval via Wirtinger Flow: Theory and Algorithms](http://arxiv.org/abs/1407.1065) (2014)
+ #. [Phase Retrieval using Alternating Minimization](http://arxiv.org/abs/1306.0160) (2013)
+
+### Recovery Limits
+ #. [Reconstruction of Signals from Magnitudes of Redundant Representations: The Complex Case](http://arxiv.org/abs/1304.1839) (2015)
+ #. [Invertibility and Robustness of Phaseless Reconstruction](http://arxiv.org/abs/1308.4718) (2013)
+ #. [Phase Retrieval: Stability and Recovery Guarantees](http://arxiv.org/abs/1211.0872) (2012)
+
+### Experimental Results
+ #. [Sparse Phase Retrieval from Short-Time Fourier Measurements](http://arxiv.org/abs/1411.1380) (2014)
+
+
+### Survey/Introduction Articles 
+ #. [Phase Retrieval: An Overview of Recent Developments](http://arxiv.org/abs/1510.07713) (2015)
+ #. [Phase Retrieval with Application to Optical Imaging](http://arxiv.org/abs/1402.7350) (2014)
+ #. [The phase retrieval problem](http://iopscience.iop.org/article/10.1088/0266-5611/11/1/001) (1995)
+
+
+> **Disclaimer** - This page is meant to serve a hub for references on this problem, and does not represent in any way personal endorsement of papers listed here. So I do not hold any responsibility for quality and technical correctness of each paper listed here. The reader is advised to use this resource with discretion.
+
+> **If you'd like your paper to be listed here**  - Just drop me a few lines via email (which can be found on "Welcome" page). If you don't bother to spend a word, just deposit your paper on arXiv. I get email alert about new animals there every morning,  and will be happy to hunt one for this zoo if it seems **fit**. 
