@@ -1,3 +1,25 @@
+<!--load Ubuntu webfont -->
+
+<link href='http://fonts.googleapis.com/css?family=Ubuntu|Ubuntu+Condensed|Ubuntu+Mono' rel='stylesheet' type='text/css'>
+
+<!-- mathjax config-->
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  jax: ["input/TeX", "output/HTML-CSS"],
+  tex2jax: {
+    inlineMath: [ ['$', '$'], ['\\(','\\)']],
+    displayMath: [ ['$$', '$$'], ['\\[','\\]']],
+    processEscapes: true,
+    processEnvironments: true, 
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+  },
+    TeX: { equationNumbers: { autoNumber: "AMS", useLabelIds: true } }, 
+  messageStyle: "none",
+  "HTML-CSS": { preferredFont: "TeX", availableFonts: ["STIX","TeX"] }
+});
+</script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
 <!-- Load jQuery -->
 <script src="//code.jquery.com/jquery-{{ site.jquery_version }}.min.js"></script>
 
