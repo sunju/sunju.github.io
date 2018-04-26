@@ -9,7 +9,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
-\[<span style="color:red">**New**</span>\] A BibTex file for papers listed on the page can be downloaded [HERE](NCVX.bib)! 
+\[<span style="color:red">**New**</span>\] A BibTex file for papers listed on the page can be downloaded [HERE]({{ "/research/nonconvex/NCVX.bib" | relative_url }})! 
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
