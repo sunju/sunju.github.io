@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Apr 21 2018**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Apr 27 2018**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -170,6 +170,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 ### Dictionary Learning
 (See also **Theory** part in [Dictionary/Deep Learning](/research/dict-learn/))
 
+ +  [Towards Learning Sparsely Used Dictionaries with Arbitrary Supports](https://arxiv.org/abs/1804.08603) (2018)
  +  [A Provable Approach for Double-Sparse Coding](https://arxiv.org/abs/1711.03638) (2017)
  +  [Alternating minimization for dictionary learning with random initialization](https://arxiv.org/abs/1711.03634) (2017)
  +  [Complete Dictionary Recovery over the Sphere](http://arxiv.org/abs/1504.06785) (\[<span style="color:red">**S**</span>\], 2015)  
@@ -295,7 +296,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Of Statistical Nature ...
 
- +  [Sparse Tensor Graphical Model: Non-convex Optimization and Statistical Inference](http://arxiv.org/abs/1609.04522) (2016)
+ +  [Sparse Tensorraphical Model: Non-convex Optimization and Statistical Inference](http://arxiv.org/abs/1609.04522) (2016)
  +  [Statistical and Computational Guarantees for the Baum-Welch Algorithm](http://arxiv.org/abs/1512.08269) (2015)
  +  [Provable Sparse Tensor Decomposition](http://arxiv.org/abs/1502.01425) (2015)
  +  [Statistical consistency and asymptotic normality for high-dimensional robust M-estimators](http://arxiv.org/abs/1501.00312) (2015)
@@ -303,10 +304,13 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [High Dimensional Expectation-Maximization Algorithm: Statistical Optimization and Asymptotic Normality](http://arxiv.org/abs/1412.8729) (2014)
  +  [Statistical guarantees for the EM algorithm: From population to sample-based analysis](http://arxiv.org/abs/1408.2156) (2014)
  +  [Nonconvex Statistical Optimization: Minimax-Optimal Sparse PCA in Polynomial Time](http://arxiv.org/abs/1408.5352) (2014)
- +  [Regularized M-estimators with nonconvexity: Statistical and algorithmic theory for local optima](http://arxiv.org/abs/1305.2436) (2013)
+ +  [Regularized M-estimators with nonconvexity: Statistical and algorithmic theory for local ptima](http://arxiv.org/abs/1305.2436) (2013)
  +  [High-dimensional regression with noisy and missing data: Provable guarantees with nonconvexity](http://arxiv.org/abs/1109.3714) (2011)
 
 ## Relevant Optimization Methods/Theory & Miscs
+ +  [Stochastic subgradient method converges on tame functions](https://arxiv.org/abs/1804.07795) (2018)
+ +  [An Envelope for Davis-Yin Splitting and Strict Saddle Point Avoidance](https://arxiv.org/abs/1804.08739) (2018)
+ +  [Convergence guarantees for a class of non-convex and non-smooth optimization problems](https://arxiv.org/abs/1804.09629) (2018)
  +  [On the spherical quasi-convexity of quadratic functions](https://arxiv.org/abs/1804.02907) (2018)
  +  [Operator Scaling via Geodesically Convex Optimization, Invariant Theory and Polynomial Identity Testing](https://arxiv.org/abs/1804.01076) (2018)
  +  [Lower error bounds for the stochastic gradient descent optimization algorithm: Sharp convergence rates for slowly and fast decaying learning rates](https://arxiv.org/abs/1803.08600) (2018)
