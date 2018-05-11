@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: May 03 2018**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: May 11 2018**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -239,6 +239,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [On some provably correct cases of variational inference for topic models](http://arxiv.org/abs/1503.06567) (2015)
 
 ### Empirical Risk Minimization & Shallow Networks
+ +  [Polynomial Convergence of Gradient Descent for Training One-Hidden-Layer Neural Networks](https://arxiv.org/abs/1805.02677) (2018)
  +  [A Mean Field View of the Landscape of Two-Layers Neural Networks](https://arxiv.org/abs/1804.06561) (2018)
  +  [Representing smooth functions as compositions of near-identity functions with implications for deep network optimization](https://arxiv.org/abs/1804.05012) (2018)
  +  [SUNLayer: Stable denoising with generative networks](https://arxiv.org/abs/1803.09319) (2018)
