@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: May 17 2018**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: May 24 2018**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -111,6 +111,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Tensor Recovery/Decomposition & Hidden Variable Models
 
+ +  [A theory on the absence of spurious optimality](https://arxiv.org/abs/1805.08204) (2018)
  +  [Sparse and Low-rank Tensor Estimation via Cubic Sketchings](https://arxiv.org/abs/1801.09326) (2018)
  +  [The landscape of the spiked tensor model](https://arxiv.org/abs/1711.05424) (2017)
  +  [Statistically Optimal and Computationally Efficient Low Rank Tensor Completion from Noisy Entries](https://arxiv.org/abs/1711.04934) (2017)
@@ -181,7 +182,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [Learning Sparsely Used Overcomplete Dictionaries via Alternating Minimization](http://arxiv.org/abs/1310.7991) (2013)
 
 ### Deep Learning
-
+ +  [Adding One Neuron Can Eliminate All Bad Local Minima](https://arxiv.org/abs/1805.08671) (2018)
  +  [End-to-end Learning of a Convolutional Neural Network via Deep Tensor Decomposition](https://arxiv.org/abs/1805.06523) (2018)
  +  [Understanding the Loss Surface of Neural Networks for Binary Classification](https://arxiv.org/abs/1803.00909) (2018)
  +  [Gradient descent with identity initialization efficiently learns positive definite linear transformations by deep residual networks](https://arxiv.org/abs/1802.06093) (2018)
@@ -230,6 +231,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [The Projected Power Method: An Efficient Algorithm for Joint Alignment from Pairwise Differences](https://arxiv.org/abs/1609.05820) (2016)
 
 ### Numerical Linear Algebra
+ +  [PCA by Optimisation of Symmetric Functions has no Spurious Local Optima](https://arxiv.org/abs/1805.07459) (2018)
  +  [PCA by Determinant Optimization has no Spurious Local Optima](https://arxiv.org/abs/1803.04049) (2018)
  +  [Orbital minimization method with $\ell_1$ regularization](https://arxiv.org/abs/1605.01036) (2017)
  +  [The Global Optimization Geometry of Nonsymmetric Matrix Factorization and Sensing](https://arxiv.org/abs/1703.01256) (2017)
@@ -237,9 +239,12 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [Computing Matrix Squareroot via Non Convex Local Search](http://arxiv.org/abs/1507.05854) (2015)
 
 ### Bayesian Inference
- +  [On some provably correct cases of variational inference for topic models](http://arxiv.org/abs/1503.06567) (2015)
+ +  [On some provably correct cases of variational inference for topic models](http://arxiv.org/abs/1503.06567) (2015) 
 
 ### Empirical Risk Minimization & Shallow Networks
+
+ +  [Deep Denoising: Rate-Optimal Recovery of Structured Signals with a Deep Prior](https://arxiv.org/abs/1805.08855) (2018)
+ +  [Improved Learning of One-hidden-layer Convolutional Neural Networks with Overlaps](https://arxiv.org/abs/1805.07798) (2018)
  +  [The Global Optimization Geometry of Shallow Linear Neural Networks](https://arxiv.org/abs/1805.04938) (2018)
  +  [Polynomial Convergence of Gradient Descent for Training One-Hidden-Layer Neural Networks](https://arxiv.org/abs/1805.02677) (2018)
  +  [A Mean Field View of the Landscape of Two-Layers Neural Networks](https://arxiv.org/abs/1804.06561) (2018)
@@ -311,6 +316,10 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [High-dimensional regression with noisy and missing data: Provable guarantees with nonconvexity](http://arxiv.org/abs/1109.3714) (2011)
 
 ## Relevant Optimization Methods/Theory & Miscs
+ +  [On the Connection Between Sequential Quadratic Programming and Riemannian Gradient Methods](https://arxiv.org/abs/1805.08756) (2018)
+ +  [Cutting plane methods can be extended into nonconvex optimization](https://arxiv.org/abs/1805.08370) (2018)
+ +  [Stochastic Gradient Descent for Stochastic Doubly-Nonconvex Composite Optimization](https://arxiv.org/abs/1805.07960) (2018)
+ +  [Adaptive Stochastic Gradient Langevin Dynamics: Taming Convergence and Saddle Point Escape Time](https://arxiv.org/abs/1805.09416) (2018)
  +  [A geometric integration approach to smooth optimisation: Foundations of the discrete gradient method](https://arxiv.org/abs/1805.06444) (2018)
  +  [A Cubic Regularized Newton's Method over Riemannian Manifolds](https://arxiv.org/abs/1805.05565) (2018)
  +  [Accelerated Stochastic Algorithms for Nonconvex Finite-sum and Multi-block Optimization](https://arxiv.org/abs/1805.05411) (2018)
