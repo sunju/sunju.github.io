@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: May 25 2018**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: June 01 2018**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -64,6 +64,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 ### Matrix Completion/Sensing
 (See also [low-rank matrix/tensor recovery](/research/low-rank/) )   
 
+ +  [How Much Restricted Isometry is Needed In Nonconvex Matrix Recovery?](https://arxiv.org/abs/1805.10251) (2018)
  +  [The Leave-one-out Approach for Matrix Completion: Primal and Dual Analysis](https://arxiv.org/abs/1803.07554) (2018)
  +  [Nonconvex Matrix Factorization from Rank-One Measurements](https://arxiv.org/abs/1802.06286) (2018)
  +  [Algorithmic Regularization in Over-parameterized Matrix Recovery](https://arxiv.org/abs/1712.09203) (2017)
@@ -111,6 +112,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Tensor Recovery/Decomposition & Hidden Variable Models
 
+ +  [Guaranteed Simultaneous Asymmetric Tensor Decomposition via Orthogonalized Alternating Least Squares](https://arxiv.org/abs/1805.10348) (2018)
  +  [A theory on the absence of spurious optimality](https://arxiv.org/abs/1805.08204) (2018)
  +  [Sparse and Low-rank Tensor Estimation via Cubic Sketchings](https://arxiv.org/abs/1801.09326) (2018)
  +  [The landscape of the spiked tensor model](https://arxiv.org/abs/1711.05424) (2017)
@@ -206,6 +208,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [Alternating Minimization for Mixed Linear Regression](http://arxiv.org/abs/1310.3745) (2013)
 
 ### Blind Deconvolution/Calibration
+ +  [Global Geometry of Multichannel Sparse Blind Deconvolution on the Sphere](https://arxiv.org/abs/1805.10437) (2018)
  +  [Blind Gain and Phase Calibration via Sparse Spectral Methods](https://arxiv.org/abs/1712.00111) (2017)
  +  [Blind Deconvolution by a Steepest Descent Algorithm on a Quotient Manifold](https://arxiv.org/abs/1710.03309) (2017)
  +  [Regularized Gradient Descent: A Nonconvex Recipe for Fast Joint Blind Deconvolution and Demixing](https://arxiv.org/abs/1703.08642) (2017)
