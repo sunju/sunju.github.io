@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: June 01 2018**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: June 07 2018**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -64,6 +64,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 ### Matrix Completion/Sensing
 (See also [low-rank matrix/tensor recovery](/research/low-rank/) )   
 
+ +  [Run Procrustes, Run! On the convergence of accelerated Procrustes Flow](https://arxiv.org/abs/1806.00534) (2018)
+ +  [Solving Systems of Quadratic Equations via Exponential-type Gradient Descent Algorithm](https://arxiv.org/abs/1806.00904) (2018)
  +  [How Much Restricted Isometry is Needed In Nonconvex Matrix Recovery?](https://arxiv.org/abs/1805.10251) (2018)
  +  [The Leave-one-out Approach for Matrix Completion: Primal and Dual Analysis](https://arxiv.org/abs/1803.07554) (2018)
  +  [Nonconvex Matrix Factorization from Rank-One Measurements](https://arxiv.org/abs/1802.06286) (2018)
@@ -208,6 +210,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [Alternating Minimization for Mixed Linear Regression](http://arxiv.org/abs/1310.3745) (2013)
 
 ### Blind Deconvolution/Calibration
+ +  [Structured Local Optima in Sparse Blind Deconvolution](https://arxiv.org/abs/1806.00338) (2018)
  +  [Global Geometry of Multichannel Sparse Blind Deconvolution on the Sphere](https://arxiv.org/abs/1805.10437) (2018)
  +  [Blind Gain and Phase Calibration via Sparse Spectral Methods](https://arxiv.org/abs/1712.00111) (2017)
  +  [Blind Deconvolution by a Steepest Descent Algorithm on a Quotient Manifold](https://arxiv.org/abs/1710.03309) (2017)
@@ -319,6 +322,11 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [High-dimensional regression with noisy and missing data: Provable guarantees with nonconvexity](http://arxiv.org/abs/1109.3714) (2011)
 
 ## Relevant Optimization Methods/Theory & Miscs
+ +  [AdaGrad stepsizes: Sharp convergence over nonconvex landscapes, from any initialization](https://arxiv.org/abs/1806.01811) (2018)
+ +  [Algorithmic Regularization in Learning Deep Homogeneous Models: Layers are Automatically Balanced](https://arxiv.org/abs/1806.00900) (2018)
+ +  [Gradient Method for Optimization on Riemannian Manifolds with Lower Bounded Curvature](https://arxiv.org/abs/1806.02694) (2018)
+ +  [Towards Riemannian Accelerated Gradient Methods](https://arxiv.org/abs/1806.02812) (2018)
+ +  [Adaptive regularization with cubics on manifolds with a first-order analysis](https://arxiv.org/abs/1806.00065) (2018)
  +  [Minimizing Nonconvex Population Risk from Rough Empirical Risk](https://arxiv.org/abs/1803.09357) (2018)
  +  [On the Connection Between Sequential Quadratic Programming and Riemannian Gradient Methods](https://arxiv.org/abs/1805.08756) (2018)
  +  [Cutting plane methods can be extended into nonconvex optimization](https://arxiv.org/abs/1805.08370) (2018)

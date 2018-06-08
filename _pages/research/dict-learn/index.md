@@ -3,7 +3,7 @@ layout: page
 permalink: /research/dict-learn/
 title: Dictionary Learning, Blind Deconvolution, Deep Learning
 ---
-Learning dictionaries/atomic sets that induce structured representation on data. Applications are still explosively emerging, especially of deep learning, where one allows multi-level nonlinear cascading of representation. Hence formulations to the problems are fairly diverse. We will roughly organize the references according to the problem they try to solve, concentrated on recent literature of theoretical nature.  (**Update: Apr 27 2018**)
+Learning dictionaries/atomic sets that induce structured representation on data. Applications are still explosively emerging, especially of deep learning, where one allows multi-level nonlinear cascading of representation. Hence formulations to the problems are fairly diverse. We will roughly organize the references according to the problem they try to solve, concentrated on recent literature of theoretical nature.  (**Update: June 07 2018**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution. 
 
@@ -42,6 +42,7 @@ This problem can be reduced to a sequence of problems, each taking the form of f
  +  [Dictionary Identification - Sparse Matrix-Factorisation via $\ell^1$-Minimisation](http://arxiv.org/abs/0904.4774) (2009, $\mathbf{A}$ square)
   
 ### Single-Kernel Convolutional (aka Blind Deconvolution): $\mathbf{y} = \mathbf{a} \otimes \mathbf{x}$ 
+ +  [Structured Local Optima in Sparse Blind Deconvolution](https://arxiv.org/abs/1806.00338) (2018)
  +  [On the Global Geometry of Sphere-Constrained Sparse Blind Deconvolution](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_On_the_Global_CVPR_2017_paper.pdf) (2017)
  +  [Blind Deconvolution by a Steepest Descent Algorithm on a Quotient Manifold](https://arxiv.org/abs/1710.03309) (2017)
  +  [From Blind deconvolution to Blind Super-Resolution through convex programming](https://arxiv.org/abs/1709.09279) (2017)
