@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: June 07 2018**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: June 14 2018**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -135,6 +135,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 
 ### Phase Retrieval
+ +  [Linear Spectral Estimators and an Application to Phase Retrieval](https://arxiv.org/abs/1806.03547) (2018)
+ +  [Approximate Message Passing for Amplitude Based Optimization](https://arxiv.org/abs/1806.03276) (2018)
  +  [Gradient Descent with Random Initialization: Fast Global Convergence for Nonconvex Phase Retrieval](https://arxiv.org/abs/1803.07726) (2018)
  +  [Optimization-based AMP for Phase Retrieval: The Impact of Initialization and $\ell_2$-regularization](https://arxiv.org/abs/1801.01170) (2018)
  +  [Compressive Phase Retrieval of Structured Signal](https://arxiv.org/abs/1712.03278) (2017)
@@ -237,6 +239,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [The Projected Power Method: An Efficient Algorithm for Joint Alignment from Pairwise Differences](https://arxiv.org/abs/1609.05820) (2016)
 
 ### Numerical Linear Algebra
+ +  [On Landscape of Lagrangian Functions and Stochastic Search for Constrained Nonconvex Optimization](https://arxiv.org/abs/1806.05151) (2018)
  +  [PCA by Optimisation of Symmetric Functions has no Spurious Local Optima](https://arxiv.org/abs/1805.07459) (2018)
  +  [PCA by Determinant Optimization has no Spurious Local Optima](https://arxiv.org/abs/1803.04049) (2018)
  +  [Orbital minimization method with $\ell_1$ regularization](https://arxiv.org/abs/1605.01036) (2017)
@@ -286,6 +289,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 
 ### Burer-Monteiro Style Decomposition Algorithms
+ +  [Smoothed analysis of the low-rank approach for smooth semidefinite programs](https://arxiv.org/abs/1806.03763) (2018)
  +  [Deterministic guarantees for Burer-Monteiro factorizations of smooth semidefinite programs](https://arxiv.org/abs/1804.02008) (2018)
  +  [Smoothed analysis for low-rank solutions to semidefinite programs in quadratic penalty form](https://arxiv.org/abs/1803.00186) (2018)
  +  [Solving SDPs for synchronization and MaxCut problems via the Grothendieck inequality](https://arxiv.org/abs/1703.08729) (2017)
@@ -322,6 +326,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [High-dimensional regression with noisy and missing data: Provable guarantees with nonconvexity](http://arxiv.org/abs/1109.3714) (2011)
 
 ## Relevant Optimization Methods/Theory & Miscs
+ +  [On the Convergence Rate of Stochastic Mirror Descent for Nonsmooth Nonconvex Optimization](https://arxiv.org/abs/1806.04781) (2018)
  +  [AdaGrad stepsizes: Sharp convergence over nonconvex landscapes, from any initialization](https://arxiv.org/abs/1806.01811) (2018)
  +  [Algorithmic Regularization in Learning Deep Homogeneous Models: Layers are Automatically Balanced](https://arxiv.org/abs/1806.00900) (2018)
  +  [Gradient Method for Optimization on Riemannian Manifolds with Lower Bounded Curvature](https://arxiv.org/abs/1806.02694) (2018)
