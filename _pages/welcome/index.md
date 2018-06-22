@@ -29,8 +29,9 @@ I'm Ju Sun, a [Math+X](https://www.simonsfoundation.org/funding/funding-opportun
 
 #### Upcoming
 - [56th Annual Allerton Conference](http://allerton.csl.illinois.edu/) (Oct 02 -- 05, 2018)
-- [OSA Imaging and Applied Optics Congress](https://www.osa.org/en-us/meetings/osa_meetings/osa_imaging_and_applied_optics_congress/) (Jun 25 -- 28, 2018)
 - [International Symposium on Mathematical Programming 2018](https://ismp2018.sciencesconf.org/) at Bordeaux, France (Jul 01 -- 06, 2018)
+- [OSA Imaging and Applied Optics Congress](https://www.osa.org/en-us/meetings/osa_meetings/osa_imaging_and_applied_optics_congress/) (Jun 25 -- 28, 2018)
+
 
 #### Past 
 - [Applied Math And Analysis Seminar, Duke University](https://math.duke.edu/events/79975-when-are-nonconvex-optimization-problems-not-scary) (Feb 05 - 06, 2018)

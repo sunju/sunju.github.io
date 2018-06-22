@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: June 14 2018**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: June 21 2018**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -252,6 +252,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ +  [Learning ReLU Networks via Alternating Minimization](https://arxiv.org/abs/1806.07863) (2018)
+ +  [Learning One-hidden-layer ReLU Networks via Gradient Descent](https://arxiv.org/abs/1806.07808) (2018)
  +  [Deep Denoising: Rate-Optimal Recovery of Structured Signals with a Deep Prior](https://arxiv.org/abs/1805.08855) (2018)
  +  [Improved Learning of One-hidden-layer Convolutional Neural Networks with Overlaps](https://arxiv.org/abs/1805.07798) (2018)
  +  [The Global Optimization Geometry of Shallow Linear Neural Networks](https://arxiv.org/abs/1805.04938) (2018)
@@ -326,6 +328,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [High-dimensional regression with noisy and missing data: Provable guarantees with nonconvexity](http://arxiv.org/abs/1109.3714) (2011)
 
 ## Relevant Optimization Methods/Theory & Miscs
+
+ +  [Geodesic Convex Optimization: Differentiation on Manifolds, Geodesics, and Convexity](https://arxiv.org/abs/1806.06373) (2018)
  +  [On the Convergence Rate of Stochastic Mirror Descent for Nonsmooth Nonconvex Optimization](https://arxiv.org/abs/1806.04781) (2018)
  +  [AdaGrad stepsizes: Sharp convergence over nonconvex landscapes, from any initialization](https://arxiv.org/abs/1806.01811) (2018)
  +  [Algorithmic Regularization in Learning Deep Homogeneous Models: Layers are Automatically Balanced](https://arxiv.org/abs/1806.00900) (2018)
