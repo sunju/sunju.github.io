@@ -38,10 +38,10 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Conferences and Workshops
 
-> **1D Phase Retrieval and Spectral Factorization**. \[[draft](/docs/1DPR_18.pdf)\]  \[[paper](https://doi.org/10.1364/LACSEA.2018.JTh1A.4)\]  
+> **1D Phase Retrieval and Spectral Factorization**. \[[draft](/docs/1DPR_18.pdf)\]  \[[paper](https://doi.org/10.1364/LACSEA.2018.JTh1A.4)\] \[[slides](/docs/OSA18_1DPR.pdf)\] 
 > &nbsp; &nbsp; David A. Barmherzig, **Ju Sun**. Imaging and Applied Optics 2018.
 
-> **On Block-Reference Coherent Diffraction Imaging**. \[[draft](/docs/BR_CDI18.pdf)\]  \[[paper](https://doi.org/10.1364/COSI.2018.CTH1B.1)\]  
+> **On Block-Reference Coherent Diffraction Imaging**. \[[draft](/docs/BR_CDI18.pdf)\]  \[[paper](https://doi.org/10.1364/COSI.2018.CTH1B.1)\] \[[slides](/docs/OSA18_BRCDI.pdf)\] 
 > &nbsp; &nbsp; David A. Barmherzig, **Ju Sun**, T.J. Lane, and Po-Nan Li. Imaging and Applied Optics 2018.
 
 > **A Local Analysis of Block Coordinate Descent for Gaussian Phase Retrieval**. \[[arXiv](http://arxiv.org/abs/1712.02083)\]\[[Codes](/files/BCD.zip)\]  
