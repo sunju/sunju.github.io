@@ -3,7 +3,11 @@ layout: page
 permalink: /research/subspace-search/
 title: Subspace Search
 ---
-Efficient query of high-dimensional structures with points/high-dimensional structures. (**Update: Nov 30 2015**)
+Efficient query of high-dimensional structures with points/high-dimensional structures. (**Update: Jul 05 2018**)
+
+### 2018
+  +  [Approximate Nearest Neighbors in Limited Space](https://arxiv.org/abs/1807.00112) (2018)
+  +  [Approximate Nearest Neighbor Search in High Dimensions](https://arxiv.org/abs/1806.09823) (2018)
 
 ### 2015
   +  [Proximity in the Age of Distraction: Robust Approximate Nearest Neighbor Search](http://arxiv.org/abs/1511.07357)
