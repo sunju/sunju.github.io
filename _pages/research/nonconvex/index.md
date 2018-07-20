@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jul 12 2018**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jul 20 2018**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -329,6 +329,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods/Theory & Miscs
 
+ +  [A linear-time algorithm for generalized trust region problems](https://arxiv.org/abs/1807.07563) (2018)
+ +  [A geometric integration approach to nonsmooth, nonconvex optimisation](https://arxiv.org/abs/1807.07554) (2018)
  +  [Convergence Rate of Block-Coordinate Maximization Burer-Monteiro Method for Solving Large SDPs](https://arxiv.org/abs/1807.04428) (2018)
  +  [Geodesic Convex Optimization: Differentiation on Manifolds, Geodesics, and Convexity](https://arxiv.org/abs/1806.06373) (2018)
  +  [On the Convergence Rate of Stochastic Mirror Descent for Nonsmooth Nonconvex Optimization](https://arxiv.org/abs/1806.04781) (2018)

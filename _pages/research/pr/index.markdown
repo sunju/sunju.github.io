@@ -4,7 +4,7 @@ permalink: /research/pr/
 title: Phase Retrieval, Spectral Factorization, and Applications
 ---
 
-Recover phaseless complex signals from measured magnitudes, or recover complex signals from the auto-correlation sequences. While for 1D signals the problem is solved both in theory and in practice, that for 2D or higher-D's are still largely open. Emphasis will be put on recent developments. (**Update: Jul 12 2018**)
+Recover phaseless complex signals from measured magnitudes, or recover complex signals from the auto-correlation sequences. While for 1D signals the problem is solved both in theory and in practice, that for 2D or higher-D's are still largely open. Emphasis will be put on recent developments. (**Update: Jul 20 2018**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution. 
 
@@ -92,6 +92,7 @@ Recover phaseless complex signals from measured magnitudes, or recover complex s
 
 ### Experimental Results  
  
+ +  [Scalable Incremental Nonconvex Optimization Approach for Phase Retrieval from Minimal Measurements](https://arxiv.org/abs/1807.05499) (2018)
  +  [Phase Retrieval Under a Generative Prior](https://arxiv.org/abs/1807.04261) (2018)
  +  [Generalized Proximal Smoothing for Phase Retrieval](https://arxiv.org/abs/1803.05610) (2018)
  +  [PhasePack User Guide](https://arxiv.org/abs/1711.09777) (2017)
