@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jul 20 2018**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Aug 03 2018**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -114,6 +114,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Tensor Recovery/Decomposition & Hidden Variable Models
 
+ +  [Algorithmic thresholds for tensor PCA](https://arxiv.org/abs/1808.00921) (2018)
  +  [Guaranteed Simultaneous Asymmetric Tensor Decomposition via Orthogonalized Alternating Least Squares](https://arxiv.org/abs/1805.10348) (2018)
  +  [A theory on the absence of spurious optimality](https://arxiv.org/abs/1805.08204) (2018)
  +  [Sparse and Low-rank Tensor Estimation via Cubic Sketchings](https://arxiv.org/abs/1801.09326) (2018)
@@ -467,6 +468,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [Accelerated Gradient Methods for Nonconvex Nonlinear and Stochastic Programming](https://arxiv.org/abs/1310.3787) (2013)
  +  [Proximal alternating linearized minimization for nonconvex and nonsmooth problems](http://dx.doi.org/10.1007/s10107-013-0701-9) (2013)
  +  [Convergence of descent methods for semi-algebraic and tame problems: proximal algorithms, forward–backward splitting, and regularized Gauss–Seidel methods](http://dx.doi.org/10.1007/s10107-011-0484-9) (2013)
+ +  [Second-order negative-curvature methods for box-constrained and general constrained optimization](https://doi.org/10.1007/s10589-009-9240-y) (2010)
  +  [Proximal alternating minimization and projection methods for nonconvex problems: An approach based on the Kurdyka-Łojasiewicz inequality](http://arxiv.org/abs/0801.1780) (2008)
  +  [Cubic regularization of Newton method and its global performance](https://dx.doi.org/10.1007/s10107-006-0706-8) (2006)
  +  [Computing the Local-Nonglobal Minimizer of a Large Scale Trust-Region Subproblem](http://dx.doi.org/10.1137/030602290) (2005)
