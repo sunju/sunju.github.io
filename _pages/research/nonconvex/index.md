@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Aug 11 2018**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Aug 17 2018**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -253,6 +253,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ +  [Learning ReLU Networks on Linearly Separable Data: Algorithm, Optimality, and Generalization](https://arxiv.org/abs/1808.04685) (2018)
  +  [Learning Overparameterized Neural Networks via Stochastic Gradient Descent on Structured Data](https://arxiv.org/abs/1808.01204) (2018)
  +  [Learning ReLU Networks via Alternating Minimization](https://arxiv.org/abs/1806.07863) (2018)
  +  [Learning One-hidden-layer ReLU Networks via Gradient Descent](https://arxiv.org/abs/1806.07808) (2018)
@@ -331,6 +332,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods/Theory & Miscs
 
+ +  [Discrete gradient descent differs qualitatively from gradient flow](https://arxiv.org/abs/1808.04839) (2018)
  +  [Lower complexity bounds of first-order methods for convex-concave bilinear saddle-point problems](https://arxiv.org/abs/1808.02901) (2018)
  +  [On the Convergence of A Class of Adam-Type Algorithms for Non-Convex Optimization](https://arxiv.org/abs/1808.02941) (2018)
  +  [A linear-time algorithm for generalized trust region problems](https://arxiv.org/abs/1807.07563) (2018)
