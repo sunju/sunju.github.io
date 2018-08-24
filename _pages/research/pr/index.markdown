@@ -4,7 +4,7 @@ permalink: /research/pr/
 title: Phase Retrieval, Spectral Factorization, and Applications
 ---
 
-Recover phaseless complex signals from measured magnitudes, or recover complex signals from the auto-correlation sequences. While for 1D signals the problem is solved both in theory and in practice, that for 2D or higher-D's are still largely open. Emphasis will be put on recent developments. (**Update: Jul 20 2018**)
+Recover phaseless complex signals from measured magnitudes, or recover complex signals from the auto-correlation sequences. While for 1D signals the problem is solved both in theory and in practice, that for 2D or higher-D's are still largely open. Emphasis will be put on recent developments. (**Update: Aug 23 2018**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution. 
 
@@ -72,6 +72,7 @@ Recover phaseless complex signals from measured magnitudes, or recover complex s
  +  [Phase retrieval for characteristic functions of convex bodies and reconstruction from covariograms](https://arxiv.org/abs/1003.4486) (2010)
 
 ### Recovery Limits
+ +  [Blind Phaseless Short-Time Fourier Transform Recovery](https://arxiv.org/abs/1808.07414) (2018)
  +  [Coded Aperture Ptychography: Uniqueness and Reconstruction](https://arxiv.org/abs/1709.01984) (2017)
  +  [Fundamental Limits of Weak Recovery with Applications to Phase Retrieval](https://arxiv.org/abs/1708.05932) (2017)
  +  [Fundamental Limits of PhaseMax for Phase Retrieval: A Replica Analysis](https://arxiv.org/abs/1708.03355) (2017)
@@ -92,6 +93,9 @@ Recover phaseless complex signals from measured magnitudes, or recover complex s
 
 ### Experimental Results  
  
+ +  [FASPR: A fast sparse phase retrieval algorithm via the epigraph concept](https://doi.org/10.1016/j.dsp.2018.05.011) (2018)
+ +  [Constrained phase retrieval: when alternating projection meets regularization](https://doi.org/10.1364/JOSAB.35.001271) (2018)
+ +  [Blind Ptychographic Phase Retrieval via Convergent Alternating Direction Method of Multipliers](https://arxiv.org/abs/1808.05802) (2018)
  +  [Scalable Incremental Nonconvex Optimization Approach for Phase Retrieval from Minimal Measurements](https://arxiv.org/abs/1807.05499) (2018)
  +  [Phase Retrieval Under a Generative Prior](https://arxiv.org/abs/1807.04261) (2018)
  +  [Generalized Proximal Smoothing for Phase Retrieval](https://arxiv.org/abs/1803.05610) (2018)
