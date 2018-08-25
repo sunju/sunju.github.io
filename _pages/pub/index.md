@@ -10,8 +10,8 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Reports 
 
-> **Beyond the Fourier Transform: A Machine Learning Approach to Microscopy Analysis**.  
-> &nbsp; &nbsp; Sky Cheung, Yenson Lau, Zhengyu Chen, **Ju Sun**, Yuqian Zhang, John Wright, and Abhay Pasupathy. Submitted to Nature Communications, 2017. 
+> **Dictionary Learning in Fourier Transform Scanning Tunneling Spectroscopy**.  \[[arXiv](https://arxiv.org/abs/1807.10752)\]  
+> &nbsp; &nbsp; Sky Cheung, John Shin, Yenson Lau, Zhengyu Chen, **Ju Sun**, Yuqian Zhang, John Wright, and Abhay Pasupathy. Submitted to Nature Communications, 2018. 
 
 ### Journals 
 
