@@ -16,7 +16,7 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 ### Journals 
 
 > **High-Speed Channel Modeling with Machine Learning Methods for Signal Integrity Analysis**.  \[[Draft](/docs/lu2017highspeed.pdf)\]\[[Paper](https://doi.org/10.1109/TEMC.2017.2784833)\]  
-> &nbsp; &nbsp; Tianjian Lu, **Ju Sun**, Ken Wu, Zhiping Yang. To appear in IEEE Trans. Electromagnetic Compatibility. 
+> &nbsp; &nbsp; Tianjian Lu, **Ju Sun**, Ken Wu, Zhiping Yang. IEEE Trans. Electromagnetic Compatibility, 60(6):1957--1964, 2018. 
 
 > **A Geometrical Analysis of Phase Retrieval**. \[[extended abstract](/docs/PR_G4_16.pdf)\]\[[arXiv](http://arxiv.org/abs/1602.06664)\] \[[Paper](https://doi.org/10.1007/s10208-017-9365-9)\]  
 > &nbsp; &nbsp; **Ju Sun**, Qing Qu, John Wright. To appear in Foundations of Computational Mathematics.
@@ -25,7 +25,7 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > &nbsp; &nbsp; **Ju Sun**, Qing Qu, John Wright. IEEE Trans. Information Theory, 63(2):  853 - 884, 2017. 
 
 > **Complete Dictionary Recovery over the Sphere II: Recovery by Riemannian Trust-region Method**. \[[summary](/docs/DL_LSE_15.pdf)\]\[[Arxiv](http://arxiv.org/abs/1511.04777)\] \[[Paper](http://dx.doi.org/10.1109/TIT.2016.2632149)\] \[[Codes](https://github.com/sunju/dl_focm)\]\[[Arxiv-Full Report](http://arxiv.org/abs/1504.06785)\]  
-> &nbsp; &nbsp; **Ju Sun**, Qing Qu, John Wright. IEEE Trans. Information Theory, 63(2):  885 - 914, 2017. 
+> &nbsp; &nbsp; **Ju Sun**, Qing Qu, John Wright. IEEE Trans. Information Theory, 63(2):  885 -- 914, 2017. 
 
 > **Finding a Sparse Vector in a Subspace: Linear Sparsity Using Alternating Direction**. \[[arXiv](http://arxiv.org/abs/1412.4659)\] \[[Paper](http://dx.doi.org/10.1109/TIT.2016.2601599)\] \[[Codes](https://github.com/sunju/psv )\]  
 > &nbsp; &nbsp; Qing Qu, **Ju Sun**, John Wright. IEEE Trans. Information Theory, 62(10): 5855 - 5880, 2016. 
