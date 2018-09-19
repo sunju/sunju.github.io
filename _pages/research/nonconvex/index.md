@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Sep 11 2018**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Sep 19 2018**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -136,6 +136,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 
 ### Phase Retrieval
+ +  [Solving systems of phaseless equations via Riemannian optimization with optimal sampling complexity](https://arxiv.org/abs/1809.02773) (2018)
  +  [Linear Spectral Estimators and an Application to Phase Retrieval](https://arxiv.org/abs/1806.03547) (2018)
  +  [Approximate Message Passing for Amplitude Based Optimization](https://arxiv.org/abs/1806.03276) (2018)
  +  [Gradient Descent with Random Initialization: Fast Global Convergence for Nonconvex Phase Retrieval](https://arxiv.org/abs/1803.07726) (2018)
@@ -213,6 +214,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [Alternating Minimization for Mixed Linear Regression](http://arxiv.org/abs/1310.3745) (2013)
 
 ### Blind Deconvolution/Calibration
+
+ +  [Nonconvex Demixing From Bilinear Measurements](https://arxiv.org/abs/1809.06796) (2018)
  +  [Structured Local Optima in Sparse Blind Deconvolution](https://arxiv.org/abs/1806.00338) (2018)
  +  [Global Geometry of Multichannel Sparse Blind Deconvolution on the Sphere](https://arxiv.org/abs/1805.10437) (2018)
  +  [Blind Gain and Phase Calibration via Sparse Spectral Methods](https://arxiv.org/abs/1712.00111) (2017)
@@ -253,6 +256,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ +  [Stochastic Gradient Descent Learns State Equations with Nonlinear Activations](https://arxiv.org/abs/1809.03019) (2018)
  +  [Learning ReLU Networks on Linearly Separable Data: Algorithm, Optimality, and Generalization](https://arxiv.org/abs/1808.04685) (2018)
  +  [Learning Overparameterized Neural Networks via Stochastic Gradient Descent on Structured Data](https://arxiv.org/abs/1808.01204) (2018)
  +  [Learning ReLU Networks via Alternating Minimization](https://arxiv.org/abs/1806.07863) (2018)
@@ -332,6 +336,14 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods/Theory & Miscs
 
+ +  [On the Stability and Convergence of Stochastic Gradient Descent with Momentum](https://arxiv.org/abs/1809.04564) (2018)
+ +  [Zeroth-order (Non)-Convex Stochastic Optimization via Conditional Gradient and Gradient Updates](https://arxiv.org/abs/1809.06474) (2018)
+ +  [Optimization with Non-Differentiable Constraints with Applications to Fairness, Recall, Churn, and Other Goals](https://arxiv.org/abs/1809.04198) (2018)
+ +  [Escaping Saddle Points in Constrained Optimization](https://arxiv.org/abs/1809.02162) (2018)
+ +  [Primal-dual accelerated gradient descent with line search for convex and nonconvex optimization problems](https://arxiv.org/abs/1809.05895) (2018)
+ +  [Secondary gradient descent in higher codimension](https://arxiv.org/abs/1809.05527) (2018)
+ +  [On Markov Chain Gradient Descent](https://arxiv.org/abs/1809.04216) (2018)
+ +  [Global Convergence of Stochastic Gradient Hamiltonian Monte Carlo for Non-Convex Stochastic Optimization: Non-Asymptotic Performance Bounds and Momentum-Based Acceleration](https://arxiv.org/abs/1809.04618) (2018)
  +  [Structured Quasi-Newton Methods for Optimization with Orthogonality Constraints](https://arxiv.org/abs/1809.00452) (2018)
  +  [On the Convergence of Adaptive Gradient Methods for Nonconvex Optimization](https://arxiv.org/abs/1808.05671) (2018)
  +  [Theoretical study of an adaptive cubic regularization method with dynamic inexact Hessian information](https://arxiv.org/abs/1808.06239) (2018)
