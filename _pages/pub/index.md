@@ -19,7 +19,7 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > &nbsp; &nbsp; Tianjian Lu, **Ju Sun**, Ken Wu, Zhiping Yang. IEEE Trans. Electromagnetic Compatibility, 60(6):1957--1964, 2018. 
 
 > **A Geometrical Analysis of Phase Retrieval**. \[[extended abstract](/docs/PR_G4_16.pdf)\]\[[arXiv](http://arxiv.org/abs/1602.06664)\] \[[Paper](https://doi.org/10.1007/s10208-017-9365-9)\]  
-> &nbsp; &nbsp; **Ju Sun**, Qing Qu, John Wright. To appear in Foundations of Computational Mathematics.
+> &nbsp; &nbsp; **Ju Sun**, Qing Qu, John Wright. Foundations of Computational Mathematics, 18(5):1131--1198, 2018.
 
 > **Complete Dictionary Recovery over the Sphere I: Overview and the Geometric Picture**. \[[summary](/docs/DL_LSE_15.pdf)\]\[[Arxiv](http://arxiv.org/abs/1511.03607)\] \[[Paper](http://dx.doi.org/10.1109/TIT.2016.2632162)\]\[[Codes](https://github.com/sunju/dl_focm)\]\[[Arxiv-Full Report](http://arxiv.org/abs/1504.06785)\]  
 > &nbsp; &nbsp; **Ju Sun**, Qing Qu, John Wright. IEEE Trans. Information Theory, 63(2):  853 - 884, 2017. 
