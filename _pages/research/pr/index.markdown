@@ -4,11 +4,12 @@ permalink: /research/pr/
 title: Phase Retrieval, Spectral Factorization, and Applications
 ---
 
-Recover phaseless complex signals from measured magnitudes, or recover complex signals from the auto-correlation sequences. While for 1D signals the problem is solved both in theory and in practice, that for 2D or higher-D's are still largely open. Emphasis will be put on recent developments. (**Update: Sep 19 2018**)
+Recover phaseless complex signals from measured magnitudes, or recover complex signals from the auto-correlation sequences. While for 1D signals the problem is solved both in theory and in practice, that for 2D or higher-D's are still largely open. Emphasis will be put on recent developments. (**Update: Sep 28 2018**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution. 
 
 ### Provable Results with Algorithms
+ +  [Towards the optimal construction of a loss function without spurious local minima for solving quadratic equations](https://arxiv.org/abs/1809.10520) (2018)
  +  [Solving systems of phaseless equations via Riemannian optimization with optimal sampling complexity](https://arxiv.org/abs/1809.02773) (2018)
  +  [Linear Spectral Estimators and an Application to Phase Retrieval](https://arxiv.org/abs/1806.03547) (2018)
  +  [Approximate Message Passing for Amplitude Based Optimization](https://arxiv.org/abs/1806.03276) (2018)

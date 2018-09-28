@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Sep 26 2018**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Sep 28 2018**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -45,6 +45,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 <!-- /TOC -->
 
 ## Review Articles
+ +  [Nonconvex Optimization Meets Low-Rank Matrix Factorization: An Overview](https://arxiv.org/abs/1809.09573) (2018)
  +  [Harnessing Structures in Big Data via Guaranteed Low-Rank Matrix Estimation](https://arxiv.org/abs/1802.08397) (2018)
  +  [Non-convex Optimization for Machine Learning](https://arxiv.org/abs/1712.07897) (2017)
 
@@ -64,6 +65,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 ### Matrix Completion/Sensing
 (See also [low-rank matrix/tensor recovery](/research/low-rank/) )   
 
+ +  [Nonconvex Robust Low-rank Matrix Recovery](https://arxiv.org/abs/1809.09237) (2018)
  +  [Run Procrustes, Run! On the convergence of accelerated Procrustes Flow](https://arxiv.org/abs/1806.00534) (2018)
  +  [Solving Systems of Quadratic Equations via Exponential-type Gradient Descent Algorithm](https://arxiv.org/abs/1806.00904) (2018)
  +  [How Much Restricted Isometry is Needed In Nonconvex Matrix Recovery?](https://arxiv.org/abs/1805.10251) (2018)
@@ -136,6 +138,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 
 ### Phase Retrieval
+
+ +  [Towards the optimal construction of a loss function without spurious local minima for solving quadratic equations](https://arxiv.org/abs/1809.10520) (2018)
  +  [Solving systems of phaseless equations via Riemannian optimization with optimal sampling complexity](https://arxiv.org/abs/1809.02773) (2018)
  +  [Linear Spectral Estimators and an Application to Phase Retrieval](https://arxiv.org/abs/1806.03547) (2018)
  +  [Approximate Message Passing for Amplitude Based Optimization](https://arxiv.org/abs/1806.03276) (2018)
@@ -179,6 +183,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 ### Dictionary Learning
 (See also **Theory** part in [Dictionary/Deep Learning](/research/dict-learn/))
 
+ +  [Efficient Dictionary Learning with Gradient Descent](https://arxiv.org/abs/1809.10313) (2018)
  +  [Towards Learning Sparsely Used Dictionaries with Arbitrary Supports](https://arxiv.org/abs/1804.08603) (2018)
  +  [A Provable Approach for Double-Sparse Coding](https://arxiv.org/abs/1711.03638) (2017)
  +  [Alternating minimization for dictionary learning with random initialization](https://arxiv.org/abs/1711.03634) (2017)
@@ -336,6 +341,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods/Theory & Miscs
 
+ +  [Hessian barrier algorithms for linearly constrained optimization problems](https://arxiv.org/abs/1809.09449) (2018)
+ +  [Stochastic Second-order Methods for Non-convex Optimization with Inexact Hessian and Gradient](https://arxiv.org/abs/1809.09853) (2018)
  +  [An Inexact First-order Method for Constrained Nonlinear Optimization](https://arxiv.org/abs/1809.06704) (2018)
  +  [Survey: Sixty Years of Douglas--Rachford](https://arxiv.org/abs/1809.07181) (2018)
  +  [On the Stability and Convergence of Stochastic Gradient Descent with Momentum](https://arxiv.org/abs/1809.04564) (2018)
