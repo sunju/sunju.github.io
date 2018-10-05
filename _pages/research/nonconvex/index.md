@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Sep 28 2018**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Oct 04 2018**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -195,6 +195,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [Learning Sparsely Used Overcomplete Dictionaries via Alternating Minimization](http://arxiv.org/abs/1310.7991) (2013)
 
 ### Deep Learning
+ +  [A Convergence Analysis of Gradient Descent for Deep Linear Neural Networks](https://arxiv.org/abs/1810.02281) (2018)
+ +  [Gradient descent aligns the layers of deep linear networks](https://arxiv.org/abs/1810.02032) (2018)
  +  [Adding One Neuron Can Eliminate All Bad Local Minima](https://arxiv.org/abs/1805.08671) (2018)
  +  [End-to-end Learning of a Convolutional Neural Network via Deep Tensor Decomposition](https://arxiv.org/abs/1805.06523) (2018)
  +  [Understanding the Loss Surface of Neural Networks for Binary Classification](https://arxiv.org/abs/1803.00909) (2018)
@@ -239,6 +241,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [Greed is Super: A Fast Algorithm for Super-Resolution](http://arxiv.org/abs/1511.03385) (2015)
 
 ### Synchronization Problems/Community Detection
+ +  [On the Landscape of Synchronization Networks: A Perspective from Nonconvex Optimization](https://arxiv.org/abs/1809.11083) (2018)
  +  [Near-optimal bounds for phase synchronization](https://arxiv.org/abs/1703.06857) (2017)
  +  [Message-passing algorithms for synchronization problems over compact groups](https://arxiv.org/abs/1610.04583) (2016)
  +  [On the low-rank approach for semidefinite programs arising in synchronization and community detection](http://arxiv.org/abs/1602.04426) (2016)
@@ -261,6 +264,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ +  [Gradient Descent Provably Optimizes Over-parameterized Neural Networks](https://arxiv.org/abs/1810.02054) (2018)
  +  [Stochastic Gradient Descent Learns State Equations with Nonlinear Activations](https://arxiv.org/abs/1809.03019) (2018)
  +  [Learning ReLU Networks on Linearly Separable Data: Algorithm, Optimality, and Generalization](https://arxiv.org/abs/1808.04685) (2018)
  +  [Learning Overparameterized Neural Networks via Stochastic Gradient Descent on Structured Data](https://arxiv.org/abs/1808.01204) (2018)
@@ -341,6 +345,11 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods/Theory & Miscs
 
+ +  [Optimal Adaptive and Accelerated Stochastic Gradient Descent](https://arxiv.org/abs/1810.00553) (2018)
+ +  [Riemannian Adaptive Optimization Methods](https://arxiv.org/abs/1810.00760) (2018)
+ +  [Newton-MR: Newton's Method Without Smoothness or Convexity](https://arxiv.org/abs/1810.00303) (2018)
+ +  [Convergence to Second-Order Stationarity for Constrained Non-Convex Optimization](https://arxiv.org/abs/1810.02024) (2018)
+ +  [Non-Convex Min-Max Optimization: Provable Algorithms and Applications in Machine Learning](https://arxiv.org/abs/1810.02060) (2018)
  +  [Hessian barrier algorithms for linearly constrained optimization problems](https://arxiv.org/abs/1809.09449) (2018)
  +  [Stochastic Second-order Methods for Non-convex Optimization with Inexact Hessian and Gradient](https://arxiv.org/abs/1809.09853) (2018)
  +  [An Inexact First-order Method for Constrained Nonlinear Optimization](https://arxiv.org/abs/1809.06704) (2018)
