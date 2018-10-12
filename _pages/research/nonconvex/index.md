@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Oct 04 2018**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Oct 11 2018**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -264,6 +264,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ +  [Algorithmic Aspects of Inverse Problems Using Generative Models](https://arxiv.org/abs/1810.03587) (2018)
+ +  [ReLU Regression: Complexity, Exact and Approximation Algorithms](https://arxiv.org/abs/1810.03592) (2018)
  +  [Gradient Descent Provably Optimizes Over-parameterized Neural Networks](https://arxiv.org/abs/1810.02054) (2018)
  +  [Stochastic Gradient Descent Learns State Equations with Nonlinear Activations](https://arxiv.org/abs/1809.03019) (2018)
  +  [Learning ReLU Networks on Linearly Separable Data: Algorithm, Optimality, and Generalization](https://arxiv.org/abs/1808.04685) (2018)
@@ -345,6 +347,10 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods/Theory & Miscs
 
+ +  [Optimization on Spheres: Models and Proximal Algorithms with Computational Performance Comparisons](https://arxiv.org/abs/1810.02893) (2018)
+ +  [Analytical Convergence Regions of Accelerated First-Order Methods in Nonconvex Optimization under Regularity Condition](https://arxiv.org/abs/1810.03229) (2018)
+ +  [Cubic Regularization with Momentum for Nonconvex Optimization](https://arxiv.org/abs/1810.03763) (2018)
+ +  [Parallelizable Algorithms for Optimization Problems with Orthogonality Constraints](https://arxiv.org/abs/1810.03930) (2018)
  +  [Optimal Adaptive and Accelerated Stochastic Gradient Descent](https://arxiv.org/abs/1810.00553) (2018)
  +  [Riemannian Adaptive Optimization Methods](https://arxiv.org/abs/1810.00760) (2018)
  +  [Newton-MR: Newton's Method Without Smoothness or Convexity](https://arxiv.org/abs/1810.00303) (2018)
