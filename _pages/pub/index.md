@@ -39,9 +39,9 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 ### Conferences and Workshops
 
 > **When Nonsmoothness Meets Nonconvexity**.   
-> &nbsp; &nbsp; Yu Bai, Qijia Jiang, **Ju Sun**, Emmanuel Cand&#233;s. 
+> &nbsp; &nbsp; Yu Bai, Qijia Jiang, **Ju Sun**, Emmanuel Cand&egrave;s. 
 >   
- + Invited talk at Allerton Conference on Communication, Control, and Computing  2018.\[[Slides](/docs/allerton18_nsms.pdf)\]   
+ + Invited talk at Allerton Conference on Communication, Control, and Computing  2018. \[[Slides](/docs/allerton18_nsms.pdf)\]   
 
 > **1D Phase Retrieval and Spectral Factorization**. \[[draft](/docs/1DPR_18.pdf)\]  \[[paper](https://doi.org/10.1364/LACSEA.2018.JTh1A.4)\] \[[slides](/docs/OSA18_1DPR.pdf)\]   
 > &nbsp; &nbsp; David A. Barmherzig, **Ju Sun**. OSA Imaging and Applied Optics Congress 2018.
