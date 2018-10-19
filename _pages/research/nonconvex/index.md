@@ -11,36 +11,36 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 \[<span style="color:red">**New**</span>\] A BibTex file for papers listed on the page can be downloaded [HERE](/docs/research/nonconvex/NCVX.bib)!
 
-## Contents
+## Contents   
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-
-	- [Review Articles](#review-articles)
-	- [Problems with Hidden Convexity or Analytic Solutions](#problems-with-hidden-convexity-or-analytic-solutions)
-		- [Blind Deconvolution](#blind-deconvolution)
-		- [Separable Nonnegative Matrix Factorization (NMF)](#separable-nonnegative-matrix-factorization-nmf)
-	- [Problems with Provable Global Results](#problems-with-provable-global-results)
-		- [Matrix Completion/Sensing](#matrix-completionsensing)
-		- [Tensor Recovery/Decomposition & Hidden Variable Models](#tensor-recoverydecomposition-hidden-variable-models)
-		- [Phase Retrieval](#phase-retrieval)
-		- [Dictionary Learning](#dictionary-learning)
-		- [Deep Learning](#deep-learning)
-		- [Sparse Vectors in Linear Subspaces](#sparse-vectors-in-linear-subspaces)
-		- [Nonnegative/Sparse Principal Component Analysis](#nonnegativesparse-principal-component-analysis)
-		- [Mixed Linear Regression](#mixed-linear-regression)
-		- [Blind Deconvolution/Calibration](#blind-deconvolutioncalibration)
-		- [Super Resolution](#super-resolution)
-		- [Synchronization Problems/Community Detection](#synchronization-problemscommunity-detection)
-		- [Joint Alignment](#joint-alignment)
-		- [Numerical Linear Algebra](#numerical-linear-algebra)
-		- [Bayesian Inference](#bayesian-inference)
-		- [Empirical Risk Minimization & Shallow Networks](#empirical-risk-minimization-shallow-networks)
-		- [System Identification](#system-identification)
-		- [Burer-Monteiro Style Decomposition Algorithms](#burer-monteiro-style-decomposition-algorithms)
-		- [Generic Structured Problems](#generic-structured-problems)
-		- [Nonconvex Feasibility Problems](#nonconvex-feasibility-problems)
-	- [Of Statistical Nature ...](#of-statistical-nature-)
-	- [Relevant Optimization Methods, Theory, Miscs](#relevant-optimization-methods-theory-miscs)
+   
+- [Review Articles](#review-articles)
+- [Problems with Hidden Convexity or Analytic Solutions](#problems-with-hidden-convexity-or-analytic-solutions)
+	- [Blind Deconvolution](#blind-deconvolution)
+	- [Separable Nonnegative Matrix Factorization (NMF)](#separable-nonnegative-matrix-factorization-nmf)
+- [Problems with Provable Global Results](#problems-with-provable-global-results)
+	- [Matrix Completion/Sensing](#matrix-completionsensing)
+	- [Tensor Recovery/Decomposition & Hidden Variable Models](#tensor-recoverydecomposition-hidden-variable-models)
+	- [Phase Retrieval](#phase-retrieval)
+	- [Dictionary Learning](#dictionary-learning)
+	- [Deep Learning](#deep-learning)
+	- [Sparse Vectors in Linear Subspaces](#sparse-vectors-in-linear-subspaces)
+	- [Nonnegative/Sparse Principal Component Analysis](#nonnegativesparse-principal-component-analysis)
+	- [Mixed Linear Regression](#mixed-linear-regression)
+	- [Blind Deconvolution/Calibration](#blind-deconvolutioncalibration)
+	- [Super Resolution](#super-resolution)
+	- [Synchronization Problems/Community Detection](#synchronization-problemscommunity-detection)
+	- [Joint Alignment](#joint-alignment)
+	- [Numerical Linear Algebra](#numerical-linear-algebra)
+	- [Bayesian Inference](#bayesian-inference)
+	- [Empirical Risk Minimization & Shallow Networks](#empirical-risk-minimization-shallow-networks)
+	- [System Identification](#system-identification)
+	- [Burer-Monteiro Style Decomposition Algorithms](#burer-monteiro-style-decomposition-algorithms)
+	- [Generic Structured Problems](#generic-structured-problems)
+	- [Nonconvex Feasibility Problems](#nonconvex-feasibility-problems)
+- [Of Statistical Nature ...](#of-statistical-nature-)
+- [Relevant Optimization Methods, Theory, Miscs](#relevant-optimization-methods-theory-miscs)
 
 <!-- /TOC -->
 
