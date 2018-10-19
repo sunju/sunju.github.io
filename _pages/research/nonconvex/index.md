@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Oct 11 2018**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Oct 18 2018**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -216,6 +216,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [Non-negative Principal Component Analysis: Message Passing Algorithms and Sharp Asymptotics](http://arxiv.org/abs/1406.4775) (2014)
 
 ### Mixed Linear Regression
+ +  [Global Convergence of EM Algorithm for Mixtures of Two Component Linear Regression](https://arxiv.org/abs/1810.05752) (2018)
  +  [Solving a Mixture of Many Random Linear Equations by Tensor Decomposition and Alternating Minimization](http://arxiv.org/abs/1608.05749) (2016)
  +  [Provable Tensor Methods for Learning Mixtures of Classifiers](http://arxiv.org/abs/1412.3046) (2014)
  +  [Alternating Minimization for Mixed Linear Regression](http://arxiv.org/abs/1310.3745) (2013)
@@ -347,6 +348,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods/Theory & Miscs
 
+ +  [Uniform Graphical Convergence of Subgradients in Nonconvex Optimization and Learning](https://arxiv.org/abs/1810.07590) (2018)
+ +  [A Subsampling Line-Search Method with Second-Order Results](https://arxiv.org/abs/1810.07211) (2018)
  +  [Optimization on Spheres: Models and Proximal Algorithms with Computational Performance Comparisons](https://arxiv.org/abs/1810.02893) (2018)
  +  [Analytical Convergence Regions of Accelerated First-Order Methods in Nonconvex Optimization under Regularity Condition](https://arxiv.org/abs/1810.03229) (2018)
  +  [Cubic Regularization with Momentum for Nonconvex Optimization](https://arxiv.org/abs/1810.03763) (2018)
