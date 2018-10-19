@@ -40,7 +40,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 	- [Generic Structured Problems](#generic-structured-problems)
 	- [Nonconvex Feasibility Problems](#nonconvex-feasibility-problems)
 - [Of Statistical Nature ...](#of-statistical-nature-)
-- [Relevant Optimization Methods/Theory & Miscs](#relevant-optimization-methodstheory-miscs)
+- [Relevant Optimization Methods/Theory & Miscs](#relevant-optimization-methods-theory-miscs)
 
 <!-- /TOC -->
 
@@ -346,7 +346,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [Regularized M-estimators with nonconvexity: Statistical and algorithmic theory for local ptima](http://arxiv.org/abs/1305.2436) (2013)
  +  [High-dimensional regression with noisy and missing data: Provable guarantees with nonconvexity](http://arxiv.org/abs/1109.3714) (2011)
 
-## Relevant Optimization Methods/Theory & Miscs
+## Relevant Optimization Methods, Theory & Miscs
 
  +  [Uniform Graphical Convergence of Subgradients in Nonconvex Optimization and Learning](https://arxiv.org/abs/1810.07590) (2018)
  +  [A Subsampling Line-Search Method with Second-Order Results](https://arxiv.org/abs/1810.07211) (2018)
