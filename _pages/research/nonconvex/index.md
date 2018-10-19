@@ -9,40 +9,41 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
-\[<span style="color:red">**New**</span>\] A BibTex file for papers listed on the page can be downloaded [HERE](/docs/research/nonconvex/NCVX.bib)! 
+\[<span style="color:red">**New**</span>\] A BibTex file for papers listed on the page can be downloaded [HERE](/docs/research/nonconvex/NCVX.bib)!
+
+## Contents
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-## Contents 
-
-- [Review Articles](#review-articles)
-- [Problems with Hidden Convexity or Analytic Solutions](#problems-with-hidden-convexity-or-analytic-solutions)
-	- [Blind Deconvolution](#blind-deconvolution)
-	- [Separable Nonnegative Matrix Factorization (NMF)](#separable-nonnegative-matrix-factorization-nmf)
-- [Problems with Provable Global Results](#problems-with-provable-global-results)
-	- [Matrix Completion/Sensing](#matrix-completionsensing)
-	- [Tensor Recovery/Decomposition & Hidden Variable Models](#tensor-recoverydecomposition-hidden-variable-models)
-	- [Phase Retrieval](#phase-retrieval)
-	- [Dictionary Learning](#dictionary-learning)
-	- [Deep Learning](#deep-learning)
-	- [Sparse Vectors in Linear Subspaces](#sparse-vectors-in-linear-subspaces)
-	- [Nonnegative/Sparse Principal Component Analysis](#nonnegativesparse-principal-component-analysis)
-	- [Mixed Linear Regression](#mixed-linear-regression)
-	- [Blind Deconvolution/Calibration](#blind-deconvolutioncalibration)
-	- [Super Resolution](#super-resolution)
-	- [Synchronization Problems/Community Detection](#synchronization-problemscommunity-detection)
-	- [Joint Alignment](#joint-alignment)
-	- [Numerical Linear Algebra](#numerical-linear-algebra)
-	- [Bayesian Inference](#bayesian-inference)
-	- [Empirical Risk Minimization & Shallow Networks](#empirical-risk-minimization-shallow-networks)
-	- [System Identification](#system-identification)
-	- [Burer-Monteiro Style Decomposition Algorithms](#burer-monteiro-style-decomposition-algorithms)
-	- [Generic Structured Problems](#generic-structured-problems)
-	- [Nonconvex Feasibility Problems](#nonconvex-feasibility-problems)
-- [Of Statistical Nature ...](#of-statistical-nature-)
-- [Relevant Optimization Methods/Theory & Miscs](#relevant-optimization-methods-theory-miscs)
+	- [Review Articles](#review-articles)
+	- [Problems with Hidden Convexity or Analytic Solutions](#problems-with-hidden-convexity-or-analytic-solutions)
+		- [Blind Deconvolution](#blind-deconvolution)
+		- [Separable Nonnegative Matrix Factorization (NMF)](#separable-nonnegative-matrix-factorization-nmf)
+	- [Problems with Provable Global Results](#problems-with-provable-global-results)
+		- [Matrix Completion/Sensing](#matrix-completionsensing)
+		- [Tensor Recovery/Decomposition & Hidden Variable Models](#tensor-recoverydecomposition-hidden-variable-models)
+		- [Phase Retrieval](#phase-retrieval)
+		- [Dictionary Learning](#dictionary-learning)
+		- [Deep Learning](#deep-learning)
+		- [Sparse Vectors in Linear Subspaces](#sparse-vectors-in-linear-subspaces)
+		- [Nonnegative/Sparse Principal Component Analysis](#nonnegativesparse-principal-component-analysis)
+		- [Mixed Linear Regression](#mixed-linear-regression)
+		- [Blind Deconvolution/Calibration](#blind-deconvolutioncalibration)
+		- [Super Resolution](#super-resolution)
+		- [Synchronization Problems/Community Detection](#synchronization-problemscommunity-detection)
+		- [Joint Alignment](#joint-alignment)
+		- [Numerical Linear Algebra](#numerical-linear-algebra)
+		- [Bayesian Inference](#bayesian-inference)
+		- [Empirical Risk Minimization & Shallow Networks](#empirical-risk-minimization-shallow-networks)
+		- [System Identification](#system-identification)
+		- [Burer-Monteiro Style Decomposition Algorithms](#burer-monteiro-style-decomposition-algorithms)
+		- [Generic Structured Problems](#generic-structured-problems)
+		- [Nonconvex Feasibility Problems](#nonconvex-feasibility-problems)
+	- [Of Statistical Nature ...](#of-statistical-nature-)
+	- [Relevant Optimization Methods, Theory, Miscs](#relevant-optimization-methods-theory-miscs)
 
 <!-- /TOC -->
+
 
 ## Review Articles
  +  [Nonconvex Optimization Meets Low-Rank Matrix Factorization: An Overview](https://arxiv.org/abs/1809.09573) (2018)
@@ -261,7 +262,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [Computing Matrix Squareroot via Non Convex Local Search](http://arxiv.org/abs/1507.05854) (2015)
 
 ### Bayesian Inference
- +  [On some provably correct cases of variational inference for topic models](http://arxiv.org/abs/1503.06567) (2015) 
+ +  [On some provably correct cases of variational inference for topic models](http://arxiv.org/abs/1503.06567) (2015)
 
 ### Empirical Risk Minimization & Shallow Networks
 
@@ -346,7 +347,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [Regularized M-estimators with nonconvexity: Statistical and algorithmic theory for local ptima](http://arxiv.org/abs/1305.2436) (2013)
  +  [High-dimensional regression with noisy and missing data: Provable guarantees with nonconvexity](http://arxiv.org/abs/1109.3714) (2011)
 
-## Relevant Optimization Methods, Theory & Miscs
+## Relevant Optimization Methods, Theory, Miscs
 
  +  [Uniform Graphical Convergence of Subgradients in Nonconvex Optimization and Learning](https://arxiv.org/abs/1810.07590) (2018)
  +  [A Subsampling Line-Search Method with Second-Order Results](https://arxiv.org/abs/1810.07211) (2018)
@@ -530,5 +531,3 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 > **If you'd like your paper to be listed here**  - Just drop me a few lines via email (which can be found on "Welcome" page). If you don't bother to spend a word, just deposit your paper on arXiv. I get email alert about new animals there every morning,  and will be happy to hunt one for this zoo if it seems **fit**.
 
 > **Special thanks to**: [Damek Davis](https://people.orie.cornell.edu/dsd95/), [Wotao Yin](http://www.math.ucla.edu/~wotaoyin/)
-
-
