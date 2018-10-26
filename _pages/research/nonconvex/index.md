@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Oct 20 2018**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Oct 25 2018**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -51,7 +51,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [Non-convex Optimization for Machine Learning](https://arxiv.org/abs/1712.07897) (2017)
 
 ## Problems with Hidden Convexity or Analytic Solutions
- +  [These slides](http://www.stat.cmu.edu/~ryantibs/convexopt/lectures/nonconvex.pdf) summarize lots of them.  
+ +  [These slides](http://www.stat.cmu.edu/~ryantibs/convexopt-F16/lectures/nonconvex.pdf) summarize lots of them.  
 
 ### Blind Deconvolution
  +  [Blind Deconvolution using Convex Programming](http://arxiv.org/abs/1211.5608) (2012)
@@ -184,6 +184,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 ### Dictionary Learning
 (See also **Theory** part in [Dictionary/Deep Learning](/research/dict-learn/))
 
+ +  [Subgradient Descent Learns Orthogonal Dictionaries](https://arxiv.org/abs/1810.10702) (\[<span style="color:red">**S**</span>\], 2018)
  +  [Efficient Dictionary Learning with Gradient Descent](https://arxiv.org/abs/1809.10313) (2018)
  +  [Towards Learning Sparsely Used Dictionaries with Arbitrary Supports](https://arxiv.org/abs/1804.08603) (2018)
  +  [A Provable Approach for Double-Sparse Coding](https://arxiv.org/abs/1711.03638) (2017)
@@ -196,6 +197,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [Learning Sparsely Used Overcomplete Dictionaries via Alternating Minimization](http://arxiv.org/abs/1310.7991) (2013)
 
 ### Deep Learning
+
+ +  [Depth with Nonlinearity Creates No Bad Local Minima in ResNets](https://arxiv.org/abs/1810.09038) (2018)
  +  [A Convergence Analysis of Gradient Descent for Deep Linear Neural Networks](https://arxiv.org/abs/1810.02281) (2018)
  +  [Gradient descent aligns the layers of deep linear networks](https://arxiv.org/abs/1810.02032) (2018)
  +  [Adding One Neuron Can Eliminate All Bad Local Minima](https://arxiv.org/abs/1805.08671) (2018)
@@ -350,6 +353,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ +  [Solving Weakly-Convex-Weakly-Concave Saddle-Point Problems as Weakly-Monotone Variational Inequality](https://arxiv.org/abs/1810.10207) (2018)
+ +  [SpiderBoost: A Class of Faster Variance-reduced Algorithms for Nonconvex Optimization](https://arxiv.org/abs/1810.10690) (2018)
  +  [Uniform Graphical Convergence of Subgradients in Nonconvex Optimization and Learning](https://arxiv.org/abs/1810.07590) (2018)
  +  [A Subsampling Line-Search Method with Second-Order Results](https://arxiv.org/abs/1810.07211) (2018)
  +  [Optimization on Spheres: Models and Proximal Algorithms with Computational Performance Comparisons](https://arxiv.org/abs/1810.02893) (2018)
@@ -531,4 +536,4 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 > **If you'd like your paper to be listed here**  - Just drop me a few lines via email (which can be found on "Welcome" page). If you don't bother to spend a word, just deposit your paper on arXiv. I get email alert about new animals there every morning,  and will be happy to hunt one for this zoo if it seems **fit**.
 
-> **Special thanks to**: [Damek Davis](https://people.orie.cornell.edu/dsd95/), [Wotao Yin](http://www.math.ucla.edu/~wotaoyin/)
+> **Special thanks to**: [Damek Davis](https://people.orie.cornell.edu/dsd95/), [Wotao Yin](http://www.math.ucla.edu/~wotaoyin/), [Vladislav Voroninski](https://angel.co/vladislav-voroninski), David Martinez

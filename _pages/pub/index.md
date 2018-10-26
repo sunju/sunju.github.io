@@ -10,6 +10,9 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Reports 
 
+> **Subgradient Descent Learns Orthogonal Dictionaries**.  \[[arXiv](https://arxiv.org/abs/1810.10702)\]  
+> &nbsp; &nbsp; Yu Bai, Qijia Jiang, **Ju Sun**. 2018.   
+
 > **Dictionary Learning in Fourier Transform Scanning Tunneling Spectroscopy**.  \[[arXiv](https://arxiv.org/abs/1807.10752)\]  
 > &nbsp; &nbsp; Sky Cheung, John Shin, Yenson Lau, Zhengyu Chen, **Ju Sun**, Yuqian Zhang, John Wright, and Abhay Pasupathy. Submitted to Nature Communications, 2018. 
 

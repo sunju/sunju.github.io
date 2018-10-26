@@ -3,7 +3,7 @@ layout: page
 permalink: /research/dict-learn/
 title: Dictionary Learning, Blind Deconvolution, Deep Learning
 ---
-Learning dictionaries/atomic sets that induce structured representation on data. Applications are still explosively emerging, especially of deep learning, where one allows multi-level nonlinear cascading of representation. Hence formulations to the problems are fairly diverse. We will roughly organize the references according to the problem they try to solve, concentrated on recent literature of theoretical nature.  (**Update: Sep 28 2018**)
+Learning dictionaries/atomic sets that induce structured representation on data. Applications are still explosively emerging, especially of deep learning, where one allows multi-level nonlinear cascading of representation. Hence formulations to the problems are fairly diverse. We will roughly organize the references according to the problem they try to solve, concentrated on recent literature of theoretical nature.  (**Update: Oct 25 2018**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution. 
 
@@ -12,6 +12,7 @@ Learning dictionaries/atomic sets that induce structured representation on data.
 ### $\mathbf{Y} = \mathbf{A} \mathbf{X}$, $\mathbf{A}$ Square, Invertible, Global Recovery 
 This problem can be reduced to a sequence of problems, each taking the form of finding sparsest vector in a linear subspace. See also [Structured Element Pursuit](/research/struct-elem/). 
 
+ +  [Subgradient Descent Learns Orthogonal Dictionaries](https://arxiv.org/abs/1810.10702) (\[<span style="color:red">**S**</span>\], 2018)
  +  [Efficient Dictionary Learning with Gradient Descent](https://arxiv.org/abs/1809.10313) (2018)
  +  [Fast and robust tensor decomposition with applications to dictionary learning](https://arxiv.org/abs/1706.08672) (2017)
  +  [An improved analysis of the ER-SpUD dictionary learning algorithm](https://arxiv.org/abs/1602.05719) (2016)
@@ -93,6 +94,7 @@ This problem can be reduced to a sequence of problems, each taking the form of f
 ## Algorithms and Applications 
 
 ### Dictionary Learning 
+
  +  To get a taste of the applications of dictionary learning in signal and image processing (compression in these areas demands good bases/dictionaries), see the book by Michael Elad: [Sparse and Redundant Representations: From Theory to Applications in Signal and Image Processing](https://www.springer.com/mathematics/analysis/book/978-1-4419-7010-7)
 
 ### Convolutional Dictionary Learning

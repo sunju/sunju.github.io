@@ -32,6 +32,7 @@ I'm Ju Sun, a [Math+X](https://www.simonsfoundation.org/funding/funding-opportun
 - [Talk at SINE Seminar Coordinated Science Laboratory, UIUC](https://calendars.illinois.edu/detail/4200/33321967) (Nov 05, 2018)
 
 #### Past 
+- **Paper release**: full version of the paper [Subgradient Descent Learns Orthogonal Dictionaries](https://arxiv.org/abs/1810.10702) on arXiv. We show that nonconvexity and nonsmoothness can be tackled together rigorously on practical problems. (Oct 25 2018)
 - [56th Annual Allerton Conference](http://allerton.csl.illinois.edu/) (Oct 02 -- 05, 2018) \[[Slides](/docs/allerton18_nsms.pdf)\]
 - [International Symposium on Mathematical Programming 2018](https://ismp2018.sciencesconf.org/) at Bordeaux, France (Jul 01 -- 06, 2018)
 - [OSA Imaging and Applied Optics Congress](https://www.osa.org/en-us/meetings/osa_meetings/osa_imaging_and_applied_optics_congress/) (Jun 25 -- 28, 2018)
