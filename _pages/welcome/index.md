@@ -28,7 +28,6 @@ I'm Ju Sun, a [Math+X](https://www.simonsfoundation.org/funding/funding-opportun
 ### What's new 
 
 #### Upcoming
-- [NIPS 2018](https://nips.cc/Conferences/2018) (Dec 03 -- 08, 2018)
 - [Talk at SINE Seminar Coordinated Science Laboratory, UIUC](https://calendars.illinois.edu/detail/4200/33321967) (Nov 05, 2018)
 
 #### Past 

@@ -3,7 +3,7 @@ layout: page
 permalink: /research/dict-learn/
 title: Dictionary Learning, Blind Deconvolution, Deep Learning
 ---
-Learning dictionaries/atomic sets that induce structured representation on data. Applications are still explosively emerging, especially of deep learning, where one allows multi-level nonlinear cascading of representation. Hence formulations to the problems are fairly diverse. We will roughly organize the references according to the problem they try to solve, concentrated on recent literature of theoretical nature.  (**Update: Oct 25 2018**)
+Learning dictionaries/atomic sets that induce structured representation on data. Applications are still explosively emerging, especially of deep learning, where one allows multi-level nonlinear cascading of representation. Hence formulations to the problems are fairly diverse. We will roughly organize the references according to the problem they try to solve, concentrated on recent literature of theoretical nature.  (**Update: Oct 29 2018**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution. 
 
@@ -78,6 +78,9 @@ This problem can be reduced to a sequence of problems, each taking the form of f
  +  [Regularized Gradient Descent: A Nonconvex Recipe for Fast Joint Blind Deconvolution and Demixing](https://arxiv.org/abs/1703.08642) (2017) 
  +  [Blind Deconvolution Meets Blind Demixing: Algorithms and Performance Bounds](https://arxiv.org/abs/1512.07730) (2015)
  
+### Generalized Dictionary Learning
+ +  [Learning Semidefinite Regularizers](https://doi.org/10.1007/s10208-018-9386-z) (2017)
+ 
 ### Wavelet/General Scattering Network 
  +  [Lipschitz Properties for Deep Convolutional Networks](https://arxiv.org/abs/1701.05217) (2017)
  +  [Discrete Deep Feature Extraction: A Theory and New Architectures](https://arxiv.org/abs/1605.08283) (2016)
@@ -96,6 +99,10 @@ This problem can be reduced to a sequence of problems, each taking the form of f
 ### Dictionary Learning 
 
  +  To get a taste of the applications of dictionary learning in signal and image processing (compression in these areas demands good bases/dictionaries), see the book by Michael Elad: [Sparse and Redundant Representations: From Theory to Applications in Signal and Image Processing](https://www.springer.com/mathematics/analysis/book/978-1-4419-7010-7)
+
+### Transformation Learning
+ +  [Learning Multi-Layer Transform Models](https://arxiv.org/abs/1810.08323) (2018)
+ +  [Transformation Learning website@UIUC](http://transformlearning.csl.illinois.edu/)
 
 ### Convolutional Dictionary Learning
  +  [Working Locally Thinking Globally - Part II: Stability and Algorithms for Convolutional Sparse Coding](https://arxiv.org/abs/1607.02009) (2016)

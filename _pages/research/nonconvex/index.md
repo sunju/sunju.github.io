@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Oct 25 2018**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Nov 01 2018**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -66,6 +66,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 ### Matrix Completion/Sensing
 (See also [low-rank matrix/tensor recovery](/research/low-rank/) )   
 
+ +  [Iterative Hard Thresholding for Low-Rank Recovery from Rank-One Projections](https://arxiv.org/abs/1810.11749) (2018)
  +  [Nonconvex Robust Low-rank Matrix Recovery](https://arxiv.org/abs/1809.09237) (2018)
  +  [Run Procrustes, Run! On the convergence of accelerated Procrustes Flow](https://arxiv.org/abs/1806.00534) (2018)
  +  [Solving Systems of Quadratic Equations via Exponential-type Gradient Descent Algorithm](https://arxiv.org/abs/1806.00904) (2018)
@@ -117,6 +118,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Tensor Recovery/Decomposition & Hidden Variable Models
 
+ +  [Recovery Guarantees for Quadratic Tensors with Limited Observations](https://arxiv.org/abs/1811.00148) (2018)
  +  [Algorithmic thresholds for tensor PCA](https://arxiv.org/abs/1808.00921) (2018)
  +  [Guaranteed Simultaneous Asymmetric Tensor Decomposition via Orthogonalized Alternating Least Squares](https://arxiv.org/abs/1805.10348) (2018)
  +  [A theory on the absence of spurious optimality](https://arxiv.org/abs/1805.08204) (2018)
@@ -220,6 +222,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [Non-negative Principal Component Analysis: Message Passing Algorithms and Sharp Asymptotics](http://arxiv.org/abs/1406.4775) (2014)
 
 ### Mixed Linear Regression
+ +  [Iteratively Learning from the Best](https://arxiv.org/abs/1810.11874) (2018)
  +  [Global Convergence of EM Algorithm for Mixtures of Two Component Linear Regression](https://arxiv.org/abs/1810.05752) (2018)
  +  [Solving a Mixture of Many Random Linear Equations by Tensor Decomposition and Alternating Minimization](http://arxiv.org/abs/1608.05749) (2016)
  +  [Provable Tensor Methods for Learning Mixtures of Classifiers](http://arxiv.org/abs/1412.3046) (2014)
@@ -269,6 +272,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ +  [Uniform Convergence of Gradients for Non-Convex Learning and Optimization](https://arxiv.org/abs/1810.11059) (2018)
+ +  [On the Convergence Rate of Training Recurrent Neural Networks](https://arxiv.org/abs/1810.12065) (2018)
  +  [ Learning Two-layer Neural Networks with Symmetric Inputs](https://arxiv.org/abs/1810.06793) (2018)
  +  [Algorithmic Aspects of Inverse Problems Using Generative Models](https://arxiv.org/abs/1810.03587) (2018)
  +  [ReLU Regression: Complexity, Exact and Approximation Algorithms](https://arxiv.org/abs/1810.03592) (2018)
@@ -353,6 +358,11 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ +  [Provably Correct Automatic Subdifferentiation for Qualified Programs](https://arxiv.org/abs/1809.08530) (2018)
+ +  [Global Non-convex Optimization with Discretized Diffusions](https://arxiv.org/abs/1810.12361) (2018)
+ +  [Benefits of over-parameterization with EM](https://arxiv.org/abs/1810.11344) (2018)
+ +  [Newton method for finding a singularity of a special class of locally Lipschitz continuous vector fields on Riemannian manifolds](https://arxiv.org/abs/1810.11636) (2018)
+ +  [Inexact Newton method with feasible inexact projections for solving constrained smooth and nonsmooth equations](https://arxiv.org/abs/1810.11640) (2018)
  +  [Solving Weakly-Convex-Weakly-Concave Saddle-Point Problems as Weakly-Monotone Variational Inequality](https://arxiv.org/abs/1810.10207) (2018)
  +  [SpiderBoost: A Class of Faster Variance-reduced Algorithms for Nonconvex Optimization](https://arxiv.org/abs/1810.10690) (2018)
  +  [Uniform Graphical Convergence of Subgradients in Nonconvex Optimization and Learning](https://arxiv.org/abs/1810.07590) (2018)
