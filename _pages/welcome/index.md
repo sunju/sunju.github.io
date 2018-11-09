@@ -23,9 +23,9 @@ I'm Ju Sun, a [Math+X](https://www.simonsfoundation.org/funding/funding-opportun
 **New**: As of year 2018/2019, I'm on the academic job market. See my \[[CV](/docs/CV.pdf)\].
 
 ### Contact 
-- Email: sunju@stanford.edu \\ \\  sunjunus@gmail.com
-- Office: 380 U, Sloan Hall 
-- Webpage: <http://sunju.org>
+- **Email**: sunju@stanford.edu \\ \\  sunjunus@gmail.com
+- **Office**: 380 U, Sloan Hall 
+- **Webpage**: <http://sunju.org>
 
 ### What's new 
 
