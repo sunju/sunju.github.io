@@ -16,9 +16,11 @@ news: true
 social: true
 ---
 
-I'm Ju Sun, a [Math+X](https://www.simonsfoundation.org/funding/funding-opportunities/mathematics-physical-sciences/mathx/mathx-encouraging-interactions-chair-recipients/) postdoctoral scholar working with [Professor Emmanuel Candes](http://statweb.stanford.edu/~candes/) at [Stanford University](https://www.stanford.edu/). Prior to this, I obtained my PhD degree from [Electrical Engineering](http://www.ee.columbia.edu/), [Columbia University](http://www.columbia.edu/) in 2016, working with [Professor John Wright](http://www.columbia.edu/~jw2966/). I work at the intersection of computer vision, machine learning, numerical optimization, signal/image processing, information theory, and compressive sensing, focusing on modeling, harnessing, and computing with structures in massive data, with provable guarantees and practical algorithms. 
+I'm Ju Sun, a [Math+X](https://www.simonsfoundation.org/funding/funding-opportunities/mathematics-physical-sciences/mathx/mathx-encouraging-interactions-chair-recipients/) postdoctoral scholar working with [Professor Emmanuel Candes](http://statweb.stanford.edu/~candes/) at [Stanford University](https://www.stanford.edu/). Prior to this, I obtained my PhD degree from [Electrical Engineering](http://www.ee.columbia.edu/), [Columbia University](http://www.columbia.edu/) in 2016, working with [Professor John Wright](http://www.columbia.edu/~jw2966/). 
 
-<!--\[<span style="color:red">**New**</span>\] As of year 2017/2018, I'm on the academic job market. See my \[[CV](/docs/CV.pdf)\] and \[[Research Statement](/docs/RS.pdf)\].-->
+**Research Interests**: foundations of machine learning, data sciences, and numerical optimization, with application to computer vision, signal/image processing, and computational imaging
+
+**New**: As of year 2018/2019, I'm on the academic job market. See my \[[CV](/docs/CV.pdf)\].
 
 ### Contact 
 - Email: sunju@stanford.edu \\ \\  sunjunus@gmail.com
@@ -28,9 +30,10 @@ I'm Ju Sun, a [Math+X](https://www.simonsfoundation.org/funding/funding-opportun
 ### What's new 
 
 #### Upcoming
-- [Talk at SINE Seminar Coordinated Science Laboratory, UIUC](https://calendars.illinois.edu/detail/4200/33321967) (Nov 05, 2018)
+- Visiting Georgia Institute of Technology (Nov 29--30, 2018)
 
 #### Past 
+- [Talk at SINE Seminar Coordinated Science Laboratory, UIUC](https://calendars.illinois.edu/detail/4200/33321967) (Nov 05, 2018)
 - **Paper release**: full version of the paper [Subgradient Descent Learns Orthogonal Dictionaries](https://arxiv.org/abs/1810.10702) on arXiv. We show that nonconvexity and nonsmoothness can be tackled together rigorously on practical problems. (Oct 25 2018)
 - [56th Annual Allerton Conference](http://allerton.csl.illinois.edu/) (Oct 02 -- 05, 2018) \[[Slides](/docs/allerton18_nsms.pdf)\]
 - [International Symposium on Mathematical Programming 2018](https://ismp2018.sciencesconf.org/) at Bordeaux, France (Jul 01 -- 06, 2018)

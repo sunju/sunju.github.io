@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Nov 01 2018**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Nov 09 2018**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -272,6 +272,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ +  [Learning Two Layer Rectified Neural Networks in Polynomial Time](https://arxiv.org/abs/1811.01885) (2018)
  +  [Uniform Convergence of Gradients for Non-Convex Learning and Optimization](https://arxiv.org/abs/1810.11059) (2018)
  +  [On the Convergence Rate of Training Recurrent Neural Networks](https://arxiv.org/abs/1810.12065) (2018)
  +  [ Learning Two-layer Neural Networks with Symmetric Inputs](https://arxiv.org/abs/1810.06793) (2018)
@@ -358,6 +359,10 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ +  [Proximal Gradient Method for Manifold Optimization](https://arxiv.org/abs/1811.00980) (2018)
+ +  [Sharp worst-case evaluation complexity bounds for arbitrary-order nonconvex optimization with inexpensive constraints](https://arxiv.org/abs/1811.01220) (2018)
+ +  [Inexact alternating projections on nonconvex sets](https://arxiv.org/abs/1811.01298) (2018)
+ +  [On exponential convergence of SGD in non-convex over-parametrized learning](https://arxiv.org/abs/1811.02564) (2018)
  +  [Provably Correct Automatic Subdifferentiation for Qualified Programs](https://arxiv.org/abs/1809.08530) (2018)
  +  [Global Non-convex Optimization with Discretized Diffusions](https://arxiv.org/abs/1810.12361) (2018)
  +  [Benefits of over-parameterization with EM](https://arxiv.org/abs/1810.11344) (2018)
@@ -535,6 +540,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [Accelerated Gradient Methods for Nonconvex Nonlinear and Stochastic Programming](https://arxiv.org/abs/1310.3787) (2013)
  +  [Proximal alternating linearized minimization for nonconvex and nonsmooth problems](http://dx.doi.org/10.1007/s10107-013-0701-9) (2013)
  +  [Convergence of descent methods for semi-algebraic and tame problems: proximal algorithms, forward–backward splitting, and regularized Gauss–Seidel methods](http://dx.doi.org/10.1007/s10107-011-0484-9) (2013)
+ +  [Optimality conditions for the nonlinear programming problems on Riemannian manifolds](http://www.optimization-online.org/DB_HTML/2012/07/3535.html) (2012)
  +  [Second-order negative-curvature methods for box-constrained and general constrained optimization](https://doi.org/10.1007/s10589-009-9240-y) (2010)
  +  [Proximal alternating minimization and projection methods for nonconvex problems: An approach based on the Kurdyka-Łojasiewicz inequality](http://arxiv.org/abs/0801.1780) (2008)
  +  [Cubic regularization of Newton method and its global performance](https://dx.doi.org/10.1007/s10107-006-0706-8) (2006)
