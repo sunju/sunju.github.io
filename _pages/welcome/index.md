@@ -18,9 +18,7 @@ social: true
 
 I'm Ju Sun, a [Math+X](https://www.simonsfoundation.org/funding/funding-opportunities/mathematics-physical-sciences/mathx/mathx-encouraging-interactions-chair-recipients/) postdoctoral scholar working with [Professor Emmanuel Candes](http://statweb.stanford.edu/~candes/) at [Stanford University](https://www.stanford.edu/). Prior to this, I obtained my PhD degree from [Electrical Engineering](http://www.ee.columbia.edu/), [Columbia University](http://www.columbia.edu/) in 2016, working with [Professor John Wright](http://www.columbia.edu/~jw2966/). 
 
-**Research Interests**: foundations of machine learning, data sciences, and numerical optimization, with application to computer vision, signal/image processing, and computational imaging
-
-**New**: As of year 2018/2019, I'm on the academic job market. See my \[[CV](/docs/CV.pdf)\].
+**Research Interests**: foundations of machine learning, data sciences, and numerical optimization, with application to computer vision, signal/image processing, and computational imaging. See my \[[CV](/docs/CV.pdf)\].
 
 ### Contact 
 - **Email**: sunju@stanford.edu \\ \\  sunjunus@gmail.com
