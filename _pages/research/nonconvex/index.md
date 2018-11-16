@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Nov 09 2018**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Nov 15 2018**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -142,6 +142,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Phase Retrieval
 
+ +  [Optimal Spectral Initialization for Signal Recovery with Applications to Phase Retrieval](https://arxiv.org/abs/1811.04420) (2018)
  +  [Towards the optimal construction of a loss function without spurious local minima for solving quadratic equations](https://arxiv.org/abs/1809.10520) (2018)
  +  [Solving systems of phaseless equations via Riemannian optimization with optimal sampling complexity](https://arxiv.org/abs/1809.02773) (2018)
  +  [Linear Spectral Estimators and an Application to Phase Retrieval](https://arxiv.org/abs/1806.03547) (2018)
@@ -200,6 +201,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Deep Learning
 
+ +  [A Convergence Theory for Deep Learning via Over-Parameterization](https://arxiv.org/abs/1811.03962) (2018)
+ +  [Gradient Descent Finds Global Minima of Deep Neural Networks](https://arxiv.org/abs/1811.03804) (2018)
  +  [Depth with Nonlinearity Creates No Bad Local Minima in ResNets](https://arxiv.org/abs/1810.09038) (2018)
  +  [A Convergence Analysis of Gradient Descent for Deep Linear Neural Networks](https://arxiv.org/abs/1810.02281) (2018)
  +  [Gradient descent aligns the layers of deep linear networks](https://arxiv.org/abs/1810.02032) (2018)
@@ -272,6 +275,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ +  [Learning and Generalization in Overparameterized Neural Networks, Going Beyond Two Layers](https://arxiv.org/abs/1811.04918) (2018)
  +  [Learning Two Layer Rectified Neural Networks in Polynomial Time](https://arxiv.org/abs/1811.01885) (2018)
  +  [Uniform Convergence of Gradients for Non-Convex Learning and Optimization](https://arxiv.org/abs/1810.11059) (2018)
  +  [On the Convergence Rate of Training Recurrent Neural Networks](https://arxiv.org/abs/1810.12065) (2018)
@@ -359,6 +363,9 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ +  [Blind Over-the-Air Computation and Data Fusion via Provable Wirtinger Flow](https://arxiv.org/abs/1811.04644) (2018)
+ +  [Deterministic and stochastic inexact regularization algorithms for nonconvex optimization with optimal complexity](https://arxiv.org/abs/1811.03831) (2018)
+ +  [R-SPIDER: A Fast Riemannian Stochastic Optimization Algorithm with Curvature Independent Rate](https://arxiv.org/abs/1811.04194) (2018)
  +  [Proximal Gradient Method for Manifold Optimization](https://arxiv.org/abs/1811.00980) (2018)
  +  [Sharp worst-case evaluation complexity bounds for arbitrary-order nonconvex optimization with inexpensive constraints](https://arxiv.org/abs/1811.01220) (2018)
  +  [Inexact alternating projections on nonconvex sets](https://arxiv.org/abs/1811.01298) (2018)
