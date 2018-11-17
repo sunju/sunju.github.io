@@ -412,6 +412,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [A linear-time algorithm for generalized trust region problems](https://arxiv.org/abs/1807.07563) (2018)
  +  [A geometric integration approach to nonsmooth, nonconvex optimisation](https://arxiv.org/abs/1807.07554) (2018)
  +  [Convergence Rate of Block-Coordinate Maximization Burer-Monteiro Method for Solving Large SDPs](https://arxiv.org/abs/1807.04428) (2018)
+ +  [SPIDER: Near-Optimal Non-Convex Optimization via Stochastic Path Integrated Differential Estimator](https://arxiv.org/abs/1807.01695) (2018)
  +  [Geodesic Convex Optimization: Differentiation on Manifolds, Geodesics, and Convexity](https://arxiv.org/abs/1806.06373) (2018)
  +  [On the Convergence Rate of Stochastic Mirror Descent for Nonsmooth Nonconvex Optimization](https://arxiv.org/abs/1806.04781) (2018)
  +  [AdaGrad stepsizes: Sharp convergence over nonconvex landscapes, from any initialization](https://arxiv.org/abs/1806.01811) (2018)
