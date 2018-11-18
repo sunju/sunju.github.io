@@ -8,5 +8,4 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'unicode_utils'
     gem 'jekyll-pandoc'
-    gem 'jekyll-menus'
 end
