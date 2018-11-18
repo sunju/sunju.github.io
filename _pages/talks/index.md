@@ -1,7 +1,10 @@
 ---
 layout: page
 permalink: /talks/
-menus: Talks
+menus: 
+	header: 
+		title: Talks
+	
 title: Select talks
 tags: top
 <!--description: Publications by categories in reversed chronological order. -->
