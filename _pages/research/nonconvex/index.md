@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Nov 15 2018**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Nov 25 2018**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -187,6 +187,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 ### Dictionary Learning
 (See also **Theory** part in [Dictionary/Deep Learning](/research/dict-learn/))
 
+ +  [Stochastic Gradient Descent Optimizes Over-parameterized Deep ReLU Networks](https://arxiv.org/abs/1811.08888) (2018)
+ +  [Effect of Depth and Width on Local Minima in Deep Learning](https://arxiv.org/abs/1811.08150) (2018)
  +  [Subgradient Descent Learns Orthogonal Dictionaries](https://arxiv.org/abs/1810.10702) (\[<span style="color:red">**S**</span>\], 2018)
  +  [Efficient Dictionary Learning with Gradient Descent](https://arxiv.org/abs/1809.10313) (2018)
  +  [Towards Learning Sparsely Used Dictionaries with Arbitrary Supports](https://arxiv.org/abs/1804.08603) (2018)
@@ -363,6 +365,9 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ +  [Faster First-Order Methods for Stochastic Non-Convex Optimization on Riemannian Manifolds](https://arxiv.org/abs/1811.08109) (2018)
+ +  [Universal regularization methods - varying the power, the smoothness and the accuracy](https://arxiv.org/abs/1811.07057) (2018)
+ +  [Sampling Can Be Faster Than Optimization](https://arxiv.org/abs/1811.08413) (2018)
  +  [Blind Over-the-Air Computation and Data Fusion via Provable Wirtinger Flow](https://arxiv.org/abs/1811.04644) (2018)
  +  [Deterministic and stochastic inexact regularization algorithms for nonconvex optimization with optimal complexity](https://arxiv.org/abs/1811.03831) (2018)
  +  [R-SPIDER: A Fast Riemannian Stochastic Optimization Algorithm with Curvature Independent Rate](https://arxiv.org/abs/1811.04194) (2018)
