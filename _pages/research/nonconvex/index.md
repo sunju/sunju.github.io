@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Nov 27 2018**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Dec 01 2018**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -118,6 +118,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Tensor Recovery/Decomposition & Hidden Variable Models
 
+ +  [Smoothed Analysis in Unsupervised Learning via Decoupling](https://arxiv.org/abs/1811.12361) (2018)
  +  [Recovery Guarantees for Quadratic Tensors with Limited Observations](https://arxiv.org/abs/1811.00148) (2018)
  +  [Algorithmic thresholds for tensor PCA](https://arxiv.org/abs/1808.00921) (2018)
  +  [Guaranteed Simultaneous Asymmetric Tensor Decomposition via Orthogonalized Alternating Least Squares](https://arxiv.org/abs/1805.10348) (2018)
@@ -251,6 +252,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [Near Optimal Compressed Sensing of Sparse Rank-One Matrices via Sparse Power Factorization](http://arxiv.org/abs/1312.0525) (2013)
 
 ### Super Resolution
+ +  [The basins of attraction of the global minimizers of the non-convex sparse spikes estimation problem](https://arxiv.org/abs/1811.12000) (2018)
  +  [Greed is Super: A Fast Algorithm for Super-Resolution](http://arxiv.org/abs/1511.03385) (2015)
 
 ### Synchronization Problems/Community Detection
@@ -365,6 +367,11 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ +  [A Doubly Accelerated Inexact Proximal Point Method for Nonconvex Composite Optimization Problems](https://arxiv.org/abs/1811.11378) (2018)
+ +  [Convergence Analysis of the Relaxed Douglas-Rachford Algorithm](https://arxiv.org/abs/1811.11590) (2018)
+ +  [Adaptive Stochastic Variance Reduction for Subsampled Newton Method with Cubic Regularization](https://arxiv.org/abs/1811.11637) (2018)
+ +  [Stochastic Optimization for DC Functions and Non-smooth Non-convex Regularizers with Non-asymptotic Convergence](https://arxiv.org/abs/1811.11829) (2018)
+ +  [Markov Chain Block Coordinate Descent](https://arxiv.org/abs/1811.08990) (2018)
  +  [Faster First-Order Methods for Stochastic Non-Convex Optimization on Riemannian Manifolds](https://arxiv.org/abs/1811.08109) (2018)
  +  [Universal regularization methods - varying the power, the smoothness and the accuracy](https://arxiv.org/abs/1811.07057) (2018)
  +  [Sampling Can Be Faster Than Optimization](https://arxiv.org/abs/1811.08413) (2018)
