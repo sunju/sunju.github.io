@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Dec 01 2018**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Dec 08 2018**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -66,6 +66,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 ### Matrix Completion/Sensing
 (See also [low-rank matrix/tensor recovery](/research/low-rank/) )   
 
+ +  [An equivalence between stationary points for rank constraints versus low-rank factorizations](https://arxiv.org/abs/1812.00404) (2018)
  +  [Iterative Hard Thresholding for Low-Rank Recovery from Rank-One Projections](https://arxiv.org/abs/1810.11749) (2018)
  +  [Nonconvex Robust Low-rank Matrix Recovery](https://arxiv.org/abs/1809.09237) (2018)
  +  [Run Procrustes, Run! On the convergence of accelerated Procrustes Flow](https://arxiv.org/abs/1806.00534) (2018)
@@ -143,6 +144,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Phase Retrieval
 
+ +  [Phase Retrieval by Alternating Minimization with Random Initialization](https://arxiv.org/abs/1812.01255) (2018)
  +  [Optimal Spectral Initialization for Signal Recovery with Applications to Phase Retrieval](https://arxiv.org/abs/1811.04420) (2018)
  +  [Towards the optimal construction of a loss function without spurious local minima for solving quadratic equations](https://arxiv.org/abs/1809.10520) (2018)
  +  [Solving systems of phaseless equations via Riemannian optimization with optimal sampling complexity](https://arxiv.org/abs/1809.02773) (2018)
