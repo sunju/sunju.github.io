@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Dec 08 2018**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Dec 15 2018**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -281,6 +281,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ +  [A Provably Convergent Scheme for Compressive Sensing under Random Generative Priors](https://arxiv.org/abs/1812.04176) (2018)
  +  [Learning and Generalization in Overparameterized Neural Networks, Going Beyond Two Layers](https://arxiv.org/abs/1811.04918) (2018)
  +  [Learning Two Layer Rectified Neural Networks in Polynomial Time](https://arxiv.org/abs/1811.01885) (2018)
  +  [Uniform Convergence of Gradients for Non-Convex Learning and Optimization](https://arxiv.org/abs/1810.11059) (2018)
@@ -331,6 +332,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 
 ### Burer-Monteiro Style Decomposition Algorithms
+ +  [Rank optimality for the Burer-Monteiro factorization](https://arxiv.org/abs/1812.03046) (2018)
  +  [Smoothed analysis of the low-rank approach for smooth semidefinite programs](https://arxiv.org/abs/1806.03763) (2018)
  +  [Deterministic guarantees for Burer-Monteiro factorizations of smooth semidefinite programs](https://arxiv.org/abs/1804.02008) (2018)
  +  [Smoothed analysis for low-rank solutions to semidefinite programs in quadratic penalty form](https://arxiv.org/abs/1803.00186) (2018)
@@ -369,6 +371,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ +  [Solving Non-Convex Non-Concave Min-Max Games Under Polyak-Łojasiewicz Condition](https://arxiv.org/abs/1812.02878) (2018)
  +  [A Doubly Accelerated Inexact Proximal Point Method for Nonconvex Composite Optimization Problems](https://arxiv.org/abs/1811.11378) (2018)
  +  [Convergence Analysis of the Relaxed Douglas-Rachford Algorithm](https://arxiv.org/abs/1811.11590) (2018)
  +  [Adaptive Stochastic Variance Reduction for Subsampled Newton Method with Cubic Regularization](https://arxiv.org/abs/1811.11637) (2018)
