@@ -44,6 +44,9 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Conferences and Workshops
 
+> **Subgradient Descent Learns Orthogonal Dictionaries**.  \[[Paper](https://openreview.net/forum?id=HklSf3CqKm)\] \[[arXiv](https://arxiv.org/abs/1810.10702)\]  
+> &nbsp; &nbsp; Yu Bai, Qijia Jiang, **Ju Sun**. International Conference on Learning Representations (ICLR), 2019. 
+
 > **When Nonsmoothness Meets Nonconvexity**.   
 > &nbsp; &nbsp; Yu Bai, Qijia Jiang, **Ju Sun**, Emmanuel Cand&egrave;s. 
 >   
