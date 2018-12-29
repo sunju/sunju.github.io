@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Dec 23 2018**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Dec 29 2018**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -281,6 +281,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ +  [Overparameterized Nonlinear Learning: Gradient Descent Takes the Shortest Path?](https://arxiv.org/abs/1812.10004) (2018)
  +  [A Provably Convergent Scheme for Compressive Sensing under Random Generative Priors](https://arxiv.org/abs/1812.04176) (2018)
  +  [Learning and Generalization in Overparameterized Neural Networks, Going Beyond Two Layers](https://arxiv.org/abs/1811.04918) (2018)
  +  [Learning Two Layer Rectified Neural Networks in Polynomial Time](https://arxiv.org/abs/1811.01885) (2018)
@@ -371,6 +372,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+
+ +  [A Proximal Alternating Direction Method of Multiplier for Linearly Constrained Nonconvex Minimization](https://arxiv.org/abs/1812.10229) (2018)
  +  [Semi-Riemannian Manifold Optimization](https://arxiv.org/abs/1812.07643) (2018)
  +  [Breaking Reversibility Accelerates Langevin Dynamics for Global Non-Convex Optimization](https://arxiv.org/abs/1812.07725) (2018)
  +  [Solving Non-Convex Non-Concave Min-Max Games Under Polyak-Łojasiewicz Condition](https://arxiv.org/abs/1812.02878) (2018)

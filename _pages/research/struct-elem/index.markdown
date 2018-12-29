@@ -3,11 +3,13 @@ layout: page
 permalink: /research/struct-elem/
 title: Homogeneous Structured Element Pursuit
 ---
-Finding structured elements from a geometric object, with emphasis on objects containing the origin and hence associated scale ambiguity.  (**Update: Dec 08 2015**)
+Finding structured elements from a geometric object, with emphasis on objects containing the origin and hence associated scale ambiguity.  (**Update: Dec 29 2018**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution. 
 
 ### Finding Sparse Vectors in Linear Subspaces 
+
+  +  [Dual Principal Component Pursuit: Probability Analysis and Efficient Algorithms](https://arxiv.org/abs/1812.09924) (2018)
   +  [Speeding up sum-of-squares for tensor decomposition and planted sparse vectors](http://arxiv.org/abs/1512.02337) (2015)
   +  [Dual Principal Component Pursuit](http://arxiv.org/abs/1510.04390) (2015)
   +  [Complete Dictionary Recovery over the Sphere](http://arxiv.org/abs/1504.06785) (2015)
