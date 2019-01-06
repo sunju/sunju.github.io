@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Dec 29 2018**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jan 06 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -66,6 +66,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 ### Matrix Completion/Sensing
 (See also [low-rank matrix/tensor recovery](/research/low-rank/) )   
 
+ +  [Exact Guarantees on the Absence of Spurious Local Minima for Non-negative Robust Principal Component Analysis](https://arxiv.org/abs/1812.11466) (2018)
  +  [An equivalence between stationary points for rank constraints versus low-rank factorizations](https://arxiv.org/abs/1812.00404) (2018)
  +  [Iterative Hard Thresholding for Low-Rank Recovery from Rank-One Projections](https://arxiv.org/abs/1810.11749) (2018)
  +  [Nonconvex Robust Low-rank Matrix Recovery](https://arxiv.org/abs/1809.09237) (2018)
@@ -204,6 +205,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Deep Learning
 
+ +  [Elimination of All Bad Local Minima in Deep Learning](https://arxiv.org/abs/1901.00279) (2019)
+ +  [Over-Parameterized Deep Neural Networks Have No Strict Local Minima For Any Continuous Activations](https://arxiv.org/abs/1812.11039) (2018)
  +  [Stochastic Gradient Descent Optimizes Over-parameterized Deep ReLU Networks](https://arxiv.org/abs/1811.08888) (2018)
  +  [Effect of Depth and Width on Local Minima in Deep Learning](https://arxiv.org/abs/1811.08150) (2018)
  +  [A Convergence Theory for Deep Learning via Over-Parameterization](https://arxiv.org/abs/1811.03962) (2018)
@@ -238,6 +241,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Blind Deconvolution/Calibration
 
+ +  [Geometry and Symmetry in Short-and-Sparse Deconvolution](https://arxiv.org/abs/1901.00256) (2019)
  +  [Nonconvex Demixing From Bilinear Measurements](https://arxiv.org/abs/1809.06796) (2018)
  +  [Structured Local Optima in Sparse Blind Deconvolution](https://arxiv.org/abs/1806.00338) (2018)
  +  [Global Geometry of Multichannel Sparse Blind Deconvolution on the Sphere](https://arxiv.org/abs/1805.10437) (2018)
