@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jan 06 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jan 12 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -66,6 +66,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 ### Matrix Completion/Sensing
 (See also [low-rank matrix/tensor recovery](/research/low-rank/) )   
 
+ +  [Sharp Restricted Isometry Bounds for the Inexistence of Spurious Local Minima in Nonconvex Matrix Recovery](https://arxiv.org/abs/1901.01631) (2019)
  +  [Exact Guarantees on the Absence of Spurious Local Minima for Non-negative Robust Principal Component Analysis](https://arxiv.org/abs/1812.11466) (2018)
  +  [An equivalence between stationary points for rank constraints versus low-rank factorizations](https://arxiv.org/abs/1812.00404) (2018)
  +  [Iterative Hard Thresholding for Low-Rank Recovery from Rank-One Projections](https://arxiv.org/abs/1810.11749) (2018)
@@ -241,6 +242,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Blind Deconvolution/Calibration
 
+ +  [On the Global Geometry of Sphere-Constrained Sparse Blind Deconvolution](https://arxiv.org/abs/1901.01913) (2019)
+ +  [Composite optimization for robust blind deconvolution](https://arxiv.org/abs/1901.01624) (2019)
  +  [Geometry and Symmetry in Short-and-Sparse Deconvolution](https://arxiv.org/abs/1901.00256) (2019)
  +  [Nonconvex Demixing From Bilinear Measurements](https://arxiv.org/abs/1809.06796) (2018)
  +  [Structured Local Optima in Sparse Blind Deconvolution](https://arxiv.org/abs/1806.00338) (2018)
@@ -285,6 +288,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ +  [Analysis of a Two-Layer Neural Network via Displacement Convexity](https://arxiv.org/abs/1901.01375) (2019)
  +  [Overparameterized Nonlinear Learning: Gradient Descent Takes the Shortest Path?](https://arxiv.org/abs/1812.10004) (2018)
  +  [A Provably Convergent Scheme for Compressive Sensing under Random Generative Priors](https://arxiv.org/abs/1812.04176) (2018)
  +  [Learning and Generalization in Overparameterized Neural Networks, Going Beyond Two Layers](https://arxiv.org/abs/1811.04918) (2018)
@@ -376,7 +380,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
-
+ +  [Primal-dual proximal splitting and generalized conjugation in non-smooth non-convex optimization](https://arxiv.org/abs/1901.02746) (2019)
  +  [A Proximal Alternating Direction Method of Multiplier for Linearly Constrained Nonconvex Minimization](https://arxiv.org/abs/1812.10229) (2018)
  +  [Semi-Riemannian Manifold Optimization](https://arxiv.org/abs/1812.07643) (2018)
  +  [Breaking Reversibility Accelerates Langevin Dynamics for Global Non-Convex Optimization](https://arxiv.org/abs/1812.07725) (2018)
