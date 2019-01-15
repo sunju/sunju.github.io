@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jan 12 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jan 14 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -400,6 +400,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [Sharp worst-case evaluation complexity bounds for arbitrary-order nonconvex optimization with inexpensive constraints](https://arxiv.org/abs/1811.01220) (2018)
  +  [Inexact alternating projections on nonconvex sets](https://arxiv.org/abs/1811.01298) (2018)
  +  [On exponential convergence of SGD in non-convex over-parametrized learning](https://arxiv.org/abs/1811.02564) (2018)
+ +  [A Stochastic Penalty Model for Convex and Nonconvex Optimization with Big Constraints](https://arxiv.org/abs/1810.13387) (2018)
  +  [Provably Correct Automatic Subdifferentiation for Qualified Programs](https://arxiv.org/abs/1809.08530) (2018)
  +  [Global Non-convex Optimization with Discretized Diffusions](https://arxiv.org/abs/1810.12361) (2018)
  +  [Benefits of over-parameterization with EM](https://arxiv.org/abs/1810.11344) (2018)
