@@ -4,12 +4,13 @@ permalink: /research/pr/
 title: Phase Retrieval, Spectral Factorization, and Applications
 ---
 
-Recover phaseless complex signals from measured magnitudes, or recover complex signals from the auto-correlation sequences. While for 1D signals the problem is solved both in theory and in practice, that for 2D or higher-D's are still largely open. Emphasis will be put on recent developments. (**Update: Dec 08 2018**)
+Recover phaseless complex signals from measured magnitudes, or recover complex signals from the auto-correlation sequences. While for 1D signals the problem is solved both in theory and in practice, that for 2D or higher-D's are still largely open. Emphasis will be put on recent developments. (**Update: Jan 19 2018**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution. 
 
 ### Provable Results with Algorithms
 
+ +  [A Generalization of Wirtinger Flow for Exact Interferometric Inversion](https://arxiv.org/abs/1901.03940) (2019)
  +  [Phase Retrieval by Alternating Minimization with Random Initialization](https://arxiv.org/abs/1812.01255) (2018)
  +  [Optimal Spectral Initialization for Signal Recovery with Applications to Phase Retrieval](https://arxiv.org/abs/1811.04420) (2018)
  +  [Towards the optimal construction of a loss function without spurious local minima for solving quadratic equations](https://arxiv.org/abs/1809.10520) (2018)

@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jan 14 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jan 19 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -146,6 +146,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Phase Retrieval
 
+ +  [A Generalization of Wirtinger Flow for Exact Interferometric Inversion](https://arxiv.org/abs/1901.03940) (2019)
  +  [Phase Retrieval by Alternating Minimization with Random Initialization](https://arxiv.org/abs/1812.01255) (2018)
  +  [Optimal Spectral Initialization for Signal Recovery with Applications to Phase Retrieval](https://arxiv.org/abs/1811.04420) (2018)
  +  [Towards the optimal construction of a loss function without spurious local minima for solving quadratic equations](https://arxiv.org/abs/1809.10520) (2018)
