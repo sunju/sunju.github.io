@@ -10,7 +10,7 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Reports 
 
-> **Holographic Phase Retrieval and Optimal Reference Design**. \[[arXiv](https://arxiv.org/abs/1901.06453)\]
+> **Holographic Phase Retrieval and Optimal Reference Design**. \[[arXiv](https://arxiv.org/abs/1901.06453)\]  
 > &nbsp; &nbsp; David Barmherzig, **Ju Sun**, Emmanuel J. Cand&#232;s, TJ Lane, and Po-Nan Li. Submitted to Inverse Problems, Nov 2018.   
 
 > **Subgradient Descent Learns Orthogonal Dictionaries**.  \[[arXiv](https://arxiv.org/abs/1810.10702)\]  
