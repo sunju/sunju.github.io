@@ -28,9 +28,11 @@ I'm Ju Sun, a [Math+X](https://www.simonsfoundation.org/funding/funding-opportun
 ### What's new 
 
 #### Upcoming
-- Visiting Georgia Institute of Technology (Nov 29--30, 2018)
+- Statistical seminar at Australian National University (Jun 06, 2019) 
 
 #### Past 
+- **Paper release**: full version of the paper [Holographic Phase Retrieval and Optimal Reference Design](https://arxiv.org/abs/1901.06453) on arXiv. We show how the difficult Fourier phase retrieval problem can be substantially simplified and robustly solved in practical CDI (i.e., Coherent Diffraction Imaging) setting, with a simple augmented reference. (Jan 22, 2019)
+- Visiting Georgia Institute of Technology (Nov 29--30, 2018)
 - [Talk at SINE Seminar Coordinated Science Laboratory, UIUC](https://calendars.illinois.edu/detail/4200/33321967) (Nov 05, 2018)
 - **Paper release**: full version of the paper [Subgradient Descent Learns Orthogonal Dictionaries](https://arxiv.org/abs/1810.10702) on arXiv. We show that nonconvexity and nonsmoothness can be tackled together rigorously on practical problems. (Oct 25 2018)
 - [56th Annual Allerton Conference](http://allerton.csl.illinois.edu/) (Oct 02 -- 05, 2018) \[[Slides](/docs/allerton18_nsms.pdf)\]
