@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jan 19 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jan 26 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -66,6 +66,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 ### Matrix Completion/Sensing
 (See also [low-rank matrix/tensor recovery](/research/low-rank/) )   
 
+ +  [Nonconvex Rectangular Matrix Completion via Gradient Descent without $\ell_{2, \infty}$ Regularization](https://arxiv.org/abs/1901.06116) (2019)
  +  [Sharp Restricted Isometry Bounds for the Inexistence of Spurious Local Minima in Nonconvex Matrix Recovery](https://arxiv.org/abs/1901.01631) (2019)
  +  [Exact Guarantees on the Absence of Spurious Local Minima for Non-negative Robust Principal Component Analysis](https://arxiv.org/abs/1812.11466) (2018)
  +  [An equivalence between stationary points for rank constraints versus low-rank factorizations](https://arxiv.org/abs/1812.00404) (2018)
@@ -207,6 +208,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Deep Learning
 
+ +  [Width Provably Matters in Optimization for Deep Linear Neural Networks](https://arxiv.org/abs/1901.08572) (2019)
  +  [Elimination of All Bad Local Minima in Deep Learning](https://arxiv.org/abs/1901.00279) (2019)
  +  [Over-Parameterized Deep Neural Networks Have No Strict Local Minima For Any Continuous Activations](https://arxiv.org/abs/1812.11039) (2018)
  +  [Stochastic Gradient Descent Optimizes Over-parameterized Deep ReLU Networks](https://arxiv.org/abs/1811.08888) (2018)
@@ -266,6 +268,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [Greed is Super: A Fast Algorithm for Super-Resolution](http://arxiv.org/abs/1511.03385) (2015)
 
 ### Synchronization Problems/Community Detection
+ +  [Multi-Frequency Phase Synchronization](https://arxiv.org/abs/1901.08235) (2019)
  +  [On the Landscape of Synchronization Networks: A Perspective from Nonconvex Optimization](https://arxiv.org/abs/1809.11083) (2018)
  +  [Near-optimal bounds for phase synchronization](https://arxiv.org/abs/1703.06857) (2017)
  +  [Message-passing algorithms for synchronization problems over compact groups](https://arxiv.org/abs/1610.04583) (2016)
@@ -289,6 +292,9 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ +  [Fine-Grained Analysis of Optimization and Generalization for Overparameterized Two-Layer Neural Networks](https://arxiv.org/abs/1901.08584) (2019)
+ +  [A Deterministic Approach to Avoid Saddle Points](https://arxiv.org/abs/1901.06827) (2019)
+ +  [Fitting ReLUs via SGD and Quantized SGD](https://arxiv.org/abs/1901.06587) (2019)
  +  [Analysis of a Two-Layer Neural Network via Displacement Convexity](https://arxiv.org/abs/1901.01375) (2019)
  +  [Overparameterized Nonlinear Learning: Gradient Descent Takes the Shortest Path?](https://arxiv.org/abs/1812.10004) (2018)
  +  [A Provably Convergent Scheme for Compressive Sensing under Random Generative Priors](https://arxiv.org/abs/1812.04176) (2018)
@@ -381,6 +387,11 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ +  [Cheap Orthogonal Constraints in Neural Networks: A Simple Parametrization of the Orthogonal and Unitary Group](https://arxiv.org/abs/1901.08428) (2019)
+ +  [A Unified Analysis of Extra-gradient and Optimistic Gradient Methods for Saddle Point Problems: Proximal Point Approach](https://arxiv.org/abs/1901.08511) (2019)
+ +  [Stochastic Gradient Methods for Non-Smooth Non-Convex Regularized Optimization](https://arxiv.org/abs/1901.08369) (2019)
+ +  [DTN: A Learning Rate Scheme with Convergence Rate of $O(1/t)$ for SGD](https://arxiv.org/abs/1901.07634) (2019)
+ +  [Non-Asymptotic Analysis of Fractional Langevin Monte Carlo for Non-Convex Optimization](https://arxiv.org/abs/1901.07487) (2019)
  +  [Primal-dual proximal splitting and generalized conjugation in non-smooth non-convex optimization](https://arxiv.org/abs/1901.02746) (2019)
  +  [A Proximal Alternating Direction Method of Multiplier for Linearly Constrained Nonconvex Minimization](https://arxiv.org/abs/1812.10229) (2018)
  +  [Semi-Riemannian Manifold Optimization](https://arxiv.org/abs/1812.07643) (2018)
