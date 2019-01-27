@@ -10,7 +10,7 @@ Recover phaseless complex signals from measured magnitudes, or recover complex s
 
 ### Provable Results with Algorithms
 
- +  [Holographic Phase Retrieval and Optimal Reference Design](https://arxiv.org/abs/1901.06453) (2019)
+ +  [Holographic Phase Retrieval and Optimal Reference Design](https://arxiv.org/abs/1901.06453) (\[<span style="color:red">**S**</span>\], 2019)
  +  [A Generalization of Wirtinger Flow for Exact Interferometric Inversion](https://arxiv.org/abs/1901.03940) (2019)
  +  [Phase Retrieval by Alternating Minimization with Random Initialization](https://arxiv.org/abs/1812.01255) (2018)
  +  [Optimal Spectral Initialization for Signal Recovery with Applications to Phase Retrieval](https://arxiv.org/abs/1811.04420) (2018)
