@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jan 26 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jan 31 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -387,6 +387,14 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ +  [Stochastic Recursive Variance-Reduced Cubic Regularization Methods](https://arxiv.org/abs/1901.11518) (2019)
+ +  [Lower Bounds for Smooth Nonconvex Finite-Sum Optimization](https://arxiv.org/abs/1901.11224) (2019)
+ +  [Perturbed Proximal Descent to Escape Saddle Points for Non-convex and Non-smooth Objective Functions](https://arxiv.org/abs/1901.08958) (2019)
+ +  [Escaping Saddle Points with Adaptive Gradient Methods](https://arxiv.org/abs/1901.09149) (2019)
+ +  [Simple algorithms for optimization on Riemannian manifolds with constraints](https://arxiv.org/abs/1901.10000) (2019)
+ +  [On the Convergence of (Stochastic) Gradient Descent with Extrapolation for Non-Convex Optimization](https://arxiv.org/abs/1901.10682) (2019)
+ +  [Fast Gradient Methods for Symmetric Nonnegative Matrix Factorization](https://arxiv.org/abs/1901.10791) (2019)
+ +  [An accelerated variant of simulated annealing that converges under fast cooling](https://arxiv.org/abs/1901.10269) (2019)
  +  [Cheap Orthogonal Constraints in Neural Networks: A Simple Parametrization of the Orthogonal and Unitary Group](https://arxiv.org/abs/1901.08428) (2019)
  +  [A Unified Analysis of Extra-gradient and Optimistic Gradient Methods for Saddle Point Problems: Proximal Point Approach](https://arxiv.org/abs/1901.08511) (2019)
  +  [Stochastic Gradient Methods for Non-Smooth Non-Convex Regularized Optimization](https://arxiv.org/abs/1901.08369) (2019)
