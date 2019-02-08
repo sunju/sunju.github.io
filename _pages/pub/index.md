@@ -10,6 +10,9 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Reports 
 
+> **Dual-Reference Design for Holographic Coherent Diffraction Imaging**. \[[arXiv](https://arxiv.org/abs/1902.02492)\]  
+> &nbsp; &nbsp; David Barmherzig, **Ju Sun**, Emmanuel J. Cand&#232;s, TJ Lane, and Po-Nan Li. Feb 2019.
+
 > **Holographic Phase Retrieval and Optimal Reference Design**. \[[arXiv](https://arxiv.org/abs/1901.06453)\]  
 > &nbsp; &nbsp; David Barmherzig, **Ju Sun**, Emmanuel J. Cand&#232;s, TJ Lane, and Po-Nan Li. Submitted to Inverse Problems, Nov 2018.   
 

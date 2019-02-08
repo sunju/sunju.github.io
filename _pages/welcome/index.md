@@ -31,6 +31,7 @@ I'm Ju Sun, a [Math+X](https://www.simonsfoundation.org/funding/funding-opportun
 - Statistical seminar at Australian National University (Jun 06, 2019) 
 
 #### Past 
+- **Paper release**: our new paper [Dual-Reference Design for Holographic Coherent Diffraction Imaging](https://arxiv.org/abs/1902.02492) is on arXiv. We show that augmenting both the pinhole and block references in holographic CDI can combine the best parts of both!
 - **Paper release**: full version of the paper [Holographic Phase Retrieval and Optimal Reference Design](https://arxiv.org/abs/1901.06453) on arXiv. We show how the difficult Fourier phase retrieval problem can be substantially simplified and robustly solved in practical CDI (i.e., Coherent Diffraction Imaging) setting, with a simple augmented reference. (Jan 22, 2019)
 - Visiting Georgia Institute of Technology (Nov 29--30, 2018)
 - [Talk at SINE Seminar Coordinated Science Laboratory, UIUC](https://calendars.illinois.edu/detail/4200/33321967) (Nov 05, 2018)
