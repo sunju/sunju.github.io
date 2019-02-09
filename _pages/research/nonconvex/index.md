@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jan 31 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Feb 08 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -208,6 +208,9 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Deep Learning
 
+ +  [Stochastic Gradient Descent for Nonconvex Learning without Bounded Gradient Assumptions](https://arxiv.org/abs/1902.00908) (2019)
+ +  [A Generalization Theory of Gradient Descent for Learning Over-parameterized Deep ReLU Networks](https://arxiv.org/abs/1902.01384) (2019)
+ +  [Can SGD Learn Recurrent Neural Networks with Provable Generalization?](https://arxiv.org/abs/1902.01028) (2019)
  +  [Width Provably Matters in Optimization for Deep Linear Neural Networks](https://arxiv.org/abs/1901.08572) (2019)
  +  [Elimination of All Bad Local Minima in Deep Learning](https://arxiv.org/abs/1901.00279) (2019)
  +  [Over-Parameterized Deep Neural Networks Have No Strict Local Minima For Any Continuous Activations](https://arxiv.org/abs/1812.11039) (2018)
@@ -387,6 +390,13 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ +  [Adaptive stochastic gradient algorithms on Riemannian manifolds](https://arxiv.org/abs/1902.01144) (2019)
+ +  [Inexact restoration with subsampled trust-region methods for finite-sum minimization](https://arxiv.org/abs/1902.01710) (2019)
+ +  [Exponentiated Gradient Meets Gradient Descent](https://arxiv.org/abs/1902.01903) (2019)
+ +  [A Convergence Analysis of Nonlinearly Constrained ADMM in Deep Learning](https://arxiv.org/abs/1902.02060) (2019)
+ +  [Momentum Schemes with Stochastic Variance Reduction for Nonconvex Composite Optimization](https://arxiv.org/abs/1902.02715) (2019)
+ +  [Sharp Analysis for Nonconvex SGD Escaping from Saddle Points](https://arxiv.org/abs/1902.00247) (2019)
+ +  [Passed \& Spurious: analysing descent algorithms and local minima in spiked matrix-tensor model](https://arxiv.org/abs/1902.00139) (2019)
  +  [Stochastic Recursive Variance-Reduced Cubic Regularization Methods](https://arxiv.org/abs/1901.11518) (2019)
  +  [Lower Bounds for Smooth Nonconvex Finite-Sum Optimization](https://arxiv.org/abs/1901.11224) (2019)
  +  [Perturbed Proximal Descent to Escape Saddle Points for Non-convex and Non-smooth Objective Functions](https://arxiv.org/abs/1901.08958) (2019)
