@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Feb 08 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Feb 15 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -295,6 +295,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ +  [Towards moderate overparameterization: global convergence guarantees for training shallow neural networks](https://arxiv.org/abs/1902.04674) (2019)
  +  [Fine-Grained Analysis of Optimization and Generalization for Overparameterized Two-Layer Neural Networks](https://arxiv.org/abs/1901.08584) (2019)
  +  [A Deterministic Approach to Avoid Saddle Points](https://arxiv.org/abs/1901.06827) (2019)
  +  [Fitting ReLUs via SGD and Quantized SGD](https://arxiv.org/abs/1901.06587) (2019)
@@ -390,6 +391,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ +  [Stochastic Gradient Descent Escapes Saddle Points Efficiently](https://arxiv.org/abs/1902.04811) (2019)
  +  [Adaptive stochastic gradient algorithms on Riemannian manifolds](https://arxiv.org/abs/1902.01144) (2019)
  +  [Inexact restoration with subsampled trust-region methods for finite-sum minimization](https://arxiv.org/abs/1902.01710) (2019)
  +  [Exponentiated Gradient Meets Gradient Descent](https://arxiv.org/abs/1902.01903) (2019)
