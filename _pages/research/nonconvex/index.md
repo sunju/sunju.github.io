@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Feb 15 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Feb 22 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -66,6 +66,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 ### Matrix Completion/Sensing
 (See also [low-rank matrix/tensor recovery](/research/low-rank/) )   
 
+ +  [Noisy Matrix Completion: Understanding Statistical Guarantees for Convex Relaxation via Nonconvex Optimization](https://arxiv.org/abs/1902.07698) (2019)
  +  [Nonconvex Rectangular Matrix Completion via Gradient Descent without $\ell_{2, \infty}$ Regularization](https://arxiv.org/abs/1901.06116) (2019)
  +  [Sharp Restricted Isometry Bounds for the Inexistence of Spurious Local Minima in Nonconvex Matrix Recovery](https://arxiv.org/abs/1901.01631) (2019)
  +  [Exact Guarantees on the Absence of Spurious Local Minima for Non-negative Robust Principal Component Analysis](https://arxiv.org/abs/1812.11466) (2018)
@@ -147,6 +148,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Phase Retrieval
 
+ +  [Solving Complex Quadratic Systems with Full-Rank Random Matrices](https://arxiv.org/abs/1902.05612) (2019)
  +  [A Generalization of Wirtinger Flow for Exact Interferometric Inversion](https://arxiv.org/abs/1901.03940) (2019)
  +  [Phase Retrieval by Alternating Minimization with Random Initialization](https://arxiv.org/abs/1812.01255) (2018)
  +  [Optimal Spectral Initialization for Signal Recovery with Applications to Phase Retrieval](https://arxiv.org/abs/1811.04420) (2018)
@@ -295,6 +297,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ +  [Global Convergence of Adaptive Gradient Methods for An Over-parameterized Neural Network](https://arxiv.org/abs/1902.07111) (2019)
+ +  [Mean-field theory of two-layers neural networks: dimension-free bounds and kernel limit](https://arxiv.org/abs/1902.06015) (2019)
  +  [Towards moderate overparameterization: global convergence guarantees for training shallow neural networks](https://arxiv.org/abs/1902.04674) (2019)
  +  [Fine-Grained Analysis of Optimization and Generalization for Overparameterized Two-Layer Neural Networks](https://arxiv.org/abs/1901.08584) (2019)
  +  [A Deterministic Approach to Avoid Saddle Points](https://arxiv.org/abs/1901.06827) (2019)
@@ -391,6 +395,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [Analysis of the alternating direction method of multipliers for nonconvex problems](https://arxiv.org/abs/1902.07815) (2019)
+ + [Stochastic Proximal Gradient Methods for Non-smooth Non-Convex Regularized Problems](https://arxiv.org/abs/1902.07672) (2019)
  +  [Stochastic Gradient Descent Escapes Saddle Points Efficiently](https://arxiv.org/abs/1902.04811) (2019)
  +  [Adaptive stochastic gradient algorithms on Riemannian manifolds](https://arxiv.org/abs/1902.01144) (2019)
  +  [Inexact restoration with subsampled trust-region methods for finite-sum minimization](https://arxiv.org/abs/1902.01710) (2019)

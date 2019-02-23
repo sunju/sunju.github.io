@@ -4,12 +4,13 @@ permalink: /research/pr/
 title: Phase Retrieval, Spectral Factorization, and Applications
 ---
 
-Recover phaseless complex signals from measured magnitudes, or recover complex signals from the auto-correlation sequences. While for 1D signals the problem is solved both in theory and in practice, that for 2D or higher-D's are still largely open. Emphasis will be put on recent developments. (**Update: Feb 08 2019**)
+Recover phaseless complex signals from measured magnitudes, or recover complex signals from the auto-correlation sequences. While for 1D signals the problem is solved both in theory and in practice, that for 2D or higher-D's are still largely open. Emphasis will be put on recent developments. (**Update: Feb 22 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution. 
 
 ### Provable Results with Algorithms
 
+ +  [Solving Complex Quadratic Systems with Full-Rank Random Matrices](https://arxiv.org/abs/1902.05612) (2019)
  +  [Dual-Reference Design for Holographic Coherent Diffraction Imaging](https://arxiv.org/abs/1902.02492) (\[<span style="color:red">**S**</span>\], 2019)
  +  [Holographic Phase Retrieval and Optimal Reference Design](https://arxiv.org/abs/1901.06453) (\[<span style="color:red">**S**</span>\], 2019)
  +  [A Generalization of Wirtinger Flow for Exact Interferometric Inversion](https://arxiv.org/abs/1901.03940) (2019)
