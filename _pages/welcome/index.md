@@ -28,7 +28,7 @@ I'm Ju Sun, a [Math+X](https://www.simonsfoundation.org/funding/funding-opportun
 ### What's new 
 
 #### Upcoming
-- Statistical seminar at Australian National University (Jun 06, 2019) 
+
 
 #### Past 
 - **Paper release**: our new paper [Dual-Reference Design for Holographic Coherent Diffraction Imaging](https://arxiv.org/abs/1902.02492) is on arXiv. We show that augmenting both the pinhole and block references in holographic CDI can combine the best parts of both! (Feb 07, 2019)

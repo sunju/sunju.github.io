@@ -3,7 +3,7 @@ layout: page
 permalink: /research/dict-learn/
 title: Dictionary Learning, Blind Deconvolution, Deep Learning
 ---
-Learning dictionaries/atomic sets that induce structured representation on data. Applications are still explosively emerging, especially of deep learning, where one allows multi-level nonlinear cascading of representation. Hence formulations to the problems are fairly diverse. We will roughly organize the references according to the problem they try to solve, concentrated on recent literature of theoretical nature.  (**Update: Jan 12 2019**)
+Learning dictionaries/atomic sets that induce structured representation on data. Applications are still explosively emerging, especially of deep learning, where one allows multi-level nonlinear cascading of representation. Hence formulations to the problems are fairly diverse. We will roughly organize the references according to the problem they try to solve, concentrated on recent literature of theoretical nature.  (**Update: Mar 01 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution. 
 
@@ -40,6 +40,8 @@ This problem can be reduced to a sequence of problems, each taking the form of f
  +  [Learning Sparsely Used Overcomplete Dictionaries via Alternating Minimization](http://arxiv.org/abs/1310.7991) (2013)
  
 ### $\mathbf{Y} = \mathbf{A} \mathbf{X}$ Local Correctness
+
+ +  [Unique Sharp Local Minimum in $\ell_1$-minimization Complete Dictionary Learning](https://arxiv.org/abs/1902.08380) (2019)
  +  [On the Local Correctness of $\ell^1$ Minimization for Dictionary Learning](http://www.columbia.edu/~jw2966/Geng11-IT.pdf) (2011, $\mathbf{A}$ general)
  +  [Dictionary Identification - Sparse Matrix-Factorisation via $\ell^1$-Minimisation](http://arxiv.org/abs/0904.4774) (2009, $\mathbf{A}$ square)
   

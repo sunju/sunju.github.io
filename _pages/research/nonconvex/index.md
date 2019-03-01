@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Feb 22 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Mar 01 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -371,6 +371,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [Convex Optimization with Nonconvex Oracles](https://arxiv.org/abs/1711.02621) (2017)
 
 ### Nonconvex Feasibility Problems
+
+ +  [Finding magic squares with the Douglas-Rachford algorithm](https://arxiv.org/abs/1902.08478) (2019)
  +  [A convergent relaxation of the Douglas-Rachford algorithm](https://arxiv.org/abs/1709.05984) (2017)
  +  [A Lyapunov-type approach to convergence of the Douglas-Rachford algorithm](https://arxiv.org/abs/1706.04846) (2017)
  +  [Feasibility Problems: Douglas-Rachford and Projection Methods](https://carma.newcastle.edu.au/DRmethods/) (Project Page)
@@ -395,6 +397,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [Minimization of nonsmooth nonconvex functions using inexact evaluations and its worst-case complexity](https://arxiv.org/abs/1902.10406) (2019)
+ + [High-Order Evaluation Complexity for Convexly-Constrained Optimization with Non-Lipschitzian Group Sparsity Terms](https://arxiv.org/abs/1902.10767) (2019)
  + [Analysis of the alternating direction method of multipliers for nonconvex problems](https://arxiv.org/abs/1902.07815) (2019)
  + [Stochastic Proximal Gradient Methods for Non-smooth Non-Convex Regularized Problems](https://arxiv.org/abs/1902.07672) (2019)
  +  [Stochastic Gradient Descent Escapes Saddle Points Efficiently](https://arxiv.org/abs/1902.04811) (2019)
