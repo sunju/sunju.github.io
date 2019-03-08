@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Mar 01 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Mar 07 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -148,6 +148,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Phase Retrieval
 
+ +  [Spectral Method for Phase Retrieval: an Expectation Propagation Perspective](https://arxiv.org/abs/1903.02505) (2019)
+ +  [Rigorous Analysis of Spectral Methods for Random Orthogonal Matrices](https://arxiv.org/abs/1903.02676) (2019)
  +  [Solving Complex Quadratic Systems with Full-Rank Random Matrices](https://arxiv.org/abs/1902.05612) (2019)
  +  [A Generalization of Wirtinger Flow for Exact Interferometric Inversion](https://arxiv.org/abs/1901.03940) (2019)
  +  [Phase Retrieval by Alternating Minimization with Random Initialization](https://arxiv.org/abs/1812.01255) (2018)
@@ -397,6 +399,11 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [Proximal algorithms for constrained composite optimization, with applications to solving low-rank SDPs](https://arxiv.org/abs/1903.00184) (2019)
+ + [SGD without Replacement: Sharper Rates for General Smooth Convex Functions](https://arxiv.org/abs/1903.01463) (2019)
+ + [A Stochastic Trust Region Method for Non-convex Minimization](https://arxiv.org/abs/1903.01540) (2019)
+ + [Escaping Saddle Points with the Successive Convex Approximation Algorithm](https://arxiv.org/abs/1903.01932) (2019)
+ + [Inertial Block Mirror Descent Method for Non-Convex Non-Smooth Optimization](https://arxiv.org/abs/1903.01818) (2019)
  + [Minimization of nonsmooth nonconvex functions using inexact evaluations and its worst-case complexity](https://arxiv.org/abs/1902.10406) (2019)
  + [High-Order Evaluation Complexity for Convexly-Constrained Optimization with Non-Lipschitzian Group Sparsity Terms](https://arxiv.org/abs/1902.10767) (2019)
  + [Analysis of the alternating direction method of multipliers for nonconvex problems](https://arxiv.org/abs/1902.07815) (2019)
