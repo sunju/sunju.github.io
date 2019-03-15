@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Mar 07 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Mar 14 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -212,6 +212,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Deep Learning
 
+ +  [Mean Field Analysis of Deep Neural Networks](https://arxiv.org/abs/1903.04440) (2019)
  +  [Stochastic Gradient Descent for Nonconvex Learning without Bounded Gradient Assumptions](https://arxiv.org/abs/1902.00908) (2019)
  +  [A Generalization Theory of Gradient Descent for Learning Over-parameterized Deep ReLU Networks](https://arxiv.org/abs/1902.01384) (2019)
  +  [Can SGD Learn Recurrent Neural Networks with Provable Generalization?](https://arxiv.org/abs/1902.01028) (2019)
@@ -399,6 +400,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [Limited-Memory BFGS with Displacement Aggregation](https://arxiv.org/abs/1903.03471) (2019)
  + [Proximal algorithms for constrained composite optimization, with applications to solving low-rank SDPs](https://arxiv.org/abs/1903.00184) (2019)
  + [SGD without Replacement: Sharper Rates for General Smooth Convex Functions](https://arxiv.org/abs/1903.01463) (2019)
  + [A Stochastic Trust Region Method for Non-convex Minimization](https://arxiv.org/abs/1903.01540) (2019)
