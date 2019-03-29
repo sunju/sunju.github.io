@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Mar 21 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Mar 28 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -301,6 +301,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ +  [Gradient Descent with Early Stopping is Provably Robust to Label Noise for Overparameterized Neural Networks](https://arxiv.org/abs/1903.11680) (2019)
  +  [Global Convergence of Adaptive Gradient Methods for An Over-parameterized Neural Network](https://arxiv.org/abs/1902.07111) (2019)
  +  [Mean-field theory of two-layers neural networks: dimension-free bounds and kernel limit](https://arxiv.org/abs/1902.06015) (2019)
  +  [Towards moderate overparameterization: global convergence guarantees for training shallow neural networks](https://arxiv.org/abs/1902.04674) (2019)
