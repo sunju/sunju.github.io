@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Apr 04 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Apr 12 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -66,6 +66,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 ### Matrix Completion/Sensing
 (See also [low-rank matrix/tensor recovery](/research/low-rank/) )   
 
+
+ +  [Robust Subspace Recovery with Adversarial Outliers](https://arxiv.org/abs/1904.03275) (2019)
  +  [Noisy Matrix Completion: Understanding Statistical Guarantees for Convex Relaxation via Nonconvex Optimization](https://arxiv.org/abs/1902.07698) (2019)
  +  [Nonconvex Rectangular Matrix Completion via Gradient Descent without $\ell_{2, \infty}$ Regularization](https://arxiv.org/abs/1901.06116) (2019)
  +  [Sharp Restricted Isometry Bounds for the Inexistence of Spurious Local Minima in Nonconvex Matrix Recovery](https://arxiv.org/abs/1901.01631) (2019)
@@ -212,6 +214,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Deep Learning
 
+ +  [Analysis of the Gradient Descent Algorithm for a Deep Neural Network Model with Skip-connections](https://arxiv.org/abs/1904.05263) (2019)
  +  [Training Over-parameterized Deep ResNet Is almost as Easy as Training a Two-layer Network](https://arxiv.org/abs/1903.07120) (2019)
  +  [Mean Field Analysis of Deep Neural Networks](https://arxiv.org/abs/1903.04440) (2019)
  +  [Stochastic Gradient Descent for Nonconvex Learning without Bounded Gradient Assumptions](https://arxiv.org/abs/1902.00908) (2019)
@@ -301,6 +304,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ +  [A Comparative Analysis of the Optimization and Generalization Property of Two-layer Neural Network and Random Feature Models Under Gradient Descent Dynamics](https://arxiv.org/abs/1904.04326) (2019)
  +  [Gradient Descent with Early Stopping is Provably Robust to Label Noise for Overparameterized Neural Networks](https://arxiv.org/abs/1903.11680) (2019)
  +  [Global Convergence of Adaptive Gradient Methods for An Over-parameterized Neural Network](https://arxiv.org/abs/1902.07111) (2019)
  +  [Mean-field theory of two-layers neural networks: dimension-free bounds and kernel limit](https://arxiv.org/abs/1902.06015) (2019)
