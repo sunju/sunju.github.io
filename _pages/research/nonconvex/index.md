@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Apr 12 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Apr 21 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -406,6 +406,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [Burer-Monteiro guarantees for general semidefinite programs](https://arxiv.org/abs/1904.07147) (2019)
+ + [A Trust Region Method for Finding Second-Order Stationarity in Linearly Constrained Non-Convex Optimization](https://arxiv.org/abs/1904.06784) (2019)
  + [Convergence rates for the stochastic gradient descent method for non-convex objective functions](https://arxiv.org/abs/1904.01517) (2019)
  + [An Alternating Manifold Proximal Gradient Method for Sparse PCA and Sparse CCA](https://arxiv.org/abs/1903.11576) (2019)
  + [Aggressive Local Search for Constrained Optimal Control Problems with Many Local Minima](https://arxiv.org/abs/1903.08634) (2019)
