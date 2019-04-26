@@ -4,12 +4,13 @@ permalink: /research/pr/
 title: Phase Retrieval, Spectral Factorization, and Applications
 ---
 
-Recover phaseless complex signals from measured magnitudes, or recover complex signals from the auto-correlation sequences. While for 1D signals the problem is solved both in theory and in practice, that for 2D or higher-D's are still largely open. Emphasis will be put on recent developments. (**Update: Mar 07 2019**)
+Recover phaseless complex signals from measured magnitudes, or recover complex signals from the auto-correlation sequences. While for 1D signals the problem is solved both in theory and in practice, that for 2D or higher-D's are still largely open. Emphasis will be put on recent developments. (**Update: Apr 25 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution. 
 
 ### Provable Results with Algorithms
 
+ +  [Solving a perturbed amplitude-based model for phase retrieval](https://arxiv.org/abs/1904.10307) (2019)  
  +  [Spectral Method for Phase Retrieval: an Expectation Propagation Perspective](https://arxiv.org/abs/1903.02505) (2019)
  +  [Rigorous Analysis of Spectral Methods for Random Orthogonal Matrices](https://arxiv.org/abs/1903.02676) (2019)
  +  [Solving Complex Quadratic Systems with Full-Rank Random Matrices](https://arxiv.org/abs/1902.05612) (2019)
@@ -84,6 +85,7 @@ Recover phaseless complex signals from measured magnitudes, or recover complex s
 
 ### Recovery Limits
 
+ +  [Phase Retrieval for Binary Signals: Box Relaxation and Uniqueness](https://arxiv.org/abs/1904.10157) (2019)
  +  [Support Recovery in the Phase Retrieval Model: Information-Theoretic Fundamental Limits](https://arxiv.org/abs/1901.10647) (2019)
  +  [Geometry of the Phase Retrieval Problem](https://arxiv.org/abs/1808.10747) (2018)
  +  [Blind Phaseless Short-Time Fourier Transform Recovery](https://arxiv.org/abs/1808.07414) (2018)

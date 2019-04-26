@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Apr 21 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Apr 25 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -67,6 +67,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 (See also [low-rank matrix/tensor recovery](/research/low-rank/) )   
 
 
+ +  [Low-rank matrix recovery with composite optimization: good conditioning and rapid convergence](https://arxiv.org/abs/1904.10020) (2019)
  +  [Robust Subspace Recovery with Adversarial Outliers](https://arxiv.org/abs/1904.03275) (2019)
  +  [Noisy Matrix Completion: Understanding Statistical Guarantees for Convex Relaxation via Nonconvex Optimization](https://arxiv.org/abs/1902.07698) (2019)
  +  [Nonconvex Rectangular Matrix Completion via Gradient Descent without $\ell_{2, \infty}$ Regularization](https://arxiv.org/abs/1901.06116) (2019)
@@ -150,6 +151,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Phase Retrieval
 
+ +  [Solving a perturbed amplitude-based model for phase retrieval](https://arxiv.org/abs/1904.10307) (2019)
  +  [Spectral Method for Phase Retrieval: an Expectation Propagation Perspective](https://arxiv.org/abs/1903.02505) (2019)
  +  [Rigorous Analysis of Spectral Methods for Random Orthogonal Matrices](https://arxiv.org/abs/1903.02676) (2019)
  +  [Solving Complex Quadratic Systems with Full-Rank Random Matrices](https://arxiv.org/abs/1902.05612) (2019)
@@ -381,6 +383,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Nonconvex Feasibility Problems
 
+ +  [The Douglas-Rachford Algorithm for Convex and Nonconvex Feasibility Problems](https://arxiv.org/abs/1904.09148) (2019)
  +  [Finding magic squares with the Douglas-Rachford algorithm](https://arxiv.org/abs/1902.08478) (2019)
  +  [A convergent relaxation of the Douglas-Rachford algorithm](https://arxiv.org/abs/1709.05984) (2017)
  +  [A Lyapunov-type approach to convergence of the Douglas-Rachford algorithm](https://arxiv.org/abs/1706.04846) (2017)
@@ -406,6 +409,10 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [SSRGD: Simple Stochastic Recursive Gradient Descent for Escaping Saddle Points](https://arxiv.org/abs/1904.09265) (2019)
+ + [Provable Bregman-divergence based Methods for Nonconvex and Non-Lipschitz Problems](https://arxiv.org/abs/1904.09712) (2019)
+ + [Stochastic Primal-Dual Algorithms with Faster Convergence than $O(1/\sqrt{T})$ for Problems without Bilinear Structure](https://arxiv.org/abs/1904.10112) (2019)
+ + [Bregman Proximal Gradient Algorithm with Extrapolation for a class of Nonconvex Nonsmooth Minimization Problems](https://arxiv.org/abs/1904.11295) (2019)
  + [Burer-Monteiro guarantees for general semidefinite programs](https://arxiv.org/abs/1904.07147) (2019)
  + [A Trust Region Method for Finding Second-Order Stationarity in Linearly Constrained Non-Convex Optimization](https://arxiv.org/abs/1904.06784) (2019)
  + [Convergence rates for the stochastic gradient descent method for non-convex objective functions](https://arxiv.org/abs/1904.01517) (2019)
