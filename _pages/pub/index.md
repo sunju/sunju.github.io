@@ -47,6 +47,9 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Conferences and Workshops
 
+> **Dual-Reference Design for Holographic Phase Retrieval**. \[[arXiv](https://arxiv.org/abs/1902.02492)\] \[[Paper](/docs/Dual_Ref_HCDI_19.pdf)\]  
+> &nbsp; &nbsp; David Barmherzig, **Ju Sun**, Emmanuel J. Cand&#232;s, TJ Lane, and Po-Nan Li. International Conference on Sampling Theory and Application (SampTA), 2019.
+
 > **Subgradient Descent Learns Orthogonal Dictionaries**.  \[[Paper](https://openreview.net/forum?id=HklSf3CqKm)\] \[[arXiv](https://arxiv.org/abs/1810.10702)\]  
 > &nbsp; &nbsp; Yu Bai, Qijia Jiang, **Ju Sun**. International Conference on Learning Representations (ICLR), 2019. 
 
