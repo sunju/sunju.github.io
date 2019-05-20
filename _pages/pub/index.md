@@ -12,10 +12,7 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 > **Dual-Reference Design for Holographic Coherent Diffraction Imaging**. \[[arXiv](https://arxiv.org/abs/1902.02492)\]  
 > &nbsp; &nbsp; David Barmherzig, **Ju Sun**, Po-Nan Li, TJ Lane, and Emmanuel J. Cand&#232;s. Feb 2019.
-
-> **Holographic Phase Retrieval and Reference Design**. \[[arXiv](https://arxiv.org/abs/1901.06453)\]  
-> &nbsp; &nbsp; David Barmherzig, **Ju Sun**, Po-Nan Li, TJ Lane, and Emmanuel J. Cand&#232;s. Submitted to Inverse Problems, Nov 2018.   
-
+   
 > **Subgradient Descent Learns Orthogonal Dictionaries**.  \[[arXiv](https://arxiv.org/abs/1810.10702)\]  
 > &nbsp; &nbsp; Yu Bai, Qijia Jiang, **Ju Sun**. 2018.   
 
@@ -23,6 +20,9 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > &nbsp; &nbsp; Sky Cheung, John Shin, Yenson Lau, Zhengyu Chen, **Ju Sun**, Yuqian Zhang, John Wright, and Abhay Pasupathy. Submitted to Nature Communications, 2018. 
 
 ### Journals 
+
+> **Holographic Phase Retrieval and Reference Design**. \[[arXiv](https://arxiv.org/abs/1901.06453)\]  
+> &nbsp; &nbsp; David Barmherzig, **Ju Sun**, Po-Nan Li, TJ Lane, and Emmanuel J. Cand&#232;s. To appear in Inverse Problems. 
 
 > **High-Speed Channel Modeling with Machine Learning Methods for Signal Integrity Analysis**.  \[[Draft](/docs/lu2017highspeed.pdf)\]\[[Paper](https://doi.org/10.1109/TEMC.2017.2784833)\]  
 > &nbsp; &nbsp; Tianjian Lu, **Ju Sun**, Ken Wu, Zhiping Yang. IEEE Trans. Electromagnetic Compatibility, 60(6):1957--1964, 2018. 
