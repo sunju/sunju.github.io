@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: May 20 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: June 03 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -151,6 +151,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Phase Retrieval
 
+ +  [Solving Random Systems of Quadratic Equations with Tanh Wirtinger Flow](https://arxiv.org/abs/1905.09320) (2019)
+ +  [On the Global Minimizers of Real Robust Phase Retrieval with Sparse Noise](https://arxiv.org/abs/1905.10358) (2019)
  +  [Solving a perturbed amplitude-based model for phase retrieval](https://arxiv.org/abs/1904.10307) (2019)
  +  [Spectral Method for Phase Retrieval: an Expectation Propagation Perspective](https://arxiv.org/abs/1903.02505) (2019)
  +  [Rigorous Analysis of Spectral Methods for Random Orthogonal Matrices](https://arxiv.org/abs/1903.02676) (2019)
@@ -260,6 +262,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Blind Deconvolution/Calibration
 
+ +  [Global Guarantees for Blind Demodulation with Generative Priors](https://arxiv.org/abs/1905.12576) (2019)
  +  [On the Global Geometry of Sphere-Constrained Sparse Blind Deconvolution](https://arxiv.org/abs/1901.01913) (2019)
  +  [Composite optimization for robust blind deconvolution](https://arxiv.org/abs/1901.01624) (2019)
  +  [Geometry and Symmetry in Short-and-Sparse Deconvolution](https://arxiv.org/abs/1901.00256) (2019)
@@ -410,6 +413,11 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [The algorithm by Ferson et al. is surprisingly fast: An NP-hard optimization problem solvable in almost linear time with high probability](https://arxiv.org/abs/1905.07821) (2019)
+ + [Bregman forward-backward splitting for nonconvex composite optimization: superlinear convergence to nonisolated critical points](https://arxiv.org/abs/1905.11904) (2019)
+ + [Fast Convergence of Belief Propagation to Global Optima: Beyond Correlation Decay](https://arxiv.org/abs/1905.09992) (2019)
+ + [Neural Temporal-Difference Learning Converges to Global Optima](https://arxiv.org/abs/1905.10027) (2019)
+ + [Momentum-Based Variance Reduction in Non-Convex SGD](https://arxiv.org/abs/1905.10018) (2019)
  + [A FISTA-type accelerated gradient algorithm for solving smooth nonconvex composite optimization problems](https://arxiv.org/abs/1905.07010) (2019)
  + [Stabilized SVRG: Simple Variance Reduction for Nonconvex Optimization](https://arxiv.org/abs/1905.00529) (2019)
  + [SSRGD: Simple Stochastic Recursive Gradient Descent for Escaping Saddle Points](https://arxiv.org/abs/1904.09265) (2019)
