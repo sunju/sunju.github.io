@@ -8,15 +8,15 @@ profile:
   align: right
   image: sunju_2016.jpg
   address: >
-    <p>Stanford University, Mathematics</p>
-    <p>450 Serra Mall, Building 380</p>
-    <p>Stanford, CA 94305</p>
+    <p>4-192 Keller Hall</p>
+    <p>200 Union Street SE</p>
+    <p>Minneapolis, MN 55455</p>
 
 news: true
 social: true
 ---
 
-Assistant Professor, Computer Science \& Engineering  
+Assistant Professor, Computer Science & Engineering  
 University of Minnesota, Twin Cities 
 
 **Research Interests**: foundations of machine learning, data sciences, and numerical optimization, with application to computer vision, signal/image processing, and computational imaging. See my \[[CV](/docs/CV.pdf)\].
