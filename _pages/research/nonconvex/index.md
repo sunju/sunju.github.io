@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: June 03 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: June 27 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -218,6 +218,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Deep Learning
 
+ +  [A mean-field limit for certain deep neural networks](https://arxiv.org/abs/1906.00193) (2019)
  +  [On Exact Computation with an Infinitely Wide Neural Net](https://arxiv.org/abs/1904.11955) (2019)
  +  [Analysis of the Gradient Descent Algorithm for a Deep Neural Network Model with Skip-connections](https://arxiv.org/abs/1904.05263) (2019)
  +  [Training Over-parameterized Deep ResNet Is almost as Easy as Training a Two-layer Network](https://arxiv.org/abs/1903.07120) (2019)
@@ -310,6 +311,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ +  [Limitations of Lazy Training of Two-layers Neural Networks](https://arxiv.org/abs/1906.08899) (2019)
  +  [A Comparative Analysis of the Optimization and Generalization Property of Two-layer Neural Network and Random Feature Models Under Gradient Descent Dynamics](https://arxiv.org/abs/1904.04326) (2019)
  +  [Gradient Descent with Early Stopping is Provably Robust to Label Noise for Overparameterized Neural Networks](https://arxiv.org/abs/1903.11680) (2019)
  +  [Global Convergence of Adaptive Gradient Methods for An Over-parameterized Neural Network](https://arxiv.org/abs/1902.07111) (2019)
@@ -413,6 +415,17 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [Global Convergence of Least Squares EM for Demixing Two Log-Concave Densities](https://arxiv.org/abs/1906.06776) (2019)
+ + [Global Convergence of Policy Gradient Methods to (Almost) Locally Optimal Policies](https://arxiv.org/abs/1906.08383) (2019)
+ + [Riemannian optimization on the simplex of positive definite matrices](https://arxiv.org/abs/1906.10436) (2019)
+ + [Block-coordinate and incremental aggregated nonconvex proximal gradient methods: a unified view](https://arxiv.org/abs/1906.10053) (2019)
+ + [First-order methods almost always avoid saddle points: the case of vanishing step-sizes](https://arxiv.org/abs/1906.07772) (2019)
+ + [Escaping from saddle points on Riemannian manifolds](https://arxiv.org/abs/1906.07355) (2019)
+ + [Iteration-complexity and asymptotic analysis of steepest descent method for multiobjective optimization on Riemannian manifolds](https://arxiv.org/abs/1906.05975) (2019)
+ + [Efficiently escaping saddle points on manifolds](https://arxiv.org/abs/1906.04321) (2019)
+ + [Accelerated Alternating Minimization](https://arxiv.org/abs/1906.03622) (2019)
+ + [Proximal Point Approximations Achieving a Convergence Rate of $O(1/k)$ for Smooth Convex-Concave Saddle Point Problems: Optimistic Gradient and Extra-gradient Methods](https://arxiv.org/abs/1906.01115) (2019)
+ + [On Gradient Descent Ascent for Nonconvex-Concave Minimax Problems](https://arxiv.org/abs/1906.00331) (2019)
  + [The algorithm by Ferson et al. is surprisingly fast: An NP-hard optimization problem solvable in almost linear time with high probability](https://arxiv.org/abs/1905.07821) (2019)
  + [Bregman forward-backward splitting for nonconvex composite optimization: superlinear convergence to nonisolated critical points](https://arxiv.org/abs/1905.11904) (2019)
  + [Fast Convergence of Belief Propagation to Global Optima: Beyond Correlation Decay](https://arxiv.org/abs/1905.09992) (2019)
