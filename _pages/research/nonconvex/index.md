@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: June 27 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jul 08 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -415,6 +415,13 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [Distributed Learning in Non-Convex Environments -- Part I: Agreement at a Linear Rate](https://arxiv.org/abs/1907.01848) (2019)
+ + [Distributed Learning in Non-Convex Environments -- Part II: Polynomial Escape from Saddle-Points](https://arxiv.org/abs/1907.01849) (2019)
+ + [Efficient Algorithms for Smooth Minimax Optimization](https://arxiv.org/abs/1907.01543) (2019)
+ + [Optimization on flag manifolds](https://arxiv.org/abs/1907.00949) (2019)
+ + [Near-Optimal Methods for Minimizing Star-Convex Functions and Beyond](https://arxiv.org/abs/1906.11985) (2019)
+ + [Learning Markov models via low-rank optimization](https://arxiv.org/abs/1907.00113) (2019)
+ + [The generalized orthogonal Procrustes problem in the high noise regime](https://arxiv.org/abs/1907.01145) (2019)
  + [Global Convergence of Least Squares EM for Demixing Two Log-Concave Densities](https://arxiv.org/abs/1906.06776) (2019)
  + [Global Convergence of Policy Gradient Methods to (Almost) Locally Optimal Policies](https://arxiv.org/abs/1906.08383) (2019)
  + [Riemannian optimization on the simplex of positive definite matrices](https://arxiv.org/abs/1906.10436) (2019)
