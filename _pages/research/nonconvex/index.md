@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jul 08 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jul 15 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -415,6 +415,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [SNAP: Finding Approximate Second-Order Stationary Solutions Efficiently for Non-convex Linearly Constrained Problems](https://arxiv.org/abs/1907.04450) (2019)
+ + [Provably Efficient Reinforcement Learning with Linear Function Approximation](https://arxiv.org/abs/1907.05388) (2019)
  + [Distributed Learning in Non-Convex Environments -- Part I: Agreement at a Linear Rate](https://arxiv.org/abs/1907.01848) (2019)
  + [Distributed Learning in Non-Convex Environments -- Part II: Polynomial Escape from Saddle-Points](https://arxiv.org/abs/1907.01849) (2019)
  + [Efficient Algorithms for Smooth Minimax Optimization](https://arxiv.org/abs/1907.01543) (2019)
