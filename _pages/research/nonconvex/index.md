@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jul 15 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jul 29 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -311,6 +311,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ +  [The Landscape of Non-convex Empirical Risk with Degenerate Population Risk](https://arxiv.org/abs/1907.05520) (2019)
  +  [Limitations of Lazy Training of Two-layers Neural Networks](https://arxiv.org/abs/1906.08899) (2019)
  +  [A Comparative Analysis of the Optimization and Generalization Property of Two-layer Neural Network and Random Feature Models Under Gradient Descent Dynamics](https://arxiv.org/abs/1904.04326) (2019)
  +  [Gradient Descent with Early Stopping is Provably Robust to Label Noise for Overparameterized Neural Networks](https://arxiv.org/abs/1903.11680) (2019)
@@ -415,6 +416,12 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [Who is Afraid of Big Bad Minima? Analysis of Gradient-Flow in a Spiked Matrix-Tensor Model](https://arxiv.org/abs/1907.08226) (2019)
+ + [The Generalized Trust Region Subproblem: solution complexity and convex hull results](https://arxiv.org/abs/1907.08843) (2019)
+ + [Sampling and Optimization on Convex Sets in Riemannian Manifolds of Non-Negative Curvature](https://arxiv.org/abs/1907.10531) (2019)
+ + [Stochastic algorithms with geometric step decay converge linearly on sharp functions](https://arxiv.org/abs/1907.09547) (2019)
+ + [Heavy-ball Algorithms Always Escape Saddle Points](https://arxiv.org/abs/1907.09697) (2019)
+ + [Bilevel Optimization and Variational Analysis](https://arxiv.org/abs/1907.06140) (2019)
  + [SNAP: Finding Approximate Second-Order Stationary Solutions Efficiently for Non-convex Linearly Constrained Problems](https://arxiv.org/abs/1907.04450) (2019)
  + [Provably Efficient Reinforcement Learning with Linear Function Approximation](https://arxiv.org/abs/1907.05388) (2019)
  + [Distributed Learning in Non-Convex Environments -- Part I: Agreement at a Linear Rate](https://arxiv.org/abs/1907.01848) (2019)

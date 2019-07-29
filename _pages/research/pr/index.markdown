@@ -4,12 +4,13 @@ permalink: /research/pr/
 title: Phase Retrieval, Spectral Factorization, and Applications
 ---
 
-Recover phaseless complex signals from measured magnitudes, or recover complex signals from the auto-correlation sequences. While for 1D signals the problem is solved both in theory and in practice, that for 2D or higher-D's are still largely open. Emphasis will be put on recent developments. (**Update: Jul 08 2019**)
+Recover phaseless complex signals from measured magnitudes, or recover complex signals from the auto-correlation sequences. While for 1D signals the problem is solved both in theory and in practice, that for 2D or higher-D's are still largely open. Emphasis will be put on recent developments. (**Update: Jul 29 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution. 
 
 ### Provable Results with Algorithms
 
+ +  [On phase retrieval via matrix completion and the estimation of low rank PSD matrices](https://arxiv.org/abs/1907.09537) (2019)
  +  [Complex phase retrieval from subgaussian measurements](https://arxiv.org/abs/1906.08385) (2019)
  +  [Solving Random Systems of Quadratic Equations with Tanh Wirtinger Flow](https://arxiv.org/abs/1905.09320) (2019)
  +  [On the Global Minimizers of Real Robust Phase Retrieval with Sparse Noise](https://arxiv.org/abs/1905.10358) (2019)
