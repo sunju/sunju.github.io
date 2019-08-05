@@ -4,7 +4,7 @@ permalink: /research/pr/
 title: Phase Retrieval, Spectral Factorization, and Applications
 ---
 
-Recover phaseless complex signals from measured magnitudes, or recover complex signals from the auto-correlation sequences. While for 1D signals the problem is solved both in theory and in practice, that for 2D or higher-D's are still largely open. Emphasis will be put on recent developments. (**Update: Jul 29 2019**)
+Recover phaseless complex signals from measured magnitudes, or recover complex signals from the auto-correlation sequences. While for 1D signals the problem is solved both in theory and in practice, that for 2D or higher-D's are still largely open. Emphasis will be put on recent developments. (**Update: Aug 05 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution. 
 
@@ -113,6 +113,7 @@ Recover phaseless complex signals from measured magnitudes, or recover complex s
 
 ### Experimental Results  
  
+ +  [Learning to Synthesize: Robust Phase Retrieval at Low Photon counts](https://arxiv.org/abs/1907.11713) (2019)
  +  [Don't take it lightly: Phasing optical random projections with unknown operators](https://arxiv.org/abs/1907.01703) (2019)
  +  [Frequency-Resolved Optical Gating Recovery via Smoothing Gradient](https://arxiv.org/abs/1902.09447) (2019)
  +  [Phase retrieval for Bragg coherent diffraction imaging at high X-ray energies](https://arxiv.org/abs/1811.06181) (2018)

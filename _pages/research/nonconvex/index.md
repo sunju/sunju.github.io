@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jul 29 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Aug 05 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -298,6 +298,9 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [The Projected Power Method: An Efficient Algorithm for Joint Alignment from Pairwise Differences](https://arxiv.org/abs/1609.05820) (2016)
 
 ### Numerical Linear Algebra
+
+ +  [Binary component decomposition Part II: The asymmetric case](https://arxiv.org/abs/1907.13602) (2019)
+ +  [Binary Component Decomposition Part I: The Positive-Semidefinite Case](https://arxiv.org/abs/1907.13603) (2019)
  +  [On Landscape of Lagrangian Functions and Stochastic Search for Constrained Nonconvex Optimization](https://arxiv.org/abs/1806.05151) (2018)
  +  [PCA by Optimisation of Symmetric Functions has no Spurious Local Optima](https://arxiv.org/abs/1805.07459) (2018)
  +  [PCA by Determinant Optimization has no Spurious Local Optima](https://arxiv.org/abs/1803.04049) (2018)
@@ -416,6 +419,10 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [Incremental Methods for Weakly Convex Optimization](https://arxiv.org/abs/1907.11687) (2019)
+ + [Complexity of Proximal Augmented Lagrangian for nonconvex optimization with nonlinear equality constraints](https://arxiv.org/abs/1908.00131) (2019)
+ + [On Inexact Solution of Auxiliary Problems in Tensor Methods for Convex Optimization](https://arxiv.org/abs/1907.13023) (2019)
+ + [A simple Newton method for local nonsmooth optimization](https://arxiv.org/abs/1907.11742) (2019)
  + [Who is Afraid of Big Bad Minima? Analysis of Gradient-Flow in a Spiked Matrix-Tensor Model](https://arxiv.org/abs/1907.08226) (2019)
  + [The Generalized Trust Region Subproblem: solution complexity and convex hull results](https://arxiv.org/abs/1907.08843) (2019)
  + [Sampling and Optimization on Convex Sets in Riemannian Manifolds of Non-Negative Curvature](https://arxiv.org/abs/1907.10531) (2019)

@@ -24,6 +24,7 @@ University of Minnesota, Twin Cities
 ### Contact 
 - **Email**: jusun@umn.edu \\ \\  sunjunus@gmail.com
 - **Office**: 5-225E, KHKH 
+- **Phone**: 612-624-4002
 - **Webpage**: <http://sunju.org>
 
 ### What's new 
