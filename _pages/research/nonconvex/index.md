@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Aug 05 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Aug 12 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -218,6 +218,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Deep Learning
 
+ +  [Gradient Descent Finds Global Minima for Generalizable Deep Neural Networks of Practical Sizes](https://arxiv.org/abs/1908.02419) (2019)
  +  [A mean-field limit for certain deep neural networks](https://arxiv.org/abs/1906.00193) (2019)
  +  [On Exact Computation with an Infinitely Wide Neural Net](https://arxiv.org/abs/1904.11955) (2019)
  +  [Analysis of the Gradient Descent Algorithm for a Deep Neural Network Model with Skip-connections](https://arxiv.org/abs/1904.05263) (2019)
@@ -419,6 +420,14 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [On The Geometric Analysis of A Quartic-quadratic Optimization Problem under A Spherical Constraint](https://arxiv.org/abs/1908.00745) (2019)
+ + [Gradient Flows and Accelerated Proximal Splitting Methods](https://arxiv.org/abs/1908.00865) (2019)
+ + [Path Length Bounds for Gradient Descent and Flow](https://arxiv.org/abs/1908.01089) (2019)
+ + [Fenchel Duality for Convex Optimization and a Primal Dual Algorithm on Riemannian Manifolds](https://arxiv.org/abs/1908.02022) (2019)
+ + [Proximally Constrained Methods for Weakly Convex Optimization with Weakly Convex Constraints](https://arxiv.org/abs/1908.01871) (2019)
+ + [Proximal Point Methods for Optimization with Nonconvex Functional Constraints](https://arxiv.org/abs/1908.02734) (2019)
+ + [Distributed Gradient Descent: Nonconvergence to Saddle Points and the Stable-Manifold Theorem](https://arxiv.org/abs/1908.02747) (2019)
+ + [An Inexact Augmented Lagrangian Framework for Nonconvex Optimization with Nonlinear Constraints](https://arxiv.org/abs/1906.11357) (2019)
  + [Incremental Methods for Weakly Convex Optimization](https://arxiv.org/abs/1907.11687) (2019)
  + [Complexity of Proximal Augmented Lagrangian for nonconvex optimization with nonlinear equality constraints](https://arxiv.org/abs/1908.00131) (2019)
  + [On Inexact Solution of Auxiliary Problems in Tensor Methods for Convex Optimization](https://arxiv.org/abs/1907.13023) (2019)
