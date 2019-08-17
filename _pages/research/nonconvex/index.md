@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Aug 12 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Aug 17 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -315,6 +315,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ +  [Robust One-Bit Recovery via ReLU Generative Networks: Improved Statistical Rates and Global Landscape Analysis](https://arxiv.org/abs/1908.05368) (2019)
+ +  [The generalization error of random features regression: Precise asymptotics and double descent curve](https://arxiv.org/abs/1908.05355) (2019)
  +  [The Landscape of Non-convex Empirical Risk with Degenerate Population Risk](https://arxiv.org/abs/1907.05520) (2019)
  +  [Limitations of Lazy Training of Two-layers Neural Networks](https://arxiv.org/abs/1906.08899) (2019)
  +  [A Comparative Analysis of the Optimization and Generalization Property of Two-layer Neural Network and Random Feature Models Under Gradient Descent Dynamics](https://arxiv.org/abs/1904.04326) (2019)
@@ -420,6 +422,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+
+ + [On the behaviour of the Douglas-Rachford algorithm for minimizing a convex function subject to a linear constraint](https://arxiv.org/abs/1908.05406) (2019)
  + [On The Geometric Analysis of A Quartic-quadratic Optimization Problem under A Spherical Constraint](https://arxiv.org/abs/1908.00745) (2019)
  + [Gradient Flows and Accelerated Proximal Splitting Methods](https://arxiv.org/abs/1908.00865) (2019)
  + [Path Length Bounds for Gradient Descent and Flow](https://arxiv.org/abs/1908.01089) (2019)
