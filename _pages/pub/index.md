@@ -22,7 +22,7 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 ### Journals 
 
 > **Holographic Phase Retrieval and Reference Design**. \[[arXiv](https://arxiv.org/abs/1901.06453)\] \[[Paper](https://doi.org/10.1088/1361-6420/ab23d1)\]   
-> &nbsp; &nbsp; David Barmherzig, **Ju Sun**, Po-Nan Li, TJ Lane, and Emmanuel J. Cand&#232;s. To appear in Inverse Problems. 
+> &nbsp; &nbsp; David Barmherzig, **Ju Sun**, Po-Nan Li, TJ Lane, and Emmanuel J. Cand&#232;s. Inverse Problems, 35(9):094001, 2019. 
 
 > **High-Speed Channel Modeling with Machine Learning Methods for Signal Integrity Analysis**.  \[[Draft](/docs/lu2017highspeed.pdf)\]\[[Paper](https://doi.org/10.1109/TEMC.2017.2784833)\]  
 > &nbsp; &nbsp; Tianjian Lu, **Ju Sun**, Ken Wu, Zhiping Yang. IEEE Trans. Electromagnetic Compatibility, 60(6):1957--1964, 2018. 
