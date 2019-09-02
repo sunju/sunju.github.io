@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Aug 30 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Sep 02 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -204,6 +204,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 ### Dictionary Learning
 (See also **Theory** part in [Dictionary/Deep Learning](/research/dict-learn/))
 
+ +  [A Nonconvex Approach for Exact and Efficient Multichannel Sparse Blind Deconvolution](https://arxiv.org/abs/1908.10776) (2019)
  +  [Subgradient Descent Learns Orthogonal Dictionaries](https://arxiv.org/abs/1810.10702) (\[<span style="color:red">**S**</span>\], 2018)
  +  [Efficient Dictionary Learning with Gradient Descent](https://arxiv.org/abs/1809.10313) (2018)
  +  [Towards Learning Sparsely Used Dictionaries with Arbitrary Supports](https://arxiv.org/abs/1804.08603) (2018)
@@ -423,6 +424,10 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [Stochastic Optimization for Non-convex Inf-Projection Problems](https://arxiv.org/abs/1908.09941) (2019)
+ + [Sparse solutions of optimal control via Newton method for under-determined systems](https://arxiv.org/abs/1908.10150) (2019)
+ + [Linear Convergence of Adaptive Stochastic Gradient Descent](https://arxiv.org/abs/1908.10525) (2019)
+ + [Randomly initialized EM algorithm for two-component Gaussian mixture achieves near optimality in $O(\sqrt{n})$ iterations](https://arxiv.org/abs/1908.10935) (2019)
  + [Second-Order Guarantees of Stochastic Gradient Descent in Non-Convex Optimization](https://arxiv.org/abs/1908.07023) (2019)
  + [Convergence Behaviour of Some Gradient-Based Methods on Bilinear Games](https://arxiv.org/abs/1908.05699) (2019)
  + [On the behaviour of the Douglas-Rachford algorithm for minimizing a convex function subject to a linear constraint](https://arxiv.org/abs/1908.05406) (2019)

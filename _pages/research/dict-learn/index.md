@@ -3,7 +3,7 @@ layout: page
 permalink: /research/dict-learn/
 title: Dictionary Learning, Blind Deconvolution, Deep Learning
 ---
-Learning dictionaries/atomic sets that induce structured representation on data. Applications are still explosively emerging, especially of deep learning, where one allows multi-level nonlinear cascading of representation. Hence formulations to the problems are fairly diverse. We will roughly organize the references according to the problem they try to solve, concentrated on recent literature of theoretical nature.  (**Update: Jun 27 2019**)
+Learning dictionaries/atomic sets that induce structured representation on data. Applications are still explosively emerging, especially of deep learning, where one allows multi-level nonlinear cascading of representation. Hence formulations to the problems are fairly diverse. We will roughly organize the references according to the problem they try to solve, concentrated on recent literature of theoretical nature.  (**Update: Sep 02 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution. 
 
@@ -12,6 +12,7 @@ Learning dictionaries/atomic sets that induce structured representation on data.
 ### $\mathbf{Y} = \mathbf{A} \mathbf{X}$, $\mathbf{A}$ Square, Invertible, Global Recovery 
 This problem can be reduced to a sequence of problems, each taking the form of finding sparsest vector in a linear subspace. See also [Structured Element Pursuit](/research/struct-elem/). 
 
+ +  [A Nonconvex Approach for Exact and Efficient Multichannel Sparse Blind Deconvolution](https://arxiv.org/abs/1908.10776) (2019)
  +  [Subgradient Descent Learns Orthogonal Dictionaries](https://arxiv.org/abs/1810.10702) (\[<span style="color:red">**S**</span>\], 2018)
  +  [Efficient Dictionary Learning with Gradient Descent](https://arxiv.org/abs/1809.10313) (2018)
  +  [Fast and robust tensor decomposition with applications to dictionary learning](https://arxiv.org/abs/1706.08672) (2017)
@@ -112,6 +113,7 @@ This problem can be reduced to a sequence of problems, each taking the form of f
  +  [Transformation Learning website@UIUC](http://transformlearning.csl.illinois.edu/)
 
 ### Convolutional Dictionary Learning
+ +  [Short-and-Sparse Deconvolution -- A Geometric Approach](https://arxiv.org/abs/1908.10959) (2019)
  +  [Working Locally Thinking Globally - Part II: Stability and Algorithms for Convolutional Sparse Coding](https://arxiv.org/abs/1607.02009) (2016)
  +  [Working Locally Thinking Globally - Part I: Theoretical Guarantees for Convolutional Sparse Coding](https://arxiv.org/abs/1607.0200) (2016)
  +  [Convolutional Dictionary Learning through Tensor Factorization](http://arxiv.org/abs/1506.03509) (2015)
