@@ -31,7 +31,6 @@ University of Minnesota, Twin Cities
 
 #### Upcoming
 - [INFORMS Annual Meeting 2019](http://meetings2.informs.org/wordpress/seattle2019/) at Seattle (Oct 20--23, 2019)
-- Test this new machine 
 
 
 #### Past 
