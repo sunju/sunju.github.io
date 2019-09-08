@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Sep 02 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Sep 08 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -424,6 +424,11 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [Near-optimal Approximate Discrete and Continuous Submodular Function Minimization](https://arxiv.org/abs/1909.00171) (2019)
+ + [Inexact Proximal-Point Penalty Methods for Non-Convex Optimization with Non-Convex Constraints](https://arxiv.org/abs/1908.11518) (2019)
+ + [Anderson Accelerated Douglas-Rachford Splitting](https://arxiv.org/abs/1908.11482) (2019)
+ + [Accelerating ADMM for Efficient Simulation and Optimization](https://arxiv.org/abs/1909.00470) (2019)
+ + [Efficiency of Coordinate Descent Methods For Structured Nonconvex Optimization](https://arxiv.org/abs/1909.00918) (2019)
  + [Stochastic Optimization for Non-convex Inf-Projection Problems](https://arxiv.org/abs/1908.09941) (2019)
  + [Sparse solutions of optimal control via Newton method for under-determined systems](https://arxiv.org/abs/1908.10150) (2019)
  + [Linear Convergence of Adaptive Stochastic Gradient Descent](https://arxiv.org/abs/1908.10525) (2019)
