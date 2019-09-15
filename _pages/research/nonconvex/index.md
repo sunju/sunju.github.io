@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Sep 08 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Sep 15 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -316,6 +316,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+
+ +  [Towards Understanding the Importance of Noise in Training Neural Networks](https://arxiv.org/abs/1909.03172) (2019)
  +  [Effect of Activation Functions on the Training of Overparametrized Neural Nets](https://arxiv.org/abs/1908.05660) (2019)
  +  [Robust One-Bit Recovery via ReLU Generative Networks: Improved Statistical Rates and Global Landscape Analysis](https://arxiv.org/abs/1908.05368) (2019)
  +  [The generalization error of random features regression: Precise asymptotics and double descent curve](https://arxiv.org/abs/1908.05355) (2019)
@@ -424,6 +426,9 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [Extending FISTA to Riemannian Optimization for Sparse PCA](https://arxiv.org/abs/1909.05485) (2019)
+ + [The chain rule for VU-decompositions of nonsmooth functions](https://arxiv.org/abs/1909.04799) (2019)
+ + [An Average Curvature Accelerated Composite Gradient Method for Nonconvex Smooth Composite Optimization Problems](https://arxiv.org/abs/1909.04248) (2019)
  + [Near-optimal Approximate Discrete and Continuous Submodular Function Minimization](https://arxiv.org/abs/1909.00171) (2019)
  + [Inexact Proximal-Point Penalty Methods for Non-Convex Optimization with Non-Convex Constraints](https://arxiv.org/abs/1908.11518) (2019)
  + [Anderson Accelerated Douglas-Rachford Splitting](https://arxiv.org/abs/1908.11482) (2019)
