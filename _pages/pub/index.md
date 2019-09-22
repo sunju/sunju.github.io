@@ -6,7 +6,7 @@ title: Publications
 tags: top
 ---
 
-Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6FaD-UAAAAJ)\] \[[Semantic Scholar](https://www.semanticscholar.org/author/Ju-Sun/1699024)\] \[[arXiv Personal Page](http://arxiv.org/a/sun_j_1)\]
+Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6FaD-UAAAAJ)\] \[[Semantic Scholar](https://www.semanticscholar.org/author/Ju-Sun/144706338)\] \[[arXiv Personal Page](http://arxiv.org/a/sun_j_1)\]
 
 ### Reports 
 

@@ -426,6 +426,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [A Stochastic Proximal Point Algorithm for Saddle-Point Problems](https://arxiv.org/abs/1909.06946) (2019)
+ + [Riemannian Proximal Gradient Methods](https://arxiv.org/abs/1909.06065) (2019)
  + [Extending FISTA to Riemannian Optimization for Sparse PCA](https://arxiv.org/abs/1909.05485) (2019)
  + [The chain rule for VU-decompositions of nonsmooth functions](https://arxiv.org/abs/1909.04799) (2019)
  + [An Average Curvature Accelerated Composite Gradient Method for Nonconvex Smooth Composite Optimization Problems](https://arxiv.org/abs/1909.04248) (2019)
