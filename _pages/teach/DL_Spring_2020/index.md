@@ -6,4 +6,4 @@ tags: top
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-== Think Deep Learning 
+## Think Deep Learning 
