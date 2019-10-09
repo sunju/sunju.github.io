@@ -2,7 +2,6 @@
 layout: page
 permalink: /teach/DL\_Spring\_2020/
 title: Think Deep Learning
-tags: top
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
