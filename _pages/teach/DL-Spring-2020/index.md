@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teach/DL\_Spring\_2020/
+permalink: /teach/DL-Spring-2020/
 title: Think Deep Learning
 <!--description: Publications by categories in reversed chronological order. -->
 ---
