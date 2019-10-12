@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Oct 11 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Oct 12 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -316,6 +316,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ +  [Harnessing the Power of Infinitely Wide Deep Nets on Small-data Tasks](https://arxiv.org/abs/1910.01663) (2019)
+ +  [Minimum "Norm" Neural Networks are Splines](https://arxiv.org/abs/1910.02333) (2019)
  +  [Beyond Linearization: On Quadratic and Higher-Order Approximation of Wide Neural Networks](https://arxiv.org/abs/1910.01619) (2019)
  +  [Polylogarithmic width suffices for gradient descent to achieve arbitrarily small test error with shallow ReLU networks](https://arxiv.org/abs/1909.12292) (2019)
  +  [Finding the forward-Douglas-Rachford-forward method](https://arxiv.org/abs/1909.09747) (2019)
