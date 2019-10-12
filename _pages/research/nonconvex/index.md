@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Oct 06 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Oct 11 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -428,6 +428,13 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [A Global Newton-Type Scheme Based on a Simplified Newton-Type Approach](https://arxiv.org/abs/1910.03296) (2019)
+ + [Circumcentering Reflection Methods for Nonconvex Feasibility Problems](https://arxiv.org/abs/1910.04384) (2019)
+ + [Understanding Limitation of Two Symmetrized Orders by Worst-case Complexity](https://arxiv.org/abs/1910.04366) (2019)
+ + [Implementing a smooth exact penalty function for equality-constrained nonlinear optimization](https://arxiv.org/abs/1910.04300) (2019)
+ + [Nonconvex stochastic optimization on manifolds via Riemannian Frank-Wolfe methods](https://arxiv.org/abs/1910.04194) (2019)
+ + [Convergence Analysis of Gradient Algorithms on Riemannian Manifolds Without Curvature Constraints and Application to Riemannian Mass](https://arxiv.org/abs/1910.02280) (2019)
+ + [The Complexity of Finding Stationary Points with Stochastic Gradient Descent](https://arxiv.org/abs/1910.01845) (2019)
  + [First-order primal-dual methods for nonsmooth non-convex optimisation](https://arxiv.org/abs/1910.00115) (2019)
  + [Necessary and Sufficient Conditions for Adaptive, Mirror, and Standard Gradient Methods](https://arxiv.org/abs/1909.10455) (2019)
  + [A Stochastic Proximal Point Algorithm for Saddle-Point Problems](https://arxiv.org/abs/1909.06946) (2019)
