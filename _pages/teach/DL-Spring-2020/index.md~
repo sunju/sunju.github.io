@@ -7,7 +7,25 @@ title: Think Deep Learning
 
 Over the last few years, deep neural networks (DNN) have fundamentally transformed the way people think of machine learning and approach practical problems. Successes around DNN have ranged from traditional AI fields such as computer vision, natural language processing, interactive games, to health care, physical sciences---touching each and every corner of theoretical and applied domains. On the other hand, DNN still largely operate as black-boxes and we only have very limited understanding as for when and why they work. This course introduces basic ingredients of DNN, samples important applications, and throws around open problems. Emphasis is put on thinking from first principles, as the field is still evolving rapidly and there is nothing there that cannot be changed.
 
-Tentative topics to cover: 
+#### Tentative topics to cover: 
 
 - Course overview
 - Neural networks: old and new 
+- Fundamental belief: universal approximation theorem
+- Numerical optimization with math: optimization with gradient descent and beyond
+- Numerical optimization without math: auto-differentiation and differential programming
+- Work with images: convolutional neural networks
+- Work with images: recognition, detection, segmentation
+- To train or not? scattering transforms
+- Work with sequences: recurrent neural networks 
+- Learning probability distributions: generative adversarial networks
+- Learning representation without labels: dictionary learning and autoencoders
+- Gaming time: deep reinforcement learning
+
+#### Tentative discussion sessions: 
+
+- Python, Numpy, and Google Cloud/Colab
+- Project ideas
+- Tensorflow 2.0 and Pytorch 
+- Backpropagation and computational tricks
+- Research ideas
