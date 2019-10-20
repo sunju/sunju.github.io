@@ -66,7 +66,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 ### Matrix Completion/Sensing
 (See also [low-rank matrix/tensor recovery](/research/low-rank/) )   
 
- +  [Fast and Robust Spectrally Sparse Signal Recovery: A Provable Non-Convex Approach via Robust Low-Rank Hankel Matrix Reconstruction](https://arxiv.org/abs/1910.05859) (2019)
+ +  [Fast and Robust Spectrally Sparse Signal Recovery: A Provable Non-Convex Approach via Robust Low-Rank Hankel Matrix Reconstruction]() (2019)
  +  [Low-rank matrix recovery with composite optimization: good conditioning and rapid convergence](https://arxiv.org/abs/1904.10020) (2019)
  +  [Robust Subspace Recovery with Adversarial Outliers](https://arxiv.org/abs/1904.03275) (2019)
  +  [Noisy Matrix Completion: Understanding Statistical Guarantees for Convex Relaxation via Nonconvex Optimization](https://arxiv.org/abs/1902.07698) (2019)
