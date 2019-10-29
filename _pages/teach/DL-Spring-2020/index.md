@@ -14,10 +14,10 @@ Over the last few years, deep neural networks (DNN) have fundamentally transform
 - Fundamental belief: universal approximation theorem
 - Numerical optimization with math: optimization with gradient descent and beyond
 - Numerical optimization without math: auto-differentiation and differential programming
-- Work with images: convolutional neural networks
-- Work with images: recognition, detection, segmentation
+- Working with images: convolutional neural networks
+- Working with images: recognition, detection, segmentation
 - To train or not? scattering transforms
-- Work with sequences: recurrent neural networks 
+- Working with sequences: recurrent neural networks 
 - Learning probability distributions: generative adversarial networks
 - Learning representation without labels: dictionary learning and autoencoders
 - Gaming time: deep reinforcement learning

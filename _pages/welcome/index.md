@@ -19,7 +19,7 @@ social: true
 Assistant Professor, Computer Science & Engineering  
 University of Minnesota, Twin Cities 
 
-**Research Interests**: foundations of machine learning, data sciences, and numerical optimization, with application to computer vision, signal/image processing, and computational imaging. See my \[[CV](/docs/CV.pdf)\].
+**Research Interests**: machine learning, data sciences, and numerical optimization, computer vision, signal/image processing, and computational imaging, healthcare. See my \[[CV](/docs/CV.pdf)\].
 
 ### Contact 
 - **Email**: jusun@umn.edu \\ \\  sunjunus@gmail.com
@@ -33,11 +33,11 @@ University of Minnesota, Twin Cities
 
 - [SIAM Conference on Mathematics of Data Science](https://www.siam.org/Conferences/CM/Conference/mds20) at Cincinnati, Ohio (May 05--07, 2020)
 - [Workshop on Numerical Algebra in High-Dimensional Data Analysis](http://tianyuan.xmu.edu.cn/index.aspx) at Tianyuan Mathematical Center in Southeast China (TMSE), Xiamen, China (Dec 27--29, 2019)
-- [INFORMS Annual Meeting 2019](http://meetings2.informs.org/wordpress/seattle2019/) at Seattle (Oct 20--23, 2019)
 
 
 #### Past 
 
+- [INFORMS Annual Meeting 2019](http://meetings2.informs.org/wordpress/seattle2019/) at Seattle (Oct 20--23, 2019)
 - Join CS&E @ UMN as an assistant professor! (Jul 01, 2019)
 
 #### Archive
