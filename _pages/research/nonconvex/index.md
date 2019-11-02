@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Oct 24 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Oct 31 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -151,6 +151,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Phase Retrieval
 
+ +  [Online Stochastic Gradient Descent with Arbitrary Initialization Solves Non-smooth, Non-convex Phase Retrieval](https://arxiv.org/abs/1910.12837) (2019)
  +  [Solving Random Systems of Quadratic Equations with Tanh Wirtinger Flow](https://arxiv.org/abs/1905.09320) (2019)
  +  [On the Global Minimizers of Real Robust Phase Retrieval with Sparse Noise](https://arxiv.org/abs/1905.10358) (2019)
  +  [Solving a perturbed amplitude-based model for phase retrieval](https://arxiv.org/abs/1904.10307) (2019)
@@ -318,6 +319,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ +  [Denoising and Regularization via Exploiting the Structural Bias of Convolutional Generators](https://arxiv.org/abs/1910.14634) (2019)
  +  [Harnessing the Power of Infinitely Wide Deep Nets on Small-data Tasks](https://arxiv.org/abs/1910.01663) (2019)
  +  [Minimum "Norm" Neural Networks are Splines](https://arxiv.org/abs/1910.02333) (2019)
  +  [Beyond Linearization: On Quadratic and Higher-Order Approximation of Wide Neural Networks](https://arxiv.org/abs/1910.01619) (2019)
@@ -432,6 +434,12 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [UniXGrad: A Universal, Adaptive Algorithm with Optimal Guarantees for Constrained Optimization](https://arxiv.org/abs/1910.13857) (2019)
+ + [Unifying mirror descent and dual averaging](https://arxiv.org/abs/1910.13742) (2019)
+ + [Pathological subgradient dynamics](https://arxiv.org/abs/1910.13604) (2019)
+ + [Linear Speedup in Saddle-Point Escape for Decentralized Non-Convex Optimization](https://arxiv.org/abs/1910.13852) (2019)
+ + [Towards a theory of non-commutative optimization: geodesic first and second order methods for moment maps and polytopes](https://arxiv.org/abs/1910.12375) (2019)
+ + [Improved Zeroth-Order Variance Reduced Algorithms and Analysis for Nonconvex Optimization](https://arxiv.org/abs/1910.12166) (2019)
  + [Convergence Rates of Subgradient Methods for Quasi-convex Optimization Problems](https://arxiv.org/abs/1910.10879) (2019)
  + [Relative Interior Rule in Block-Coordinate Minimization](https://arxiv.org/abs/1910.09488) (2019)
  + [A Stochastic Extra-Step Quasi-Newton Method for Nonsmooth Nonconvex Optimization](https://arxiv.org/abs/1910.09373) (2019)

@@ -4,12 +4,14 @@ permalink: /research/pr/
 title: Phase Retrieval, Spectral Factorization, and Applications
 ---
 
-Recover phaseless complex signals from measured magnitudes, or recover complex signals from the auto-correlation sequences. While for 1D signals the problem is solved both in theory and in practice, that for 2D or higher-D's are still largely open. Emphasis will be put on recent developments. (**Update: Aug 05 2019**)
+Recover phaseless complex signals from measured magnitudes, or recover complex signals from the auto-correlation sequences. While for 1D signals the problem is solved both in theory and in practice, that for 2D or higher-D's are still largely open. Emphasis will be put on recent developments. (**Update: Oct 31 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution. 
 
 ### Provable Results with Algorithms
 
+ +  [Conjugate Phase Retrieval in Paley-Wiener Space](https://arxiv.org/abs/1910.12975) (2019)
+ +  [Online Stochastic Gradient Descent with Arbitrary Initialization Solves Non-smooth, Non-convex Phase Retrieval](https://arxiv.org/abs/1910.12837) (2019)
  +  [On phase retrieval via matrix completion and the estimation of low rank PSD matrices](https://arxiv.org/abs/1907.09537) (2019)
  +  [Complex phase retrieval from subgaussian measurements](https://arxiv.org/abs/1906.08385) (2019)
  +  [Solving Random Systems of Quadratic Equations with Tanh Wirtinger Flow](https://arxiv.org/abs/1905.09320) (2019)
@@ -89,6 +91,7 @@ Recover phaseless complex signals from measured magnitudes, or recover complex s
 
 ### Recovery Limits
 
+ +  [Information Theoretic Limits for Phase Retrieval with Subsampled Haar Sensing Matrices](https://arxiv.org/abs/1910.11849) (2019)
  +  [Phase Retrieval for Binary Signals: Box Relaxation and Uniqueness](https://arxiv.org/abs/1904.10157) (2019)
  +  [Support Recovery in the Phase Retrieval Model: Information-Theoretic Fundamental Limits](https://arxiv.org/abs/1901.10647) (2019)
  +  [Geometry of the Phase Retrieval Problem](https://arxiv.org/abs/1808.10747) (2018)
