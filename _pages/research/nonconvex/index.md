@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Oct 31 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Nov 10 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -220,6 +220,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Deep Learning
 
+ +  [Sub-Optimal Local Minima Exist for Almost All Over-parameterized Neural Networks](https://arxiv.org/abs/1911.01413) (2019)
  +  [Effects of Depth, Width, and Initialization: A Convergence Analysis of Layer-wise Training for Deep Linear Neural Networks](https://arxiv.org/abs/1910.05874) (2019)
  +  [Learning deep linear neural networks: Riemannian gradient flows and convergence to global minimizers](https://arxiv.org/abs/1910.05505) (2019)
  +  [Gradient Descent Finds Global Minima for Generalizable Deep Neural Networks of Practical Sizes](https://arxiv.org/abs/1908.02419) (2019)
