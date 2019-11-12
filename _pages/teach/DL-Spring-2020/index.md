@@ -13,7 +13,7 @@ Over the last few years, deep neural networks (DNN) have fundamentally transform
 
 **When/Where**: T/Th 2:30PM--3:45PM, Akerman Hall 225
 
-**TA's**: [Yuan Yao](https://myaccount.umn.edu/lookup?SET_INSTITUTION=&UID=yaoxx340)  Email: yaoxx340 AT umn.edu              
+**TA's**: [Yuan Yao](https://myaccount.umn.edu/lookup?SET_INSTITUTION=&UID=yaoxx340)  Email: yaoxx340 AT umn.edu   &emsp; 
 [Taihui Li](https://myaccount.umn.edu/lookup?SET_INSTITUTION=&UID=lixx5027) Email: lixx5027 AT umn.edu
 
 #### Tentative topics to cover: 
