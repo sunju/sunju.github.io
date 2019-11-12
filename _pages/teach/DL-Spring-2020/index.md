@@ -11,6 +11,11 @@ Over the last few years, deep neural networks (DNN) have fundamentally transform
 
 **Prerequisite**: Introduction to machine learning or equivalent. Maturity in linear algebra, calculus, and basic probability is assumed. Familiarity with Python (esp. numpy, scipy) is necessary to complete the homework assignments and final projects.  
 
+**Location/Time**: Akerman Hall 225, T/Th 2:30PM--3:45PM 
+
+**TA's**: [Yuan Yao](https://myaccount.umn.edu/lookup?SET_INSTITUTION=&UID=yaoxx340)  Email: yaoxx340 AT umn.edu 
+[Taihui Li](https://myaccount.umn.edu/lookup?SET_INSTITUTION=&UID=lixx5027) Email: lixx5027 AT umn.edu
+
 #### Tentative topics to cover: 
 
 - Course overview
