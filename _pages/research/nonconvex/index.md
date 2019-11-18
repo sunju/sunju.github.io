@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Nov 10 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Nov 17 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -125,7 +125,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [Guaranteed Rank Minimization via Singular Value Projection](http://arxiv.org/abs/0909.5457) (2009)
 
 ### Tensor Recovery/Decomposition & Hidden Variable Models
-
+ +  [Nonconvex Low-Rank Symmetric Tensor Completion from Noisy Data](https://arxiv.org/abs/1911.04436) (2019)
  +  [Smoothed Analysis in Unsupervised Learning via Decoupling](https://arxiv.org/abs/1811.12361) (2018)
  +  [Recovery Guarantees for Quadratic Tensors with Limited Observations](https://arxiv.org/abs/1811.00148) (2018)
  +  [Algorithmic thresholds for tensor PCA](https://arxiv.org/abs/1808.00921) (2018)
@@ -220,6 +220,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Deep Learning
 
+ +  [Stronger Convergence Results for Deep Residual Networks: Network Width Scales Linearly with Training Data Size](https://arxiv.org/abs/1911.04351) (2019)
  +  [Sub-Optimal Local Minima Exist for Almost All Over-parameterized Neural Networks](https://arxiv.org/abs/1911.01413) (2019)
  +  [Effects of Depth, Width, and Initialization: A Convergence Analysis of Layer-wise Training for Deep Linear Neural Networks](https://arxiv.org/abs/1910.05874) (2019)
  +  [Learning deep linear neural networks: Riemannian gradient flows and convergence to global minimizers](https://arxiv.org/abs/1910.05505) (2019)
@@ -320,6 +321,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ +  [Tight Sample Complexity of Learning One-hidden-layer Convolutional Neural Networks](https://arxiv.org/abs/1911.05059) (2019)
+ +  [Quadratic number of nodes is sufficient to learn a dataset via gradient descent](https://arxiv.org/abs/1911.05402) (2019)
  +  [Denoising and Regularization via Exploiting the Structural Bias of Convolutional Generators](https://arxiv.org/abs/1910.14634) (2019)
  +  [Harnessing the Power of Infinitely Wide Deep Nets on Small-data Tasks](https://arxiv.org/abs/1910.01663) (2019)
  +  [Minimum "Norm" Neural Networks are Splines](https://arxiv.org/abs/1910.02333) (2019)
@@ -435,6 +438,14 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [Nonsmooth Optimization over Stiefel Manifold: Riemannian Subgradient Methods](https://arxiv.org/abs/1911.05047) (2019)
+ + [Bundle Method Sketching for Low Rank Semidefinite Programming](https://arxiv.org/abs/1911.04443) (2019)
+ + [Second-order optimality conditions for non-convex set-constrained optimization problems](https://arxiv.org/abs/1911.04076) (2019)
+ + [Nonconvex Stochastic Nested Optimization via Stochastic ADMM](https://arxiv.org/abs/1911.05167) (2019)
+ + [Gradientless Descent: High-Dimensional Zeroth-Order Optimization](https://arxiv.org/abs/1911.06317) (2019)
+ + [Stochastic Difference-of-Convex Algorithms for Solving nonconvex optimization problems](https://arxiv.org/abs/1911.04334) (2019)
+ + [Regularization of Limited Memory Quasi-Newton Methods for Large-Scale Nonconvex Minimization](https://arxiv.org/abs/1911.04584) (2019)
+ + [Primal-dual block-proximal splitting for a class of non-convex problems](https://arxiv.org/abs/1911.06284) (2019)
  + [UniXGrad: A Universal, Adaptive Algorithm with Optimal Guarantees for Constrained Optimization](https://arxiv.org/abs/1910.13857) (2019)
  + [Unifying mirror descent and dual averaging](https://arxiv.org/abs/1910.13742) (2019)
  + [Pathological subgradient dynamics](https://arxiv.org/abs/1910.13604) (2019)
