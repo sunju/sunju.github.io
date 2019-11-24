@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Nov 17 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Nov 23 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -438,6 +438,11 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [A Fully Stochastic Second-Order Trust Region Method](https://arxiv.org/abs/1911.06920) (2019)
+ + [Convergence Analysis of a Momentum Algorithm with Adaptive Step Size for Non Convex Optimization](https://arxiv.org/abs/1911.07596) (2019)
+ + [The nonsmooth landscape of blind deconvolution](https://arxiv.org/abs/1911.08526) (2019)
+ + [On the tightness of SDP relaxations of QCQPs with repeated eigenvalues](https://arxiv.org/abs/1911.09195) (2019)
+ + [Optimal Complexity and Certification of Bregman First-Order Methods](https://arxiv.org/abs/1911.08510) (2019)
  + [Nonsmooth Optimization over Stiefel Manifold: Riemannian Subgradient Methods](https://arxiv.org/abs/1911.05047) (2019)
  + [Bundle Method Sketching for Low Rank Semidefinite Programming](https://arxiv.org/abs/1911.04443) (2019)
  + [Second-order optimality conditions for non-convex set-constrained optimization problems](https://arxiv.org/abs/1911.04076) (2019)
