@@ -125,6 +125,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [Guaranteed Rank Minimization via Singular Value Projection](http://arxiv.org/abs/0909.5457) (2009)
 
 ### Tensor Recovery/Decomposition & Hidden Variable Models
+
+ +  [When Does Non-Orthogonal Tensor Decomposition Have No Spurious Local Minima?](https://arxiv.org/abs/1911.09815) (2019)
  +  [Nonconvex Low-Rank Symmetric Tensor Completion from Noisy Data](https://arxiv.org/abs/1911.04436) (2019)
  +  [Smoothed Analysis in Unsupervised Learning via Decoupling](https://arxiv.org/abs/1811.12361) (2018)
  +  [Recovery Guarantees for Quadratic Tensors with Limited Observations](https://arxiv.org/abs/1811.00148) (2018)
