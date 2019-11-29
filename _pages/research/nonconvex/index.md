@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Nov 23 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Nov 28 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -151,6 +151,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Phase Retrieval
 
+ +  [The recovery of complex sparse signals from few phaseless measurements](https://arxiv.org/abs/1911.11301) (2019)
  +  [Online Stochastic Gradient Descent with Arbitrary Initialization Solves Non-smooth, Non-convex Phase Retrieval](https://arxiv.org/abs/1910.12837) (2019)
  +  [Solving Random Systems of Quadratic Equations with Tanh Wirtinger Flow](https://arxiv.org/abs/1905.09320) (2019)
  +  [On the Global Minimizers of Real Robust Phase Retrieval with Sparse Noise](https://arxiv.org/abs/1905.10358) (2019)
@@ -205,6 +206,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 ### Dictionary Learning
 (See also **Theory** part in [Dictionary/Deep Learning](/research/dict-learn/))
 
+ +  [Manifold Gradient Descent Solves Multi-Channel Sparse Blind Deconvolution Provably and Efficiently](https://arxiv.org/abs/1911.11167) (2019)
  +  [A Nonconvex Approach for Exact and Efficient Multichannel Sparse Blind Deconvolution](https://arxiv.org/abs/1908.10776) (2019)
  +  [Subgradient Descent Learns Orthogonal Dictionaries](https://arxiv.org/abs/1810.10702) (\[<span style="color:red">**S**</span>\], 2018)
  +  [Efficient Dictionary Learning with Gradient Descent](https://arxiv.org/abs/1809.10313) (2018)
@@ -321,6 +323,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ +  [How Much Over-parameterization Is Sufficient to Learn Deep ReLU Networks?](https://arxiv.org/abs/1911.12360) (2019)
  +  [Tight Sample Complexity of Learning One-hidden-layer Convolutional Neural Networks](https://arxiv.org/abs/1911.05059) (2019)
  +  [Quadratic number of nodes is sufficient to learn a dataset via gradient descent](https://arxiv.org/abs/1911.05402) (2019)
  +  [Denoising and Regularization via Exploiting the Structural Bias of Convolutional Generators](https://arxiv.org/abs/1910.14634) (2019)
@@ -438,6 +441,9 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [An inexact augmented Lagrangian method for nonsmooth optimization on Riemannian manifold](https://arxiv.org/abs/1911.09900) (2019)
+ + [A Stochastic Tensor Method for Non-convex Optimization](https://arxiv.org/abs/1911.10367) (2019)
+ + [Hölderian error bounds and Kurdyka-Łojasiewicz inequality for the trust region subproblem](https://arxiv.org/abs/1911.11955) (2019)
  + [A Fully Stochastic Second-Order Trust Region Method](https://arxiv.org/abs/1911.06920) (2019)
  + [Convergence Analysis of a Momentum Algorithm with Adaptive Step Size for Non Convex Optimization](https://arxiv.org/abs/1911.07596) (2019)
  + [The nonsmooth landscape of blind deconvolution](https://arxiv.org/abs/1911.08526) (2019)

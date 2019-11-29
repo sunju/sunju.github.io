@@ -3,7 +3,7 @@ layout: page
 permalink: /research/dict-learn/
 title: Dictionary Learning, Blind Deconvolution, Deep Learning
 ---
-Learning dictionaries/atomic sets that induce structured representation on data. Applications are still explosively emerging, especially of deep learning, where one allows multi-level nonlinear cascading of representation. Hence formulations to the problems are fairly diverse. We will roughly organize the references according to the problem they try to solve, concentrated on recent literature of theoretical nature.  (**Update: Sep 02 2019**)
+Learning dictionaries/atomic sets that induce structured representation on data. Applications are still explosively emerging, especially of deep learning, where one allows multi-level nonlinear cascading of representation. Hence formulations to the problems are fairly diverse. We will roughly organize the references according to the problem they try to solve, concentrated on recent literature of theoretical nature.  (**Update: Nov 28 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution. 
 
@@ -49,6 +49,7 @@ This problem can be reduced to a sequence of problems, each taking the form of f
   
 ### Single-Kernel Convolutional (aka Blind Deconvolution): $\mathbf{y} = \mathbf{a} \otimes \mathbf{x}$ 
 
+ +  [Manifold Gradient Descent Solves Multi-Channel Sparse Blind Deconvolution Provably and Efficiently](https://arxiv.org/abs/1911.11167) (2019)
  +  [On the Global Geometry of Sphere-Constrained Sparse Blind Deconvolution](https://arxiv.org/abs/1901.01913) (2019)
  +  [Geometry and Symmetry in Short-and-Sparse Deconvolution](https://arxiv.org/abs/1901.00256) (2019)
  +  [Structured Local Optima in Sparse Blind Deconvolution](https://arxiv.org/abs/1806.00338) (2018)
