@@ -4,7 +4,7 @@ permalink: /research/pr/
 title: Phase Retrieval, Spectral Factorization, and Applications
 ---
 
-Recover phaseless complex signals from measured magnitudes, or recover complex signals from the auto-correlation sequences. While for 1D signals the problem is solved both in theory and in practice, that for 2D or higher-D's are still largely open. Emphasis will be put on recent developments. (**Update: Nov 28 2019**)
+Recover phaseless complex signals from measured magnitudes, or recover complex signals from the auto-correlation sequences. While for 1D signals the problem is solved both in theory and in practice, that for 2D or higher-D's are still largely open. Emphasis will be put on recent developments. (**Update: Dec 07 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution. 
 
@@ -116,7 +116,7 @@ Recover phaseless complex signals from measured magnitudes, or recover complex s
  +  [The reconstruction of a multidimensional sequence from the phase or magnitude of its Fourier transform ](https://doi.org/10.1109/TASSP.1982.1163863) (1982)
 
 ### Experimental Results  
- 
+ +  [A note on Douglas-Rachford, subgradients, and phase retrieval](https://arxiv.org/abs/1911.13179) (2019)
  +  [Learning to Synthesize: Robust Phase Retrieval at Low Photon counts](https://arxiv.org/abs/1907.11713) (2019)
  +  [Don't take it lightly: Phasing optical random projections with unknown operators](https://arxiv.org/abs/1907.01703) (2019)
  +  [Frequency-Resolved Optical Gating Recovery via Smoothing Gradient](https://arxiv.org/abs/1902.09447) (2019)

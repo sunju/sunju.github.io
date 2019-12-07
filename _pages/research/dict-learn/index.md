@@ -3,7 +3,7 @@ layout: page
 permalink: /research/dict-learn/
 title: Dictionary Learning, Blind Deconvolution, Deep Learning
 ---
-Learning dictionaries/atomic sets that induce structured representation on data. Applications are still explosively emerging, especially of deep learning, where one allows multi-level nonlinear cascading of representation. Hence formulations to the problems are fairly diverse. We will roughly organize the references according to the problem they try to solve, concentrated on recent literature of theoretical nature.  (**Update: Nov 28 2019**)
+Learning dictionaries/atomic sets that induce structured representation on data. Applications are still explosively emerging, especially of deep learning, where one allows multi-level nonlinear cascading of representation. Hence formulations to the problems are fairly diverse. We will roughly organize the references according to the problem they try to solve, concentrated on recent literature of theoretical nature.  (**Update: Dec 07 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution. 
 
@@ -27,6 +27,7 @@ This problem can be reduced to a sequence of problems, each taking the form of f
  +  [Exact Recovery of Sparsely-Used Dictionaries](http://arxiv.org/abs/1206.5882) (2012)
  
 ### $\mathbf{Y} = \mathbf{A} \mathbf{X}$, $\mathbf{A}$ Overcomplete, Incoherent, Global Recovery 
+ +  [Analysis of the Optimization Landscapes for Overcomplete Representation Learning](https://arxiv.org/abs/1912.02427) (2019)
  +  [Towards Learning Sparsely Used Dictionaries with Arbitrary Supports](https://arxiv.org/abs/1804.08603) (2018)
  +  [A Provable Approach for Double-Sparse Coding](https://arxiv.org/abs/1711.03638) (2017)
  +  [Alternating minimization for dictionary learning with random initialization](https://arxiv.org/abs/1711.03634) (2017)

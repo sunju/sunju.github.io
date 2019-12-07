@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Nov 28 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Dec 07 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -66,6 +66,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 ### Matrix Completion/Sensing
 (See also [low-rank matrix/tensor recovery](/research/low-rank/) )   
 
+ +  [Adversarially Robust Low Dimensional Representations](https://arxiv.org/abs/1911.13268) (2019)
  +  [Fast and Robust Spectrally Sparse Signal Recovery: A Provable Non-Convex Approach via Robust Low-Rank Hankel Matrix Reconstruction](https://arxiv.org/abs/1910.05859) (2019)
  +  [Low-rank matrix recovery with composite optimization: good conditioning and rapid convergence](https://arxiv.org/abs/1904.10020) (2019)
  +  [Robust Subspace Recovery with Adversarial Outliers](https://arxiv.org/abs/1904.03275) (2019)
@@ -208,6 +209,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 ### Dictionary Learning
 (See also **Theory** part in [Dictionary/Deep Learning](/research/dict-learn/))
 
+ +  [Analysis of the Optimization Landscapes for Overcomplete Representation Learning](https://arxiv.org/abs/1912.02427) (2019)
  +  [Manifold Gradient Descent Solves Multi-Channel Sparse Blind Deconvolution Provably and Efficiently](https://arxiv.org/abs/1911.11167) (2019)
  +  [A Nonconvex Approach for Exact and Efficient Multichannel Sparse Blind Deconvolution](https://arxiv.org/abs/1908.10776) (2019)
  +  [Subgradient Descent Learns Orthogonal Dictionaries](https://arxiv.org/abs/1810.10702) (\[<span style="color:red">**S**</span>\], 2018)
@@ -325,6 +327,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ +  [Landscape Complexity for the Empirical Risk of Generalized Linear Models](https://arxiv.org/abs/1912.02143) (2019)
+ +  [Stationary Points of Shallow Neural Networks with Quadratic Activation Function](https://arxiv.org/abs/1912.01599) (2019)
  +  [How Much Over-parameterization Is Sufficient to Learn Deep ReLU Networks?](https://arxiv.org/abs/1911.12360) (2019)
  +  [Tight Sample Complexity of Learning One-hidden-layer Convolutional Neural Networks](https://arxiv.org/abs/1911.05059) (2019)
  +  [Quadratic number of nodes is sufficient to learn a dataset via gradient descent](https://arxiv.org/abs/1911.05402) (2019)
@@ -443,6 +447,15 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [Lower Bounds for Non-Convex Stochastic Optimization](https://arxiv.org/abs/1912.02365) (2019)
+ + [Analysis of Asymptotic Escape of Strict Saddle Sets in Manifold Optimization](https://arxiv.org/abs/1911.12518) (2019)
+ + [Efficient Semidefinite Programming with approximate ADMM](https://arxiv.org/abs/1912.02767) (2019)
+ + [Local convergence of tensor methods](https://arxiv.org/abs/1912.02516) (2019)
+ + [Implementing a smooth exact penalty function for general constrained nonlinear optimization](https://arxiv.org/abs/1912.02093) (2019)
+ + [Stochastic proximal splitting algorithm for stochastic composite minimization](https://arxiv.org/abs/1912.02039) (2019)
+ + [Polynomial time guarantees for the Burer-Monteiro method](https://arxiv.org/abs/1912.01745) (2019)
+ + [Proximal Splitting Algorithms: Overrelax them all!](https://arxiv.org/abs/1912.00137) (2019)
+ + [An accelerated first-order method with complexity analysis for solving cubic regularization subproblems](https://arxiv.org/abs/1911.12545) (2019)
  + [An inexact augmented Lagrangian method for nonsmooth optimization on Riemannian manifold](https://arxiv.org/abs/1911.09900) (2019)
  + [A Stochastic Tensor Method for Non-convex Optimization](https://arxiv.org/abs/1911.10367) (2019)
  + [Hölderian error bounds and Kurdyka-Łojasiewicz inequality for the trust region subproblem](https://arxiv.org/abs/1911.11955) (2019)
