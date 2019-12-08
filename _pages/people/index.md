@@ -8,4 +8,4 @@ tags: top
 
 ### PhD Students 
 
-- Taihui Li (CS&E, coadvised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/))
+- Taihui Li (CS&E, co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/))
