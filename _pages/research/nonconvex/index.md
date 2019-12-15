@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Dec 07 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Dec 14 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -447,6 +447,9 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [A Stochastic Quasi-Newton Method for Large-Scale Nonconvex Optimization with Applications](https://arxiv.org/abs/1912.04456) (2019)
+ + [Trust-Region Newton-CG with Strong Second-Order Complexity Guarantees for Nonconvex Optimization](https://arxiv.org/abs/1912.04365) (2019)
+ + [Second-Order Non-Convex Optimization for Constrained Fixed-Structure Static Output Feedback Controller Synthesis](https://arxiv.org/abs/1912.04617) (2019)
  + [Lower Bounds for Non-Convex Stochastic Optimization](https://arxiv.org/abs/1912.02365) (2019)
  + [Analysis of Asymptotic Escape of Strict Saddle Sets in Manifold Optimization](https://arxiv.org/abs/1911.12518) (2019)
  + [Efficient Semidefinite Programming with approximate ADMM](https://arxiv.org/abs/1912.02767) (2019)
