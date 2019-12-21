@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Dec 14 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Dec 19 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -226,6 +226,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Deep Learning
 
+ +  [Optimization for deep learning: theory and algorithms](https://arxiv.org/abs/1912.08957) (2019)
  +  [Stronger Convergence Results for Deep Residual Networks: Network Width Scales Linearly with Training Data Size](https://arxiv.org/abs/1911.04351) (2019)
  +  [Sub-Optimal Local Minima Exist for Almost All Over-parameterized Neural Networks](https://arxiv.org/abs/1911.01413) (2019)
  +  [Effects of Depth, Width, and Initialization: A Convergence Analysis of Layer-wise Training for Deep Linear Neural Networks](https://arxiv.org/abs/1910.05874) (2019)
@@ -447,6 +448,12 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [A Distributed Quasi-Newton Algorithm for Primal and Dual Regularized Empirical Risk Minimization](https://arxiv.org/abs/1912.06508) (2019)
+ + [Semismooth Newton-type method for bilevel optimization: Global convergence and extensive numerical experiments](https://arxiv.org/abs/1912.07079) (2019)
+ + [Active strict saddles in nonsmooth optimization](https://arxiv.org/abs/1912.07146) (2019)
+ + [On Lower Iteration Complexity Bounds for the Saddle Point Problems](https://arxiv.org/abs/1912.07481) (2019)
+ + [Leveraging Two Reference Functions in Block Bregman Proximal Gradient Descent for Non-convex and Non-Lipschitz Problems](https://arxiv.org/abs/1912.07527) (2019)
+ + [Convergence of a Stochastic Subgradient Method with Averaging for Nonsmooth Nonconvex Constrained Optimization](https://arxiv.org/abs/1912.07580) (2019)
  + [A Stochastic Quasi-Newton Method for Large-Scale Nonconvex Optimization with Applications](https://arxiv.org/abs/1912.04456) (2019)
  + [Trust-Region Newton-CG with Strong Second-Order Complexity Guarantees for Nonconvex Optimization](https://arxiv.org/abs/1912.04365) (2019)
  + [Second-Order Non-Convex Optimization for Constrained Fixed-Structure Static Output Feedback Controller Synthesis](https://arxiv.org/abs/1912.04617) (2019)
