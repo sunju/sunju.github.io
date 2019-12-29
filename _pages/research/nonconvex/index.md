@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Dec 19 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Dec 29 2019**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -448,6 +448,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [The Douglas--Rachford Algorithm Converges Only Weakly](https://arxiv.org/abs/1912.09564) (2019)
+ + [Robust Group Synchronization via Cycle-Edge Message Passing](https://arxiv.org/abs/1912.11347) (2019)
  + [A Distributed Quasi-Newton Algorithm for Primal and Dual Regularized Empirical Risk Minimization](https://arxiv.org/abs/1912.06508) (2019)
  + [Semismooth Newton-type method for bilevel optimization: Global convergence and extensive numerical experiments](https://arxiv.org/abs/1912.07079) (2019)
  + [Active strict saddles in nonsmooth optimization](https://arxiv.org/abs/1912.07146) (2019)
