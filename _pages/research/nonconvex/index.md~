@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Dec 29 2019**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jan 04 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -328,6 +328,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ +  [No Spurious Local Minima in Deep Quadratic Networks]() (2020)
  +  [Landscape Complexity for the Empirical Risk of Generalized Linear Models](https://arxiv.org/abs/1912.02143) (2019)
  +  [Stationary Points of Shallow Neural Networks with Quadratic Activation Function](https://arxiv.org/abs/1912.01599) (2019)
  +  [How Much Over-parameterization Is Sufficient to Learn Deep ReLU Networks?](https://arxiv.org/abs/1911.12360) (2019)
@@ -448,7 +449,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
- + [The Douglas--Rachford Algorithm Converges Only Weakly]() (2019)
+ + [Introduction to Nonsmooth Analysis and Optimization](https://arxiv.org/abs/2001.00216) (2019)
+ + [The Douglas--Rachford Algorithm Converges Only Weakly](https://arxiv.org/abs/1912.09564) (2019)
  + [Robust Group Synchronization via Cycle-Edge Message Passing](https://arxiv.org/abs/1912.11347) (2019)
  + [A Distributed Quasi-Newton Algorithm for Primal and Dual Regularized Empirical Risk Minimization](https://arxiv.org/abs/1912.06508) (2019)
  + [Semismooth Newton-type method for bilevel optimization: Global convergence and extensive numerical experiments](https://arxiv.org/abs/1912.07079) (2019)
