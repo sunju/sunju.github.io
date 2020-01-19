@@ -16,10 +16,11 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > **Subgradient Descent Learns Orthogonal Dictionaries**.  \[[arXiv](https://arxiv.org/abs/1810.10702)\]  
 > &nbsp; &nbsp; Yu Bai, Qijia Jiang, **Ju Sun**. 2018.   
 
-> **Dictionary Learning in Fourier Transform Scanning Tunneling Spectroscopy**.  \[[arXiv](https://arxiv.org/abs/1807.10752)\]  
-> &nbsp; &nbsp; Sky Cheung, John Shin, Yenson Lau, Zhengyu Chen, **Ju Sun**, Yuqian Zhang, John Wright, and Abhay Pasupathy. Submitted to Nature Communications, 2018. 
 
 ### Journals 
+
+> **Dictionary Learning in Fourier Transform Scanning Tunneling Spectroscopy**.  \[[arXiv](https://arxiv.org/abs/1807.10752)\]  
+> &nbsp; &nbsp; Sky Cheung, John Shin, Yenson Lau, Zhengyu Chen, **Ju Sun**, Yuqian Zhang, John Wright, and Abhay Pasupathy. Accepted by Nature Communications, 2020. 
 
 > **Holographic Phase Retrieval and Reference Design**. \[[arXiv](https://arxiv.org/abs/1901.06453)\] \[[Paper](https://doi.org/10.1088/1361-6420/ab23d1)\]   
 > &nbsp; &nbsp; David Barmherzig, **Ju Sun**, Po-Nan Li, TJ Lane, and Emmanuel J. Cand&#232;s. Inverse Problems, 35(9):094001, 2019. 

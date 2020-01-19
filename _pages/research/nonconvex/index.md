@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jan 13 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jan 19 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -66,6 +66,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 ### Matrix Completion/Sensing
 (See also [low-rank matrix/tensor recovery](/research/low-rank/) )   
 
+ +  [Bridging Convex and Nonconvex Optimization in Robust PCA: Noise, Outliers, and Missing Data](https://arxiv.org/abs/2001.05484) (2020)
  +  [Adversarially Robust Low Dimensional Representations](https://arxiv.org/abs/1911.13268) (2019)
  +  [Fast and Robust Spectrally Sparse Signal Recovery: A Provable Non-Convex Approach via Robust Low-Rank Hankel Matrix Reconstruction](https://arxiv.org/abs/1910.05859) (2019)
  +  [Low-rank matrix recovery with composite optimization: good conditioning and rapid convergence](https://arxiv.org/abs/1904.10020) (2019)
