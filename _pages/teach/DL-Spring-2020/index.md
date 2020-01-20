@@ -40,4 +40,4 @@ Over the last few years, deep neural networks (DNN) have fundamentally transform
 - Backpropagation and computational tricks
 - Research ideas
 
-[test include file](test.pdf)
+[test include file](./test.pdf)
