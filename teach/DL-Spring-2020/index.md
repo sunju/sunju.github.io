@@ -17,9 +17,40 @@ Over the last few years, deep neural networks (DNN) have fundamentally transform
 
 **TA's**: [Yuan Yao](https://myaccount.umn.edu/lookup?SET_INSTITUTION=&UID=yaoxx340)  Email: yaoxx340 AT umn.edu   &emsp;    [Taihui Li](https://myaccount.umn.edu/lookup?SET_INSTITUTION=&UID=lixx5027) Email: lixx5027 AT umn.edu
 
+| Lecture | Date   | Topics                                              | Reading | Notes |
+| ------- | ------ | --------------------------------------------------- | ------- | ----- |
+| 1       | Jan 12 | Overview                                            | ------- |       |
+| 2       | Jan 23 | Neural networks: old and new                        |         |       |
+| 3       | Jan 27 | Fundamental belief: universal approximation theorem |         |       |
+| 4       | Jan 30 |                                                     |         |       |
+| 5       |        |                                                     |         |       |
+| 6       |        |                                                     |         |       |
+| 7       |        |                                                     |         |       |
+| 8       |        |                                                     |         |       |
+| 9       |        |                                                     |         |       |
+| 10      |        |                                                     |         |       |
+| 11      |        |                                                     |         |       |
+| 12      |        |                                                     |         |       |
+| 13      |        |                                                     |         |       |
+| 14      |        |                                                     |         |       |
+| 15      |        |                                                     |         |       |
+| 16      |        |                                                     |         |       |
+| 17      |        |                                                     |         |       |
+| 18      |        |                                                     |         |       |
+| 19      |        |                                                     |         |       |
+| 20      |        |                                                     |         |       |
+| 21      |        |                                                     |         |       |
+| 22      |        |                                                     |         |       |
+| 23      |        |                                                     |         |       |
+| 24      |        |                                                     |         |       |
+|         |        |                                                     |         |       |
+
+
+
+
 #### Tentative topics to cover:
 
-- Course overview
+<!-- - Course overview
 - Neural networks: old and new
 - Fundamental belief: universal approximation theorem
 - Numerical optimization with math: optimization with gradient descent and beyond
@@ -38,32 +69,4 @@ Over the last few years, deep neural networks (DNN) have fundamentally transform
 - Project ideas
 - Tensorflow 2.0 and Pytorch
 - Backpropagation and computational tricks
-- Research ideas
-
-| Lecture | Date   | Topics | Reading | Notes |
-| ------- | ------ | ------ | ------- | ----- |
-| 1       | Jan 12 | ------ | ------- |       |
-| 2       | Jan 23 |        |         |       |
-| 3       | Jan 27 |        |         |       |
-| 4       | Jan 30 |        |         |       |
-| 5       |        |        |         |       |
-| 6       |        |        |         |       |
-| 7       |        |        |         |       |
-| 8       |        |        |         |       |
-| 9       |        |        |         |       |
-| 10      |        |        |         |       |
-| 11      |        |        |         |       |
-| 12      |        |        |         |       |
-| 13      |        |        |         |       |
-| 14      |        |        |         |       |
-| 15      |        |        |         |       |
-| 16      |        |        |         |       |
-| 17      |        |        |         |       |
-| 18      |        |        |         |       |
-| 19      |        |        |         |       |
-| 20      |        |        |         |       |
-| 21      |        |        |         |       |
-| 22      |        |        |         |       |
-| 23      |        |        |         |       |
-| 24      |        |        |         |       |
-|         |        |        |         |       |
+- Research ideas -->
