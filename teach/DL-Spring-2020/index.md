@@ -7,48 +7,67 @@ title: Think Deep Learning
 
 Over the last few years, deep neural networks (DNN) have fundamentally transformed the way people think of machine learning and approach practical problems. Successes around DNN have ranged from traditional AI fields such as computer vision, natural language processing, interactive games, to health care, physical sciences---touching each and every corner of theoretical and applied domains. On the other hand, DNN still largely operate as black-boxes and we only have very limited understanding as for when and why they work. This course introduces basic ingredients of DNN, samples important applications, and throws around open problems. Emphasis is put on thinking from first principles, as the field is still evolving rapidly and there is nothing there that cannot be changed.
 
-**Target**: Graduate and advanced undergrad students. Registration is based on permission from the instructor. If you're interested, please email Prof. Sun (jusun AT umn.edu) and describe your academic standing, relevant course experience, and research experience if any.
-
-**No Panic**: <span style="color:red"> The enrollment has reached the cap. </span> While we're maintaining a waiting list, and may decide to increase the cap later, there's no guarantee. We're likely to re-run the course in fall 2020 and to make the course regular in the near future, and so please consider next iterations if you're not in.
-
-**Prerequisite**: Introduction to machine learning or equivalent. Maturity in linear algebra, calculus, and basic probability is assumed. Familiarity with Python (esp. numpy, scipy) is necessary to complete the homework assignments and final projects.  
+**Instructor**: [Professor Ju Sun](https://sunju.org/)  Email: jusun AT umn.edu
 
 **When/Where**: T/Th 2:30PM--3:45PM, Akerman Hall 225
 
 **TA's**: [Yuan Yao](https://myaccount.umn.edu/lookup?SET_INSTITUTION=&UID=yaoxx340)  Email: yaoxx340 AT umn.edu   &emsp;    [Taihui Li](https://myaccount.umn.edu/lookup?SET_INSTITUTION=&UID=lixx5027) Email: lixx5027 AT umn.edu
 
-| Lecture | Date   | Topics                                              | Reading | Notes |
-| ------- | ------ | --------------------------------------------------- | ------- | ----- |
-| 1       | Jan 12 | Overview                                            | ------- |       |
-| 2       | Jan 23 | Neural networks: old and new                        |         |       |
-| 3       | Jan 27 | Fundamental belief: universal approximation theorem |         |       |
-| 4       | Jan 30 |                                                     |         |       |
-| 5       |        |                                                     |         |       |
-| 6       |        |                                                     |         |       |
-| 7       |        |                                                     |         |       |
-| 8       |        |                                                     |         |       |
-| 9       |        |                                                     |         |       |
-| 10      |        |                                                     |         |       |
-| 11      |        |                                                     |         |       |
-| 12      |        |                                                     |         |       |
-| 13      |        |                                                     |         |       |
-| 14      |        |                                                     |         |       |
-| 15      |        |                                                     |         |       |
-| 16      |        |                                                     |         |       |
-| 17      |        |                                                     |         |       |
-| 18      |        |                                                     |         |       |
-| 19      |        |                                                     |         |       |
-| 20      |        |                                                     |         |       |
-| 21      |        |                                                     |         |       |
-| 22      |        |                                                     |         |       |
-| 23      |        |                                                     |         |       |
-| 24      |        |                                                     |         |       |
-|         |        |                                                     |         |       |
+The detailed syllabus, containing the office hours, recommended references, assessment, homework and project requirements, programming and computing, and other resources, can be found here: [Syllabus.pdf](Syllabus.pdf)
+
+<!-- **Target**: Graduate and advanced undergrad students. Registration is based on permission from the instructor. If you're interested, please email Prof. Sun (jusun AT umn.edu) and describe your academic standing, relevant course experience, and research experience if any. -->
+
+<!-- **No Panic**: <span style="color:red"> The enrollment has reached the cap. </span> While we're maintaining a waiting list, and may decide to increase the cap later, there's no guarantee. We're likely to re-run the course in fall 2020 and to make the course regular in the near future, and so please consider next iterations if you're not in. -->
+
+<!-- **Prerequisite**: Introduction to machine learning or equivalent. Maturity in linear algebra, calculus, and basic probability is assumed. Familiarity with Python (esp. numpy, scipy) is necessary to complete the homework assignments and final projects.   -->
+
+- [Lectures](#lectures)
+- [Homework assignments](#homework-assignments)
+- [Course project](#course-project)
+
+#### Lectures
+
+| Date  | Topics                                              | Notes | Reading |
+|:-----:| --------------------------------------------------- | ----- | ------- |
+| 01/21 | Overview                                            |       |         |
+| 01/23 | Neural networks: old and new                        |       |         |
+| 01/28 | Fundamental belief: universal approximation theorem |       |         |
+| 01/30 |                                                     |       |         |
+| 02/04 |                                                     |       |         |
+| 02/06 |                                                     |       |         |
+| 02/11 |                                                     |       |         |
+| 02/13 |                                                     |       |         |
+| 02/18 |                                                     |       |         |
+| 02/20 |                                                     |       |         |
+| 02/25 |                                                     |       |         |
+| 02/27 |                                                     |       |         |
+| 03/03 |                                                     |       |         |
+| 03/05 |                                                     |       |         |
+| 03/10 | SPRING BREAK   -- NO CLASS                                     |       |         |
+| 03/12 | SPRING BREAK  -- NO CLASS                                       |       |         |
+| 03/17 |                                                     |       |         |
+| 03/19 |                                                     |       |         |
+| 03/24 |                                                     |       |         |
+| 03/26 |                                                     |       |         |
+| 03/31 |                                                     |       |         |
+| 04/02 |                                                     |       |         |
+| 04/07 |                                                     |       |         |
+| 04/09 |                                                     |       |         |
+| 04/14 |                                                     |       |         |
+| 04/16 |                                                     |       |         |
+| 04/21 |                                                     |       |         |
+| 04/23 |                                                     |       |         |
+| 04/28 |                                                     |       |         |
+| 04/30 |                                                     |       |         |
+| 05/05 |                                                     |       |         |
 
 
+#### Homework assignments
 
 
-#### Tentative topics to cover:
+#### Course project
+
+<!-- #### Tentative topics to cover: -->
 
 <!-- - Course overview
 - Neural networks: old and new
@@ -63,9 +82,9 @@ Over the last few years, deep neural networks (DNN) have fundamentally transform
 - Learning representation without labels: dictionary learning and autoencoders
 - Gaming time: deep reinforcement learning
 
-#### Tentative discussion sessions:
+<!-- #### Tentative discussion sessions: -->
 
-- Python, Numpy, and Google Cloud/Colab
+<!-- - Python, Numpy, and Google Cloud/Colab
 - Project ideas
 - Tensorflow 2.0 and Pytorch
 - Backpropagation and computational tricks
