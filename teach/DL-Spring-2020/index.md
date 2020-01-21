@@ -40,7 +40,30 @@ Over the last few years, deep neural networks (DNN) have fundamentally transform
 - Backpropagation and computational tricks
 - Research ideas
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Lecture | Date   | Topics | Reading | Notes |
+| ------- | ------ | ------ | ------- | ----- |
+| 1       | Jan 12 | ------ | ------- |       |
+| 2       | Jan 23 |        |         |       |
+| 3       | Jan 27 |        |         |       |
+| 4       | Jan 30 |        |         |       |
+| 5       |        |        |         |       |
+| 6       |        |        |         |       |
+| 7       |        |        |         |       |
+| 8       |        |        |         |       |
+| 9       |        |        |         |       |
+| 10      |        |        |         |       |
+| 11      |        |        |         |       |
+| 12      |        |        |         |       |
+| 13      |        |        |         |       |
+| 14      |        |        |         |       |
+| 15      |        |        |         |       |
+| 16      |        |        |         |       |
+| 17      |        |        |         |       |
+| 18      |        |        |         |       |
+| 19      |        |        |         |       |
+| 20      |        |        |         |       |
+| 21      |        |        |         |       |
+| 22      |        |        |         |       |
+| 23      |        |        |         |       |
+| 24      |        |        |         |       |
+|         |        |        |         |       |
