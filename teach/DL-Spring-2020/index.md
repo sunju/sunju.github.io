@@ -30,14 +30,14 @@ The detailed syllabus, containing the office hours, recommended references, asse
 | Date  | Topics                                              | Notes                       | Reading |
 |:-----:| --------------------------------------------------- | --------------------------- | ------- |
 | 01/21 | Overview                                            | [Slides](lecture-01-21.pdf) |         |
-| 01/23 | Neural networks: old and new                        |                             |         |
+| 01/23 | Neural networks: old and new                        | [Slides](lecture-01-23.pdf) |         |
 | 01/28 | Fundamental belief: universal approximation theorem |                             |         |
 | 01/30 |                                                     |                             |         |
-| 02/04 |                                                     |                             |         |
+| 02/04 | (Tutorial) Numpy, Scipy, Colab [Guest: **Dr. Ben Lynch** of MSI]                                                |                             |         |
 | 02/06 |                                                     |                             |         |
 | 02/11 |                                                     |                             |         |
 | 02/13 |                                                     |                             |         |
-| 02/18 |                                                     |                             |         |
+| 02/18 | (Tutorial) Tensorflow, Pytorch, MSI GPU cluster [Guest: **Dr. Ben Lynch** of MSI]                                                     |                             |         |
 | 02/20 |                                                     |                             |         |
 | 02/25 |                                                     |                             |         |
 | 02/27 |                                                     |                             |         |
