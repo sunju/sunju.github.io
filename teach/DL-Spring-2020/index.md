@@ -21,45 +21,55 @@ The detailed syllabus, containing the office hours, recommended references, asse
 
 <!-- **Prerequisite**: Introduction to machine learning or equivalent. Maturity in linear algebra, calculus, and basic probability is assumed. Familiarity with Python (esp. numpy, scipy) is necessary to complete the homework assignments and final projects.   -->
 
+- [References](#references)
 - [Lectures](#lectures)
 - [Homework assignments](#homework-assignments)
 - [Course project](#course-project)
 
+#### References
+- (D2L)  [Dive into Deep Learning](https://d2l.ai/) by Aston Zhang, Zachary C. Lipton,  Mu Li, and Alexander J. Smola. Livebook.
+- (DL)  [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, Aaron Courville. MIT Press, 2016.
+- (MNDL) [Neural Networks and Deep Learning](https://www.springer.com/gp/book/9783319944623) by Charu Aggarwal. Springer, 2018.
+- (DLR) [The Deep Learning Revolution](https://mitpress.mit.edu/books/deep-learning-revolution) by Terrence J. Sejnowski. MIT Press, 2018.
+- (DLP) [Deep Learning with Python](https://livebook.manning.
+com/book/deep-learning-with-python) by François Chollet. Livebook.
+- (HDML) [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) (2ed) by Aurélien Géron. O’Reilly Media, 2019.
+
 #### Lectures
 
-| Date  | Topics                                              | Notes                       | Reading |
-|:-----:| --------------------------------------------------- | --------------------------- | ------- |
-| 01/21 | Overview                                            | [Slides](lecture-01-21.pdf) |         |
-| 01/23 | Neural networks: old and new                        | [Slides](lecture-01-23.pdf) |         |
-| 01/28 | Fundamental belief: universal approximation theorem |                             |         |
-| 01/30 |                                                     |                             |         |
-| 02/04 | (Tutorial) Numpy, Scipy, Colab [Guest: **Dr. Ben Lynch** of MSI]                                                |                             |         |
-| 02/06 |                                                     |                             |         |
-| 02/11 |                                                     |                             |         |
-| 02/13 |                                                     |                             |         |
-| 02/18 | (Tutorial) Tensorflow, Pytorch, MSI GPU cluster [Guest: **Dr. Ben Lynch** of MSI]                                                     |                             |         |
-| 02/20 |                                                     |                             |         |
-| 02/25 |                                                     |                             |         |
-| 02/27 |                                                     |                             |         |
-| 03/03 |                                                     |                             |         |
-| 03/05 |                                                     |                             |         |
-| 03/10 | SPRING BREAK   -- NO CLASS                          |                             |         |
-| 03/12 | SPRING BREAK  -- NO CLASS                           |                             |         |
-| 03/17 |                                                     |                             |         |
-| 03/19 |                                                     |                             |         |
-| 03/24 |                                                     |                             |         |
-| 03/26 |                                                     |                             |         |
-| 03/31 |                                                     |                             |         |
-| 04/02 |                                                     |                             |         |
-| 04/07 |                                                     |                             |         |
-| 04/09 |                                                     |                             |         |
-| 04/14 |                                                     |                             |         |
-| 04/16 |                                                     |                             |         |
-| 04/21 |                                                     |                             |         |
-| 04/23 |                                                     |                             |         |
-| 04/28 |                                                     |                             |         |
-| 04/30 |                                                     |                             |         |
-| 05/05 |                                                     |                             |         |
+| Date  | Topics                                                                            | Notes                       | Reading                          |
+|:-----:| --------------------------------------------------------------------------------- | --------------------------- | -------------------------------- |
+| 01/21 | Overview                                                                          | [Slides](lecture-01-21.pdf) |                                  |
+| 01/23 | Neural networks: old and new                                                      | [Slides](lecture-01-23.pdf) | DLP Ch 1, D2L Ch 3--4, MNDL Ch 2 |
+| 01/28 | Fundamental belief: universal approximation theorem                               |                             |                                  |
+| 01/30 |                                                                                   |                             |                                  |
+| 02/04 | (Tutorial) Numpy, Scipy, Colab [Guest: **Dr. Ben Lynch** of MSI]                  |                             |                                  |
+| 02/06 |                                                                                   |                             |                                  |
+| 02/11 |                                                                                   |                             |                                  |
+| 02/13 |                                                                                   |                             |                                  |
+| 02/18 | (Tutorial) Tensorflow, Pytorch, MSI GPU cluster [Guest: **Dr. Ben Lynch** of MSI] |                             |                                  |
+| 02/20 |                                                                                   |                             |                                  |
+| 02/25 |                                                                                   |                             |                                  |
+| 02/27 |                                                                                   |                             |                                  |
+| 03/03 |                                                                                   |                             |                                  |
+| 03/05 |                                                                                   |                             |                                  |
+| 03/10 | SPRING BREAK   -- NO CLASS                                                        |                             |                                  |
+| 03/12 | SPRING BREAK  -- NO CLASS                                                         |                             |                                  |
+| 03/17 |                                                                                   |                             |                                  |
+| 03/19 |                                                                                   |                             |                                  |
+| 03/24 |                                                                                   |                             |                                  |
+| 03/26 |                                                                                   |                             |                                  |
+| 03/31 |                                                                                   |                             |                                  |
+| 04/02 |                                                                                   |                             |                                  |
+| 04/07 |                                                                                   |                             |                                  |
+| 04/09 |                                                                                   |                             |                                  |
+| 04/14 |                                                                                   |                             |                                  |
+| 04/16 |                                                                                   |                             |                                  |
+| 04/21 |                                                                                   |                             |                                  |
+| 04/23 |                                                                                   |                             |                                  |
+| 04/28 |                                                                                   |                             |                                  |
+| 04/30 |                                                                                   |                             |                                  |
+| 05/05 |                                                                                   |                             |                                  |
 
 
 #### Homework assignments
