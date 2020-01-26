@@ -44,7 +44,7 @@ com/book/deep-learning-with-python) by François Chollet. Livebook.
 | 01/28 | Fundamental belief: universal approximation theorem                               |                             |                                  |
 | 01/30 |                                                                                   |                             |                                  |
 | 02/04 | (Tutorial) Numpy, Scipy, Colab [Guest: **Dr. Ben Lynch** of MSI]                  |                             |                                  |
-| 02/06 |                                                                                   |                             |                                  |
+| 02/06 | (Discussion) Project ideas                                                        |                             |                                  |
 | 02/11 |                                                                                   |                             |                                  |
 | 02/13 |                                                                                   |                             |                                  |
 | 02/18 | (Tutorial) Tensorflow, Pytorch, MSI GPU cluster [Guest: **Dr. Ben Lynch** of MSI] |                             |                                  |

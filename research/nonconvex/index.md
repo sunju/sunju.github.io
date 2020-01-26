@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jan 19 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jan 25 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -14,7 +14,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 ## Contents   
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-   
+
 - [Review Articles](#review-articles)
 - [Problems with Hidden Convexity or Analytic Solutions](#problems-with-hidden-convexity-or-analytic-solutions)
 	- [Blind Deconvolution](#blind-deconvolution)

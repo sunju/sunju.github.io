@@ -3,12 +3,13 @@ layout: page
 permalink: /research/struct-elem/
 title: Homogeneous Structured Element Pursuit
 ---
-Finding structured elements from a geometric object, with emphasis on objects containing the origin and hence associated scale ambiguity.  (**Update: Dec 29 2018**)
+Finding structured elements from a geometric object, with emphasis on objects containing the origin and hence associated scale ambiguity.  (**Update: Jan 25 2020**)
 
-\[<span style="color:red">**S**</span>\] indicates my contribution. 
+\[<span style="color:red">**S**</span>\] indicates my contribution.
 
-### Finding Sparse Vectors in Linear Subspaces 
+### Finding Sparse Vectors in Linear Subspaces
 
+  +  [Finding the Sparsest Vectors in a Subspace: Theory, Algorithms, and Applications](https://arxiv.org/abs/2001.06970) (2020)
   +  [Dual Principal Component Pursuit: Probability Analysis and Efficient Algorithms](https://arxiv.org/abs/1812.09924) (2018)
   +  [Speeding up sum-of-squares for tensor decomposition and planted sparse vectors](http://arxiv.org/abs/1512.02337) (2015)
   +  [Dual Principal Component Pursuit](http://arxiv.org/abs/1510.04390) (2015)
@@ -28,4 +29,4 @@ Finding structured elements from a geometric object, with emphasis on objects co
 
 > **Disclaimer** - This page is meant to serve a hub for references on this problem, and does not represent in any way personal endorsement of papers listed here. So I do not hold any responsibility for quality and technical correctness of each paper listed here. The reader is advised to use this resource with discretion.
 
-> **If you'd like your paper to be listed here**  - Just drop me a few lines via email (which can be found on "Welcome" page). If you don't bother to spend a word, just deposit your paper on arXiv. I get email alert about new animals there every morning,  and will be happy to hunt one for this zoo if it seems **fit**. 
+> **If you'd like your paper to be listed here**  - Just drop me a few lines via email (which can be found on "Welcome" page). If you don't bother to spend a word, just deposit your paper on arXiv. I get email alert about new animals there every morning,  and will be happy to hunt one for this zoo if it seems **fit**.
