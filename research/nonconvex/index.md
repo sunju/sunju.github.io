@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jan 25 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Feb 02 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -451,7 +451,11 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
- + [Introduction to Nonsmooth Analysis and Optimization](https://arxiv.org/abs/2001.00216) (2019)
+ + [Strong Evaluation Complexity Bounds for Arbitrary-Order Optimization of Nonconvex Nonsmooth Composite Functions](https://arxiv.org/abs/2001.10802) (2020)
+ + [A Stochastic Subgradient Method for Nonsmooth Nonconvex Multi-Level Composition Optimization](https://arxiv.org/abs/2001.10669) (2020)
+ + [Second-order Online Nonconvex Optimization](https://arxiv.org/abs/2001.10114) (2020)
+ + [From Nesterov's Estimate Sequence to Riemannian Acceleration](https://arxiv.org/abs/2001.08876) (2020)
+ + [Introduction to Nonsmooth Analysis and Optimization](https://arxiv.org/abs/2001.00216) (2020)
  + [The Douglas--Rachford Algorithm Converges Only Weakly](https://arxiv.org/abs/1912.09564) (2019)
  + [Robust Group Synchronization via Cycle-Edge Message Passing](https://arxiv.org/abs/1912.11347) (2019)
  + [A Distributed Quasi-Newton Algorithm for Primal and Dual Regularized Empirical Risk Minimization](https://arxiv.org/abs/1912.06508) (2019)
