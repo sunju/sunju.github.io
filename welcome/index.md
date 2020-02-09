@@ -33,11 +33,9 @@ University of Minnesota, Twin Cities
 #### Upcoming
 
 - [SIAM Conference on Mathematics of Data Science](https://www.siam.org/Conferences/CM/Conference/mds20) at Cincinnati, Ohio (May 05--07, 2020)
-- [Workshop on Numerical Algebra in High-Dimensional Data Analysis](http://tianyuan.xmu.edu.cn/activities/19-20/WNAHDDA2019/index.html) at Tianyuan Mathematical Center in Southeast China (TMSE), Xiamen, China (Dec 27--29, 2019)
-
 
 #### Past
-
+- [Workshop on Numerical Algebra in High-Dimensional Data Analysis](http://tianyuan.xmu.edu.cn/activities/19-20/WNAHDDA2019/index.html) at Tianyuan Mathematical Center in Southeast China (TMSE), Xiamen, China (Dec 27--29, 2019)
 - [INFORMS Annual Meeting 2019](http://meetings2.informs.org/wordpress/seattle2019/) at Seattle (Oct 20--23, 2019)
 - Join CS&E @ UMN as an assistant professor! (Jul 01, 2019)
 
