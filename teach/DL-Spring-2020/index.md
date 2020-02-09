@@ -45,7 +45,7 @@ com/book/deep-learning-with-python) by François Chollet. Livebook.
 | 01/23 | Neural networks: old and new                                                      | [Slides](lecture-01-23-slides.pdf)  [Handout](lecture-01-23-handout.pdf) | DLP Ch 1, D2L Ch 3--4, MNDL Ch 2                                           |
 | 01/28 | Fundamental belief: universal approximation theorems                              | [Slides](lecture-01-28-slides.pdf)  [Handout](lecture-01-28-handout.pdf) | [Visual proof of UAT](http://neuralnetworksanddeeplearning.com/chap4.html) |
 | 01/30 | UAT: from shallow to deep                                                         | [Slides](lecture-01-30-slides.pdf)  [Handout](lecture-01-30-handout.pdf) |                                                                            |
-| 02/04 | (Tutorial) Numpy, Scipy, Colab [Guest: **Dr. Ben Lynch** of MSI]                  | [HTML](ColabNumPySciPy.html)  [Notebook](ColabNumPySciPy.html.ipynb)     |                                                                            |
+| 02/04 | (Tutorial) Numpy, Scipy, Colab [Guest: **Dr. Ben Lynch** of MSI]                  | [HTML](ColabNumPySciPy.html)  [Notebook](ColabNumPySciPy.ipynb)     |                                                                            |
 | 02/06 | (Discussion) Project ideas                                                        | [Slides](lecture-02-06-slides.pdf)                                                  |                                                                            |
 | 02/11 |                                                                                   |                                                                          |                                                                            |
 | 02/13 |                                                                                   |                                                                          |                                                                            |
@@ -79,7 +79,7 @@ com/book/deep-learning-with-python) by François Chollet. Livebook.
 
 
 #### Course project
-- [Project description](lecture-02-06-slides.pdf) 
+- [Project description](lecture-02-06-slides.pdf)
 
 <!-- #### Tentative topics to cover: -->
 
