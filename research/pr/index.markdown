@@ -4,9 +4,9 @@ permalink: /research/pr/
 title: Phase Retrieval, Spectral Factorization, and Applications
 ---
 
-Recover phaseless complex signals from measured magnitudes, or recover complex signals from the auto-correlation sequences. While for 1D signals the problem is solved both in theory and in practice, that for 2D or higher-D's are still largely open. Emphasis will be put on recent developments. (**Update: Jan 13 2019**)
+Recover phaseless complex signals from measured magnitudes, or recover complex signals from the auto-correlation sequences. While for 1D signals the problem is solved both in theory and in practice, that for 2D or higher-D's are still largely open. Emphasis will be put on recent developments. (**Update: Feb 09 2020**)
 
-\[<span style="color:red">**S**</span>\] indicates my contribution. 
+\[<span style="color:red">**S**</span>\] indicates my contribution.
 
 ### Provable Results with Algorithms
 
@@ -118,6 +118,7 @@ Recover phaseless complex signals from measured magnitudes, or recover complex s
 
 ### Experimental/Partial Analytic Results  
 
+ +  [Convex combination of alternating projection and Douglas-Rachford operators for phase retrieval](https://arxiv.org/abs/2002.01678) (2020https://arxiv.org/abs/2002.01678)
  +  [Fixed Point Analysis of Douglas-Rachford Splitting for Ptychography and Phase Retrieval](https://arxiv.org/abs/1909.08600) (2019)
  +  [A note on Douglas-Rachford, subgradients, and phase retrieval](https://arxiv.org/abs/1911.13179) (2019)
  +  [Learning to Synthesize: Robust Phase Retrieval at Low Photon counts](https://arxiv.org/abs/1907.11713) (2019)
@@ -154,7 +155,7 @@ Recover phaseless complex signals from measured magnitudes, or recover complex s
  +  [Phase retrieval, error reduction algorithm, and Fienup variants: a view from convex optimization](https://doi.org/10.1364/JOSAA.19.001334) (2002)
 
 
-### Survey/Introduction Articles 
+### Survey/Introduction Articles
  +  [Fourier Phase Retrieval: Uniqueness and Algorithms](https://arxiv.org/abs/1705.09590) (2017)
  +  [Phase Retrieval: An Overview of Recent Developments](http://arxiv.org/abs/1510.07713) (2015)
  +  [Phase Retrieval with Application to Optical Imaging](http://arxiv.org/abs/1402.7350) (2014)
@@ -163,4 +164,4 @@ Recover phaseless complex signals from measured magnitudes, or recover complex s
 
 > **Disclaimer** - This page is meant to serve a hub for references on this problem, and does not represent in any way personal endorsement of papers listed here. So I do not hold any responsibility for quality and technical correctness of each paper listed here. The reader is advised to use this resource with discretion.
 
-> **If you'd like your paper to be listed here**  - Just drop me a few lines via email (which can be found on "Welcome" page). If you don't bother to spend a word, just deposit your paper on arXiv. I get email alert about new animals there every morning,  and will be happy to hunt one for this zoo if it seems **fit**. 
+> **If you'd like your paper to be listed here**  - Just drop me a few lines via email (which can be found on "Welcome" page). If you don't bother to spend a word, just deposit your paper on arXiv. I get email alert about new animals there every morning,  and will be happy to hunt one for this zoo if it seems **fit**.

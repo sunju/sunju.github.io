@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Feb 02 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Feb 09 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -66,6 +66,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 ### Matrix Completion/Sensing
 (See also [low-rank matrix/tensor recovery](/research/low-rank/) )   
 
+ + [Iterative algorithm with structured diagonal Hessian approximation for solving nonlinear least squares problems](https://arxiv.org/abs/2002.01871) (2020)
+ +  [Rank $2r$ iterative least squares: efficient recovery of ill-conditioned low rank matrices from few entries](https://arxiv.org/abs/2002.01849) (2020)
  +  [Bridging Convex and Nonconvex Optimization in Robust PCA: Noise, Outliers, and Missing Data](https://arxiv.org/abs/2001.05484) (2020)
  +  [Adversarially Robust Low Dimensional Representations](https://arxiv.org/abs/1911.13268) (2019)
  +  [Fast and Robust Spectrally Sparse Signal Recovery: A Provable Non-Convex Approach via Robust Low-Rank Hankel Matrix Reconstruction](https://arxiv.org/abs/1910.05859) (2019)
@@ -155,6 +157,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Phase Retrieval
 
+ +  [On the Sample Complexity and Optimization Landscape for Quadratic Feasibility Problems](https://arxiv.org/abs/2002.01066) (2020)
  +  [A Deterministic Convergence Framework for Exact Non-Convex Phase Retrieval](https://arxiv.org/abs/2001.02855) (2020)
  +  [The recovery of complex sparse signals from few phaseless measurements](https://arxiv.org/abs/1911.11301) (2019)
  +  [Online Stochastic Gradient Descent with Arbitrary Initialization Solves Non-smooth, Non-convex Phase Retrieval](https://arxiv.org/abs/1910.12837) (2019)
@@ -330,6 +333,9 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ + [Near-Optimal Algorithms for Minimax Optimization](https://arxiv.org/abs/2002.02417) (2020)
+ + [Global Convergence of Frank Wolfe on One Hidden Layer Networks](https://arxiv.org/abs/2002.02208) (2020)
+ + [A mean-field theory of lazy training in two-layer neural nets: entropic regularization and controlled McKean-Vlasov dynamics](https://arxiv.org/abs/2002.01987) (2020)
  +  [No Spurious Local Minima in Deep Quadratic Networks](https://arxiv.org/abs/2001.00098) (2020)
  +  [Landscape Complexity for the Empirical Risk of Generalized Linear Models](https://arxiv.org/abs/1912.02143) (2019)
  +  [Stationary Points of Shallow Neural Networks with Quadratic Activation Function](https://arxiv.org/abs/1912.01599) (2019)
@@ -451,6 +457,12 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [Greedy Quasi-Newton Methods with Explicit Superlinear Convergence](https://arxiv.org/abs/2002.00657) (2020)
+ + [Hybrid Riemannian Conjugate Gradient Methods with Global Convergence Properties](https://arxiv.org/abs/2002.01644) (2020)
+ + [On the Optimal Combination of Tensor Optimization Methods](https://arxiv.org/abs/2002.01004) (2020)
+ + [Last Iterate is Slower than Averaged Iterate in Smooth Convex-Concave Saddle Point Problems](https://arxiv.org/abs/2002.00057) (2020)
+ + [Consensus-Based Optimization on the Sphere I: Well-Posedness and Mean-Field Limit](https://arxiv.org/abs/2001.11994) (2020)
+ + [Consensus-based Optimization on the Sphere II: Convergence to Global Minimizers and Machine Learning](https://arxiv.org/abs/2001.11988) (2020)
  + [Strong Evaluation Complexity Bounds for Arbitrary-Order Optimization of Nonconvex Nonsmooth Composite Functions](https://arxiv.org/abs/2001.10802) (2020)
  + [A Stochastic Subgradient Method for Nonsmooth Nonconvex Multi-Level Composition Optimization](https://arxiv.org/abs/2001.10669) (2020)
  + [Second-order Online Nonconvex Optimization](https://arxiv.org/abs/2001.10114) (2020)
