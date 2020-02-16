@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Feb 09 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Feb 16 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -306,6 +306,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [Greed is Super: A Fast Algorithm for Super-Resolution](http://arxiv.org/abs/1511.03385) (2015)
 
 ### Synchronization Problems/Community Detection
+
+ +  [A Provably Robust Multiple Rotation Averaging Scheme for SO(2)](https://arxiv.org/abs/2002.05299) (2020)
  +  [Multi-Frequency Phase Synchronization](https://arxiv.org/abs/1901.08235) (2019)
  +  [On the Landscape of Synchronization Networks: A Perspective from Nonconvex Optimization](https://arxiv.org/abs/1809.11083) (2018)
  +  [Near-optimal bounds for phase synchronization](https://arxiv.org/abs/1703.06857) (2017)
@@ -333,6 +335,9 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ + [Implicit Bias of Gradient Descent for Wide Two-layer Neural Networks Trained with the Logistic Loss](https://arxiv.org/abs/2002.04486) (2020)
+ + [Mean-Field Analysis of Two-Layer Neural Networks: Non-Asymptotic Rates and Generalization Bounds](https://arxiv.org/abs/2002.04026) (2020)
+ + [Ill-Posedness and Optimization Geometry for Nonlinear Neural Network Training](https://arxiv.org/abs/2002.02882) (2020)
  + [Near-Optimal Algorithms for Minimax Optimization](https://arxiv.org/abs/2002.02417) (2020)
  + [Global Convergence of Frank Wolfe on One Hidden Layer Networks](https://arxiv.org/abs/2002.02208) (2020)
  + [A mean-field theory of lazy training in two-layer neural nets: entropic regularization and controlled McKean-Vlasov dynamics](https://arxiv.org/abs/2002.01987) (2020)
@@ -457,6 +462,13 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [Adaptivity of Stochastic Gradient Methods for Nonconvex Optimization](https://arxiv.org/abs/2002.05359) (2020)
+ + [Sharp Analysis of Epoch Stochastic Gradient Descent Ascent Methods for Min-Max Optimization](https://arxiv.org/abs/2002.05309) (2020)
+ + [Convergence of a Stochastic Gradient Method with Momentum for Nonsmooth Nonconvex Optimization](https://arxiv.org/abs/2002.05466) (2020)
+ + [Practical Accelerated Optimization on Riemannian Manifolds](https://arxiv.org/abs/2002.04144) (2020)
+ + [On Complexity of Finding Stationary Points of Nonsmooth Nonconvex Functions](https://arxiv.org/abs/2002.04130) (2020)
+ + [SPAN: A Stochastic Projected Approximate Newton Method](https://arxiv.org/abs/2002.03687) (2020)
+ + [Better Theory for SGD in the Nonconvex World](https://arxiv.org/abs/2002.03329) (2020)
  + [Greedy Quasi-Newton Methods with Explicit Superlinear Convergence](https://arxiv.org/abs/2002.00657) (2020)
  + [Hybrid Riemannian Conjugate Gradient Methods with Global Convergence Properties](https://arxiv.org/abs/2002.01644) (2020)
  + [On the Optimal Combination of Tensor Optimization Methods](https://arxiv.org/abs/2002.01004) (2020)
