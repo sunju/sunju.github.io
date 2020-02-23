@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Feb 16 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Feb 21 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -462,6 +462,12 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [A Trust-Region Method For Nonsmooth Nonconvex Optimization](https://arxiv.org/abs/2002.08513) (2020)
+ + [Efficient Search of First-Order Nash Equilibria in Nonconvex-Concave Smooth Min-Max Problems](https://arxiv.org/abs/2002.07919) (2020)
+ + [Stochastic Gauss-Newton Algorithms for Nonconvex Compositional Optimization](https://arxiv.org/abs/2002.07290) (2020)
+ + [SingCubic: Cyclic Incremental Newton-type Gradient Descent with Cubic Regularization for Non-Convex Optimization](https://arxiv.org/abs/2002.06848) (2020)
+ + [A mean-field analysis of two-player zero-sum games](https://arxiv.org/abs/2002.06277) (2020)
+ + [Structures of Spurious Local Minima in k-means](https://arxiv.org/abs/2002.06694) (2020)
  + [Adaptivity of Stochastic Gradient Methods for Nonconvex Optimization](https://arxiv.org/abs/2002.05359) (2020)
  + [Sharp Analysis of Epoch Stochastic Gradient Descent Ascent Methods for Min-Max Optimization](https://arxiv.org/abs/2002.05309) (2020)
  + [Convergence of a Stochastic Gradient Method with Momentum for Nonsmooth Nonconvex Optimization](https://arxiv.org/abs/2002.05466) (2020)

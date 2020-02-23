@@ -8066,7 +8066,7 @@
   title       = {A Trust-Region Method For Nonsmooth Nonconvex Optimization},
   year        = {2020},
   date        = {2020-02-20},
-  eprint      = {2002.08513},
+  eprint      = {2002.08513v1},
   eprintclass = {math.OC},
   eprinttype  = {arXiv},
   file        = {:http\://arxiv.org/pdf/2002.08513v1:PDF},
