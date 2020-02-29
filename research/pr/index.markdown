@@ -4,7 +4,7 @@ permalink: /research/pr/
 title: Phase Retrieval, Spectral Factorization, and Applications
 ---
 
-Recover phaseless complex signals from measured magnitudes, or recover complex signals from the auto-correlation sequences. While for 1D signals the problem is solved both in theory and in practice, that for 2D or higher-D's are still largely open. Emphasis will be put on recent developments. (**Update: Feb 16 2020**)
+Recover phaseless complex signals from measured magnitudes, or recover complex signals from the auto-correlation sequences. While for 1D signals the problem is solved both in theory and in practice, that for 2D or higher-D's are still largely open. Emphasis will be put on recent developments. (**Update: Feb 29 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -93,6 +93,7 @@ Recover phaseless complex signals from measured magnitudes, or recover complex s
 
 ### Recovery Limits
 
+ +  [Toward a mathematical theory of the crystallographic phase retrieval problem](https://arxiv.org/abs/2002.10081) (2020)
  +  [Information Theoretic Limits for Phase Retrieval with Subsampled Haar Sensing Matrices](https://arxiv.org/abs/1910.11849) (2019)
  +  [Phase Retrieval for Binary Signals: Box Relaxation and Uniqueness](https://arxiv.org/abs/1904.10157) (2019)
  +  [Support Recovery in the Phase Retrieval Model: Information-Theoretic Fundamental Limits](https://arxiv.org/abs/1901.10647) (2019)

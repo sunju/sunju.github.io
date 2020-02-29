@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Feb 21 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Feb 29 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -214,6 +214,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 ### Dictionary Learning
 (See also **Theory** part in [Dictionary/Deep Learning](/research/dict-learn/))
 
+ +  [Complete Dictionary Learning via $\ell_p$-norm Maximization](https://arxiv.org/abs/2002.10043) (2020)
  +  [Analysis of the Optimization Landscapes for Overcomplete Representation Learning](https://arxiv.org/abs/1912.02427) (2019)
  +  [Manifold Gradient Descent Solves Multi-Channel Sparse Blind Deconvolution Provably and Efficiently](https://arxiv.org/abs/1911.11167) (2019)
  +  [A Nonconvex Approach for Exact and Efficient Multichannel Sparse Blind Deconvolution](https://arxiv.org/abs/1908.10776) (2019)
@@ -231,6 +232,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Deep Learning
 
+ +  [Stochastic Subspace Cubic Newton Method](https://arxiv.org/abs/2002.09526) (2020)
+ +  [Training Linear Neural Networks: Non-Local Convergence and Complexity Results](https://arxiv.org/abs/2002.09852) (2020)
  +  [Optimization for deep learning: theory and algorithms](https://arxiv.org/abs/1912.08957) (2019)
  +  [Stronger Convergence Results for Deep Residual Networks: Network Width Scales Linearly with Training Data Size](https://arxiv.org/abs/1911.04351) (2019)
  +  [Sub-Optimal Local Minima Exist for Almost All Over-parameterized Neural Networks](https://arxiv.org/abs/1911.01413) (2019)
@@ -462,6 +465,13 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [Convergence to Second-Order Stationarity for Non-negative Matrix Factorization: Provably and Concurrently](https://arxiv.org/abs/2002.11323) (2020)
+ + [Intrinsic Construction of Lyapunov Functions on Riemannian Manifold](https://arxiv.org/abs/2002.11384) (2020)
+ + [Fast Linear Convergence of Randomized BFGS](https://arxiv.org/abs/2002.11337) (2020)
+ + [Proximal Gradient Algorithm with Momentum and Flexible Parameter Restart for Nonconvex Optimization](https://arxiv.org/abs/2002.11582) (2020)
+ + [Optimality and Stability in Non-Convex-Non-Concave Min-Max Optimization](https://arxiv.org/abs/2002.11875) (2020)
+ + [SPRING: A fast stochastic proximal alternating method for non-smooth non-convex optimization](https://arxiv.org/abs/2002.12266) (2020)
+ + [Second Order Optimization Made Practical](https://arxiv.org/abs/2002.09018) (2020)
  + [A Trust-Region Method For Nonsmooth Nonconvex Optimization](https://arxiv.org/abs/2002.08513) (2020)
  + [Efficient Search of First-Order Nash Equilibria in Nonconvex-Concave Smooth Min-Max Problems](https://arxiv.org/abs/2002.07919) (2020)
  + [Stochastic Gauss-Newton Algorithms for Nonconvex Compositional Optimization](https://arxiv.org/abs/2002.07290) (2020)

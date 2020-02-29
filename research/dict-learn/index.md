@@ -3,15 +3,16 @@ layout: page
 permalink: /research/dict-learn/
 title: Dictionary Learning, Blind Deconvolution, Deep Learning
 ---
-Learning dictionaries/atomic sets that induce structured representation on data. Applications are still explosively emerging, especially of deep learning, where one allows multi-level nonlinear cascading of representation. Hence formulations to the problems are fairly diverse. We will roughly organize the references according to the problem they try to solve, concentrated on recent literature of theoretical nature.  (**Update: Dec 07 2019**)
+Learning dictionaries/atomic sets that induce structured representation on data. Applications are still explosively emerging, especially of deep learning, where one allows multi-level nonlinear cascading of representation. Hence formulations to the problems are fairly diverse. We will roughly organize the references according to the problem they try to solve, concentrated on recent literature of theoretical nature.  (**Update: Feb 29 2019**)
 
-\[<span style="color:red">**S**</span>\] indicates my contribution. 
+\[<span style="color:red">**S**</span>\] indicates my contribution.
 
-## Theory 
+## Theory
 
-### $\mathbf{Y} = \mathbf{A} \mathbf{X}$, $\mathbf{A}$ Square, Invertible, Global Recovery 
-This problem can be reduced to a sequence of problems, each taking the form of finding sparsest vector in a linear subspace. See also [Structured Element Pursuit](/research/struct-elem/). 
+### $\mathbf{Y} = \mathbf{A} \mathbf{X}$, $\mathbf{A}$ Square, Invertible, Global Recovery
+This problem can be reduced to a sequence of problems, each taking the form of finding sparsest vector in a linear subspace. See also [Structured Element Pursuit](/research/struct-elem/).
 
+ +  [Complete Dictionary Learning via $\ell_p$-norm Maximization](https://arxiv.org/abs/2002.10043) (2020)
  +  [A Nonconvex Approach for Exact and Efficient Multichannel Sparse Blind Deconvolution](https://arxiv.org/abs/1908.10776) (2019)
  +  [Subgradient Descent Learns Orthogonal Dictionaries](https://arxiv.org/abs/1810.10702) (\[<span style="color:red">**S**</span>\], 2018)
  +  [Efficient Dictionary Learning with Gradient Descent](https://arxiv.org/abs/1809.10313) (2018)
@@ -25,8 +26,8 @@ This problem can be reduced to a sequence of problems, each taking the form of f
  +  [Rounding Sum-of-Squares Relaxations](http://arxiv.org/abs/1312.6652) (2013)
  +  [Scaling law for recovering the sparsest element in a subspace](http://math.mit.edu/icg/papers/sparsest-element.pdf) (2013)
  +  [Exact Recovery of Sparsely-Used Dictionaries](http://arxiv.org/abs/1206.5882) (2012)
- 
-### $\mathbf{Y} = \mathbf{A} \mathbf{X}$, $\mathbf{A}$ Overcomplete, Incoherent, Global Recovery 
+
+### $\mathbf{Y} = \mathbf{A} \mathbf{X}$, $\mathbf{A}$ Overcomplete, Incoherent, Global Recovery
  +  [Analysis of the Optimization Landscapes for Overcomplete Representation Learning](https://arxiv.org/abs/1912.02427) (2019)
  +  [Towards Learning Sparsely Used Dictionaries with Arbitrary Supports](https://arxiv.org/abs/1804.08603) (2018)
  +  [A Provable Approach for Double-Sparse Coding](https://arxiv.org/abs/1711.03638) (2017)
@@ -40,15 +41,15 @@ This problem can be reduced to a sequence of problems, each taking the form of f
  +  [Exact Recovery of Sparsely Used Overcomplete Dictionaries](http://arxiv.org/abs/1309.1952) (2013)
  +  [New Algorithms for Learning Incoherent and Overcomplete Dictionaries](http://arxiv.org/abs/1308.6273) (2013)
  +  [Learning Sparsely Used Overcomplete Dictionaries via Alternating Minimization](http://arxiv.org/abs/1310.7991) (2013)
- 
+
 ### $\mathbf{Y} = \mathbf{A} \mathbf{X}$ Local Correctness
 
  +  [Complete Dictionary Learning via $\ell^4$-Norm Maximization over the Orthogonal Group](https://arxiv.org/abs/1906.02435) (2019)
  +  [Unique Sharp Local Minimum in $\ell_1$-minimization Complete Dictionary Learning](https://arxiv.org/abs/1902.08380) (2019)
  +  [On the Local Correctness of $\ell^1$ Minimization for Dictionary Learning](http://www.columbia.edu/~jw2966/Geng11-IT.pdf) (2011, $\mathbf{A}$ general)
  +  [Dictionary Identification - Sparse Matrix-Factorisation via $\ell^1$-Minimisation](http://arxiv.org/abs/0904.4774) (2009, $\mathbf{A}$ square)
-  
-### Single-Kernel Convolutional (aka Blind Deconvolution): $\mathbf{y} = \mathbf{a} \otimes \mathbf{x}$ 
+
+### Single-Kernel Convolutional (aka Blind Deconvolution): $\mathbf{y} = \mathbf{a} \otimes \mathbf{x}$
 
  +  [Manifold Gradient Descent Solves Multi-Channel Sparse Blind Deconvolution Provably and Efficiently](https://arxiv.org/abs/1911.11167) (2019)
  +  [On the Global Geometry of Sphere-Constrained Sparse Blind Deconvolution](https://arxiv.org/abs/1901.01913) (2019)
@@ -79,19 +80,19 @@ This problem can be reduced to a sequence of problems, each taking the form of f
  +  [Near Optimal Compressed Sensing of Sparse Rank-One Matrices via Sparse Power Factorization](http://arxiv.org/abs/1312.0525) (2013)
  +  [Blind Deconvolution using Convex Programming](https://arxiv.org/abs/1211.5608) (2012)
 
- 
-### Multi-Kernel Convolutional: $\mathbf{Y} = \sum_i \mathbf{a}_i \otimes \mathbf{x}_i$ 
+
+### Multi-Kernel Convolutional: $\mathbf{Y} = \sum_i \mathbf{a}_i \otimes \mathbf{x}_i$
  +  [On the Reconstruction Risk of Convolutional Sparse Dictionary Learning](https://arxiv.org/abs/1708.08587) (2017)
  +  [Working Locally Thinking Globally: Theoretical Guarantees for Convolutional Sparse Coding](https://arxiv.org/abs/1707.06066) (2017)
  +  [Blind Demixing and Deconvolution at Near-Optimal Rate](https://arxiv.org/abs/1704.04178) (2017)
- +  [Regularized Gradient Descent: A Nonconvex Recipe for Fast Joint Blind Deconvolution and Demixing](https://arxiv.org/abs/1703.08642) (2017) 
+ +  [Regularized Gradient Descent: A Nonconvex Recipe for Fast Joint Blind Deconvolution and Demixing](https://arxiv.org/abs/1703.08642) (2017)
  +  [Blind Deconvolution Meets Blind Demixing: Algorithms and Performance Bounds](https://arxiv.org/abs/1512.07730) (2015)
- 
+
 ### Generalized Dictionary Learning
  +  [Learning Two Layer Rectified Neural Networks in Polynomial Time](https://arxiv.org/abs/1811.01885) (2018)
  +  [Learning Semidefinite Regularizers](https://doi.org/10.1007/s10208-018-9386-z) (2017)
- 
-### Wavelet/General Scattering Network 
+
+### Wavelet/General Scattering Network
  +  [Lipschitz Properties for Deep Convolutional Networks](https://arxiv.org/abs/1701.05217) (2017)
  +  [Discrete Deep Feature Extraction: A Theory and New Architectures](https://arxiv.org/abs/1605.08283) (2016)
  +  [A Mathematical Theory of Deep Convolutional Neural Networks for Feature Extraction](http://arxiv.org/abs/1512.06293) (2015)
@@ -99,14 +100,14 @@ This problem can be reduced to a sequence of problems, each taking the form of f
  +  [Unsupervised Learning by Deep Scattering Contractions](http://arxiv.org/abs/1406.2390) (2014)
  +  [Invariant Scattering Convolution Network](http://www.di.ens.fr/data/publications/papers/pami-final.pdf) (2013)
  +  [Group Invariant Scattering](http://arxiv.org/abs/1101.2286) (2011)
- 
+
 ### Provable Learning of Deep Structure
  +  [Sparse Matrix Factorization](http://arxiv.org/abs/1311.3315) (2013)
  +  [Provable Bounds for Learning Some Deep Representations](http://arxiv.org/abs/1310.6343) (2013)
 
-## Algorithms and Applications 
+## Algorithms and Applications
 
-### Dictionary Learning 
+### Dictionary Learning
 
  +  To get a taste of the applications of dictionary learning in signal and image processing (compression in these areas demands good bases/dictionaries), see the book by Michael Elad: [Sparse and Redundant Representations: From Theory to Applications in Signal and Image Processing](https://www.springer.com/mathematics/analysis/book/978-1-4419-7010-7)
 
@@ -128,6 +129,4 @@ This problem can be reduced to a sequence of problems, each taking the form of f
 
 > **Disclaimer** - This page is meant to serve a hub for references on this problem, and does not represent in any way personal endorsement of papers listed here. So I do not hold any responsibility for quality and technical correctness of each paper listed here. The reader is advised to use this resource with discretion.
 
-> **If you'd like your paper to be listed here**  - Just drop me a few lines via email (which can be found on "Welcome" page). If you don't bother to spend a word, just deposit your paper on arXiv. I get email alert about new animals there every morning,  and will be happy to hunt one for this zoo if it seems **fit**. 
-
-
+> **If you'd like your paper to be listed here**  - Just drop me a few lines via email (which can be found on "Welcome" page). If you don't bother to spend a word, just deposit your paper on arXiv. I get email alert about new animals there every morning,  and will be happy to hunt one for this zoo if it seems **fit**.
