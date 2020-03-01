@@ -465,6 +465,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [Can We Find Near-Approximately-Stationary Points of Nonsmooth Nonconvex Functions?](https://arxiv.org/abs/2002.11962) (2020)
  + [Convergence to Second-Order Stationarity for Non-negative Matrix Factorization: Provably and Concurrently](https://arxiv.org/abs/2002.11323) (2020)
  + [Intrinsic Construction of Lyapunov Functions on Riemannian Manifold](https://arxiv.org/abs/2002.11384) (2020)
  + [Fast Linear Convergence of Randomized BFGS](https://arxiv.org/abs/2002.11337) (2020)
