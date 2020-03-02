@@ -76,6 +76,7 @@ com/book/deep-learning-with-python) by François Chollet. Livebook.
 
 #### Homework assignments
 - [Assignment 0](HW0.pdf) (Due: Feb 07)
+- [Assignment 1](HW1.pdf) (Due: Mar 12)
 
 
 #### Course project
