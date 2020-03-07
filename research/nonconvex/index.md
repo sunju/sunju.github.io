@@ -467,6 +467,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [On the Convergence of Adam and Adagrad](https://arxiv.org/abs/2003.02395) (2020)
  + [A Riemannian Newton Optimization Framework for the Symmetric Tensor Rank Approximation Problem](https://arxiv.org/abs/2003.01469) (2020)
  + [Can We Find Near-Approximately-Stationary Points of Nonsmooth Nonconvex Functions?](https://arxiv.org/abs/2002.11962) (2020)
  + [Convergence to Second-Order Stationarity for Non-negative Matrix Factorization: Provably and Concurrently](https://arxiv.org/abs/2002.11323) (2020)

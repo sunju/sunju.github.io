@@ -6,6 +6,7 @@ tags: top
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-### PhD Students 
+### PhD Students
 
+- Zhong Zhuang (CS&E, co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/))
 - Taihui Li (CS&E, co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/))
