@@ -627,8 +627,8 @@
 
 @Article{JagatapHegde2017Phase,
   author  = {Jagatap, Gauri and Hegde, Chinmay},
+  journal = {arXiv:1705.06412},
   title   = {Phase retrieval using structured sparsity: A sample efficient algorithmic framework},
-  journal = { arXiv:1705.06412},
   year    = {2017},
 }
 
@@ -822,8 +822,8 @@
 
 @Article{NguyenEtAl2017provable,
   author  = {Nguyen, Thanh and Wong, Raymond KW and Hegde, Chinmay},
+  journal = {arXiv:1711.03638},
   title   = {A provable approach for double-sparse coding},
-  journal = { arXiv:1711.03638},
   year    = {2017},
 }
 
@@ -926,8 +926,8 @@
 
 @Article{ZhangEtAl2017Electron,
   author  = {Zhang, Qiuyi and Panigrahy, Rina and Sachdeva, Sushant and Rahimi, Ali},
+  journal = {arXiv:1702.00458},
   title   = {Electron-proton dynamics in deep learning},
-  journal = { arXiv:1702.00458},
   year    = {2017},
 }
 
@@ -8261,11 +8261,102 @@
   title       = {On the Convergence of Adam and Adagrad},
   year        = {2020},
   date        = {2020-03-05},
-  eprint      = {2003.02395v1},
+  eprint      = {2003.02395},
   eprintclass = {stat.ML},
   eprinttype  = {arXiv},
   file        = {:http\://arxiv.org/pdf/2003.02395v1:PDF},
   keywords    = {stat.ML, cs.LG},
+}
+
+@Article{ZhangEtAl2020Generative,
+  author      = {Yufeng Zhang and Qi Cai and Zhuoran Yang and Zhaoran Wang},
+  journal     = {arXiv:2003.03709},
+  title       = {Generative Adversarial Imitation Learning with Neural Networks: Global Optimality and Convergence Rate},
+  year        = {2020},
+  date        = {2020-03-08},
+  eprint      = {2003.03709},
+  eprintclass = {cs.LG},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/2003.03709v1:PDF},
+  keywords    = {cs.LG, cs.AI, math.OC, stat.ML},
+}
+
+@Article{VervlietEtAl2020quadratically,
+  author      = {Nico Vervliet and Andreas Themelis and Panagiotis Patrinos and Lieven De Lathauwer},
+  journal     = {arXiv:2003.03502},
+  title       = {A quadratically convergent proximal algorithm for nonnegative tensor decomposition},
+  year        = {2020},
+  date        = {2020-03-07},
+  eprint      = {2003.03502},
+  eprintclass = {math.OC},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/2003.03502v1:PDF},
+  keywords    = {math.OC, 15A69, 49J52, 90C26, 90C53},
+}
+
+@Article{PoonLiang2020Geometry,
+  author      = {Clarice Poon and Jingwei Liang},
+  journal     = {arXiv:2003.03910},
+  title       = {Geometry of First-Order Methods and Adaptive Acceleration},
+  year        = {2020},
+  date        = {2020-03-09},
+  eprint      = {2003.03910},
+  eprintclass = {math.OC},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/2003.03910v1:PDF},
+  keywords    = {math.OC},
+}
+
+@Article{Zhao2020Primal,
+  author      = {Renbo Zhao},
+  journal     = {arXiv:2003.04375},
+  title       = {A Primal Dual Smoothing Framework for Max-Structured Nonconvex Optimization},
+  year        = {2020},
+  date        = {2020-03-09},
+  eprint      = {2003.04375},
+  eprintclass = {math.OC},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/2003.04375v1:PDF},
+  keywords    = {math.OC},
+}
+
+@Article{CarmonDuchi2020First,
+  author      = {Yair Carmon and John C. Duchi},
+  journal     = {arXiv:2003.04546},
+  title       = {First-Order Methods for Nonconvex Quadratic Minimization},
+  year        = {2020},
+  date        = {2020-03-10},
+  eprint      = {2003.04546},
+  eprintclass = {math.OC},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/2003.04546v1:PDF},
+  keywords    = {math.OC},
+}
+
+@Article{AhookhoshEtAl2020block,
+  author      = {Masoud Ahookhosh and Nicolas Gillis and Panagiotis Patrinos},
+  journal     = {arXiv:2003.03963},
+  title       = {A block inertial Bregman proximal algorithm for nonsmooth nonconvex problems},
+  year        = {2020},
+  date        = {2020-03-09},
+  eprint      = {2003.03963},
+  eprintclass = {math.OC},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/2003.03963v1:PDF},
+  keywords    = {math.OC, cs.NA, math.NA},
+}
+
+@Article{LuEtAl2020Mean,
+  author      = {Yiping Lu and Chao Ma and Yulong Lu and Jianfeng Lu and Lexing Ying},
+  journal     = {arXiv:2003.05508},
+  title       = {A Mean-field Analysis of Deep ResNet and Beyond: Towards Provable Optimization Via Overparameterization From Depth},
+  year        = {2020},
+  date        = {2020-03-11},
+  eprint      = {2003.05508v1},
+  eprintclass = {stat.ML},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/2003.05508v1:PDF},
+  keywords    = {stat.ML, cs.LG, cs.NA, math.NA, math.OC},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

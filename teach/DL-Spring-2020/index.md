@@ -61,7 +61,7 @@ com/book/deep-learning-with-python) by François Chollet. Livebook.
 | 03/19 |                                                                                   |                                                                           |                                                                                                                                                             |
 | 03/24 |                                                                                   |                                                                           |                                                                                                                                                             |
 | 03/26 |                                                                                   |                                                                           |                                                                                                                                                             |
-| 03/31 |                                                                                   |                                                                           |                                                                                                                                                             |
+| 03/31 |     **Project progress presentation**                                                                               |                                                                           |                                                                                                                                                             |
 | 04/02 |                                                                                   |                                                                           |                                                                                                                                                             |
 | 04/07 |                                                                                   |                                                                           |                                                                                                                                                             |
 | 04/09 |                                                                                   |                                                                           |                                                                                                                                                             |
@@ -76,7 +76,7 @@ com/book/deep-learning-with-python) by François Chollet. Livebook.
 
 #### Homework assignments
 - [Assignment 0](HW0.pdf) (Due: Feb 07)
-- [Assignment 1](HW1.pdf) (Due: Mar 12)
+- [Assignment 1](HW1.pdf) (Due: Mar 15)
 
 
 #### Course project

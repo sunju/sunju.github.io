@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Mar 06 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Mar 13 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -233,6 +233,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Deep Learning
 
+ +  [A Mean-field Analysis of Deep ResNet and Beyond: Towards Provable Optimization Via Overparameterization From Depth](https://arxiv.org/abs/2003.05508) (2020)
  +  [On the Global Convergence of Training Deep Linear ResNets](https://arxiv.org/abs/2003.01094) (2020)
  +  [Stochastic Subspace Cubic Newton Method](https://arxiv.org/abs/2002.09526) (2020)
  +  [Training Linear Neural Networks: Non-Local Convergence and Complexity Results](https://arxiv.org/abs/2002.09852) (2020)
@@ -467,6 +468,12 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [A block inertial Bregman proximal algorithm for nonsmooth nonconvex problems](https://arxiv.org/abs/2003.03963) (2020)
+ + [First-Order Methods for Nonconvex Quadratic Minimization](https://arxiv.org/abs/2003.04546) (2020)
+ + [A Primal Dual Smoothing Framework for Max-Structured Nonconvex Optimization](https://arxiv.org/abs/2003.04375) (2020)
+ + [Geometry of First-Order Methods and Adaptive Acceleration](https://arxiv.org/abs/2003.03910) (2020)
+ + [A quadratically convergent proximal algorithm for nonnegative tensor decomposition](https://arxiv.org/abs/2003.03502) (2020)
+ + [Generative Adversarial Imitation Learning with Neural Networks: Global Optimality and Convergence Rate](https://arxiv.org/abs/2003.03709) (2020)
  + [On the Convergence of Adam and Adagrad](https://arxiv.org/abs/2003.02395) (2020)
  + [A Riemannian Newton Optimization Framework for the Symmetric Tensor Rank Approximation Problem](https://arxiv.org/abs/2003.01469) (2020)
  + [Can We Find Near-Approximately-Stationary Points of Nonsmooth Nonconvex Functions?](https://arxiv.org/abs/2002.11962) (2020)
