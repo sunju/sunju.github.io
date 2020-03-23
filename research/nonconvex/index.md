@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Mar 13 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Mar 20 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -468,6 +468,9 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [Augmented Lagrangian based first-order methods for convex and nonconvex programs: nonergodic convergence and iteration complexity](https://arxiv.org/abs/2003.08880) (2020)
+ + [Solving Non-Convex Non-Differentiable Min-Max Games using Proximal Gradient Method](https://arxiv.org/abs/2003.08093) (2020)
+ + [Variable Smoothing for Weakly Convex Composite Functions](https://arxiv.org/abs/2003.07612) (2020)
  + [A block inertial Bregman proximal algorithm for nonsmooth nonconvex problems](https://arxiv.org/abs/2003.03963) (2020)
  + [First-Order Methods for Nonconvex Quadratic Minimization](https://arxiv.org/abs/2003.04546) (2020)
  + [A Primal Dual Smoothing Framework for Max-Structured Nonconvex Optimization](https://arxiv.org/abs/2003.04375) (2020)

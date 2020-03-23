@@ -10,6 +10,9 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Reports
 
+> **Inverse Problems, Deep Learning, and Symmetry Breaking**. \[[arXiv](https://arxiv.org/abs/2003.09077)\]  
+> &nbsp; &nbsp; Kshitij Tayal, Chieh-Hsin Lai, Vipin Kumar,  **Ju Sun**. Mar 2020.
+
 > **Dual-Reference Design for Holographic Coherent Diffraction Imaging**. \[[arXiv](https://arxiv.org/abs/1902.02492)\]  
 > &nbsp; &nbsp; David Barmherzig, **Ju Sun**, Po-Nan Li, TJ Lane, and Emmanuel J. Cand&#232;s. Feb 2019.
 
@@ -20,7 +23,7 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 ### Journals
 
 > **Dictionary Learning in Fourier Transform Scanning Tunneling Spectroscopy**.  \[[arXiv](https://arxiv.org/abs/1807.10752)\]  \[[Paper](https://doi.org/10.1038/s41467-020-14633-1)\]  
-> &nbsp; &nbsp; Sky Cheung, John Shin, Yenson Lau, Zhengyu Chen, **Ju Sun**, Yuqian Zhang, John Wright, and Abhay Pasupathy. Nature Communications, 11, 1081, 2020. 
+> &nbsp; &nbsp; Sky Cheung, John Shin, Yenson Lau, Zhengyu Chen, **Ju Sun**, Yuqian Zhang, John Wright, and Abhay Pasupathy. Nature Communications, 11, 1081, 2020.
 
 > **Holographic Phase Retrieval and Reference Design**. \[[arXiv](https://arxiv.org/abs/1901.06453)\] \[[Paper](https://doi.org/10.1088/1361-6420/ab23d1)\]   
 > &nbsp; &nbsp; David Barmherzig, **Ju Sun**, Po-Nan Li, TJ Lane, and Emmanuel J. Cand&#232;s. Inverse Problems, 35(9):094001, 2019.
