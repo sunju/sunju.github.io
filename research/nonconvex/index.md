@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Mar 20 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Mar 26 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -66,6 +66,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 ### Matrix Completion/Sensing
 (See also [low-rank matrix/tensor recovery](/research/low-rank/) )   
 
+ + [The Global Geometry of Centralized and Distributed Low-rank Matrix Recovery without Regularization](https://arxiv.org/abs/2003.10981) (2020)
  + [The Landscape of Matrix Factorization Revisited](https://arxiv.org/abs/2002.12795) (2020)
  + [Iterative algorithm with structured diagonal Hessian approximation for solving nonlinear least squares problems](https://arxiv.org/abs/2002.01871) (2020)
  +  [Rank $2r$ iterative least squares: efficient recovery of ill-conditioned low rank matrices from few entries](https://arxiv.org/abs/2002.01849) (2020)
@@ -468,6 +469,11 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [Breaking the $O(1/\varepsilon)$ Optimal Rate for a Class of Minimax Problems](https://arxiv.org/abs/2003.11758) (2020)
+ + [Zeroth-order Optimization on Riemannian Manifolds](https://arxiv.org/abs/2003.11238) (2020)
+ + [Symmetry & critical points for a model shallow neural network](https://arxiv.org/abs/2003.10576) (2020)
+ + [Rates of Superlinear Convergence for Classical Quasi-Newton Methods](https://arxiv.org/abs/2003.09174) (2020)
+ + [Efficient Clustering for Stretched Mixtures: Landscape and Optimality](https://arxiv.org/abs/2003.09960) (2020)
  + [Augmented Lagrangian based first-order methods for convex and nonconvex programs: nonergodic convergence and iteration complexity](https://arxiv.org/abs/2003.08880) (2020)
  + [Solving Non-Convex Non-Differentiable Min-Max Games using Proximal Gradient Method](https://arxiv.org/abs/2003.08093) (2020)
  + [Variable Smoothing for Weakly Convex Composite Functions](https://arxiv.org/abs/2003.07612) (2020)
