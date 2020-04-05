@@ -3,7 +3,7 @@ layout: page
 permalink: /research/dict-learn/
 title: Dictionary Learning, Blind Deconvolution, Deep Learning
 ---
-Learning dictionaries/atomic sets that induce structured representation on data. Applications are still explosively emerging, especially of deep learning, where one allows multi-level nonlinear cascading of representation. Hence formulations to the problems are fairly diverse. We will roughly organize the references according to the problem they try to solve, concentrated on recent literature of theoretical nature.  (**Update: Feb 29 2019**)
+Learning dictionaries/atomic sets that induce structured representation on data. Applications are still explosively emerging, especially of deep learning, where one allows multi-level nonlinear cascading of representation. Hence formulations to the problems are fairly diverse. We will roughly organize the references according to the problem they try to solve, concentrated on recent literature of theoretical nature.  (**Update: Feb 29 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
