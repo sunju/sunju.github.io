@@ -7,5 +7,5 @@ tags: top
 ---
 
 - Machine Learning (Spring 2021)
-- Think Deep Learning (Fall 2020)
+- [Think Deep Learning (Fall 2020)](DL-Fall-2020/)
 - [Think Deep Learning (Spring 2020)](DL-Spring-2020/)

@@ -1,26 +1,25 @@
 ---
 layout: page
-permalink: /teach/DL-Spring-2020/
+permalink: /teach/DL-Fall-2020/
 title: Think Deep Learning
-<!--description: Publications by categories in reversed chronological order. -->
 ---
 
-Over the last few years, deep neural networks (DNN) have fundamentally transformed the way people think of machine learning and approach practical problems. Successes around DNN have ranged from traditional AI fields such as computer vision, natural language processing, interactive games, to health care, physical sciences---touching each and every corner of theoretical and applied domains. On the other hand, DNN still largely operate as black-boxes and we only have very limited understanding as for when and why they work. This course introduces basic ingredients of DNN, samples important applications, and throws around open problems. Emphasis is put on thinking from first principles, as the field is still evolving rapidly and there is nothing there that cannot be changed.
+Over the last few years, deep neural networks (DNNs) have fundamentally transformed the way people think of machine learning and approach practical problems. Successes around DNNs have ranged from traditional AI fields such as computer vision, natural language processing, interactive games, to healthcare, physical sciences---touching each and every corner of theoretical and applied domains. On the other hand, DNNs still largely operate as black-boxes and we only have very limited understanding as for when and why they work. This course introduces basic ingredients of DNNs, samples important applications, and throws around open problems. Emphasis is put on thinking from first principles, as the field is still evolving rapidly and there is nothing there that cannot be changed.
 
 **Instructor**: [Professor Ju Sun](https://sunju.org/)  Email: jusun AT umn.edu
 
-**When/Where**: T/Th 2:30PM--3:45PM, Akerman Hall 225
+**When/Where**: Mon evening/TBA
 
-**TA's**: [Yuan Yao](https://myaccount.umn.edu/lookup?SET_INSTITUTION=&UID=yaoxx340)  Email: yaoxx340 AT umn.edu   &emsp;    [Taihui Li](https://myaccount.umn.edu/lookup?SET_INSTITUTION=&UID=lixx5027) Email: lixx5027 AT umn.edu
+<!-- **TA's**: [Yuan Yao](https://myaccount.umn.edu/lookup?SET_INSTITUTION=&UID=yaoxx340)  Email: yaoxx340 AT umn.edu   &emsp;    [Taihui Li](https://myaccount.umn.edu/lookup?SET_INSTITUTION=&UID=lixx5027) Email: lixx5027 AT umn.edu -->
 
-The detailed syllabus, containing the office hours, recommended references, assessment, homework and project requirements, programming and computing, and other resources, can be found here: [Syllabus.pdf](Syllabus.pdf)
+The detailed syllabus, containing the office hours, recommended references, assessment, homework and project requirements, programming and computing, and other resources, can be found here: [Syllabus.pdf](Syllabus.pdf) (To be updated soon)
 
-<!-- **Target**: Graduate and advanced undergrad students. Registration is based on permission from the instructor. If you're interested, please email Prof. Sun (jusun AT umn.edu) and describe your academic standing, relevant course experience, and research experience if any. -->
+**Target**: Graduate and advanced undergrad students. Registration is based on permission from the instructor. If you're interested, please email Prof. Sun (jusun AT umn.edu) and describe your academic standing, relevant course experience, and research experience if any.
 
 <!-- **No Panic**: <span style="color:red"> The enrollment has reached the cap. </span> While we're maintaining a waiting list, and may decide to increase the cap later, there's no guarantee. We're likely to re-run the course in fall 2020 and to make the course regular in the near future, and so please consider next iterations if you're not in. -->
 
-<!-- **Prerequisite**: Introduction to machine learning or equivalent. Maturity in linear algebra, calculus, and basic probability is assumed. Familiarity with Python (esp. numpy, scipy) is necessary to complete the homework assignments and final projects.   -->
-
+**Prerequisite**: Introduction to machine learning or equivalent. Maturity in linear algebra, calculus, and basic probability is assumed. Familiarity with Python (esp. Numpy, Scipy) is necessary to complete the homework assignments and final projects. We focus on PyTorch (>=1.0) as the default deep learning framework, although Tensorflow (>=2.0) is also supported.
+<!--
 - [References](#references)
 - [Lectures](#lectures)
 - [Homework assignments](#homework-assignments)
@@ -77,10 +76,10 @@ com/book/deep-learning-with-python) by François Chollet. Livebook.
 #### Homework assignments
 - [Assignment 0](HW0.pdf) (Due: Feb 07)
 - [Assignment 1](HW1.pdf) (Due: Mar 15)
-- [Assignment 2](HW2.pdf) (Due: Apr 18) 
+- [Assignment 2](HW2.pdf) (Due: Apr 18)
 
 
 #### Course project
-- [Project description](lecture-02-06-slides.pdf)
+- [Project description](lecture-02-06-slides.pdf) -->
 
 <!-- #### Tentative topics to cover: -->
