@@ -8521,11 +8521,24 @@
   title       = {Explicit Regularization of Stochastic Gradient Methods through Duality},
   year        = {2020},
   date        = {2020-03-30},
-  eprint      = {2003.13807v1},
+  eprint      = {2003.13807},
   eprintclass = {math.OC},
   eprinttype  = {arXiv},
   file        = {:http\://arxiv.org/pdf/2003.13807v1:PDF},
   keywords    = {math.OC, cs.LG},
+}
+
+@Article{LuoXu2020Regularized,
+  author      = {Xiaopeng Luo and Xin Xu},
+  journal     = {arXiv:2004.02210},
+  title       = {Regularized asymptotic descents for nonconvex optimization},
+  year        = {2020},
+  date        = {2020-04-05},
+  eprint      = {2004.02210v1},
+  eprintclass = {math.OC},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/2004.02210v1:PDF},
+  keywords    = {math.OC, cs.NA, math.NA, 65K05, 68Q25, 90C26, 90C56},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

@@ -8,5 +8,6 @@ tags: top
 
 ### PhD Students
 
+- Hengkang Wang (CS&E)
 - Zhong Zhuang (ECE, co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/))
 - Taihui Li (CS&E, co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/))

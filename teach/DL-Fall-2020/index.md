@@ -8,7 +8,7 @@ Over the last few years, deep neural networks (DNNs) have fundamentally transfor
 
 **Instructor**: [Professor Ju Sun](https://sunju.org/)  Email: jusun AT umn.edu
 
-**When/Where**: Mon evening/TBA
+**When/Where**: Mon 6:30 -- 9:00pm/Keller 3-125
 
 <!-- **TA's**: [Yuan Yao](https://myaccount.umn.edu/lookup?SET_INSTITUTION=&UID=yaoxx340)  Email: yaoxx340 AT umn.edu   &emsp;    [Taihui Li](https://myaccount.umn.edu/lookup?SET_INSTITUTION=&UID=lixx5027) Email: lixx5027 AT umn.edu -->
 
