@@ -14,11 +14,17 @@ Over the last few years, deep neural networks (DNNs) have fundamentally transfor
 
 The detailed syllabus, containing the office hours, recommended references, assessment, homework and project requirements, programming and computing, and other resources, can be found here: [Syllabus.pdf](Syllabus.pdf) (<span style="color:red"> To be updated soon</span>)
 
-**Target**: Graduate and advanced undergrad students. Registration is based on permission from the instructor. If you're interested, please email Prof. Sun (jusun AT umn.edu) and describe your academic standing, relevant course experience, and research experience if any.
+**Target**: Graduate and advanced undergrad students.
+
+**Registration**: Registration is based on permission from the instructor. If you're interested, please email Prof. Sun (jusun AT umn.edu) and describe your academic standing, relevant course experience, and research experience if any.
+
+(<span style="color:red">We are working to possibly cross-list the course as CSCI 8980;  the latter requires additional coursework than the 5980 level.  You should proceed with the current registration process nonetheless. If the cross-listing proposal is approved,  we will announce how to upgrade to the 8xxx level if you want to. </span>)
 
 <!-- **No Panic**: <span style="color:red"> The enrollment has reached the cap. </span> While we're maintaining a waiting list, and may decide to increase the cap later, there's no guarantee. We're likely to re-run the course in fall 2020 and to make the course regular in the near future, and so please consider next iterations if you're not in. -->
 
 **Prerequisite**: Introduction to machine learning or equivalent. Maturity in linear algebra, calculus, and basic probability is assumed. Familiarity with Python (esp. Numpy, Scipy) is necessary to complete the homework assignments and final projects. We focus on PyTorch (>=1.0) as the default deep learning framework, although Tensorflow (>=2.0) is also supported.  
+
+
 
 
 <!--
