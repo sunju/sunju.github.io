@@ -8,11 +8,11 @@ Over the last few years, deep neural networks (DNNs) have fundamentally transfor
 
 **Instructor**: [Professor Ju Sun](https://sunju.org/)  Email: jusun AT umn.edu
 
-**When/Where**: Mon 6:30 -- 9:00pm/Keller 3-125
+**When/Where**: Mon 6:30 -- 9:00pm/Keller 3-230
 
-<!-- **TA's**: [Yuan Yao](https://myaccount.umn.edu/lookup?SET_INSTITUTION=&UID=yaoxx340)  Email: yaoxx340 AT umn.edu   &emsp;    [Taihui Li](https://myaccount.umn.edu/lookup?SET_INSTITUTION=&UID=lixx5027) Email: lixx5027 AT umn.edu -->
+**TA's**: Hengkang Wang  Email: wang9881 AT umn.edu   &emsp;    [Le Peng](https://myaccount.umn.edu/lookup?SET_INSTITUTION=UMNTC&UID=peng0347) Email: peng0347 AT umn.edu
 
-The detailed syllabus, containing the office hours, recommended references, assessment, homework and project requirements, programming and computing, and other resources, can be found here: [Syllabus.pdf](Syllabus.pdf) (<span style="color:red"> To be updated soon</span>)
+The detailed syllabus, containing the office hours, recommended references, assessment, homework and project requirements, programming and computing, and other resources, can be found here: [Syllabus.pdf](TDL.pdf)
 
 **Target**: Graduate and advanced undergrad students.
 
