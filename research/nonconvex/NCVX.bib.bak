@@ -8534,11 +8534,37 @@
   title       = {Regularized asymptotic descents for nonconvex optimization},
   year        = {2020},
   date        = {2020-04-05},
-  eprint      = {2004.02210v1},
+  eprint      = {2004.02210},
   eprintclass = {math.OC},
   eprinttype  = {arXiv},
   file        = {:http\://arxiv.org/pdf/2004.02210v1:PDF},
   keywords    = {math.OC, cs.NA, math.NA, 65K05, 68Q25, 90C26, 90C56},
+}
+
+@Article{ZhangEtAl2020Faster,
+  author      = {Qingsong Zhang and Feihu Huang and Cheng Deng and Heng Huang},
+  journal     = {arXiv:2004.06479},
+  title       = {Faster Stochastic Quasi-Newton Methods},
+  year        = {2020},
+  date        = {2020-04-12},
+  eprint      = {2004.06479},
+  eprintclass = {math.OC},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/2004.06479v1:PDF},
+  keywords    = {math.OC},
+}
+
+@Article{FrancaEtAl2020Dissipative,
+  author      = {Guilherme França and Michael I. Jordan and René Vidal},
+  journal     = {arXiv:2004.06840},
+  title       = {On Dissipative Symplectic Integration with Applications to Gradient-Based Optimization},
+  year        = {2020},
+  date        = {2020-04-15},
+  eprint      = {2004.06840v1},
+  eprintclass = {math.OC},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/2004.06840v1:PDF},
+  keywords    = {math.OC, cond-mat.dis-nn, cond-mat.stat-mech, stat.ML},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
