@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Apr 18 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Apr 25 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -469,6 +469,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [On Tight Convergence Rates of Without-replacement SGD](https://arxiv.org/abs/2004.08657) (2020)
  + [On Dissipative Symplectic Integration with Applications to Gradient-Based Optimization](https://arxiv.org/abs/2004.06840) (2020)
  + [Faster Stochastic Quasi-Newton Methods](https://arxiv.org/abs/2004.06479) (2020)
  + [Regularized asymptotic descents for nonconvex optimization](https://arxiv.org/abs/2004.02210) (2020)
