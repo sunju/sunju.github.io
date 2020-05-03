@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Apr 25 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: May 03 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -342,6 +342,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ + [Nonconvex penalization for sparse neural networks](https://arxiv.org/abs/2004.11515) (2020)
  + [Implicit Bias of Gradient Descent for Wide Two-layer Neural Networks Trained with the Logistic Loss](https://arxiv.org/abs/2002.04486) (2020)
  + [Mean-Field Analysis of Two-Layer Neural Networks: Non-Asymptotic Rates and Generalization Bounds](https://arxiv.org/abs/2002.04026) (2020)
  + [Ill-Posedness and Optimization Geometry for Nonlinear Neural Network Training](https://arxiv.org/abs/2002.02882) (2020)
@@ -469,6 +470,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [New Results on Superlinear Convergence of Classical Quasi-Newton Methods](https://arxiv.org/abs/2004.14866) (2020)
+ + [Blind Data Detection in Massive MIMO via $\ell_3$-norm Maximization over the Stiefel Manifold](https://arxiv.org/abs/2004.12301) (2020)
  + [On Tight Convergence Rates of Without-replacement SGD](https://arxiv.org/abs/2004.08657) (2020)
  + [On Dissipative Symplectic Integration with Applications to Gradient-Based Optimization](https://arxiv.org/abs/2004.06840) (2020)
  + [Faster Stochastic Quasi-Newton Methods](https://arxiv.org/abs/2004.06479) (2020)
