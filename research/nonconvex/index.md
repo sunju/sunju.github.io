@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: May 03 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: May 08 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -159,6 +159,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Phase Retrieval
 
+ +  [Phase retrieval of complex-valued objects via a randomized Kaczmarz method](https://arxiv.org/abs/2005.03238) (2020)
  +  [On the Sample Complexity and Optimization Landscape for Quadratic Feasibility Problems](https://arxiv.org/abs/2002.01066) (2020)
  +  [A Deterministic Convergence Framework for Exact Non-Convex Phase Retrieval](https://arxiv.org/abs/2001.02855) (2020)
  +  [The recovery of complex sparse signals from few phaseless measurements](https://arxiv.org/abs/1911.11301) (2019)
@@ -470,6 +471,10 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [Manifold Proximal Point Algorithms for Dual Principal Component Pursuit and Orthogonal Dictionary Learning](https://arxiv.org/abs/2005.02356) (2020)
+ + [Riemannian Stochastic Proximal Gradient Methods for Nonsmooth Optimization over the Stiefel Manifold](https://arxiv.org/abs/2005.01209) (2020)
+ + [Distributed Stochastic Non-Convex Optimization: Momentum-Based Variance Reduction](https://arxiv.org/abs/2005.00224) (2020)
+ + [High-Dimensional Robust Mean Estimation via Gradient Descent](https://arxiv.org/abs/2005.01378) (2020)
  + [New Results on Superlinear Convergence of Classical Quasi-Newton Methods](https://arxiv.org/abs/2004.14866) (2020)
  + [Blind Data Detection in Massive MIMO via $\ell_3$-norm Maximization over the Stiefel Manifold](https://arxiv.org/abs/2004.12301) (2020)
  + [On Tight Convergence Rates of Without-replacement SGD](https://arxiv.org/abs/2004.08657) (2020)

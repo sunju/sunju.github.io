@@ -79,7 +79,7 @@ com/book/deep-learning-with-python) by François Chollet. Livebook.
 - [Assignment 1](HW1.pdf) (Due: Mar 15)
 - [Assignment 2](HW2.pdf) (Due: Apr 18)
 - [Assignment 3](HW3.pdf) (Due: May 02)
-- Assignment 4 (Due: May 10)
+- [Assignment 4](HW4.pdf) (Due: May 14)
 
 
 #### Course project

@@ -10,6 +10,7 @@ Recover phaseless complex signals from measured magnitudes, or recover complex s
 
 ### Provable Results with Algorithms
 
+ +  [Phase retrieval of complex-valued objects via a randomized Kaczmarz method](https://arxiv.org/abs/2005.03238) (2020)
  +  [A Deterministic Convergence Framework for Exact Non-Convex Phase Retrieval](https://arxiv.org/abs/2001.02855) (2020)
  +  [The recovery of complex sparse signals from few phaseless measurements](https://arxiv.org/abs/1911.11301) (2019)
  +  [Conjugate Phase Retrieval in Paley-Wiener Space](https://arxiv.org/abs/1910.12975) (2019)
