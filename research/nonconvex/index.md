@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: May 08 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: May 14 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -343,6 +343,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ + [Compressive sensing with un-trained neural networks: Gradient descent finds the smoothest approximation](https://arxiv.org/abs/2005.03991) (2020)
  + [Nonconvex penalization for sparse neural networks](https://arxiv.org/abs/2004.11515) (2020)
  + [Implicit Bias of Gradient Descent for Wide Two-layer Neural Networks Trained with the Logistic Loss](https://arxiv.org/abs/2002.04486) (2020)
  + [Mean-Field Analysis of Two-Layer Neural Networks: Non-Asymptotic Rates and Generalization Bounds](https://arxiv.org/abs/2002.04026) (2020)
@@ -471,6 +472,9 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [An SQP method for equality constrained optimization on manifolds](https://arxiv.org/abs/2005.06844) (2020)
+ + [FedSplit: An algorithmic framework for fast federated optimization](https://arxiv.org/abs/2005.05238) (2020)
+ + [Multilevel Riemannian optimization for low-rank problems](https://arxiv.org/abs/2005.06976) (2020)
  + [Manifold Proximal Point Algorithms for Dual Principal Component Pursuit and Orthogonal Dictionary Learning](https://arxiv.org/abs/2005.02356) (2020)
  + [Riemannian Stochastic Proximal Gradient Methods for Nonsmooth Optimization over the Stiefel Manifold](https://arxiv.org/abs/2005.01209) (2020)
  + [Distributed Stochastic Non-Convex Optimization: Momentum-Based Variance Reduction](https://arxiv.org/abs/2005.00224) (2020)

@@ -8684,6 +8684,58 @@
   keywords    = {cs.IT, cs.NA, math.IT, math.NA},
 }
 
+@Article{HeckelSoltanolkotabi2020Compressive,
+  author      = {Reinhard Heckel and Mahdi Soltanolkotabi},
+  journal     = {arXiv:2005.03991},
+  title       = {Compressive sensing with un-trained neural networks: Gradient descent finds the smoothest approximation},
+  year        = {2020},
+  date        = {2020-05-07},
+  eprint      = {2005.03991},
+  eprintclass = {cs.LG},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/2005.03991v1:PDF},
+  keywords    = {cs.LG, cs.CV, eess.IV, stat.ML},
+}
+
+@Article{SuttiVandereycken2020Multilevel,
+  author      = {Marco Sutti and Bart Vandereycken},
+  journal     = {arXiv:2005.06976},
+  title       = {Multilevel Riemannian optimization for low-rank problems},
+  year        = {2020},
+  date        = {2020-05-14},
+  eprint      = {2005.06976},
+  eprintclass = {math.NA},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/2005.06976v1:PDF},
+  keywords    = {math.NA, cs.NA, 65F10, 65N22, 65F50, 65K10},
+}
+
+@Article{PathakWainwright2020FedSplit,
+  author      = {Reese Pathak and Martin J. Wainwright},
+  journal     = {arXiv:2005.05238},
+  title       = {FedSplit: An algorithmic framework for fast federated optimization},
+  year        = {2020},
+  date        = {2020-05-11},
+  eprint      = {2005.05238},
+  eprintclass = {cs.LG},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/2005.05238v1:PDF},
+  keywords    = {cs.LG, math.OC, stat.ML},
+}
+
+@Article{SchielaOrtiz2020SQP,
+  author      = {Anton Schiela and Julian Ortiz},
+  journal     = {arXiv:2005.06844},
+  title       = {An SQP method for equality constrained optimization on manifolds},
+  year        = {2020},
+  date        = {2020-05-14},
+  eprint      = {2005.06844},
+  eprintclass = {math.OC},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/2005.06844v1:PDF},
+  keywords    = {math.OC, 49M37, 90C55, 90C06},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
