@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: May 14 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jun 07 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -159,6 +159,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Phase Retrieval
 
+ +  [Hadamard Wirtinger Flow for Sparse Phase Retrieval](https://arxiv.org/abs/2006.01065) (2020)
  +  [Phase retrieval of complex-valued objects via a randomized Kaczmarz method](https://arxiv.org/abs/2005.03238) (2020)
  +  [On the Sample Complexity and Optimization Landscape for Quadratic Feasibility Problems](https://arxiv.org/abs/2002.01066) (2020)
  +  [A Deterministic Convergence Framework for Exact Non-Convex Phase Retrieval](https://arxiv.org/abs/2001.02855) (2020)
@@ -315,6 +316,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Synchronization Problems/Community Detection
 
+ +  [Solving Orthogonal Group Synchronization via Convex and Low-Rank Optimization: Tightness and Landscape Analysis](https://arxiv.org/abs/2006.00902) (2020)
  +  [A Provably Robust Multiple Rotation Averaging Scheme for SO(2)](https://arxiv.org/abs/2002.05299) (2020)
  +  [Multi-Frequency Phase Synchronization](https://arxiv.org/abs/1901.08235) (2019)
  +  [On the Landscape of Synchronization Networks: A Perspective from Nonconvex Optimization](https://arxiv.org/abs/1809.11083) (2018)
@@ -472,6 +474,12 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [Nonmonotone Globalization for Anderson Acceleration Using Adaptive Regularization](https://arxiv.org/abs/2006.02559) (2020)
+ + [ADAHESSIAN: An Adaptive Second Order Optimizer for Machine Learning](https://arxiv.org/abs/2006.00719) (2020)
+ + [A modification of quasi-Newton's methods helping to avoid saddle points](https://arxiv.org/abs/2006.01512) (2020)
+ + [A New Accelerated Stochastic Gradient Method with Momentum](https://arxiv.org/abs/2006.00423) (2020)
+ + [A Unified Single-loop Alternating Gradient Projection Algorithm for Nonconvex-Concave and Convex-Nonconcave Minimax Problems](https://arxiv.org/abs/2006.02032) (2020)
+ + [Generalization Bounds for Stochastic Saddle Point Problems](https://arxiv.org/abs/2006.02067) (2020)
  + [An SQP method for equality constrained optimization on manifolds](https://arxiv.org/abs/2005.06844) (2020)
  + [FedSplit: An algorithmic framework for fast federated optimization](https://arxiv.org/abs/2005.05238) (2020)
  + [Multilevel Riemannian optimization for low-rank problems](https://arxiv.org/abs/2005.06976) (2020)
