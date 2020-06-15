@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jun 07 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jun 13 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -132,6 +132,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Tensor Recovery/Decomposition & Hidden Variable Models
 
++  [Tensor Completion Made Practical](https://arxiv.org/abs/2006.03134) (2020)
++  [Optimization landscape of Tucker decomposition](https://doi.org/10.1007/s10107-020-01531-z) (2020)
  +  [When Does Non-Orthogonal Tensor Decomposition Have No Spurious Local Minima?](https://arxiv.org/abs/1911.09815) (2019)
  +  [Nonconvex Low-Rank Symmetric Tensor Completion from Noisy Data](https://arxiv.org/abs/1911.04436) (2019)
  +  [Smoothed Analysis in Unsupervised Learning via Decoupling](https://arxiv.org/abs/1811.12361) (2018)
@@ -474,6 +476,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
+ + [Convergence of adaptive algorithms for weakly convex constrained optimization](https://arxiv.org/abs/2006.06650) (2020)
  + [Nonmonotone Globalization for Anderson Acceleration Using Adaptive Regularization](https://arxiv.org/abs/2006.02559) (2020)
  + [ADAHESSIAN: An Adaptive Second Order Optimizer for Machine Learning](https://arxiv.org/abs/2006.00719) (2020)
  + [A modification of quasi-Newton's methods helping to avoid saddle points](https://arxiv.org/abs/2006.01512) (2020)
