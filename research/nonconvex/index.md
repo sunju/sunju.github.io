@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jun 13 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jun 20 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -66,6 +66,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 ### Matrix Completion/Sensing
 (See also [low-rank matrix/tensor recovery](/research/low-rank/) )   
 
+ + [Nonasymptotic Guarantees for Low-Rank Matrix Recovery with Generative Priors](https://arxiv.org/abs/2006.07953) (2020)
  + [The Global Geometry of Centralized and Distributed Low-rank Matrix Recovery without Regularization](https://arxiv.org/abs/2003.10981) (2020)
  + [The Landscape of Matrix Factorization Revisited](https://arxiv.org/abs/2002.12795) (2020)
  + [Iterative algorithm with structured diagonal Hessian approximation for solving nonlinear least squares problems](https://arxiv.org/abs/2002.01871) (2020)
@@ -347,6 +348,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ + [Global Convergence of Sobolev Training for Overparametrized Neural Networks](https://arxiv.org/abs/2006.07928) (2020)
+ + [Optimization Theory for ReLU Neural Networks Trained with Normalization Layers](https://arxiv.org/abs/2006.06878) (2020)
  + [Compressive sensing with un-trained neural networks: Gradient descent finds the smoothest approximation](https://arxiv.org/abs/2005.03991) (2020)
  + [Nonconvex penalization for sparse neural networks](https://arxiv.org/abs/2004.11515) (2020)
  + [Implicit Bias of Gradient Descent for Wide Two-layer Neural Networks Trained with the Logistic Loss](https://arxiv.org/abs/2002.04486) (2020)
@@ -476,6 +479,19 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
++ [The limits of min-max optimization algorithms: convergence to spurious non-critical sets](https://arxiv.org/abs/2006.09065) (2020)
++ [Projection Robust Wasserstein Distance and Riemannian Optimization](https://arxiv.org/abs/2006.07458) (2020)
++ [Nonconvex Optimization Tools for Large-Scale Matrix and Tensor Decomposition with Structured Factors](https://arxiv.org/abs/2006.08183) (2020)
++ [A Line-Search Descent Algorithm for Strict Saddle Functions with Complexity Guarantees](https://arxiv.org/abs/2006.07925) (2020)
++ [Non-convex Min-Max Optimization: Applications, Challenges, and Recent Theoretical Advances](https://arxiv.org/abs/2006.08141) (2020)
++ [A Note on Nesterov's Accelerated Method in Nonconvex Optimization: a Weak Estimate Sequence Approach](https://arxiv.org/abs/2006.08548) (2020)
++ [The Landscape of Nonconvex-Nonconcave Minimax Optimization](https://arxiv.org/abs/2006.08667) (2020)
++ [Two steps at a time -- taking GAN training in stride with Tseng's method](https://arxiv.org/abs/2006.09033) (2020)
++ [Accelerated Primal-Dual Algorithms for a Class of Convex-Concave Saddle-Point Problems with Non-Bilinear Coupling Term](https://arxiv.org/abs/2006.09263) (2020)
++ [Asymptotic stationarity and regularity for nonsmooth optimization problems](https://arxiv.org/abs/2006.09734) (2020)
++ [Convergence for nonconvex ADMM, with applications to CT imaging](https://arxiv.org/abs/2006.07278) (2020)
++ [SGD with shuffling: optimal rates without component convexity and large epoch requirements](https://arxiv.org/abs/2006.06946) (2020)
+ + [Fast Objective and Duality Gap Convergence for Non-convex Strongly-concave Min-max Problems](https://arxiv.org/abs/2006.06889) (2020)
  + [Convergence of adaptive algorithms for weakly convex constrained optimization](https://arxiv.org/abs/2006.06650) (2020)
  + [Nonmonotone Globalization for Anderson Acceleration Using Adaptive Regularization](https://arxiv.org/abs/2006.02559) (2020)
  + [ADAHESSIAN: An Adaptive Second Order Optimizer for Machine Learning](https://arxiv.org/abs/2006.00719) (2020)
