@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jun 20 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jun 27 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -348,6 +348,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ + [When Do Neural Networks Outperform Kernel Methods?](https://arxiv.org/abs/2006.13409) (2020)
  + [Global Convergence of Sobolev Training for Overparametrized Neural Networks](https://arxiv.org/abs/2006.07928) (2020)
  + [Optimization Theory for ReLU Neural Networks Trained with Normalization Layers](https://arxiv.org/abs/2006.06878) (2020)
  + [Compressive sensing with un-trained neural networks: Gradient descent finds the smoothest approximation](https://arxiv.org/abs/2005.03991) (2020)
@@ -479,6 +480,11 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
++ [Behavior of Limited Memory BFGS when Applied to Nonsmooth Functions and their Nesterov Smoothings](https://arxiv.org/abs/2006.11336) (2020)
++ [Second-Order Information in Non-Convex Stochastic Optimization: Power and Limitations](https://arxiv.org/abs/2006.13476) (2020)
++ [Newton-type Methods for Minimax Optimization](https://arxiv.org/abs/2006.14592) (2020)
++ [On the Almost Sure Convergence of Stochastic Gradient Descent in Non-Convex Problems](https://arxiv.org/abs/2006.11144) (2020)
++ [A Second-order Equilibrium in Nonconvex-Nonconcave Min-max Optimization: Existence and Algorithm](https://arxiv.org/abs/2006.12363) (2020)
 + [The limits of min-max optimization algorithms: convergence to spurious non-critical sets](https://arxiv.org/abs/2006.09065) (2020)
 + [Projection Robust Wasserstein Distance and Riemannian Optimization](https://arxiv.org/abs/2006.07458) (2020)
 + [Nonconvex Optimization Tools for Large-Scale Matrix and Tensor Decomposition with Structured Factors](https://arxiv.org/abs/2006.08183) (2020)

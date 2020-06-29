@@ -31,7 +31,7 @@ University of Minnesota, Twin Cities
 ### What's new
 
 #### Upcoming
-
+- [SIAM Conference on Imaging Science](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=69004) Virtual Conference (Jul 6--17, 2020)
 
 #### Past
 
