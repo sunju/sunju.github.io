@@ -51,13 +51,16 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Conferences and Workshops
 
-> **End-to-End Learning for Phase Retrieval**.   \[[paper](/docs/ICML20-WS-DL4FPR.pdf)\]   
+> **Phase Retrieval via Second-Order Nonsmooth Optimization**.   \[[paper](ICML20-WS-ALM-FPR.pdf)\]   
+> &nbsp; &nbsp; Zhong Zhuang, Gang Wang, Yash Travadi, **Ju Sun**. ICML workshop on Beyond First Order Methods in Machine Learning, 2020.
+
+> **End-to-End Learning for Phase Retrieval**.   \[[paper](ICML20-WS-DL4FPR.pdf)\]   
 > &nbsp; &nbsp; Raunak Manekar, Kshitij Tayal, Vipin Kumar, **Ju Sun**. ICML workshop on ML Interpretability for Scientific Discovery, 2020.
 
-> **Inverse Problems, Deep Learning, and Symmetry Breaking**.   \[[paper](/docs/ICML20-WS-DL4INV.pdf)\]   
+> **Inverse Problems, Deep Learning, and Symmetry Breaking**.   \[[paper](ICML20-WS-DL4INV.pdf)\]   
 > &nbsp; &nbsp; Kshitij Tayal, Chieh-Hsin Lai, Raunak Manekar, Vipin Kumar, **Ju Sun**. ICML workshop on ML Interpretability for Scientific Discovery, 2020.
 
-> **Low-Photon Holographic Phase Retrieval**.   \[[paper](/docs/OSA_IAOC_2020.pdf)\]  
+> **Low-Photon Holographic Phase Retrieval**.   \[[paper](OSA_IAOC_2020.pdf)\]  
 > &nbsp; &nbsp; David A. Barmherzig, **Ju Sun**. OSA Imaging and Applied Optics Congress 2020.
 
 > **Dual-Reference Design for Holographic Phase Retrieval**. \[[arXiv](https://arxiv.org/abs/1902.02492)\] \[[Paper](/docs/Dual_Ref_HCDI_19.pdf)\]  

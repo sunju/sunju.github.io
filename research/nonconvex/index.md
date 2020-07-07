@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jun 27 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jul 03 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -480,6 +480,10 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
++ [Understanding Notions of Stationarity in Non-Smooth Optimization](https://arxiv.org/abs/2006.14901) (2020)
++ [Riemannian Optimization on the Symplectic Stiefel Manifold](https://arxiv.org/abs/2006.15226) (2020)
++ [Random projection of Linear and Semidefinite problem with linear inequalities](https://arxiv.org/abs/2007.00242) (2020)
++ [Rate-improved Inexact Augmented Lagrangian Method for Constrained Nonconvex Optimization](https://arxiv.org/abs/2007.01284) (2020)
 + [Behavior of Limited Memory BFGS when Applied to Nonsmooth Functions and their Nesterov Smoothings](https://arxiv.org/abs/2006.11336) (2020)
 + [Second-Order Information in Non-Convex Stochastic Optimization: Power and Limitations](https://arxiv.org/abs/2006.13476) (2020)
 + [Newton-type Methods for Minimax Optimization](https://arxiv.org/abs/2006.14592) (2020)
