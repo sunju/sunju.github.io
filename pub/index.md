@@ -8,6 +8,16 @@ tags: top
 
 Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6FaD-UAAAAJ)\] \[[Semantic Scholar](https://www.semanticscholar.org/author/Ju-Sun/144706338)\] \[[arXiv Personal Page](http://arxiv.org/a/sun_j_1)\]
 
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+		- [Reports](#reports)
+		- [Journals](#journals)
+		- [Conferences and Workshops](#conferences-and-workshops)
+		- [Dissertation](#dissertation)
+		- [Unpublished Reports](#unpublished-reports)
+
+<!-- /TOC -->
+
 ### Reports
 
 > **Inverse Problems, Deep Learning, and Symmetry Breaking**. \[[arXiv](https://arxiv.org/abs/2003.09077)\]  
