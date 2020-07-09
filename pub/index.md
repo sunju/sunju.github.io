@@ -58,6 +58,9 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Conferences and Workshops
 
+> **Rethink Autoencoders: Robust Manifold Learning**.   \[[paper](ICML2020-WS-RML.pdf)\]   
+> &nbsp; &nbsp; Taihui LI, Rishabh Mehta, Zecheng Qian, **Ju Sun**. ICML workshop on Uncertainty and Robustness in Deep Learning, 2020.
+
 > **Phase Retrieval via Second-Order Nonsmooth Optimization**.   \[[paper](ICML20-WS-ALM-FPR.pdf)\]   
 > &nbsp; &nbsp; Zhong Zhuang, Gang Wang, Yash Travadi, **Ju Sun**. ICML workshop on Beyond First Order Methods in Machine Learning, 2020.
 

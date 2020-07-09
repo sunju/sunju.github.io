@@ -4,7 +4,7 @@ permalink: /research/pr/
 title: Phase Retrieval, Spectral Factorization, and Applications
 ---
 
-Recover phaseless complex signals from measured magnitudes, or recover complex signals from the auto-correlation sequences. While for 1D signals the problem is solved both in theory and in practice, that for 2D or higher-D's are still largely open. Emphasis will be put on recent developments. (**Update: June 27 2020**)
+Recover phaseless complex signals from measured magnitudes, or recover complex signals from the auto-correlation sequences. While for 1D signals the problem is solved both in theory and in practice, that for 2D or higher-D's are still largely open. Emphasis will be put on recent developments. (**Update: Jul 08 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -122,6 +122,7 @@ Recover phaseless complex signals from measured magnitudes, or recover complex s
 
 ### Experimental/Partial Analytic Results  
 
+
  +  [Inverse Problems, Deep Learning, and Symmetry Breaking](https://arxiv.org/abs/2003.09077) (\[<span style="color:red">**S**</span>\], 2020)
  +  [Phase Retrieval for Partially Coherent Observations](https://arxiv.org/abs/2002.02939) (2020)
  +  [Convex combination of alternating projection and Douglas-Rachford operators for phase retrieval](https://arxiv.org/abs/2002.01678) (2020)
@@ -130,6 +131,7 @@ Recover phaseless complex signals from measured magnitudes, or recover complex s
  +  [Learning to Synthesize: Robust Phase Retrieval at Low Photon counts](https://arxiv.org/abs/1907.11713) (2019)
  +  [Don't take it lightly: Phasing optical random projections with unknown operators](https://arxiv.org/abs/1907.01703) (2019)
  +  [Frequency-Resolved Optical Gating Recovery via Smoothing Gradient](https://arxiv.org/abs/1902.09447) (2019)
+ + [Optimization on Spheres: Models and Proximal Algorithms with Computational Performance Comparisons](https://arxiv.org/abs/1810.02893) (2018)
  +  [Phase retrieval for Bragg coherent diffraction imaging at high X-ray energies](https://arxiv.org/abs/1811.06181) (2018)
  +  [Spectral Method for Multiplexed Phase Retrieval and Application in Optical Imaging in Complex Media](https://arxiv.org/abs/1810.13038) (2018)
  +  [FASPR: A fast sparse phase retrieval algorithm via the epigraph concept](https://doi.org/10.1016/j.dsp.2018.05.011) (2018)
