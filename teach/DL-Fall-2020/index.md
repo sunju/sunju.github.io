@@ -24,6 +24,7 @@ The detailed syllabus, containing the office hours, recommended references, asse
 
 **Prerequisite**: Introduction to machine learning or equivalent. Maturity in linear algebra, calculus, and basic probability is assumed. Familiarity with Python (esp. Numpy, Scipy) is necessary to complete the homework assignments and final projects. We focus on PyTorch (>=1.0) as the default deep learning framework, although Tensorflow (>=2.0) is also supported.  
 
+**Hybrid mode**: The lecture will be delivered in an UNITE classroom. Each time, a small portion of the class will be allowed (not required) to physically attend, on a rotation basis. Synchronous and asynchronous access to the lecture video, handled by UNITE, will be granted to the **whole class**(not only for UNITE students). 
 
 
 

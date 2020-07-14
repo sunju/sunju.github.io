@@ -9193,11 +9193,50 @@
   title       = {Understanding Notions of Stationarity in Non-Smooth Optimization},
   year        = {2020},
   date        = {2020-06-26},
-  eprint      = {2006.14901v1},
+  eprint      = {2006.14901},
   eprintclass = {math.OC},
   eprinttype  = {arXiv},
   file        = {:http\://arxiv.org/pdf/2006.14901v1:PDF},
   keywords    = {math.OC, cs.LG, eess.SP, stat.ML},
+}
+
+@Article{BullinsLai2020Higher,
+  author      = {Brian Bullins and Kevin A. Lai},
+  journal     = {arXiv:2007.04528},
+  title       = {Higher-order methods for convex-concave min-max optimization and monotone variational inequalities},
+  year        = {2020},
+  date        = {2020-07-09},
+  eprint      = {2007.04528},
+  eprintclass = {math.OC},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/2007.04528v1:PDF},
+  keywords    = {math.OC, cs.LG, stat.ML},
+}
+
+@Article{FangEtAl2020Modeling,
+  author      = {Cong Fang and Jason D. Lee and Pengkun Yang and Tong Zhang},
+  journal     = {arXiv:2007.01452},
+  title       = {Modeling from Features: a Mean-field Framework for Over-parameterized Deep Neural Networks},
+  year        = {2020},
+  date        = {2020-07-03},
+  eprint      = {2007.01452},
+  eprintclass = {stat.ML},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/2007.01452v1:PDF},
+  keywords    = {stat.ML, cs.LG, math.OC},
+}
+
+@Article{SunEtAl2020Global,
+  author      = {Ruoyu Sun and Dawei Li and Shiyu Liang and Tian Ding and R Srikant},
+  journal     = {arXiv:2007.01429},
+  title       = {The Global Landscape of Neural Networks: An Overview},
+  year        = {2020},
+  date        = {2020-07-02},
+  eprint      = {2007.01429},
+  eprintclass = {cs.LG},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/2007.01429v1:PDF},
+  keywords    = {cs.LG, math.OC, stat.ML},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

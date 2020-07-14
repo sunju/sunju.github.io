@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jul 03 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jul 10 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -239,6 +239,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Deep Learning
 
+ + [The Global Landscape of Neural Networks: An Overview](https://arxiv.org/abs/2007.01429) (2020)
+ + [Modeling from Features: a Mean-field Framework for Over-parameterized Deep Neural Networks](https://arxiv.org/abs/2007.01452) (2020)
  +  [A Mean-field Analysis of Deep ResNet and Beyond: Towards Provable Optimization Via Overparameterization From Depth](https://arxiv.org/abs/2003.05508) (2020)
  +  [On the Global Convergence of Training Deep Linear ResNets](https://arxiv.org/abs/2003.01094) (2020)
  +  [Stochastic Subspace Cubic Newton Method](https://arxiv.org/abs/2002.09526) (2020)
@@ -480,6 +482,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
++ [Higher-order methods for convex-concave min-max optimization and monotone variational inequalities](https://arxiv.org/abs/2007.04528) (2020)
 + [Understanding Notions of Stationarity in Non-Smooth Optimization](https://arxiv.org/abs/2006.14901) (2020)
 + [Riemannian Optimization on the Symplectic Stiefel Manifold](https://arxiv.org/abs/2006.15226) (2020)
 + [Random projection of Linear and Semidefinite problem with linear inequalities](https://arxiv.org/abs/2007.00242) (2020)
