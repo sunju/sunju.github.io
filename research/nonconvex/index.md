@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jul 10 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jul 19 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -46,6 +46,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 
 ## Review Articles
+ +  [From Symmetry to Geometry: Tractable Nonconvex Problems](https://arxiv.org/abs/2007.06753) (2020)
  +  [Nonconvex Optimization Meets Low-Rank Matrix Factorization: An Overview](https://arxiv.org/abs/1809.09573) (2018)
  +  [Harnessing Structures in Big Data via Guaranteed Low-Rank Matrix Estimation](https://arxiv.org/abs/1802.08397) (2018)
  +  [Non-convex Optimization for Machine Learning](https://arxiv.org/abs/1712.07897) (2017)
@@ -350,6 +351,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ + [Regularized linear autoencoders recover the principal components, eventually](https://arxiv.org/abs/2007.06731) (2020)
  + [When Do Neural Networks Outperform Kernel Methods?](https://arxiv.org/abs/2006.13409) (2020)
  + [Global Convergence of Sobolev Training for Overparametrized Neural Networks](https://arxiv.org/abs/2006.07928) (2020)
  + [Optimization Theory for ReLU Neural Networks Trained with Normalization Layers](https://arxiv.org/abs/2006.06878) (2020)
