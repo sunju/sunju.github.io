@@ -8,6 +8,7 @@ tags: top
 
 ### PhD Students
 
+- Le Peng (CS&E)
 - Raunak Manekar (CS&E)
 - Hengkang Wang (CS&E)
 - Zhong Zhuang (ECE, co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/))
