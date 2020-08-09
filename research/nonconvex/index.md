@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jul 31 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Aug 07 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -352,6 +352,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ + [Analytic Characterization of the Hessian in Shallow ReLU Models: A Tale of Symmetry](https://arxiv.org/abs/2008.01805) (2020)
  + [Regularized linear autoencoders recover the principal components, eventually](https://arxiv.org/abs/2007.06731) (2020)
  + [When Do Neural Networks Outperform Kernel Methods?](https://arxiv.org/abs/2006.13409) (2020)
  + [Global Convergence of Sobolev Training for Overparametrized Neural Networks](https://arxiv.org/abs/2006.07928) (2020)
@@ -485,8 +486,11 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
++ [An accelerated first-order method for non-convex optimization on manifolds](https://arxiv.org/abs/2008.02252) (2020)
++ [Faster Stochastic Alternating Direction Method of Multipliers for Nonconvex Optimization](https://arxiv.org/abs/2008.01296) (2020)
++ [Curvature-Dependant Global Convergence Rates for Optimization on Manifolds of Bounded Geometry](https://arxiv.org/abs/2008.02517) (2020)
 + [A First-Order Primal-Dual Method for Nonconvex Constrained Optimization Based On the Augmented Lagrangian](https://arxiv.org/abs/2007.12219) (2020)
-+ [A proximal gradient method for control problems with nonsmooth and nonconvex control cost]() (2020)
++ [A proximal gradient method for control problems with nonsmooth and nonconvex control cost](https://arxiv.org/abs/2007.11426) (2020)
 + [Sequential Quadratic Optimization for Nonlinear Equality Constrained Stochastic Optimization](https://arxiv.org/abs/2007.10525) (2020)
 + [Higher-order methods for convex-concave min-max optimization and monotone variational inequalities](https://arxiv.org/abs/2007.04528) (2020)
 + [Understanding Notions of Stationarity in Non-Smooth Optimization](https://arxiv.org/abs/2006.14901) (2020)
@@ -537,7 +541,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  + [Likelihood landscape and maximum likelihood estimation for the discrete orbit recovery model](https://arxiv.org/abs/2004.00041) (2020)
  + [Breaking the $O(1/\varepsilon)$ Optimal Rate for a Class of Minimax Problems](https://arxiv.org/abs/2003.11758) (2020)
  + [Zeroth-order Optimization on Riemannian Manifolds](https://arxiv.org/abs/2003.11238) (2020)
- + [Symmetry & critical points for a model shallow neural network](https://arxiv.org/abs/2003.10576) (2020)
+ + [Symmetry & critical points for a model neural network](https://arxiv.org/abs/2003.10576) (2020)
  + [Rates of Superlinear Convergence for Classical Quasi-Newton Methods](https://arxiv.org/abs/2003.09174) (2020)
  + [Efficient Clustering for Stretched Mixtures: Landscape and Optimality](https://arxiv.org/abs/2003.09960) (2020)
  + [Augmented Lagrangian based first-order methods for convex and nonconvex programs: nonergodic convergence and iteration complexity](https://arxiv.org/abs/2003.08880) (2020)
