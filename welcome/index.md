@@ -18,6 +18,7 @@ social: true
 
 Assistant Professor  
 [Computer Science & Engineering](https://www.cs.umn.edu/)  
+[Data Science Graduate Faculty](https://cse.umn.edu/datascience)  
 [Institute for Health Informatics](https://healthinformatics.umn.edu/) (Affiliate Faculty)
 
 University of Minnesota, Twin Cities
