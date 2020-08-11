@@ -38,7 +38,8 @@ University of Minnesota, Twin Cities
 
 #### Past
 
-- **Grant approval**: NSF 2038403: CPS: Medium: Smart Tracking Systems for Safe and Smooth Interactions Between Scooters and Road Vehicles (Co-PI, Aug 04, 2020)
+- **Grant approval**: [DOE: FAIR Framework for Physics‐Inspired Artificial Intelligence in High Energy Physics](https://www.energy.gov/articles/department-energy-announces-85-million-fair-data-advance-artificial-intelligence-science) (Co-PI, Aug 10, 2020)
+- **Grant approval**: [NSF 2038403: CPS: Medium: Smart Tracking Systems for Safe and Smooth Interactions Between Scooters and Road Vehicles](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2038403) (Co-PI, Aug 04, 2020) 
 - **Service**: To be an Area chair for AISTATS 2021 (Jul 18, 2020)
 - **Talk**: [SIAM Conference on Imaging Science](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=69004) Virtual Conference (Jul 6--17, 2020) \[[Slides](/talks/SIAM-IS-2020-FPR.pdf)\]
 - **Talk**: [SIAM Conference on Mathematics of Data Science](https://www.siam.org/Conferences/CM/Conference/mds20) at Cincinnati, Ohio (postponed for the BEERvirus, 2020)
