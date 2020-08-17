@@ -42,6 +42,7 @@ University of Minnesota, Twin Cities
 - **Grant approval**: [NSF 2038403: CPS: Medium: Smart Tracking Systems for Safe and Smooth Interactions Between Scooters and Road Vehicles](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2038403) (Co-PI, Aug 04, 2020) 
 - **Service**: To be an Area chair for AISTATS 2021 (Jul 18, 2020)
 - **Talk**: [SIAM Conference on Imaging Science](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=69004) Virtual Conference (Jul 6--17, 2020) \[[Slides](/talks/SIAM-IS-2020-FPR.pdf)\]
+- **Grant approval**: [OVPR COVID19 Rapid Response Grant \# 10: Rapid detection and severity trajectory of COVID19 using X-ray images and artificial intelligence](https://research.umn.edu/funding-awards/covid-19-rapid-response-grants) (May 01, 2020)
 - **Talk**: [SIAM Conference on Mathematics of Data Science](https://www.siam.org/Conferences/CM/Conference/mds20) at Cincinnati, Ohio (postponed for the BEERvirus, 2020)
 - **Paper release**: our new paper [Inverse Problems, Deep Learning, and Symmetry Breaking](https://arxiv.org/abs/2003.09077) is on arXiv. We show how symmetries in nonlinear inverse problems can cause a significant difficulty for the end-to-end deep learning approach, and how to address it by breaking the symmetry (Mar 20, 2020).
 - **Talk**: [Workshop on Numerical Algebra in High-Dimensional Data Analysis](http://tianyuan.xmu.edu.cn/activities/19-20/WNAHDDA2019/index.html) at Tianyuan Mathematical Center in Southeast China (TMSE), Xiamen, China (Dec 27--29, 2019)
