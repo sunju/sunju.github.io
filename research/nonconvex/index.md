@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Aug 07 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Aug 22 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -486,6 +486,10 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
++ [Iteration-complexity of a proximal augmented Lagrangian method for solving nonconvex composite optimization problems with nonlinear convex constraints](https://arxiv.org/abs/2008.07080) (2020)
++ [On the globalization of Riemannian Newton method](https://arxiv.org/abs/2008.06557) (2020)
++ [A Note on the Finite Convergence of Alternating Projections](https://arxiv.org/abs/2008.06314) (2020)
++ [Complexity aspects of local minima and related notions](https://arxiv.org/abs/2008.06148) (2020)
 + [An accelerated first-order method for non-convex optimization on manifolds](https://arxiv.org/abs/2008.02252) (2020)
 + [Faster Stochastic Alternating Direction Method of Multipliers for Nonconvex Optimization](https://arxiv.org/abs/2008.01296) (2020)
 + [Curvature-Dependant Global Convergence Rates for Optimization on Manifolds of Bounded Geometry](https://arxiv.org/abs/2008.02517) (2020)
