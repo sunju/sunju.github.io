@@ -38,7 +38,7 @@ University of Minnesota, Twin Cities
 
 #### Past
 
-- **Talk**: [AIME2020: International Conference on Artificial Intelligence in Medicine](https://aime20.aimedicine.info/) (Hosted virtually by UMN, Aug 25--28, 2020)  \[[Slides](AIME2020-COVID19-XRAY.pdf)\]
+- **Talk**: [AIME2020: International Conference on Artificial Intelligence in Medicine](https://aime20.aimedicine.info/) (Hosted virtually by UMN, Aug 25--28, 2020)  \[[Slides](talks/AIME2020-COVID19-XRAY.pdf)\]
 - **Grant approval**: [DOE: FAIR Framework for Physics‐Inspired Artificial Intelligence in High Energy Physics](https://www.energy.gov/articles/department-energy-announces-85-million-fair-data-advance-artificial-intelligence-science) (Co-PI, Aug 10, 2020)
 - **Grant approval**: [NSF 2038403: CPS: Medium: Smart Tracking Systems for Safe and Smooth Interactions Between Scooters and Road Vehicles](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2038403) (Co-PI, Aug 04, 2020)
 - **Service**: To be an Area chair for AISTATS 2021 (Jul 18, 2020)
