@@ -7,6 +7,9 @@ tags: top
 ---
 ...which are select and recent
 
+#### Rapid and Robust COVID-19 Identification from Chest X-rays
++ [AIME2020: International Conference on Artificial Intelligence in Medicine](https://aime20.aimedicine.info/) \[[Slides](AIME2020-COVID19-XRAY.pdf)\] (Aug 26, 2020)
+
 #### Does deep learning solve the phase retrieval problem?
 + [SIAM Conference on Imaging Science, 2020](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=69004) \[[Slides](SIAM-IS-2020-FPR.pdf)\] (Jul 17, 2020)
 
