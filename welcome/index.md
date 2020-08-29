@@ -35,6 +35,7 @@ University of Minnesota, Twin Cities
 
 #### Upcoming
 
+- **Talk**: [IMA Data Science Seminar at UMN](https://ima.umn.edu/2020-2021/DSS9.8.20-5.25.21/28574) (Sep 08, 2020)
 
 #### Past
 

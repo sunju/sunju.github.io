@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Aug 22 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Aug 28 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -18,7 +18,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 - [Review Articles](#review-articles)
 - [Problems with Hidden Convexity or Analytic Solutions](#problems-with-hidden-convexity-or-analytic-solutions)
 	- [Blind Deconvolution](#blind-deconvolution)
-	- [Separable Nonnegative Matrix Factorization (NMF)](#separable-nonnegative-matrix-factorization-nmf)
+	- [Separable Nonnegative  Factorization (NMF)](#separable-nonnegative-matrix-factorization-nmf)
 - [Problems with Provable Global Results](#problems-with-provable-global-results)
 	- [Matrix Completion/Sensing](#matrix-completionsensing)
 	- [Tensor Recovery/Decomposition & Hidden Variable Models](#tensor-recoverydecomposition-hidden-variable-models)
@@ -66,7 +66,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Matrix Completion/Sensing
 (See also [low-rank matrix/tensor recovery](/research/low-rank/) )   
-
+ 
+ + [Implicit Regularization in Matrix Sensing: A Geometric View Leads to Stronger Results](https://arxiv.org/abs/2008.12091) (2020)
  + [Nonasymptotic Guarantees for Low-Rank Matrix Recovery with Generative Priors](https://arxiv.org/abs/2006.07953) (2020)
  + [The Global Geometry of Centralized and Distributed Low-rank Matrix Recovery without Regularization](https://arxiv.org/abs/2003.10981) (2020)
  + [The Landscape of Matrix Factorization Revisited](https://arxiv.org/abs/2002.12795) (2020)
@@ -240,6 +241,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Deep Learning
 
+ + [Deep Networks and the Multiple Manifold Problem](https://arxiv.org/abs/2008.11245) (2020)
  + [The Global Landscape of Neural Networks: An Overview](https://arxiv.org/abs/2007.01429) (2020)
  + [Modeling from Features: a Mean-field Framework for Over-parameterized Deep Neural Networks](https://arxiv.org/abs/2007.01452) (2020)
  +  [A Mean-field Analysis of Deep ResNet and Beyond: Towards Provable Optimization Via Overparameterization From Depth](https://arxiv.org/abs/2003.05508) (2020)
@@ -486,6 +488,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
++ [Cubic Regularized Newton Method for Saddle Point Models: a Global and Local Convergence Analysis](https://arxiv.org/abs/2008.09919) (2020)
++ [Unconstrained optimisation on Riemannian manifolds](https://arxiv.org/abs/2008.11091) (2020)
 + [Iteration-complexity of a proximal augmented Lagrangian method for solving nonconvex composite optimization problems with nonlinear convex constraints](https://arxiv.org/abs/2008.07080) (2020)
 + [On the globalization of Riemannian Newton method](https://arxiv.org/abs/2008.06557) (2020)
 + [A Note on the Finite Convergence of Alternating Projections](https://arxiv.org/abs/2008.06314) (2020)
