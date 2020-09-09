@@ -29,16 +29,17 @@ University of Minnesota, Twin Cities
 - **Office**: 5-225E, KHKH
 - **Phone**: 612-301-2729
 - **Webpage**: <http://sunju.org>
-- **Office Hour**: 4 -- 6pm Thur (2020 Spring)
+- **Office Hour**: 5 -- 6pm Tue/Thur (2020 Fall)
 
 ### What's new
 
 #### Upcoming
 
-- **Talk**: [IMA Data Science Seminar at UMN](https://ima.umn.edu/2020-2021/DSS9.8.20-5.25.21/28574) (Sep 08, 2020)
+
 
 #### Past
 
+- **Talk**: [IMA Data Science Seminar at UMN](https://ima.umn.edu/2020-2021/DSS9.8.20-5.25.21/28574) (Sep 08, 2020)
 - **Talk**: [AIME2020: International Conference on Artificial Intelligence in Medicine](https://aime20.aimedicine.info/) (Hosted virtually by UMN, Aug 25--28, 2020)  \[[Slides](talks/AIME2020-COVID19-XRAY.pdf)\]
 - **Grant approval**: [DOE: FAIR Framework for Physics‐Inspired Artificial Intelligence in High Energy Physics](https://www.energy.gov/articles/department-energy-announces-85-million-fair-data-advance-artificial-intelligence-science) (Co-PI, Aug 10, 2020)
 - **Grant approval**: [NSF 2038403: CPS: Medium: Smart Tracking Systems for Safe and Smooth Interactions Between Scooters and Road Vehicles](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2038403) (Co-PI, Aug 04, 2020)
