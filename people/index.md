@@ -8,6 +8,7 @@ tags: top
 
 ### PhD Students
 
+- Yash Travadi (Stat, co-advised with [Prof. Hui Zou](http://users.stat.umn.edu/~zouxx019/))
 - Le Peng (CS&E)
 - Raunak Manekar (CS&E)
 - Hengkang Wang (CS&E)

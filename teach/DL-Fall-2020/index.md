@@ -6,11 +6,11 @@ title: Think Deep Learning
 
 Over the last few years, deep neural networks (DNNs) have fundamentally transformed the way people think of machine learning and approach practical problems. Successes around DNNs have ranged from traditional AI fields such as computer vision, natural language processing, interactive games, to healthcare, physical sciences---touching each and every corner of theoretical and applied domains. On the other hand, DNNs still largely operate as black-boxes and we only have very limited understanding as for when and why they work. This course introduces basic ingredients of DNNs, samples important applications, and throws around open problems. Emphasis is put on thinking from first principles, as the field is still evolving rapidly and there is nothing there that cannot be changed.
 
-**Instructor**: [Professor Ju Sun](https://sunju.org/)  Email: jusun AT umn.edu
+**Instructor**: [Professor Ju Sun](https://sunju.org/)  Email: jusun AT umn.edu   (Office Hours: Tue/Thur 5--6pm)
 
 **When/Where**: Mon 6:30 -- 9:00pm/Keller 3-210
 
-**TA's**: [Hengkang Wang](https://www.linkedin.com/in/hengkang-henry-wang-a1b293104/)  Email: wang9881 AT umn.edu   &emsp;    
+**TA's**: [Hengkang Wang](https://www.linkedin.com/in/hengkang-henry-wang-a1b293104/)  Email: wang9881 AT umn.edu  (Office hours: 4--6pm Wed)  &emsp;    
 
 The detailed syllabus, containing the office hours, recommended references, assessment, homework and project requirements, programming and computing, and other resources, can be found here: [Syllabus.pdf](TDL.pdf)
 
