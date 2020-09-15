@@ -18,7 +18,7 @@ Full syllabus: [Syllabus.pdf](TDL.pdf)
 
 | Date   | Topics                                                                                                        | Notes & References |
 | ------ | ------------------------------------------------------------------------------------------------------------- | ------------------ |
-| Sep 14 | Think deep learning: overview [Slides](sep-14-A.pdf) <br> Neural networks: old and new [Slides](sep-14-B.pdf) |                    |
+| Sep 14 | Think deep learning: overview \[[Slides](sep-14-A.pdf)\] <br> Neural networks: old and new \[[Slides](sep-14-B.pdf)\] |                    |
 | Sep 21 |                                                                                                               |                    |
 | Sep 28 |                                                                                                               |                    |
 | Oct 05 |                                                                                                               |                    |
