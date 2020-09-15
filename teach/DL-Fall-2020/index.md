@@ -6,13 +6,38 @@ title: Think Deep Learning
 
 Over the last few years, deep neural networks (DNNs) have fundamentally transformed the way people think of machine learning and approach practical problems. Successes around DNNs have ranged from traditional AI fields such as computer vision, natural language processing, interactive games, to healthcare, physical sciences---touching each and every corner of theoretical and applied domains. On the other hand, DNNs still largely operate as black-boxes and we only have very limited understanding as for when and why they work. This course introduces basic ingredients of DNNs, samples important applications, and throws around open problems. Emphasis is put on thinking from first principles, as the field is still evolving rapidly and there is nothing there that cannot be changed.
 
+Full syllabus: [Syllabus.pdf](TDL.pdf)
+
 **Instructor**: [Professor Ju Sun](https://sunju.org/)  Email: jusun AT umn.edu   (Office Hours: Tue/Thur 5--6pm)
 
 **When/Where**: Mon 6:30 -- 9:00pm/Keller 3-210
 
-**TA's**: [Hengkang Wang](https://www.linkedin.com/in/hengkang-henry-wang-a1b293104/)  Email: wang9881 AT umn.edu  (Office hours: 4--6pm Wed)  &emsp;    
+**TA's**: [Hengkang Wang](https://www.linkedin.com/in/hengkang-henry-wang-a1b293104/)  Email: wang9881 AT umn.edu  (Office hours: 4:30--6:30pm Wed)  &emsp;    
 
-The detailed syllabus, containing the office hours, recommended references, assessment, homework and project requirements, programming and computing, and other resources, can be found here: [Syllabus.pdf](TDL.pdf)
+**Lecture Schedule**
+
+| Date   | Topics                                                                                                        | Notes & References |
+| ------ | ------------------------------------------------------------------------------------------------------------- | ------------------ |
+| Sep 14 | Think deep learning: overview [Slides](sep-14-A.pdf) <br> Neural networks: old and new [Slides](sep-14-B.pdf) |                    |
+| Sep 21 |                                                                                                               |                    |
+| Sep 28 |                                                                                                               |                    |
+| Oct 05 |                                                                                                               |                    |
+| Oct 12 |                                                                                                               |                    |
+| Oct 19 |                                                                                                               |                    |
+| Oct 26 |                                                                                                               |                    |
+| Nov 02 |                                                                                                               |                    |
+| Nov 09 |                                                                                                               |                    |
+| Nov 16 |                                                                                                               |                    |
+| Nov 23 |                                                                                                               |                    |
+| Nov 30 |                                                                                                               |                    |
+| Dec 07 |                                                                                                               |                    |
+| Dec 14 |                                                                                                               |                    |
+
+**Homework**
+
+
+
+<!-- The detailed syllabus, containing the office hours, recommended references, assessment, homework and project requirements, programming and computing, and other resources, can be found here: [Syllabus.pdf](TDL.pdf)
 
 **Target**: Graduate and advanced undergrad students.
 
@@ -21,11 +46,11 @@ The detailed syllabus, containing the office hours, recommended references, asse
 (<span style="color:red">This course is now cross-listed as CSCI 5980/8980. The latter requires different coursework than the 5980 level.  Please refer to the syllabus for the different assessment methods.  In your request, you need to specify the level you want to take. The 8980 level is ideal for mature graduate students who are interested in research topics relevant to deep learning.  </span>)
 
 <!-- **No Panic**: <span style="color:red"> The enrollment has reached the cap. </span> While we're maintaining a waiting list, and may decide to increase the cap later, there's no guarantee. We're likely to re-run the course in fall 2020 and to make the course regular in the near future, and so please consider next iterations if you're not in. -->
-
+<!--
 **Prerequisite**: Introduction to machine learning or equivalent. Maturity in linear algebra, calculus, and basic probability is assumed. Familiarity with Python (esp. Numpy, Scipy) is necessary to complete the homework assignments and final projects. We focus on PyTorch (>=1.0) as the default deep learning framework, although Tensorflow (>=2.0) is also supported.  
 
-**Hybrid mode**: The lecture will be delivered in an UNITE classroom. Each time, a small portion of the class will be allowed (not required) to physically attend, on a rotation basis. Synchronous and asynchronous access to the lecture video, handled by UNITE, will be granted to the **whole class**(not only for UNITE students). 
-
+**Hybrid mode**: The lecture will be delivered in an UNITE classroom. Each time, a small portion of the class will be allowed (not required) to physically attend, on a rotation basis. Synchronous and asynchronous access to the lecture video, handled by UNITE, will be granted to the **whole class**(not only for UNITE students). -->
+ <!-- -->
 
 
 <!--
