@@ -34,13 +34,13 @@ Full syllabus: [Syllabus.pdf](TDL.pdf)
 | Dec 14 |                                                                                                                       |                    |
 
 **Homework**
--[Assignment 0](HW0.pdf) (Due: Sep 30)
--[Assignment 1]
--[Assignment 2]
--[Assignment 3]
--[Assignment 4]
--[Assignment 5]
--[Assignment 6]
+- [Assignment 0](HW0.pdf) (Due: Sep 30)  
+- [Assignment 1]
+- [Assignment 2]
+- [Assignment 3]
+- [Assignment 4]
+- [Assignment 5]
+- [Assignment 6]
 
 <!-- The detailed syllabus, containing the office hours, recommended references, assessment, homework and project requirements, programming and computing, and other resources, can be found here: [Syllabus.pdf](TDL.pdf)
 
