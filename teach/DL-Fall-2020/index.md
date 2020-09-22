@@ -16,26 +16,31 @@ Full syllabus: [Syllabus.pdf](TDL.pdf)
 
 **Lecture Schedule**
 
-| Date   | Topics                                                                                                        | Notes & References |
-| ------ | ------------------------------------------------------------------------------------------------------------- | ------------------ |
+| Date   | Topics                                                                                                                | Notes |
+| ------ | --------------------------------------------------------------------------------------------------------------------- | ------------------ |
 | Sep 14 | Think deep learning: overview \[[Slides](sep-14-A.pdf)\] <br> Neural networks: old and new \[[Slides](sep-14-B.pdf)\] |                    |
-| Sep 21 |                                                                                                               |                    |
-| Sep 28 |                                                                                                               |                    |
-| Oct 05 |                                                                                                               |                    |
-| Oct 12 |                                                                                                               |                    |
-| Oct 19 |                                                                                                               |                    |
-| Oct 26 |                                                                                                               |                    |
-| Nov 02 |                                                                                                               |                    |
-| Nov 09 |                                                                                                               |                    |
-| Nov 16 |                                                                                                               |                    |
-| Nov 23 |                                                                                                               |                    |
-| Nov 30 |                                                                                                               |                    |
-| Dec 07 |                                                                                                               |                    |
-| Dec 14 |                                                                                                               |                    |
+| Sep 21 | Fundamental belief: universal approximation theorems \[[Slides](sep-21-A.pdf)\] <br> Review of multivariate calculus  \[[Slides](sep-21-B.pdf)\]    |                    |
+| Sep 28 |                                                                                                                       |                    |
+| Oct 05 |                                                                                                                       |                    |
+| Oct 12 |                                                                                                                       |                    |
+| Oct 19 |                                                                                                                       |                    |
+| Oct 26 |                                                                                                                       |                    |
+| Nov 02 |                                                                                                                       |                    |
+| Nov 09 |                                                                                                                       |                    |
+| Nov 16 |                                                                                                                       |                    |
+| Nov 23 |                                                                                                                       |                    |
+| Nov 30 |                                                                                                                       |                    |
+| Dec 07 |                                                                                                                       |                    |
+| Dec 14 |                                                                                                                       |                    |
 
 **Homework**
-
-
+-[Assignment 0](HW0.pdf) (Due: Sep 30)
+-[Assignment 1]
+-[Assignment 2]
+-[Assignment 3]
+-[Assignment 4]
+-[Assignment 5]
+-[Assignment 6]
 
 <!-- The detailed syllabus, containing the office hours, recommended references, assessment, homework and project requirements, programming and computing, and other resources, can be found here: [Syllabus.pdf](TDL.pdf)
 

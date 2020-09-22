@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Sep 13 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Sep 19 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -66,7 +66,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Matrix Completion/Sensing
 (See also [low-rank matrix/tensor recovery](/research/low-rank/) )   
- 
+
  + [Implicit Regularization in Matrix Sensing: A Geometric View Leads to Stronger Results](https://arxiv.org/abs/2008.12091) (2020)
  + [Nonasymptotic Guarantees for Low-Rank Matrix Recovery with Generative Priors](https://arxiv.org/abs/2006.07953) (2020)
  + [The Global Geometry of Centralized and Distributed Low-rank Matrix Recovery without Regularization](https://arxiv.org/abs/2003.10981) (2020)
@@ -324,6 +324,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Synchronization Problems/Community Detection
 
+ +  [A Unified Approach to Synchronization Problems over Subgroups of the Orthogonal Group](https://arxiv.org/abs/2009.07514) (2020)
  +  [Message Passing Least Squares Framework and its Application to Rotation Synchronization](https://arxiv.org/abs/2007.13638) (2020)
  +  [Solving Orthogonal Group Synchronization via Convex and Low-Rank Optimization: Tightness and Landscape Analysis](https://arxiv.org/abs/2006.00902) (2020)
  +  [A Provably Robust Multiple Rotation Averaging Scheme for SO(2)](https://arxiv.org/abs/2002.05299) (2020)
@@ -488,6 +489,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
++ [Sequential Quadratic Optimization for Nonlinear Optimization Problems on Riemannian Manifolds](https://arxiv.org/abs/2009.07153) (2020)
 + [Convergence Rate of A General Multi-Block ADMM in Nonconvex Nonsmooth Optimization](https://arxiv.org/abs/2009.04014) (2020)
 + [Cubic Regularized Newton Method for Saddle Point Models: a Global and Local Convergence Analysis](https://arxiv.org/abs/2008.09919) (2020)
 + [Unconstrained optimisation on Riemannian manifolds](https://arxiv.org/abs/2008.11091) (2020)
