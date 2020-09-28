@@ -39,6 +39,7 @@ University of Minnesota, Twin Cities
 
 #### Past
 
+-**Talk**: "运筹千里”纵横论坛 organized by Operation Research Society of China (Sep 27, 2020) \[[Slides](talks/ORSC-2020-FPR.pdf)\]
 - **Talk**: [IMA Data Science Seminar at UMN](https://ima.umn.edu/2020-2021/DSS9.8.20-5.25.21/28574) (Sep 08, 2020)
 - **Talk**: [AIME2020: International Conference on Artificial Intelligence in Medicine](https://aime20.aimedicine.info/) (Hosted virtually by UMN, Aug 25--28, 2020)  \[[Slides](talks/AIME2020-COVID19-XRAY.pdf)\]
 - **Grant approval**: [DOE: FAIR Framework for Physics‐Inspired Artificial Intelligence in High Energy Physics](https://www.energy.gov/articles/department-energy-announces-85-million-fair-data-advance-artificial-intelligence-science) (Co-PI, Aug 10, 2020)

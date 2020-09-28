@@ -7,6 +7,9 @@ tags: top
 ---
 ...which are select and recent
 
+#### Toward practical phase retrieval: To learn or not, and how to learn?
++ "运筹千里”纵横论坛 organized by Operation Research Society of China \[[Slides](talks/ORSC-2020-FPR.pdf)\] (Sep 27, 2020)
+
 #### Rapid and Robust COVID-19 Identification from Chest X-rays
 + [AIME2020: International Conference on Artificial Intelligence in Medicine](https://aime20.aimedicine.info/) \[[Slides](AIME2020-COVID19-XRAY.pdf)\] (Aug 26, 2020)
 
