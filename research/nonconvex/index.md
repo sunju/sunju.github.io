@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Sep 19 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Sep 28 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -67,6 +67,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 ### Matrix Completion/Sensing
 (See also [low-rank matrix/tensor recovery](/research/low-rank/) )   
 
+ + [Mixed-Projection Conic Optimization: A New Paradigm for Modeling Rank Constraints](https://arxiv.org/abs/2009.10395) (2020)
  + [Implicit Regularization in Matrix Sensing: A Geometric View Leads to Stronger Results](https://arxiv.org/abs/2008.12091) (2020)
  + [Nonasymptotic Guarantees for Low-Rank Matrix Recovery with Generative Priors](https://arxiv.org/abs/2006.07953) (2020)
  + [The Global Geometry of Centralized and Distributed Low-rank Matrix Recovery without Regularization](https://arxiv.org/abs/2003.10981) (2020)
@@ -489,6 +490,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
++ [The Complexity of Constrained Min-Max Optimization](https://arxiv.org/abs/2009.09623) (2020)
++ [A Generalized Newton Method for Subgradient Systems](https://arxiv.org/abs/2009.10551) (2020)
 + [Sequential Quadratic Optimization for Nonlinear Optimization Problems on Riemannian Manifolds](https://arxiv.org/abs/2009.07153) (2020)
 + [Convergence Rate of A General Multi-Block ADMM in Nonconvex Nonsmooth Optimization](https://arxiv.org/abs/2009.04014) (2020)
 + [Cubic Regularized Newton Method for Saddle Point Models: a Global and Local Convergence Analysis](https://arxiv.org/abs/2008.09919) (2020)

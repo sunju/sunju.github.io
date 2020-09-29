@@ -9492,11 +9492,50 @@
   title       = {Sequential Quadratic Optimization for Nonlinear Optimization Problems on Riemannian Manifolds},
   year        = {2020},
   date        = {2020-09-15},
-  eprint      = {2009.07153v1},
+  eprint      = {2009.07153},
   eprintclass = {math.OC},
   eprinttype  = {arXiv},
   file        = {:http\://arxiv.org/pdf/2009.07153v1:PDF},
   keywords    = {math.OC},
+}
+
+@Article{KhanhEtAl2020Generalized,
+  author      = {Pham Duy Khanh and Boris Mordukhovich and Vo Thanh Phat},
+  journal     = {arXiv:2009.10551},
+  title       = {A Generalized Newton Method for Subgradient Systems},
+  year        = {2020},
+  date        = {2020-09-22},
+  eprint      = {2009.10551},
+  eprintclass = {math.OC},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/2009.10551v1:PDF},
+  keywords    = {math.OC},
+}
+
+@Article{BertsimasEtAl2020Mixed,
+  author      = {Dimitris Bertsimas and Ryan Cory-Wright and Jean Pauphilet},
+  journal     = {arXiv:2009.10395},
+  title       = {Mixed-Projection Conic Optimization: A New Paradigm for Modeling Rank Constraints},
+  year        = {2020},
+  date        = {2020-09-22},
+  eprint      = {2009.10395v1},
+  eprintclass = {math.OC},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/2009.10395v1:PDF},
+  keywords    = {math.OC, cs.LG, stat.ML},
+}
+
+@Article{DaskalakisEtAl2020Complexity,
+  author      = {Constantinos Daskalakis and Stratis Skoulakis and Manolis Zampetakis},
+  journal     = {arXiv:2009.09623},
+  title       = {The Complexity of Constrained Min-Max Optimization},
+  year        = {2020},
+  date        = {2020-09-21},
+  eprint      = {2009.09623v1},
+  eprintclass = {cs.CC},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/2009.09623v1:PDF},
+  keywords    = {cs.CC, cs.LG, math.OC},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

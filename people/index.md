@@ -10,10 +10,10 @@ tags: top
 
 - Yash Travadi (Stats, co-advised with [Prof. Hui Zou](http://users.stat.umn.edu/~zouxx019/))
 - Le Peng (CS&E)
-- Raunak Manekar (CS&E)
+- [Raunak Manekar](https://scholar.google.com/citations?user=ct6Om_wAAAAJ&hl=en) (CS&E)
 - Hengkang Wang (CS&E)
 - Zhong Zhuang (ECE, co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/))
-- Taihui Li (CS&E, co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/))
+- [Taihui Li](https://taihui.github.io/) (CS&E, co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/))
 
 ### Alumni
 
