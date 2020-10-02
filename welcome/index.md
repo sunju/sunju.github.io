@@ -39,7 +39,7 @@ University of Minnesota, Twin Cities
 
 #### Past
 
-- **Media**: An AI-based diagnostic system for COVID-19 based on chest x-rays developed by our group has been deployed and tested in M Health Fairview, and goes live in their decision-support system today! See [this UMN, M Health Fairview, and Epic joint press release](https://twin-cities.umn.edu/news-events/university-minnesota-develops-ai-algorithm-analyze-chest-x-rays-covid-19) and [this coverage](https://www.startribune.com/m-health-fairview-x-ray-analysis-helps-find-covid/572605252/) by StarTribute. (Oct 01, 2020)
+- **Media**: An AI-based diagnostic system for COVID-19 based on chest x-rays developed by our group has been deployed and tested in M Health Fairview, and goes live in their decision-support system today! See [this UMN, M Health Fairview, and Epic joint press release](https://twin-cities.umn.edu/news-events/university-minnesota-develops-ai-algorithm-analyze-chest-x-rays-covid-19) and [this coverage](https://www.startribune.com/m-health-fairview-x-ray-analysis-helps-find-covid/572605252/) by StarTribune. (Oct 01, 2020)
 - **Talk**: "运筹千里”纵横论坛 organized by Operation Research Society of China (Sep 27, 2020) \[[Slides](talks/ORSC-2020-FPR.pdf)\]
 - **Talk**: [IMA Data Science Seminar at UMN](https://ima.umn.edu/2020-2021/DSS9.8.20-5.25.21/28574) (Sep 08, 2020)
 - **Talk**: [AIME2020: International Conference on Artificial Intelligence in Medicine](https://aime20.aimedicine.info/) (Hosted virtually by UMN, Aug 25--28, 2020)  \[[Slides](talks/AIME2020-COVID19-XRAY.pdf)\]
