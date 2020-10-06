@@ -490,6 +490,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
++ [Escaping Saddle-Points Faster under Interpolation-like Conditions](https://arxiv.org/abs/2009.13016) (2020)
 + [The Complexity of Constrained Min-Max Optimization](https://arxiv.org/abs/2009.09623) (2020)
 + [A Generalized Newton Method for Subgradient Systems](https://arxiv.org/abs/2009.10551) (2020)
 + [Sequential Quadratic Optimization for Nonlinear Optimization Problems on Riemannian Manifolds](https://arxiv.org/abs/2009.07153) (2020)
