@@ -21,7 +21,7 @@ Full syllabus: [Syllabus.pdf](TDL.pdf)
 | Sep 14 | Think deep learning: overview \[[Slides](sep-14-A.pdf)\] <br> Neural networks: old and new \[[Slides](sep-14-B.pdf)\]                            |       |
 | Sep 21 | Fundamental belief: universal approximation theorems \[[Slides](sep-21-A.pdf)\] <br> Review of multivariate calculus  \[[Slides](sep-21-B.pdf)\] |       |
 | Sep 28 | Basics of numerical optimization: preliminaries \[[Slides](sep-28.pdf)\]                                                                         |       |
-| Oct 05 | Intro to MSI, Colab, Numpy, Scipy \[[Notebook](oct-05-A.ipynb)\]  <br>  &nbsp &nbsp &nbsp &nbsp (Guest lecturer: Dr. Ben Lynch, MSI)     <br >   Course project \[[Slides](oct-05-B.pdf)\]                                                                    |       |
+| Oct 05 | Intro to MSI, Colab, Numpy, Scipy \[[Notebook](oct-05-A.ipynb)\]  <br>  &nbsp; &nbsp; &nbsp; &nbsp; (Guest lecturer: Dr. Ben Lynch, MSI)     <br >   Course project \[[Slides](oct-05-B.pdf)\]                                                                    |       |
 | Oct 12 |                                                                                                                                                  |       |
 | Oct 19 |                                                                                                                                                  |       |
 | Oct 26 |                                                                                                                                                  |       |
