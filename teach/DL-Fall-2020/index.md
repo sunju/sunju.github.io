@@ -28,14 +28,14 @@ Full syllabus: [Syllabus.pdf](TDL.pdf)
 | Nov 02 |                                                                                                                                                  |       |
 | Nov 09 |                                                                                                                                                  |       |
 | Nov 16 |                                                                                                                                                  |       |
-| Nov 23 |                                                                                                                                                  |       |
+| Nov 23 | PROJECT PROGRESS PRESENTATION                                                                                                                                                 |       |
 | Nov 30 |                                                                                                                                                  |       |
 | Dec 07 |                                                                                                                                                  |       |
 | Dec 14 |                                                                                                                                                  |       |
 
 **Homework**
 - [Assignment 0](HW0.pdf) (Due: Sep 30)  
-- [Assignment 1]
+- [Assignment 1](HW1.pdf) (Due: Oct 15)
 - [Assignment 2]
 - [Assignment 3]
 - [Assignment 4]
