@@ -20,7 +20,7 @@ Assistant Professor
 [Computer Science & Engineering](https://www.cs.umn.edu/)  
 [Data Science Graduate Faculty](https://cse.umn.edu/datascience)  
 [Institute for Health Informatics](https://healthinformatics.umn.edu/) (Affiliate Faculty)  
-[Institute for Engineering in Medicine](https://www.iem.umn.edu/) (Affiliate Faculty)
+[Institute for Engineering in Medicine](https://www.iem.umn.edu/) (Affiliate Faculty)  
 University of Minnesota, Twin Cities
 
 **Research Interests**: machine learning, data sciences, and numerical optimization, computer vision, signal/image processing, and computational imaging, healthcare. See my \[[CV](/docs/CV.pdf)\].
