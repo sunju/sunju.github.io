@@ -9,7 +9,7 @@ tags: top
 ### PhD Students
 
 - Yash Travadi (Stats, co-advised with [Prof. Hui Zou](http://users.stat.umn.edu/~zouxx019/))
-- Le Peng (CS&E)
+- [Le Peng](https://sites.google.com/view/le-peng/) (CS&E)
 - [Raunak Manekar](https://scholar.google.com/citations?user=ct6Om_wAAAAJ&hl=en) (CS&E)
 - Hengkang Wang (CS&E)
 - Zhong Zhuang (ECE, co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/))

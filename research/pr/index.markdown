@@ -10,6 +10,7 @@ Recover phaseless complex signals from measured magnitudes, or recover complex s
 
 ### Provable Results with Algorithms
 
+ +  [A Proximal Operator for Multispectral Phase Retrieval Problems](https://arxiv.org/abs/1808.05194) (2018)
  + [Compressive Phase Retrieval: Optimal Sample Complexity with Deep Generative Priors](https://arxiv.org/abs/2008.10579) (2020)
  +  [Phase retrieval of complex-valued objects via a randomized Kaczmarz method](https://arxiv.org/abs/2005.03238) (2020)
  +  [A Deterministic Convergence Framework for Exact Non-Convex Phase Retrieval](https://arxiv.org/abs/2001.02855) (2020)
