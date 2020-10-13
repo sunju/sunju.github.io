@@ -16,22 +16,22 @@ Full syllabus: [Syllabus.pdf](TDL.pdf)
 
 **Lecture Schedule**
 
-| Date   | Topics                                                                                                                                           | Notes |
-| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----- |
-| Sep 14 | Think deep learning: overview \[[Slides](sep-14-A.pdf)\] <br> Neural networks: old and new \[[Slides](sep-14-B.pdf)\]                            |       |
-| Sep 21 | Fundamental belief: universal approximation theorems \[[Slides](sep-21-A.pdf)\] <br> Review of multivariate calculus  \[[Slides](sep-21-B.pdf)\] |       |
-| Sep 28 | Basics of numerical optimization: preliminaries \[[Slides](sep-28.pdf)\]                                                                         |       |
-| Oct 05 | Intro to MSI, Colab, Numpy, Scipy \[[Notebook](oct-05-A.ipynb)\]  <br>  &nbsp; &nbsp; &nbsp; &nbsp; (Guest lecturer: Dr. Ben Lynch, MSI)     <br >   Course project \[[Slides](oct-05-B.pdf)\]                                                                    |       |
-| Oct 12 |                                                                                                                                                  |       |
-| Oct 19 |                                                                                                                                                  |       |
-| Oct 26 |                                                                                                                                                  |       |
-| Nov 02 |                                                                                                                                                  |       |
-| Nov 09 |                                                                                                                                                  |       |
-| Nov 16 |                                                                                                                                                  |       |
-| Nov 23 | PROJECT PROGRESS PRESENTATION                                                                                                                                                 |       |
-| Nov 30 |                                                                                                                                                  |       |
-| Dec 07 |                                                                                                                                                  |       |
-| Dec 14 |                                                                                                                                                  |       |
+| Date   | Topics                                                                                                                                                                                         | Notes |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| Sep 14 | Think deep learning: overview \[[Slides](sep-14-A.pdf)\] <br> Neural networks: old and new \[[Slides](sep-14-B.pdf)\]                                                                          |       |
+| Sep 21 | Fundamental belief: universal approximation theorems \[[Slides](sep-21-A.pdf)\] <br> Review of multivariate calculus  \[[Slides](sep-21-B.pdf)\]                                               |       |
+| Sep 28 | Basics of numerical optimization: preliminaries \[[Slides](sep-28.pdf)\]                                                                                                                       |       |
+| Oct 05 | Intro to MSI, Colab, Numpy, Scipy \[[Notebook](oct-05-A.ipynb)\]  <br>  &nbsp; &nbsp; &nbsp; &nbsp; (Guest lecturer: Dr. Ben Lynch, MSI)     <br >   Course project \[[Slides](oct-05-B.pdf)\] |       |
+| Oct 12 | Basics of numerical optimization: iterative methods \[[Slides](oct-12.pdf) \]                                                                                                                                           |       |
+| Oct 19 | Basics of numerical optimization: computing derivatives                                                                                                                                        |       |
+| Oct 26 | Training DNNs: basic methods and tricks                                                                                                                                                        |       |
+| Nov 02 |                                                                                                                                                                                                |       |
+| Nov 09 |                                                                                                                                                                                                |       |
+| Nov 16 |                                                                                                                                                                                                |       |
+| Nov 23 | PROJECT PROGRESS PRESENTATION                                                                                                                                                                  |       |
+| Nov 30 |                                                                                                                                                                                                |       |
+| Dec 07 |                                                                                                                                                                                                |       |
+| Dec 14 |                                                                                                                                                                                                |       |
 
 **Homework**
 - [Assignment 0](HW0.pdf) (Due: Sep 30)  
