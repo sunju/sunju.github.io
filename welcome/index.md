@@ -32,6 +32,11 @@ University of Minnesota, Twin Cities
 - **Webpage**: <http://sunju.org>
 - **Office Hour**: 5 -- 6pm Tue/Thur (2020 Fall)
 
+### Seminars
+- Co-organizing [UMN Machine Learning Seminar Series](https://sites.google.com/umn.edu/machine-learning)
+- [UMN Data Science Seminars](https://www.ima.umn.edu/seminar/dsseminar)
+- [MnRI Seminar](https://cse.umn.edu/mnri/events)
+
 ### What's new
 
 #### Upcoming
