@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Oct 11 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Oct 18 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -491,6 +491,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
++ [Gradient Descent Ascent for Min-Max Problems on Riemannian Manifold](https://arxiv.org/abs/2010.06097) (2020)
 + [Provable Acceleration of Neural Net Training via Polyak's Momentum](https://arxiv.org/abs/2010.01618) (2020)
 + [Solving strongly convex-concave composite saddle point problems with a small dimension of one of the variables](https://arxiv.org/abs/2010.02280) (2020)
 + [QPALM: A Proximal Augmented Lagrangian Method for Nonconvex Quadratic Programs](https://arxiv.org/abs/2010.02653) (2020)

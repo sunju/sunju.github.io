@@ -36,7 +36,7 @@ Full syllabus: [Syllabus.pdf](TDL.pdf)
 **Homework**
 - [Assignment 0](HW0.pdf) (Due: Sep 30)  
 - [Assignment 1](HW1.pdf) (Due: Oct 15)
-- [Assignment 2]
+- [Assignment 2](HW2.pdf) (Due: Oct 28)
 - [Assignment 3]
 - [Assignment 4]
 - [Assignment 5]

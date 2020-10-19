@@ -9596,11 +9596,24 @@
   title       = {Provable Acceleration of Neural Net Training via Polyak's Momentum},
   year        = {2020},
   date        = {2020-10-04},
-  eprint      = {2010.01618v1},
+  eprint      = {2010.01618},
   eprintclass = {cs.LG},
   eprinttype  = {arXiv},
   file        = {:http\://arxiv.org/pdf/2010.01618v1:PDF},
   keywords    = {cs.LG, math.OC, stat.ML},
+}
+
+@Article{HuangEtAl2020Gradient,
+  author      = {Feihu Huang and Shangqian Gao and Heng Huang},
+  journal     = {arXiv:2010.06097},
+  title       = {Gradient Descent Ascent for Min-Max Problems on Riemannian Manifold},
+  year        = {2020},
+  date        = {2020-10-13},
+  eprint      = {2010.06097v1},
+  eprintclass = {cs.LG},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/2010.06097v1:PDF},
+  keywords    = {cs.LG, cs.CV, math.OC},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
