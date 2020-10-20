@@ -22,8 +22,8 @@ Full syllabus: [Syllabus.pdf](TDL.pdf)
 | Sep 21 | Fundamental belief: universal approximation theorems \[[Slides](sep-21-A.pdf)\] <br> Review of multivariate calculus  \[[Slides](sep-21-B.pdf)\]                                               |       |
 | Sep 28 | Basics of numerical optimization: preliminaries \[[Slides](sep-28.pdf)\]                                                                                                                       |       |
 | Oct 05 | Intro to MSI, Colab, Numpy, Scipy \[[Notebook](oct-05-A.ipynb)\]  <br>  &nbsp; &nbsp; &nbsp; &nbsp; (Guest lecturer: Dr. Ben Lynch, MSI)     <br >   Course project \[[Slides](oct-05-B.pdf)\] |       |
-| Oct 12 | Basics of numerical optimization: iterative methods \[[Slides](oct-12.pdf) \]                                                                                                                                           |       |
-| Oct 19 | Basics of numerical optimization: computing derivatives                                                                                                                                        |       |
+| Oct 12 | Basics of numerical optimization: iterative methods \[[Slides](oct-12.pdf) \]                                                    |       |
+| Oct 19 | Basics of numerical optimization: computing derivatives \[[Slides](oct-19.pdf)\]                                                                  |       |
 | Oct 26 | Training DNNs: basic methods and tricks                                                                                                                                                        |       |
 | Nov 02 |                                                                                                                                                                                                |       |
 | Nov 09 |                                                                                                                                                                                                |       |
