@@ -58,8 +58,16 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Conferences and Workshops
 
+> **Unlocking Inverse Problems Using Deep Learning: Breaking Symmetries in Phase Retrieval**.  
+> &nbsp; &nbsp; Kshitij Tayal, Chieh-Hsin Lai, Raunak Manekar, Zhong Zhuang, Vipin Kumar, **Ju Sun**. NeurIPS 2020 Workshop on Deep Learning and Inverse Problems, 2020. 
+
+
+> **Deep Learning Initialized Phase Retrieval**.  
+> &nbsp; &nbsp; Raunak Manekar, Zhong Zhuang, Kshitij Tayal, Vipin Kumar, **Ju Sun**. NeurIPS 2020 Workshop on Deep Learning and Inverse Problems, 2020. 
+
+
 > **Rethink Autoencoders: Robust Manifold Learning**.   \[[paper](ICML2020-WS-RML.pdf)\]   
-> &nbsp; &nbsp; Taihui LI, Rishabh Mehta, Zecheng Qian, **Ju Sun**. ICML workshop on Uncertainty and Robustness in Deep Learning, 2020.
+> &nbsp; &nbsp; Taihui Li, Rishabh Mehta, Zecheng Qian, **Ju Sun**. ICML workshop on Uncertainty and Robustness in Deep Learning, 2020.
 
 > **Phase Retrieval via Second-Order Nonsmooth Optimization**.   \[[paper](ICML20-WS-ALM-FPR.pdf)\]   
 > &nbsp; &nbsp; Zhong Zhuang, Gang Wang, Yash Travadi, **Ju Sun**. ICML workshop on Beyond First Order Methods in Machine Learning, 2020.

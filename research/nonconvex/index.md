@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Oct 18 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Oct 24 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -491,6 +491,10 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
++ [Accelerated Algorithms for Convex and Non-Convex Optimization on Manifolds](https://arxiv.org/abs/2010.08908) (2020)
++ [Limiting Behaviors of Nonconvex-Nonconcave Minimax Optimization via Continuous-Time Systems](https://arxiv.org/abs/2010.10628) (2020)
++ [Local Convergence Analysis of Augmented Lagrangian Methods for Piecewise Linear-Quadratic Composite Optimization Problems](https://arxiv.org/abs/2010.11379) (2020)
++ [Efficient Projection-Free Algorithms for Saddle Point Problems](https://arxiv.org/abs/2010.11737) (2020)
 + [Gradient Descent Ascent for Min-Max Problems on Riemannian Manifold](https://arxiv.org/abs/2010.06097) (2020)
 + [Provable Acceleration of Neural Net Training via Polyak's Momentum](https://arxiv.org/abs/2010.01618) (2020)
 + [Solving strongly convex-concave composite saddle point problems with a small dimension of one of the variables](https://arxiv.org/abs/2010.02280) (2020)

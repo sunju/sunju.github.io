@@ -6,6 +6,10 @@ tags: top
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
+### Student Collaborators
+- [Kshitij Tayal](https://www.kshitijtayal.com/) (CS&E)
+- [Chieh-Hsin (Jesse) Lai](https://math.umn.edu/directory/chieh-hsin-jesse-lai) (Math)
+
 ### PhD Students
 
 - Yash Travadi (Stats, co-advised with [Prof. Hui Zou](http://users.stat.umn.edu/~zouxx019/))

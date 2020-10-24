@@ -9661,7 +9661,7 @@
   title       = {Accelerated Algorithms for Convex and Non-Convex Optimization on Manifolds},
   year        = {2020},
   date        = {2020-10-18},
-  eprint      = {2010.08908v1},
+  eprint      = {2010.08908},
   eprintclass = {stat.CO},
   eprinttype  = {arXiv},
   file        = {:http\://arxiv.org/pdf/2010.08908v1:PDF},
