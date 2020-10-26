@@ -58,9 +58,8 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Conferences and Workshops
 
-> **Unlocking Inverse Problems Using Deep Learning: Breaking Symmetries in Phase Retrieval**.  
+> **Unlocking Inverse Problems Using Deep Learning: Breaking Symmetries in Phase Retrieval**.  \[[paper](NIPS20-WS-DL4INV.pdf)\]    
 > &nbsp; &nbsp; Kshitij Tayal, Chieh-Hsin Lai, Raunak Manekar, Zhong Zhuang, Vipin Kumar, **Ju Sun**. NeurIPS 2020 Workshop on Deep Learning and Inverse Problems, 2020.
-
 
 > **Deep Learning Initialized Phase Retrieval**.   \[[paper](NIPS20-WS-DL4FPR.pdf)\]     
 > &nbsp; &nbsp; Raunak Manekar, Zhong Zhuang, Kshitij Tayal, Vipin Kumar, **Ju Sun**. NeurIPS 2020 Workshop on Deep Learning and Inverse Problems, 2020.
