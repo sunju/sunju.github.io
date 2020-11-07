@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Oct 24 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Nov 06 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -67,6 +67,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 ### Matrix Completion/Sensing
 (See also [low-rank matrix/tensor recovery](/research/low-rank/) )   
 
+ + [Accelerating Ill-Conditioned Low-Rank Matrix Estimation via Scaled Gradient Descent](https://arxiv.org/abs/2005.08898) (2020)
+ + [Low-Rank Matrix Recovery with Scaled Subgradient Methods: Fast and Robust Convergence Without the Condition Number](https://arxiv.org/abs/2010.13364) (2020)
  + [Mixed-Projection Conic Optimization: A New Paradigm for Modeling Rank Constraints](https://arxiv.org/abs/2009.10395) (2020)
  + [Implicit Regularization in Matrix Sensing: A Geometric View Leads to Stronger Results](https://arxiv.org/abs/2008.12091) (2020)
  + [Nonasymptotic Guarantees for Low-Rank Matrix Recovery with Generative Priors](https://arxiv.org/abs/2006.07953) (2020)
@@ -165,6 +167,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Phase Retrieval
 
+ +  [Optimal Sample Complexity of Gradient Descent for Amplitude Flow via Non-Lipschitz Matrix Concentration](https://arxiv.org/abs/2011.00288) (2020)
  +  [Hadamard Wirtinger Flow for Sparse Phase Retrieval](https://arxiv.org/abs/2006.01065) (2020)
  +  [Phase retrieval of complex-valued objects via a randomized Kaczmarz method](https://arxiv.org/abs/2005.03238) (2020)
  +  [On the Sample Complexity and Optimization Landscape for Quadratic Feasibility Problems](https://arxiv.org/abs/2002.01066) (2020)
@@ -491,6 +494,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
++ [Efficient Methods for Structured Nonconvex-Nonconcave Min-Max Optimization](https://arxiv.org/abs/2011.00364) (2020)
 + [Accelerated Algorithms for Convex and Non-Convex Optimization on Manifolds](https://arxiv.org/abs/2010.08908) (2020)
 + [Limiting Behaviors of Nonconvex-Nonconcave Minimax Optimization via Continuous-Time Systems](https://arxiv.org/abs/2010.10628) (2020)
 + [Local Convergence Analysis of Augmented Lagrangian Methods for Piecewise Linear-Quadratic Composite Optimization Problems](https://arxiv.org/abs/2010.11379) (2020)

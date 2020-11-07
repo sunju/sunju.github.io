@@ -4,13 +4,13 @@ permalink: /research/pr/
 title: Phase Retrieval, Spectral Factorization, and Applications
 ---
 
-Recover phaseless complex signals from measured magnitudes, or recover complex signals from the auto-correlation sequences. While for 1D signals the problem is solved both in theory and in practice, that for 2D or higher-D's are still largely open. Emphasis will be put on recent developments. (**Update: Aug 28 2020**)
+Recover phaseless complex signals from measured magnitudes, or recover complex signals from the auto-correlation sequences. While for 1D signals the problem is solved both in theory and in practice, that for 2D or higher-D's are still largely open. Emphasis will be put on recent developments. (**Update: Nov 06 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
 ### Provable Results with Algorithms
 
- +  [A Proximal Operator for Multispectral Phase Retrieval Problems](https://arxiv.org/abs/1808.05194) (2018)
+ +  [Optimal Sample Complexity of Gradient Descent for Amplitude Flow via Non-Lipschitz Matrix Concentration](https://arxiv.org/abs/2011.00288) (2020)
  + [Compressive Phase Retrieval: Optimal Sample Complexity with Deep Generative Priors](https://arxiv.org/abs/2008.10579) (2020)
  +  [Phase retrieval of complex-valued objects via a randomized Kaczmarz method](https://arxiv.org/abs/2005.03238) (2020)
  +  [A Deterministic Convergence Framework for Exact Non-Convex Phase Retrieval](https://arxiv.org/abs/2001.02855) (2020)
@@ -30,6 +30,7 @@ Recover phaseless complex signals from measured magnitudes, or recover complex s
  +  [A Generalization of Wirtinger Flow for Exact Interferometric Inversion](https://arxiv.org/abs/1901.03940) (2019)
  +  [Phase Retrieval by Alternating Minimization with Random Initialization](https://arxiv.org/abs/1812.01255) (2018)
  +  [Optimal Spectral Initialization for Signal Recovery with Applications to Phase Retrieval](https://arxiv.org/abs/1811.04420) (2018)
+  +  [A Proximal Operator for Multispectral Phase Retrieval Problems](https://arxiv.org/abs/1808.05194) (2018)
  +  [Towards the optimal construction of a loss function without spurious local minima for solving quadratic equations](https://arxiv.org/abs/1809.10520) (2018)
  +  [Solving systems of phaseless equations via Riemannian optimization with optimal sampling complexity](https://arxiv.org/abs/1809.02773) (2018)
  +  [Linear Spectral Estimators and an Application to Phase Retrieval](https://arxiv.org/abs/1806.03547) (2018)
