@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Nov 06 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Nov 23 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -468,6 +468,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Nonconvex Feasibility Problems
 
+ +  [The alternating direction method of multipliers for finding the distance between ellipsoids](https://arxiv.org/abs/2011.08933) (2020)
  +  [The Douglas-Rachford Algorithm for Convex and Nonconvex Feasibility Problems](https://arxiv.org/abs/1904.09148) (2019)
  +  [Finding magic squares with the Douglas-Rachford algorithm](https://arxiv.org/abs/1902.08478) (2019)
  +  [A convergent relaxation of the Douglas-Rachford algorithm](https://arxiv.org/abs/1709.05984) (2017)
@@ -494,6 +495,11 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
++ [On the convergence of an improved discrete simulated annealing via landscape modification](https://arxiv.org/abs/2011.09680) (2020)
++ [A Globally Convergent Proximal Newton-Type Method in Nonsmooth Convex Optimization](https://arxiv.org/abs/2011.08166) (2020)
++ [Graph cuts always find a global optimum (with a catch)](https://arxiv.org/abs/2011.03639) (2020)
++ [Complexity of branch-and-bound and cutting planes in mixed-integer optimization -- II](https://arxiv.org/abs/2011.05474) (2020)
++ [Complexity of cutting planes and branch-and-bound in mixed-integer optimization](https://arxiv.org/abs/2003.05023) (2020)
 + [Efficient Methods for Structured Nonconvex-Nonconcave Min-Max Optimization](https://arxiv.org/abs/2011.00364) (2020)
 + [Accelerated Algorithms for Convex and Non-Convex Optimization on Manifolds](https://arxiv.org/abs/2010.08908) (2020)
 + [Limiting Behaviors of Nonconvex-Nonconcave Minimax Optimization via Continuous-Time Systems](https://arxiv.org/abs/2010.10628) (2020)

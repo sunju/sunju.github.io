@@ -50,7 +50,7 @@ University of Minnesota, Twin Cities
 - **Talk**: [IMA Data Science Seminar at UMN](https://ima.umn.edu/2020-2021/DSS9.8.20-5.25.21/28574) (Sep 08, 2020)
 - **Talk**: [AIME2020: International Conference on Artificial Intelligence in Medicine](https://aime20.aimedicine.info/) (Hosted virtually by UMN, Aug 25--28, 2020)  \[[Slides](talks/AIME2020-COVID19-XRAY.pdf)\]
 - **Grant approval**: [DOE: FAIR Framework for Physics‐Inspired Artificial Intelligence in High Energy Physics](https://www.energy.gov/articles/department-energy-announces-85-million-fair-data-advance-artificial-intelligence-science) (Co-PI, Aug 10, 2020)
-- **Grant approval**: [NSF 2038403: CPS: Medium: Smart Tracking Systems for Safe and Smooth Interactions Between Scooters and Road Vehicles](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2038403) (Co-PI, Aug 04, 2020)
+- **Grant approval**: [NSF 2038403: CPS: Medium: Smart Tracking Systems for Safe and Smooth Interactions Between Scooters and Road Vehicles](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2038403), as covered by [UMN CSE news](https://cse.umn.edu/college/news/cse-team-receives-12-million-nsf-grant-develop-smart-e-scooters) (Co-PI, Aug 04, 2020)
 - **Service**: To be an Area chair for AISTATS 2021 (Jul 18, 2020)
 - **Talk**: [SIAM Conference on Imaging Science](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=69004) Virtual Conference (Jul 6--17, 2020) \[[Slides](/talks/SIAM-IS-2020-FPR.pdf)\]
 - **Grant approval**: [OVPR COVID19 Rapid Response Grant \# 10: Rapid detection and severity trajectory of COVID19 using X-ray images and artificial intelligence](https://research.umn.edu/funding-awards/covid-19-rapid-response-grants) (May 01, 2020)
