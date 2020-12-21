@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Nov 23 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Dec 20 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -46,6 +46,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 
 ## Review Articles
+ +  [Recent Theoretical Advances in Non-Convex Optimization](https://arxiv.org/abs/2012.06188) (2020)
  +  [From Symmetry to Geometry: Tractable Nonconvex Problems](https://arxiv.org/abs/2007.06753) (2020)
  +  [Nonconvex Optimization Meets Low-Rank Matrix Factorization: An Overview](https://arxiv.org/abs/1809.09573) (2018)
  +  [Harnessing Structures in Big Data via Guaranteed Low-Rank Matrix Estimation](https://arxiv.org/abs/1802.08397) (2018)
@@ -67,6 +68,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 ### Matrix Completion/Sensing
 (See also [low-rank matrix/tensor recovery](/research/low-rank/) )   
 
+ + [Gradient Descent for Deep Matrix Factorization: Dynamics and Implicit Bias towards Low Rank](https://arxiv.org/abs/2011.13772) (2020)
  + [Accelerating Ill-Conditioned Low-Rank Matrix Estimation via Scaled Gradient Descent](https://arxiv.org/abs/2005.08898) (2020)
  + [Low-Rank Matrix Recovery with Scaled Subgradient Methods: Fast and Robust Convergence Without the Condition Number](https://arxiv.org/abs/2010.13364) (2020)
  + [Mixed-Projection Conic Optimization: A New Paradigm for Modeling Rank Constraints](https://arxiv.org/abs/2009.10395) (2020)
@@ -495,6 +497,9 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
++ [Second-Order Guarantees in Federated Learning](https://arxiv.org/abs/2012.01474) (2020)
++ [Spectral Residual Method for Nonlinear Equations on Riemannian Manifolds](https://arxiv.org/abs/2011.13510) (2020)
++ [A Grassmann Manifold Handbook: Basic Geometry and Computational Aspects](https://arxiv.org/abs/2011.13699) (2020)
 + [On the convergence of an improved discrete simulated annealing via landscape modification](https://arxiv.org/abs/2011.09680) (2020)
 + [A Globally Convergent Proximal Newton-Type Method in Nonsmooth Convex Optimization](https://arxiv.org/abs/2011.08166) (2020)
 + [Graph cuts always find a global optimum (with a catch)](https://arxiv.org/abs/2011.03639) (2020)

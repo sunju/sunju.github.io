@@ -17,7 +17,8 @@ social: true
 ---
 
 Assistant Professor  
-[Computer Science & Engineering](https://www.cs.umn.edu/)  
+[Department of Computer Science & Engineering](https://www.cs.umn.edu/)  
+[Department of Neurosurgery](https://med.umn.edu/neurosurgery)
 [Data Science Graduate Faculty](https://cse.umn.edu/datascience)  
 [Institute for Health Informatics](https://healthinformatics.umn.edu/) (Affiliate Faculty)  
 [Institute for Engineering in Medicine](https://www.iem.umn.edu/) (Affiliate Faculty)  

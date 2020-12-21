@@ -38,9 +38,8 @@ Full syllabus: [Syllabus.pdf](TDL.pdf)
 - [Assignment 1](HW1.pdf) (Due: Oct 15)
 - [Assignment 2](HW2.pdf) (Due: Oct 28)
 - [Assignment 3](HW3.pdf) (Due: Nov 19)
-- [Assignment 4]
-- [Assignment 5]
-- [Assignment 6]
+- [Assignment 4](HW4.pdf) (Due: Dec 12)
+- [Assignment 5](HW5.pdf) (Due: Dec 28)
 
 <!-- The detailed syllabus, containing the office hours, recommended references, assessment, homework and project requirements, programming and computing, and other resources, can be found here: [Syllabus.pdf](TDL.pdf)
 
