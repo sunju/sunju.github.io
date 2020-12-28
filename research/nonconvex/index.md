@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Dec 20 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Dec 28 2020**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -497,6 +497,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
++ [Finding Global Minima via Kernel Approximations](https://arxiv.org/abs/2012.11978) (2020)
++ [Newton Acceleration on Manifolds identified by Proximal-Gradient Methods](https://arxiv.org/abs/2012.12936) (2020)
 + [Second-Order Guarantees in Federated Learning](https://arxiv.org/abs/2012.01474) (2020)
 + [Spectral Residual Method for Nonlinear Equations on Riemannian Manifolds](https://arxiv.org/abs/2011.13510) (2020)
 + [A Grassmann Manifold Handbook: Basic Geometry and Computational Aspects](https://arxiv.org/abs/2011.13699) (2020)
