@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teach/ML-Spring-2021/
-title: Machine Learning: Analysis and Methods
+title: Advanced Machine Learning
 ---
 
 What are state-of-the-art machine learning methods, and why they work? This graduate-level
@@ -17,9 +17,10 @@ Full syllabus: [AML.pdf](AML.pdf)
 
 **When/Where**: Mon/Wed 1:00 -- 2:15pm/Keller 3-210
 
-**TA's**: [Le Peng](https://sites.google.com/view/le-peng/)  Email: peng0347 AT umn.edu   (Office Hours: 3--4pm Mon/Wed)
- [Tiancong Chen](https://sites.google.com/view/tiancong-chen)  Email: chen6271 AT umn.edu   (Office Hours: 3--4pm Fri)
+**TA's**:
+[Le Peng](https://sites.google.com/view/le-peng/)  Email: peng0347 AT umn.edu   (Office Hours: 3--4pm Mon/Wed)
 
+ [Tiancong Chen](https://sites.google.com/view/tiancong-chen)  Email: chen6271 AT umn.edu   (Office Hours: 3--4pm Fri)
 
 **Lecture Schedule**
 
