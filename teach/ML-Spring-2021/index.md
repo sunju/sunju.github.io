@@ -26,7 +26,7 @@ Full syllabus: [AML.pdf](AML.pdf)
 
 | Date   | Topics | Notes |
 | ------ | ------ | ----- |
-| Jan 20 |        |       |
+| Jan 20 |  Overview      |   [[Slides](lecture_intro.pdf)]    |
 | Jan 25 |        |       |
 | Jan 27 |        |       |
 | Feb 01 |        |       |
@@ -59,9 +59,9 @@ Full syllabus: [AML.pdf](AML.pdf)
 | May 05 |        |       |
 
 **Homework Assignments**
-[HW1]
-[HW2]
-[HW3]
-[HW4]
-[HW5]
-[HW6]
+[HW1]  
+[HW2]  
+[HW3]  
+[HW4]  
+[HW5]  
+[HW6]  
