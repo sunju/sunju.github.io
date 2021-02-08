@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Dec 28 2020**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Feb 07 2021**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -68,6 +68,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 ### Matrix Completion/Sensing
 (See also [low-rank matrix/tensor recovery](/research/low-rank/) )   
 
+ + [Riemannian Perspective on Matrix Factorization](https://arxiv.org/abs/2102.00937) (2021)
  + [Gradient Descent for Deep Matrix Factorization: Dynamics and Implicit Bias towards Low Rank](https://arxiv.org/abs/2011.13772) (2020)
  + [Accelerating Ill-Conditioned Low-Rank Matrix Estimation via Scaled Gradient Descent](https://arxiv.org/abs/2005.08898) (2020)
  + [Low-Rank Matrix Recovery with Scaled Subgradient Methods: Fast and Robust Convergence Without the Condition Number](https://arxiv.org/abs/2010.13364) (2020)
@@ -497,6 +498,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
++ [On Well-Structured Convex-Concave Saddle Point Problems and Variational Inequalities with Monotone Operators
+](https://arxiv.org/abs/2102.01002) (2021)
 + [Finding Global Minima via Kernel Approximations](https://arxiv.org/abs/2012.11978) (2020)
 + [Newton Acceleration on Manifolds identified by Proximal-Gradient Methods](https://arxiv.org/abs/2012.12936) (2020)
 + [Second-Order Guarantees in Federated Learning](https://arxiv.org/abs/2012.01474) (2020)

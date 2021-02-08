@@ -9889,4 +9889,30 @@
   keywords    = {math.OC, cs.LG, stat.ML},
 }
 
+@Article{JuditskyNemirovski2021Well,
+  author      = {Anatoli Juditsky and Arkadi Nemirovski},
+  journal     = {arXiv:2102.01002},
+  title       = {On Well-Structured Convex-Concave Saddle Point Problems and Variational Inequalities with Monotone Operators},
+  year        = {2021},
+  date        = {2021-02-01},
+  eprint      = {2102.01002},
+  eprintclass = {math.OC},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/2102.01002v1:PDF},
+  keywords    = {math.OC, 90C22, 90C25, 90C33},
+}
+
+@Article{AhnSuarez2021Riemannian,
+  author      = {Kwangjun Ahn and Felipe Suarez},
+  journal     = {arXiv:2102.00937},
+  title       = {Riemannian Perspective on Matrix Factorization},
+  year        = {2021},
+  date        = {2021-02-01},
+  eprint      = {2102.00937},
+  eprintclass = {math.OC},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/2102.00937v1:PDF},
+  keywords    = {math.OC, cs.LG, math.DG, stat.ML},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

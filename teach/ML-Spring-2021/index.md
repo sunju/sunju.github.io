@@ -27,8 +27,8 @@ Full syllabus: [AML.pdf](AML.pdf)
 | Date   | Topics | Notes |
 | ------ | ------ | ----- |
 | Jan 20 |  Overview      |   [[Slides](lecture_intro.pdf)]    |
-| Jan 25 |        |       |
-| Jan 27 |        |       |
+| Jan 25 |  Review of high-dimensional calculus - I      |       |
+| Jan 27 |  Review of high-dimensional calculus - II      |       |
 | Feb 01 |        |       |
 | Feb 03 |        |       |
 | Feb 08 |        |       |
@@ -58,10 +58,10 @@ Full syllabus: [AML.pdf](AML.pdf)
 | May 03 |        |       |
 | May 05 |        |       |
 
-**Homework Assignments**
-[HW1]  
-[HW2]  
-[HW3]  
-[HW4]  
-[HW5]  
-[HW6]  
+**Homework Assignments**  
+[HW1](HW1.pdf)  (Due: Feb 10 2021)  
+[HW2]  (Due:)  
+[HW3]  (Due:)  
+[HW4]  (Due:)  
+[HW5]  (Due:)  
+[HW6]  (Due:)  
