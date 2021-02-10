@@ -46,6 +46,7 @@ University of Minnesota, Twin Cities
 
 #### Past
 
+- **Honors**: [2021 AAAI New Faculty Highlights](https://aaai.org/Conferences/AAAI-21/aaai-new-faculty-highlights-program/) (Feb, 2021)  
 - **Media**: An AI-based diagnostic system for COVID-19 based on chest x-rays developed by our group has been deployed and tested in M Health Fairview, and goes live in their decision-support system today! See [this UMN, M Health Fairview, and Epic joint press release](https://twin-cities.umn.edu/news-events/university-minnesota-develops-ai-algorithm-analyze-chest-x-rays-covid-19), [CSE news article](https://cse.umn.edu/college/feature-stories/artificial-intelligence-real-life-results) and [this coverage](https://www.startribune.com/m-health-fairview-x-ray-analysis-helps-find-covid/572605252/) by StarTribune. (Oct 01, 2020)
 - **Talk**: "运筹千里”纵横论坛 organized by Operation Research Society of China (Sep 27, 2020) \[[Slides](talks/ORSC-2020-FPR.pdf)\]
 - **Talk**: [IMA Data Science Seminar at UMN](https://ima.umn.edu/2020-2021/DSS9.8.20-5.25.21/28574) (Sep 08, 2020)

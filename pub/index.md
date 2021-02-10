@@ -29,6 +29,9 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Journals
 
+> **Detection of Isocitrate Dehydrogenase Mutated Glioblastomas through Anomaly Detection Analytics**.  
+> &nbsp; &nbsp; Birra Taha, Taihui Li, Daniel Boley, Clark C. Chen,**Ju Sun**. Neurosurgery, 2021. Accepted. 
+
 > **Dictionary Learning in Fourier Transform Scanning Tunneling Spectroscopy**.  \[[arXiv](https://arxiv.org/abs/1807.10752)\]  \[[Paper](https://doi.org/10.1038/s41467-020-14633-1)\]  
 > &nbsp; &nbsp; Sky Cheung, John Shin, Yenson Lau, Zhengyu Chen, **Ju Sun**, Yuqian Zhang, John Wright, and Abhay Pasupathy. Nature Communications, 11, 1081, 2020.
 
