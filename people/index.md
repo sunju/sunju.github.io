@@ -18,7 +18,17 @@ tags: top
 - Hengkang Wang (CS&E)
 - Zhong Zhuang (ECE, co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/))
 - [Taihui Li](https://taihui.github.io/) (CS&E, co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/))
+### Master Students
+- [Dyah Adila](https://sites.google.com/view/dyahadila/) (CS&E)
+- Sihan Wei
+- Esha Singh
+- Rishabh Mehta
 
-### Alumni
+
+
+### PhD Alumni
+
+
+### Master Alumni
 
 - Eubin Lim (MS, Stats, 2020)

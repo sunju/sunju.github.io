@@ -29,16 +29,16 @@ Full syllabus: [AML.pdf](AML.pdf)
 | Jan 20 |  Overview      |   [[Slides](lecture_intro.pdf)]    |     |
 | Jan 25 |  Review of high-dimensional calculus - I      | [[Notes](calculus_review.pdf)]      |    |
 | Jan 27 |  Review of high-dimensional calculus - II      | same as above      |   |
-| Feb 01 |        |       |   |
-| Feb 03 |        |       |   |
-| Feb 08 |        |       |   |
-| Feb 10 |        |       |   |
-| Feb 15 |        |       |   |
-| Feb 17 |        |       |   |
-| Feb 22 |        |       |   |
-| Feb 24 |        |       |   |
-| Mar 01 |        |       |   |
-| Mar 03 |        |       |   |
+| Feb 01 |  Linear regression and least-squares problem    |       |   |
+| Feb 03 |  Gradient descent for unconstrained optimization      |  same as above     |   |
+| Feb 08 | CANCELED      |   --    |   |
+| Feb 10 | CANCELED      |  --    |   |
+| Feb 15 |  Linear classification: Perceptron, SVM, and logistic regression     | same as above      |   |
+| Feb 17 | Subspaces, hyperplanes, and margins       |       |   |
+| Feb 22 |  Hard-margin SVMs and properties      |  same as above     |   |
+| Feb 24 |  Review of convex analysis & optimization; analysis of hard-margin SVMs      |  same as above     |   |
+| Mar 01 |  Soft-margin SVMs; optimizing SVMs      | same as above      |   |
+| Mar 03 | Kernels      |  same as above     |   |
 | Mar 08 |        |       |   |
 | Mar 10 |        |       |   |
 | Mar 15 |        |       |   |
