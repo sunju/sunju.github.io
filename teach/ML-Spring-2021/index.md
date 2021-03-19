@@ -94,12 +94,12 @@ Full syllabus: [AML.pdf](AML.pdf)
       <td>Kernel methods</td>
     </tr>
     <tr>
-    <td  colspan="3" style="text-align: center; background-color:#862334;color=FFFFFF">Elements of Statistical Learning Theory</td>
+    <td  colspan="3" style="text-align: center; background-color:#862334;color=white">Elements of Statistical Learning Theory</td>
     </tr>
     <tr>
     <td>Mar 08</td>
     <td>PAC learning with finite hypothesis classes </td>
-    <td rowspan="4">[Notes]</td>
+    <td rowspan="4" style="vertical-align:center">[Notes]</td>
     </tr>
     <tr>
     <td>Mar 10</td>
