@@ -50,7 +50,6 @@ Full syllabus: [AML.pdf](AML.pdf)
       <td>Jan 27</td>
       <td>Review of high-dimensional calculus - II</td>
     </tr>
-    </tr>
     <tr>
     <td  colspan="3" style="text-align: center">Linear Predictions</td>
     </tr>
@@ -105,7 +104,7 @@ Full syllabus: [AML.pdf](AML.pdf)
     </tr>
     <tr>
     <td>Mar 15</td>
-    <td>Agnostic PCA learning with infinite hypothesis classes; Radamacher complexity </td>
+    <td>Agnostic PCA learning with infinite hypothesis classes; Rademacher complexity </td>
     </tr>
     <tr>
     <td>Mar 17</td>
@@ -135,6 +134,7 @@ Full syllabus: [AML.pdf](AML.pdf)
     <td>Apr 07</td>
     <td> </td>
     </tr>
+    <tr>
     <td>Apr 12</td>
     <td> </td>
     </tr>
@@ -142,6 +142,7 @@ Full syllabus: [AML.pdf](AML.pdf)
     <td>Apr 14</td>
     <td> </td>
     </tr>
+    <tr>
     <td>Apr 19</td>
     <td> </td>
     </tr>
@@ -149,6 +150,7 @@ Full syllabus: [AML.pdf](AML.pdf)
     <td>Apr 21</td>
     <td> </td>
     </tr>
+    <tr>
     <td>Apr 26</td>
     <td> </td>
     </tr>
@@ -166,21 +168,6 @@ Full syllabus: [AML.pdf](AML.pdf)
     </tr>
   </tbody>
 </table>
-
-<!-- | Mar 22 |        |       |   |
-| Mar 24 |        |       |   |
-| Mar 29 |        |       |   |
-| Mar 31 |        |       |   |
-| Apr 05 |        |       |   |
-| Apr 07 |        |       |    |
-| Apr 12 |        |       |    |
-| Apr 14 |        |       |    |
-| Apr 19 |        |       |    |
-| Apr 21|        |       |    |
-| Apr 26 |        |       |    |
-| Apr 28 |        |       |    |
-| May 03 |        |       |    |
-<!-- | May 05 |        |       |    | -->
 
 **Homework Assignments**  
 [HW1](HW1.pdf)  (Due: Feb 10 2021)  
