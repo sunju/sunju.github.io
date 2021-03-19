@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Feb 21 2021**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Mar 14 2021**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -143,6 +143,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Tensor Recovery/Decomposition & Hidden Variable Models
 
++  [Symmetry Breaking in Symmetric Tensor Decomposition](https://arxiv.org/abs/2103.06234) (2021)
 +  [Tensor Completion Made Practical](https://arxiv.org/abs/2006.03134) (2020)
 +  [Optimization landscape of Tucker decomposition](https://doi.org/10.1007/s10107-020-01531-z) (2020)
  +  [When Does Non-Orthogonal Tensor Decomposition Have No Spurious Local Minima?](https://arxiv.org/abs/1911.09815) (2019)
@@ -172,6 +173,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Phase Retrieval
 
+ +  [Stochasticity helps to navigate rough landscapes: comparing gradient-descent-based algorithms in the phase retrieval problem](https://arxiv.org/abs/2103.04902) (2021)
  +  [Optimal Sample Complexity of Gradient Descent for Amplitude Flow via Non-Lipschitz Matrix Concentration](https://arxiv.org/abs/2011.00288) (2020)
  +  [Hadamard Wirtinger Flow for Sparse Phase Retrieval](https://arxiv.org/abs/2006.01065) (2020)
  +  [Phase retrieval of complex-valued objects via a randomized Kaczmarz method](https://arxiv.org/abs/2005.03238) (2020)
@@ -500,6 +502,9 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
++ [Second-order step-size tuning of SGD for non-convex optimization](https://arxiv.org/abs/2103.03570) (2021)
++ [Three Operator Splitting with a Nonconvex Loss Function](https://arxiv.org/abs/2103.04568) (2021)
++ [On the Oracle Complexity of Higher-Order Smooth Non-Convex Finite-Sum Optimization](https://arxiv.org/abs/2103.05138) (2021)
 + [On the Theory of Implicit Deep Learning: Global Convergence with Implicit Layers](https://arxiv.org/abs/2102.07346) (2021)
 + [Don't Fix What ain't Broke: Near-optimal Local Convergence of Alternating Gradient Descent-Ascent for Minimax Optimization](https://arxiv.org/abs/2102.09468) (2021)
 + [On Well-Structured Convex-Concave Saddle Point Problems and Variational Inequalities with Monotone Operators](https://arxiv.org/abs/2102.01002) (2021)

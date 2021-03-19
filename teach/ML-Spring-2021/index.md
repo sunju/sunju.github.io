@@ -24,26 +24,141 @@ Full syllabus: [AML.pdf](AML.pdf)
 
 **Lecture Schedule**
 
-| Date   | Topics | Notes | Reading |
-| ------ | ------ | ----- | ------ |
-| Jan 20 |  Overview      |   [[Slides](lecture_intro.pdf)]    |     |
-| Jan 25 |  Review of high-dimensional calculus - I      | [[Notes](calculus_review.pdf)]      |    |
-| Jan 27 |  Review of high-dimensional calculus - II      | same as above      |   |
-| Feb 01 |  Linear regression and least-squares problem    |       |   |
-| Feb 03 |  Gradient descent for unconstrained optimization      |  same as above     |   |
-| Feb 08 | CANCELED      |   --    |   |
-| Feb 10 | CANCELED      |  --    |   |
-| Feb 15 |  Linear classification: Perceptron, SVM, and logistic regression     | same as above      |   |
-| Feb 17 | Subspaces, hyperplanes, and margins       |       |   |
-| Feb 22 |  Hard-margin SVMs and properties      |  same as above     |   |
-| Feb 24 |  Review of convex analysis & optimization; analysis of hard-margin SVMs      |  same as above     |   |
-| Mar 01 |  Soft-margin SVMs; optimizing SVMs      | same as above      |   |
-| Mar 03 | Kernels      |  same as above     |   |
-| Mar 08 |        |       |   |
-| Mar 10 |        |       |   |
-| Mar 15 |        |       |   |
-| Mar 17 |        |       |   |
-| Mar 22 |        |       |   |
+<table rules="groups">
+  <thead>
+    <tr>
+      <th style="text-align: left">Date</th>
+      <th style="text-align: center">Topics</th>
+      <th style="text-align: center">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Jan 20</td>
+      <td>Overview</td>
+      <td><a href="lecture_intro.pdf">[Slides]</a></td>
+    </tr>
+    <tr>
+    <td  colspan="3" style="text-align: center" background-color: #f2f2f2;>Calculus Review</td>
+    </tr>
+    <tr>
+      <td>Jan 25</td>
+      <td>Review of high-dimensional calculus - I</td>
+      <td rowspan="2"><a href="calculus_review.pdf">[Notes]</a></td>
+    </tr>
+    <tr>
+      <td>Jan 27</td>
+      <td>Review of high-dimensional calculus - II</td>
+    </tr>
+    </tr>
+    <tr>
+      <td>Feb 01</td>
+      <td> Linear regression and least-squares problem</td>
+      <td rowspan="3">[Notes]</td>
+    </tr>
+    <tr>
+      <td>Feb 03</td>
+      <td>Gradient descent for unconstrained optimization </td>
+    </tr>
+    <tr>
+      <td>Feb 15</td>
+      <td>Linear classification: Perceptron, SVM, and logistic regression </td>
+    </tr>
+    <tr>
+      <td>Feb 17</td>
+      <td>Subspaces, hyperplanes, and margins  </td>
+        <td rowspan="5">[Notes]</td>
+    </tr>
+    <tr>
+      <td>Feb 22</td>
+      <td>Hard-margin SVMs and properties </td>
+    </tr>
+    <tr>
+      <td>Feb 24</td>
+      <td>Review of convex analysis & optimization; analysis of hard-margin SVMs  </td>
+    </tr>
+    <tr>
+      <td>Mar 01</td>
+      <td>Soft-margin SVMs; optimizing SVMs  </td>
+    </tr>
+    <tr>
+      <td>Mar 03</td>
+      <td>Kernel methods</td>
+    </tr>
+    <tr>
+    <td>Mar 08</td>
+    <td> </td>
+    <td rowspan="4">[Notes]</td>
+    </tr>
+    <tr>
+    <td>Mar 10</td>
+    <td> </td>
+    </tr>
+    <tr>
+    <td>Mar 15</td>
+    <td> </td>
+    </tr>
+    <tr>
+    <td>Mar 17</td>
+    <td> </td>
+    </tr>
+    <tr>
+    <td>Mar 22</td>
+    <td> </td>
+    </tr>
+    <tr>
+    <td>Mar 24</td>
+    <td> </td>
+    </tr>
+    <tr>
+    <td>Mar 29</td>
+    <td> </td>
+    </tr>
+    <tr>
+    <td>Mar 31</td>
+    <td> </td>
+    </tr>
+    <tr>
+    <td>Apr 05</td>
+    <td> </td>
+    </tr>
+    <tr>
+    <td>Apr 07</td>
+    <td> </td>
+    </tr>
+    <td>Apr 12</td>
+    <td> </td>
+    </tr>
+    <tr>
+    <td>Apr 14</td>
+    <td> </td>
+    </tr>
+    <td>Apr 19</td>
+    <td> </td>
+    </tr>
+    <tr>
+    <td>Apr 21</td>
+    <td> </td>
+    </tr>
+    <td>Apr 26</td>
+    <td> </td>
+    </tr>
+    <tr>
+    <td>Apr 28</td>
+    <td> </td>
+    </tr>
+    <tr>
+    <td>May 03</td>
+    <td> </td>
+    </tr>
+    <tr>
+    <td>May 05</td>
+    <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- | Mar 22 |        |       |   |
 | Mar 24 |        |       |   |
 | Mar 29 |        |       |   |
 | Mar 31 |        |       |   |
@@ -56,11 +171,11 @@ Full syllabus: [AML.pdf](AML.pdf)
 | Apr 26 |        |       |    |
 | Apr 28 |        |       |    |
 | May 03 |        |       |    |
-| May 05 |        |       |    |
+<!-- | May 05 |        |       |    | -->
 
 **Homework Assignments**  
 [HW1](HW1.pdf)  (Due: Feb 10 2021)  
-[HW2]  (Due:)  
+[HW2](HW2.pdf)  (Due: Mar 19 2021)  
 [HW3]  (Due:)  
 [HW4]  (Due:)  
 [HW5]  (Due:)  
