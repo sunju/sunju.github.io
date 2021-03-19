@@ -24,7 +24,10 @@ Full syllabus: [AML.pdf](AML.pdf)
 
 **Lecture Schedule**
 
-<table rules="groups">
+<table rules="groups" class="fixed">
+    <col width="10%" />
+   <col width="80%" />
+   <col width="10%" />
   <thead>
     <tr>
       <th style="text-align: left">Date</th>
