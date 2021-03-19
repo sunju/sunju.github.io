@@ -94,7 +94,7 @@ Full syllabus: [AML.pdf](AML.pdf)
       <td>Kernel methods</td>
     </tr>
     <tr>
-    <td  colspan="3" style="text-align: center">Elements of Statistical Learning Theory</td>
+    <td  colspan="3" style="text-align: center" style="background-color:#00FF00" >Elements of Statistical Learning Theory</td>
     </tr>
     <tr>
     <td>Mar 08</td>
