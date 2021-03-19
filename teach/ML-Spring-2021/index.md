@@ -39,7 +39,7 @@ Full syllabus: [AML.pdf](AML.pdf)
       <td><a href="lecture_intro.pdf">[Slides]</a></td>
     </tr>
     <tr>
-    <td  colspan="3" style="text-align: center" background-color: #f2f2f2;>Calculus Review</td>
+    <td  colspan="3" style="text-align: center">Calculus Review</td>
     </tr>
     <tr>
       <td>Jan 25</td>
