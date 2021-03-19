@@ -42,24 +42,24 @@ Full syllabus: [AML.pdf](AML.pdf)
       <td><a href="lecture_intro.pdf">[Slides]</a></td>
     </tr>
     <tr>
-    <td  colspan="3" style="text-align: center">Calculus Review</td>
+    <td  colspan="3" style="text-align: center"><b>Calculus Review</b></td>
     </tr>
     <tr>
       <td>Jan 25</td>
       <td>Review of high-dimensional calculus - I</td>
-      <td rowspan="2"><a href="calculus_review.pdf">[Notes]</a></td>
+      <td rowspan="2"  style="vertical-align:middle"><a href="calculus_review.pdf">[Notes]</a></td>
     </tr>
     <tr>
       <td>Jan 27</td>
       <td>Review of high-dimensional calculus - II</td>
     </tr>
     <tr>
-    <td  colspan="3" style="text-align: center">Linear Predictions</td>
+    <td  colspan="3" style="text-align: center"><b>Linear Predictions</b></td>
     </tr>
     <tr>
       <td>Feb 01</td>
       <td> Linear regression and least-squares problem</td>
-      <td rowspan="3">[Notes]</td>
+      <td rowspan="3"  style="vertical-align:middle">[Notes]</td>
     </tr>
     <tr>
       <td>Feb 03</td>
@@ -70,12 +70,12 @@ Full syllabus: [AML.pdf](AML.pdf)
       <td>Linear classification: Perceptron, SVM, and logistic regression </td>
     </tr>
     <tr>
-    <td  colspan="3" style="text-align: center">Support Vector Machines and Kernel Methods</td>
+    <td  colspan="3" style="text-align: center"><b>Support Vector Machines and Kernel Methods</b></td>
     </tr>
     <tr>
       <td>Feb 17</td>
       <td>Subspaces, hyperplanes, and margins  </td>
-        <td rowspan="5">[Notes]</td>
+        <td rowspan="5"  style="vertical-align:middle">[Notes]</td>
     </tr>
     <tr>
       <td>Feb 22</td>
@@ -94,7 +94,7 @@ Full syllabus: [AML.pdf](AML.pdf)
       <td>Kernel methods</td>
     </tr>
     <tr>
-    <td  colspan="3" style="text-align: center; background-color:#862334;color=white">Elements of Statistical Learning Theory</td>
+    <td  colspan="3" style="text-align: center"><b>Elements of Statistical Learning Theory</b></td>
     </tr>
     <tr>
     <td>Mar 08</td>
