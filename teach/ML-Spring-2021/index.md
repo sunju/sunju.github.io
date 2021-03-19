@@ -25,8 +25,8 @@ Full syllabus: [AML.pdf](AML.pdf)
 **Lecture Schedule**
 
 <table rules="groups" class="fixed">
-    <col width="10%" />
-   <col width="80%" />
+    <col width="15%" />
+   <col width="75%" />
    <col width="10%" />
   <thead>
     <tr>
