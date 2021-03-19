@@ -99,7 +99,7 @@ Full syllabus: [AML.pdf](AML.pdf)
     <tr>
     <td>Mar 08</td>
     <td>PAC learning with finite hypothesis classes </td>
-    <td rowspan="4" style="vertical-align:center">[Notes]</td>
+    <td rowspan="4" style="vertical-align:middle">[Notes]</td>
     </tr>
     <tr>
     <td>Mar 10</td>
