@@ -52,6 +52,9 @@ Full syllabus: [AML.pdf](AML.pdf)
     </tr>
     </tr>
     <tr>
+    <td  colspan="3" style="text-align: center">Linear Predictions</td>
+    </tr>
+    <tr>
       <td>Feb 01</td>
       <td> Linear regression and least-squares problem</td>
       <td rowspan="3">[Notes]</td>
@@ -63,6 +66,9 @@ Full syllabus: [AML.pdf](AML.pdf)
     <tr>
       <td>Feb 15</td>
       <td>Linear classification: Perceptron, SVM, and logistic regression </td>
+    </tr>
+    <tr>
+    <td  colspan="3" style="text-align: center">Support Vector Machines and Kernel Methods</td>
     </tr>
     <tr>
       <td>Feb 17</td>
@@ -86,21 +92,24 @@ Full syllabus: [AML.pdf](AML.pdf)
       <td>Kernel methods</td>
     </tr>
     <tr>
+    <td  colspan="3" style="text-align: center">Elements of Statistical Learning Theory</td>
+    </tr>
+    <tr>
     <td>Mar 08</td>
-    <td> </td>
+    <td>PAC learning with finite hypothesis classes </td>
     <td rowspan="4">[Notes]</td>
     </tr>
     <tr>
     <td>Mar 10</td>
-    <td> </td>
+    <td>Agnostic PAC learning with finite hypothesis classes; Uniform convergence </td>
     </tr>
     <tr>
     <td>Mar 15</td>
-    <td> </td>
+    <td>Agnostic PCA learning with infinite hypothesis classes; Radamacher complexity </td>
     </tr>
     <tr>
     <td>Mar 17</td>
-    <td> </td>
+    <td>VC dimensions; Bias-complexity tradeoff and model selection </td>
     </tr>
     <tr>
     <td>Mar 22</td>
