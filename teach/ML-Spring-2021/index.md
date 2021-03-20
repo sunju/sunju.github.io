@@ -114,8 +114,13 @@ Full syllabus: [AML.pdf](AML.pdf)
     <td>VC dimensions; Bias-complexity tradeoff and model selection </td>
     </tr>
     <tr>
+    <td  colspan="3" style="text-align: center"><b>Ensemble Methods: from Simple to Powerful</b></td>
+    </tr>
+    <tr>
     <td>Mar 22</td>
     <td> </td>
+    <td rowspan="4" style="vertical-align:middle">[Notes]</td>
+    </tr>
     </tr>
     <tr>
     <td>Mar 24</td>
@@ -130,8 +135,12 @@ Full syllabus: [AML.pdf](AML.pdf)
     <td> </td>
     </tr>
     <tr>
+    <td  colspan="3" style="text-align: center"><b>Neural Networks: Taking the Universal Power</b></td>
+    </tr>
+    <tr>
     <td>Apr 05</td>
     <td> </td>
+      <td rowspan="2" style="vertical-align:middle">[Notes]</td>
     </tr>
     <tr>
     <td>Apr 07</td>
