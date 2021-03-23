@@ -59,7 +59,7 @@ Full syllabus: [AML.pdf](AML.pdf)
     <tr>
       <td>Feb 01</td>
       <td> Linear regression and least-squares problem</td>
-      <td rowspan="3"  style="vertical-align:middle">[Notes]</td>
+      <td rowspan="3"  style="vertical-align:middle"><a href="linear_predictions.pdf">[Notes]</a></td>
     </tr>
     <tr>
       <td>Feb 03</td>
@@ -120,7 +120,6 @@ Full syllabus: [AML.pdf](AML.pdf)
     <td>Mar 22</td>
     <td> </td>
     <td rowspan="4" style="vertical-align:middle">[Notes]</td>
-    </tr>
     </tr>
     <tr>
     <td>Mar 24</td>
@@ -184,7 +183,7 @@ Full syllabus: [AML.pdf](AML.pdf)
 **Homework Assignments**  
 [HW1](HW1.pdf)  (Due: Feb 10 2021)  
 [HW2](HW2.pdf)  (Due: Mar 19 2021)  
-[HW3]  (Due:)  
+[HW3](HW3.pdf)  (Due: Mar 31 2021)  
 [HW4]  (Due:)  
 [HW5]  (Due:)  
 [HW6]  (Due:)  
