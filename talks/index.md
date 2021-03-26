@@ -7,6 +7,9 @@ tags: top
 ---
 ...which are select and recent
 
+#### What's scary about deep learning?
++ Guest lecture at UMN CSCI8002: Introduction to Research in Computer Science \[[Slides](DL_SCARY.pdf)\] (Mar 19, 2021)
+
 #### Toward practical phase retrieval: To learn or not, and how to learn?
 + The 5th International Conference on Statistical Optimization and Learning \[[Slides](SOL-2020-FPR.pdf)\] (Dec 26--30, 2020)
 + "运筹千里”纵横论坛 organized by Operation Research Society of China \[[Slides](ORSC-2020-FPR.pdf)\] (Sep 27, 2020)
