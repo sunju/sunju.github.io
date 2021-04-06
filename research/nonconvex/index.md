@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Mar 14 2021**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Apr 04 2021**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -502,6 +502,10 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
++ [A Unifying Framework of Accelerated First-Order Approach to Strongly Monotone Variational Inequalities](https://arxiv.org/abs/2103.15270) (2021)
++ [The Complexity of Nonconvex-Strongly-Concave Minimax Optimization](https://arxiv.org/abs/2103.15888) (2021)
++ [Complexity of Projected Newton Methods for Bound-constrained Optimization](https://arxiv.org/abs/2103.15989) (2021)
++ [A Proximal Quasi-Newton Trust-Region Method for Nonsmooth Regularized Optimization](https://arxiv.org/abs/2103.15993) (2021)
 + [Second-order step-size tuning of SGD for non-convex optimization](https://arxiv.org/abs/2103.03570) (2021)
 + [Three Operator Splitting with a Nonconvex Loss Function](https://arxiv.org/abs/2103.04568) (2021)
 + [On the Oracle Complexity of Higher-Order Smooth Non-Convex Finite-Sum Optimization](https://arxiv.org/abs/2103.05138) (2021)
