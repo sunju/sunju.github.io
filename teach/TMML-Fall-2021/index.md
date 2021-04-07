@@ -4,11 +4,11 @@ permalink: /teach/TMML-Fall-2021/
 title: Topics in Modern Machine Learning
 ---
 
-####Theme of this iteration
+#### Theme of this iteration
 
  **theoretical foundations of deep learning**... puts classic learning theory in the context of modern deep learning, and examines deep learning through the lens of classic and modern approximation, optimization, and  learning theory
 
-####Registration  
+#### Registration  
 
 **What this course is NOT about**: [Introduction to deep learning](https://sunju.org/teach/DL-Fall-2020/), or classic machine learning topics covered in [CSCI5525](https://sunju.org/teach/ML-Spring-2021/).   
 
