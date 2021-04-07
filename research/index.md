@@ -5,7 +5,11 @@ title: Research
 tags: top
 <!--description: Publications by categories in reversed chronological order. -->
 ---
-- [test](test/)
+
+- [Artificial Intelligence for Healthcare]
+- [Artificial Intelligence for Science]
+- [Optimization for Deep Learning]
+- [Robustness in Deep Learning]
 - [Provable Nonconvex Methods/Algorithms](nonconvex/)
 - [Phase Retrieval and Applications](pr/)
 - [Dictionary Learning, Blind Deconvolution, and Deep Learning](dict-learn/)
