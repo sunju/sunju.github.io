@@ -3,6 +3,7 @@ layout: page
 permalink: /teach/TMML-Fall-2021/
 title: Topics in Modern Machine Learning
 ---
+
 ####Theme of this iteration
 
  **theoretical foundations of deep learning**... puts classic learning theory in the context of modern deep learning, and examines deep learning through the lens of classic and modern approximation, optimization, and  learning theory
