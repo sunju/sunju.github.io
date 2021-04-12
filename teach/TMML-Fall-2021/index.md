@@ -16,7 +16,8 @@ title: Topics in Modern Machine Learning
 
 #### Course info
 
-**Syllabus**: TBD
+**Syllabus**: TBD  
+A superset of topics we'd like to cover: [Live Google doc](https://docs.google.com/document/d/1s1uTa1p-V6FaCxQVLAqKJmJ3yZ8-Cqcb20JZSbN96DI/edit?usp=sharing) (UMN log-in required)
 
 **Instructor**:  [Professor Ju Sun](https://sunju.org/)  Email: jusun AT umn.edu   (Office Hours: TBD)
 
