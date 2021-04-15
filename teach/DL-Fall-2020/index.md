@@ -29,9 +29,9 @@ Full syllabus: [Syllabus.pdf](TDL.pdf)
 | Nov 09 | From fully connected to convolutional neural networks    \[[Slides](nov-09.pdf)\]                                                                                                              |       |
 | Nov 16 | Applications of CNNs in computer vision \[[Slides](nov-16.pdf)\]                                                                                                                                                                                               |       |
 | Nov 23 | PROJECT PROGRESS PRESENTATION                                                                                                                                                                  |       |
-| Nov 30 |                                                                                                                                                                                                |       |
-| Dec 07 |                                                                                                                                                                                                |       |
-| Dec 14 |                                                                                                                                                                                                |       |
+| Nov 30 | Sequence modeling: recurrent neural networks                                                                                                                                                                                                |       |
+| Dec 07 | Generative models: generative adversarial network (GAN), variational autoencoder (VAE), and normalization flow                                                                                                                                                                                               |       |
+| Dec 14 | Deep reinforcement learning: sequential decision making                                                                                                                                                                                                |       |
 
 **Homework**
 - [Assignment 0](HW0.pdf) (Due: Sep 30)  
