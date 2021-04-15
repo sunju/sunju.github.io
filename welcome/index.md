@@ -43,9 +43,9 @@ University of Minnesota, Twin Cities
 #### Upcoming
 
 
-
 #### Past
 
+- **Media**: [Gaoxiang](https://gaoxiangluo.github.io/index.html) wrote [an article](https://pubs.lib.umn.edu/index.php/muraj/article/view/3876/2690) for the [Minnesota Undergraduate Research & Academic Journal (MURAJ)](https://pubs.lib.umn.edu/index.php/muraj/index) featuring [Le](https://sites.google.com/view/le-peng/) and our COVID-19 project. (Mar, 2021)
 - **Honors**: [2021 AAAI New Faculty Highlights](https://aaai.org/Conferences/AAAI-21/aaai-new-faculty-highlights-program/) (Feb, 2021)  
 - **Media**: An AI-based diagnostic system for COVID-19 based on chest x-rays developed by our group has been deployed and tested in M Health Fairview, and goes live in their decision-support system today! See [this UMN, M Health Fairview, and Epic joint press release](https://twin-cities.umn.edu/news-events/university-minnesota-develops-ai-algorithm-analyze-chest-x-rays-covid-19), [CSE news article](https://cse.umn.edu/college/feature-stories/artificial-intelligence-real-life-results) and [this coverage](https://www.startribune.com/m-health-fairview-x-ray-analysis-helps-find-covid/572605252/) by StarTribune. (Oct 01, 2020)
 - **Talk**: "运筹千里”纵横论坛 organized by Operation Research Society of China (Sep 27, 2020) \[[Slides](talks/ORSC-2020-FPR.pdf)\]

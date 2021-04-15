@@ -10,7 +10,7 @@ tags: top
 - [Kshitij Tayal](https://www.kshitijtayal.com/) (CS&E)
 - [Chieh-Hsin (Jesse) Lai](https://math.umn.edu/directory/chieh-hsin-jesse-lai) (Math)
 
-### PhD Students
+### PhD's
 
 - [Hengyue Liang](https://scholar.google.com/citations?user=aWVo5AEAAAAJ) (ECE)
 - Yash Travadi (Stats, co-advised with [Prof. Hui Zou](http://users.stat.umn.edu/~zouxx019/))
@@ -21,12 +21,15 @@ tags: top
 - [Taihui Li](https://taihui.github.io/) (CS&E, co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/))
 
 
-### Master Students
+### Masters
 - [Dyah Adila](https://sites.google.com/view/dyahadila/) (CS&E)
 - Sihan Wei (CS&E)
 - Esha Singh (CS&E)
 - [Rishabh Mehta](https://scholar.google.com/citations?user=BlkhvnAAAAAJ) (CS&E)
 
+### Undergrads
+- [Gaoxiang Luo](https://gaoxiangluo.github.io/index.html)
+- [Andrew Walker](https://www.linkedin.com/in/andrewwalker-mn/)
 
 <!-- ### PhD Alumni -->
 
