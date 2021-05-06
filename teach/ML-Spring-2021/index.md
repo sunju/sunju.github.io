@@ -118,20 +118,58 @@ Full syllabus: [AML.pdf](AML.pdf)
     </tr>
     <tr>
     <td>Mar 22</td>
-    <td> </td>
-    <td rowspan="4" style="vertical-align:middle">[Notes]</td>
+    <td> Decision stumps and their linear combinations</td>
+    <td rowspan="6" style="vertical-align:middle">[Notes]</td>
     </tr>
     <tr>
     <td>Mar 24</td>
-    <td> </td>
+    <td> Adaboost and its training error</td>
     </tr>
     <tr>
     <td>Mar 29</td>
-    <td> </td>
+    <td>Generalizations of Adaboost: greedy methods and gradient methods</td>
     </tr>
     <tr>
     <td>Mar 31</td>
-    <td> </td>
+    <td>Computing with decision trees</td>
+    </tr>
+    <tr>
+    <td>Apr 12</td>
+    <td>CART; Generalization gap of Adaboost </td>
+    </tr>
+    <tr>
+    <td>Apr 14</td>
+    <td> Bagging and random forests </td>
+    </tr>
+    <td  colspan="3" style="text-align: center"><b>Linear and nonlinear dimension reduction</b></td>
+    <tr>
+    <td>Apr 19</td>
+    <td>PCA as subspace fitting/autoencoder; random projection </td>
+    <td rowspan="2" style="vertical-align:middle">[Notes]</td>
+    </tr>
+    <tr>
+    <td>Apr 21</td>
+    <td>Compressive sensing; nonlinear dimension reduction</td>
+    </tr>
+      <td  colspan="3" style="text-align: center"><b>Clustering</b></td>
+    <tr>
+    <td>Apr 26</td>
+    <td>K-means, hierarchical clustering, spectral clustering </td>
+      <td rowspan="2" style="vertical-align:middle">[Notes]</td>
+    </tr>
+    <tr>
+    <td>Apr 28</td>
+    <td> More on spectral clustering; mode seeking methods</td>
+    </tr>
+    <td  colspan="3" style="text-align: center"><b>Generative models</b></td>
+    <tr>
+    <td>May 03</td>
+    <td> Mixture modeling, MLE, and EM principle</td>
+    <td rowspan="2" style="vertical-align:middle">[Notes]</td>
+    </tr>
+    <tr>
+    <td>May 05</td>
+    <td>MAP, normalization flows, GANs </td>
     </tr>
     <tr>
     <td  colspan="3" style="text-align: center"><b>Neural Networks: Taking the Universal Power</b></td>
@@ -145,38 +183,6 @@ Full syllabus: [AML.pdf](AML.pdf)
     <td>Apr 07</td>
     <td> </td>
     </tr>
-    <tr>
-    <td>Apr 12</td>
-    <td> </td>
-    </tr>
-    <tr>
-    <td>Apr 14</td>
-    <td> </td>
-    </tr>
-    <tr>
-    <td>Apr 19</td>
-    <td> </td>
-    </tr>
-    <tr>
-    <td>Apr 21</td>
-    <td> </td>
-    </tr>
-    <tr>
-    <td>Apr 26</td>
-    <td> </td>
-    </tr>
-    <tr>
-    <td>Apr 28</td>
-    <td> </td>
-    </tr>
-    <tr>
-    <td>May 03</td>
-    <td> </td>
-    </tr>
-    <tr>
-    <td>May 05</td>
-    <td> </td>
-    </tr>
   </tbody>
 </table>
 
@@ -184,6 +190,7 @@ Full syllabus: [AML.pdf](AML.pdf)
 [HW1](HW1.pdf)  (Due: Feb 10 2021)  
 [HW2](HW2.pdf)  (Due: Mar 19 2021)  
 [HW3](HW3.pdf)  (Due: Mar 31 2021)  
-[HW4](HW4.pdf)  (Due:)  
-[HW5]  (Due:)  
+[HW4](HW4.pdf)  (Due: Apr 28  2021)  
+[Mid Term](MT.pdf)
+[HW5](HW5.pdf)  (Due:)  
 [HW6]  (Due:)  

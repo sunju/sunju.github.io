@@ -31,7 +31,7 @@ University of Minnesota, Twin Cities
 - **Office**: 5-225E, KHKH
 - **Phone**: 612-301-2729
 - **Webpage**: <http://sunju.org>
-- **Office Hour**: 5 -- 6pm Tue/Thur (2020 Fall)
+- **Office Hour**: 5 -- 6pm Tue/Thur (2021 Spring); By appointment (2021 Summer)
 
 ### Seminars
 - Co-organizing [UMN Machine Learning Seminar Series](https://sites.google.com/umn.edu/machine-learning)
@@ -41,7 +41,7 @@ University of Minnesota, Twin Cities
 ### What's new
 
 #### Upcoming
-
+-**Talk**: In the session of *The Interplay Between Optimization and Statistics* at [2021 INFORMS Annual Meeting](http://meetings2.informs.org/wordpress/anaheim2021/) (Anaheim, Oct 24--27, 2021)
 
 #### Past
 

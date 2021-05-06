@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Apr 11 2021**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Apr 18 2021**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -502,6 +502,9 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
++ [An accelerated minimax algorithm for convex-concave saddle point problems with nonsmooth coupling function](https://arxiv.org/abs/2104.06206) (2021)
++ [Oracle Complexity in Nonsmooth Nonconvex Optimization](https://arxiv.org/abs/2104.06763) (2021)
++ [A Riemannian smoothing steepest descent method for non-Lipschitz optimization on submanifolds](https://arxiv.org/abs/2104.04199) (2021)
 + [Hölder Gradient Descent and Adaptive Regularization Methods in Banach Spaces for First-Order Points](https://arxiv.org/abs/2104.02564) (2021)
 + [The Impact of Noise on Evaluation Complexity: The Deterministic Trust-Region Case](https://arxiv.org/abs/2104.02519) (2021)
 + [A Unifying Framework of Accelerated First-Order Approach to Strongly Monotone Variational Inequalities](https://arxiv.org/abs/2103.15270) (2021)
