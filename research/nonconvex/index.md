@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Apr 18 2021**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: May 09 2021**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -143,6 +143,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Tensor Recovery/Decomposition & Hidden Variable Models
 
++ [Scaling and Scalability: Provable Nonconvex Low-Rank Tensor Estimation from Incomplete Measurements](https://arxiv.org/abs/2104.14526) (2021)
 +  [Symmetry Breaking in Symmetric Tensor Decomposition](https://arxiv.org/abs/2103.06234) (2021)
 +  [Tensor Completion Made Practical](https://arxiv.org/abs/2006.03134) (2020)
 +  [Optimization landscape of Tucker decomposition](https://doi.org/10.1007/s10107-020-01531-z) (2020)
@@ -367,6 +368,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Empirical Risk Minimization & Shallow Networks
 
+ + [Thinking Inside the Ball: Near-Optimal Minimization of the Maximal Loss](https://arxiv.org/abs/2105.01778) (2021)
+ + [A Geometric Analysis of Neural Collapse with Unconstrained Features](https://arxiv.org/abs/2105.02375) (2021)
  + [Analytic Characterization of the Hessian in Shallow ReLU Models: A Tale of Symmetry](https://arxiv.org/abs/2008.01805) (2020)
  + [Regularized linear autoencoders recover the principal components, eventually](https://arxiv.org/abs/2007.06731) (2020)
  + [When Do Neural Networks Outperform Kernel Methods?](https://arxiv.org/abs/2006.13409) (2020)

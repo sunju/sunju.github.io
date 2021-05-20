@@ -10151,4 +10151,44 @@
   primaryclass  = {math.OC},
 }
 
+@Article{TongEtAl2021Scaling,
+  author        = {Tian Tong and Cong Ma and Ashley Prater-Bennette and Erin Tripp and Yuejie Chi},
+  journal       = {arXiv:2104.14526},
+  title         = {Scaling and Scalability: Provable Nonconvex Low-Rank Tensor Estimation from Incomplete Measurements},
+  year          = {2021},
+  month         = apr,
+  archiveprefix = {arXiv},
+  eprint        = {2104.14526},
+  file          = {:http\://arxiv.org/pdf/2104.14526v1:PDF},
+  keywords      = {cs.LG, cs.IT, eess.SP, math.IT, math.OC, stat.ML},
+  primaryclass  = {cs.LG},
+}
+
+@Article{ZhuEtAl2021Geometric,
+  author        = {Zhihui Zhu and Tianyu Ding and Jinxin Zhou and Xiao Li and Chong You and Jeremias Sulam and Qing Qu},
+  journal       = {arXiv:2105.02375},
+  title         = {A Geometric Analysis of Neural Collapse with Unconstrained Features},
+  year          = {2021},
+  month         = may,
+  archiveprefix = {arXiv},
+  eprint        = {2105.02375},
+  file          = {:http\://arxiv.org/pdf/2105.02375v1:PDF},
+  keywords      = {cs.LG, cs.AI, cs.IT, math.IT, math.OC, stat.ML},
+  primaryclass  = {cs.LG},
+}
+
+@Article{CarmonEtAl2021Thinking,
+  author        = {Yair Carmon and Arun Jambulapati and Yujia Jin and Aaron Sidford},
+  journal       = {arXiv:2105.01778},
+  title         = {Thinking Inside the Ball: Near-Optimal Minimization of the Maximal Loss},
+  year          = {2021},
+  month         = may,
+  abstract      = {We characterize the complexity of minimizing $\max_{i\in[N]} f_i(x)$ for convex, Lipschitz functions $f_1,\ldots, f_N$. For non-smooth functions, existing methods require $O(N\epsilon^{-2})$ queries to a first-order oracle to compute an $\epsilon$-suboptimal point and $\tilde{O}(N\epsilon^{-1})$ queries if the $f_i$ are $O(1/\epsilon)$-smooth. We develop methods with improved complexity bounds of $\tilde{O}(N\epsilon^{-2/3} + \epsilon^{-8/3})$ in the non-smooth case and $\tilde{O}(N\epsilon^{-2/3} + \sqrt{N}\epsilon^{-1})$ in the $O(1/\epsilon)$-smooth case. Our methods consist of a recently proposed ball optimization oracle acceleration algorithm (which we refine) and a careful implementation of said oracle for the softmax function. We also prove an oracle complexity lower bound scaling as $\Omega(N\epsilon^{-2/3})$, showing that our dependence on $N$ is optimal up to polylogarithmic factors.},
+  archiveprefix = {arXiv},
+  eprint        = {2105.01778},
+  file          = {:http\://arxiv.org/pdf/2105.01778v1:PDF},
+  keywords      = {math.OC, cs.DS, cs.LG},
+  primaryclass  = {math.OC},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

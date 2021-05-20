@@ -141,7 +141,7 @@ Full syllabus: [AML.pdf](AML.pdf)
     <td>Apr 14</td>
     <td> Bagging and random forests </td>
     </tr>
-    <td  colspan="3" style="text-align: center"><b>Linear and nonlinear dimension reduction</b></td>
+    <td  colspan="3" style="text-align: center"><b>Linear and Nonlinear Dimension Reduction</b></td>
     <tr>
     <td>Apr 19</td>
     <td>PCA as subspace fitting/autoencoder; random projection </td>
@@ -161,7 +161,7 @@ Full syllabus: [AML.pdf](AML.pdf)
     <td>Apr 28</td>
     <td> More on spectral clustering; mode seeking methods</td>
     </tr>
-    <td  colspan="3" style="text-align: center"><b>Generative models</b></td>
+    <td  colspan="3" style="text-align: center"><b>Generative Models</b></td>
     <tr>
     <td>May 03</td>
     <td> Mixture modeling, MLE, and EM principle</td>
@@ -192,5 +192,5 @@ Full syllabus: [AML.pdf](AML.pdf)
 [HW3](HW3.pdf)  (Due: Mar 31 2021)  
 [HW4](HW4.pdf)  (Due: Apr 28  2021)  
 [Mid Term](MT.pdf)
-[HW5](HW5.pdf)  (Due:)  
-[HW6]  (Due:)  
+[HW5](HW5.pdf)  (Due: May 14 2021)  
+[HW6]  (optional)  

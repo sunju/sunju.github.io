@@ -24,7 +24,7 @@ Assistant Professor
 [Institute for Engineering in Medicine](https://www.iem.umn.edu/) (Affiliate Faculty)  
 University of Minnesota, Twin Cities
 
-**Research Interests**: machine learning, data sciences, and numerical optimization, computer vision, signal/image processing, and computational imaging, healthcare. See my \[[CV](/docs/CV.pdf)\].
+**Research Interests**: **Intersection** and/or **Union** of machine learning, data sciences, and numerical optimization, computer vision, signal/image processing, and computational imaging, healthcare. See my \[[CV](/docs/CV.pdf)\].
 
 ### Contact
 - **Email**: jusun@umn.edu \\ \\  sunjunus@gmail.com
@@ -41,7 +41,9 @@ University of Minnesota, Twin Cities
 ### What's new
 
 #### Upcoming
--**Talk**: In the session of *The Interplay Between Optimization and Statistics* at [2021 INFORMS Annual Meeting](http://meetings2.informs.org/wordpress/anaheim2021/) (Anaheim, Oct 24--27, 2021)
+- **Talk**: in the session *Theory and algorithms for nonlinear inverse problems* at [Asilomar 2021](https://www.asilomarsscconf.org/) (Virtual, Oct 31--Nov 03, 2021)
+- **Talk**: In the session *The Interplay Between Optimization and Statistics* at [2021 INFORMS Annual Meeting](http://meetings2.informs.org/wordpress/anaheim2021/) (Anaheim, Oct 24--27, 2021)
+- **Organization**: Co-organizing the [2nd Workshop on Knowledge Guided Machine Learning (KGML)](https://sites.google.com/umn.edu/kgmlworkshop/workshop) (Virtual, Aug 9--13, 2021)
 
 #### Past
 
