@@ -32,7 +32,7 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > **Towards Low-Photon Nanoscale Imaging: Holographic Phase Retrieval via Maximum Likelihood Optimization**. \[[arXiv](https://arxiv.org/abs/2105.11512)\]  
 > &nbsp; &nbsp; David A. Barmherzig, **Ju Sun**. May 2021.
 
-> **Rethink Transfer Learning in Medical Image Classification**. \[[arXiv](https://arxiv.org/abs/2106.05152)\]  \[[Project website](https://github.com/sun-umn/Transfer-Learning-in-Medical-Imaging)\]    
+> **Rethink Transfer Learning in Medical Image Classification**. \[[arXiv](https://arxiv.org/abs/2106.05152)\]  \[[Project website](https://sun-umn.github.io/Transfer-Learning-in-Medical-Imaging/)\]    
 > &nbsp; &nbsp;  Le Peng, Hengyue Liang, Taihui Li, **Ju Sun**. Submitted to International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), Mar 2021.   
 
 > **Inverse Problems, Deep Learning, and Symmetry Breaking**. \[[arXiv](https://arxiv.org/abs/2003.09077)\]  
