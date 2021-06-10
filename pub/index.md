@@ -23,13 +23,16 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > **Early Stopping beyond Supervised Learning: Self-Validation**.    
 > &nbsp; &nbsp;  Taihui Li, Zhong Zhuang, Hengyue Liang, Le Peng, Hengkang Wang, **Ju Sun**. Submitted to British Machine Vision Conference (BMVC), Jun 2021.   
 
-> **A Prospective Observational Study to Investigate Performance of a Chest X-ray Artificial Intelligence Diagnostic Support Tool Across 12 U.S. Hospitals**. \[[medRxiv](https://doi.org/10.1101/2021.06.04.21258316)\]  \[[arXiv]()\]  
+> **Phase Retrieval using Single-Instance Deep Generative Prior**. \[[arXiv](https://arxiv.org/abs/2106.04812)\]      
+> &nbsp; &nbsp; Kshitij Tayal, Raunak Manekar, Zhong Zhuang, David Yang, Vipin Kumar, Felix Hofmann, **Ju Sun**. Jun 2021.   
+
+> **A Prospective Observational Study to Investigate Performance of a Chest X-ray Artificial Intelligence Diagnostic Support Tool Across 12 U.S. Hospitals**. \[[medRxiv](https://doi.org/10.1101/2021.06.04.21258316)\]  \[[arXiv](https://arxiv.org/abs/2106.02118)\]  
 > &nbsp; &nbsp; **Ju Sun**,  Le Peng, Taihui Li, Dyah Adila,  Zach Zaiman, Genevieve B. Melton,  Nicholas Ingraham, Eric Murray,  Daniel Boley, Sean Switzer,  John L. Burns, Kun Huang,  Tadashi Allen,  Scott D. Steenburg, Judy Wawira Gichoya,  Erich Kummerfeld,  Christopher Tignanelli. Submitted to JAMA, Jun 2021.
 
 > **Towards Low-Photon Nanoscale Imaging: Holographic Phase Retrieval via Maximum Likelihood Optimization**. \[[arXiv](https://arxiv.org/abs/2105.11512)\]  
 > &nbsp; &nbsp; David A. Barmherzig, **Ju Sun**. May 2021.
 
-> **Rethink Transfer Learning in Medical Imaging**.     
+> **Rethink Transfer Learning in Medical Image Classification**. \[[arXiv](https://arxiv.org/abs/2106.05152)\]  \[[Project website](https://github.com/sun-umn/Transfer-Learning-in-Medical-Imaging)\]    
 > &nbsp; &nbsp;  Le Peng, Hengyue Liang, Taihui Li, **Ju Sun**. Submitted to International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), Mar 2021.   
 
 > **Inverse Problems, Deep Learning, and Symmetry Breaking**. \[[arXiv](https://arxiv.org/abs/2003.09077)\]  
