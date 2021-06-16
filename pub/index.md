@@ -47,6 +47,9 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Journals
 
+> **Potential and Limitations of Radiomics in Neuro-oncology**.  \[[Paper](https://doi.org/10.1016/j.jocn.2021.05.015)\]    
+> &nbsp; &nbsp; Birra Taha, Daniel Boley, **Ju Sun**, Clark C. Chen. Journal of Clinical Neuroscience,  90:206--211, 2021.
+
 > **State of Radiomics in Glioblastoma**.  \[[Paper](https://doi.org/10.1093/neuros/nyab124)\]    
 > &nbsp; &nbsp; Birra Taha, Daniel Boley, **Ju Sun**, Clark C. Chen. Neurosurgery, 2021. Accepted.
 

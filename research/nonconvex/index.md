@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: May 09 2021**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jun 14 2021**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -68,6 +68,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 ### Matrix Completion/Sensing
 (See also [low-rank matrix/tensor recovery](/research/low-rank/) )   
 
+ + [A Scalable Second Order Method for Ill-Conditioned Matrix Completion from Few Samples](https://arxiv.org/abs/2106.02119) (2021)
  + [Implicit Regularization of Sub-Gradient Method in Robust Matrix Recovery: Don't be Afraid of Outliers](https://arxiv.org/abs/2102.02969) (2021)
  + [On the computational and statistical complexity of over-parameterized matrix sensing](https://arxiv.org/abs/2102.02756) (2021)
  + [Riemannian Perspective on Matrix Factorization](https://arxiv.org/abs/2102.00937) (2021)
