@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jun 14 2021**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jul 05 2021**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -68,6 +68,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 ### Matrix Completion/Sensing
 (See also [low-rank matrix/tensor recovery](/research/low-rank/) )   
 
+ + [Small random initialization is akin to spectral learning: Optimization and generalization guarantees for overparameterized low-rank matrix reconstruction](https://arxiv.org/abs/2106.15013) (2021)
+ + [Global Convergence of Gradient Descent for Asymmetric Low-Rank Matrix Factorization](https://arxiv.org/abs/2106.14289) (2021)
  + [A Scalable Second Order Method for Ill-Conditioned Matrix Completion from Few Samples](https://arxiv.org/abs/2106.02119) (2021)
  + [Implicit Regularization of Sub-Gradient Method in Robust Matrix Recovery: Don't be Afraid of Outliers](https://arxiv.org/abs/2102.02969) (2021)
  + [On the computational and statistical complexity of over-parameterized matrix sensing](https://arxiv.org/abs/2102.02756) (2021)
@@ -338,6 +340,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Synchronization Problems/Community Detection
 
+ +  [Generalized Power Method for Generalized Orthogonal Procrustes Problem: Global Convergence and Optimization Landscape Analysis](https://arxiv.org/abs/2106.15493) (2021)
  +  [A Unified Approach to Synchronization Problems over Subgroups of the Orthogonal Group](https://arxiv.org/abs/2009.07514) (2020)
  +  [Message Passing Least Squares Framework and its Application to Rotation Synchronization](https://arxiv.org/abs/2007.13638) (2020)
  +  [Solving Orthogonal Group Synchronization via Convex and Low-Rank Optimization: Tightness and Landscape Analysis](https://arxiv.org/abs/2006.00902) (2020)
@@ -506,6 +509,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
++ [A novel augmented Lagrangian method of multipliers for optimization with general inequality constraints](https://arxiv.org/abs/2106.15044) (2021)
++ [Subgradient Ellipsoid Method for Nonsmooth Convex Problems](https://arxiv.org/abs/2106.13340) (2021)
 + [An accelerated minimax algorithm for convex-concave saddle point problems with nonsmooth coupling function](https://arxiv.org/abs/2104.06206) (2021)
 + [Oracle Complexity in Nonsmooth Nonconvex Optimization](https://arxiv.org/abs/2104.06763) (2021)
 + [A Riemannian smoothing steepest descent method for non-Lipschitz optimization on submanifolds](https://arxiv.org/abs/2104.04199) (2021)

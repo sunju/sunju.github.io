@@ -12,6 +12,7 @@ tags: top
 
 ### PhD's
 
+- [Tiancong Chen](https://sites.google.com/view/tiancong-chen) (CS&E, co-advised with [Prof. Arindam Banerjee](https://arindam.cs.illinois.edu/))
 - [Hengyue Liang](https://scholar.google.com/citations?user=aWVo5AEAAAAJ) (ECE)
 - Yash Travadi (Stats, co-advised with [Prof. Hui Zou](http://users.stat.umn.edu/~zouxx019/))
 - [Le Peng](https://sites.google.com/view/le-peng/) (CS&E)
