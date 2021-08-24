@@ -6419,15 +6419,15 @@
 
 @Article{MeiMontanari2019generalization,
   author      = {Song Mei and Andrea Montanari},
-  title       = {The generalization error of random features regression: Precise asymptotics and double descent curve},
   journal     = {arXiv:1908.05355},
+  title       = {The generalization error of random features regression: Precise asymptotics and double descent curve},
   year        = {2019},
   date        = {2019-08-14},
   eprint      = {http://arxiv.org/abs/1908.05355},
   eprintclass = {math.ST},
   eprinttype  = {arXiv},
   file        = {:http\://arxiv.org/pdf/1908.05355v1:PDF},
-  keywords    = {math.ST, stat.ML, stat.TH, 62J99,},
+  keywords    = {math.ST, stat.ML, stat.TH, 62J99},
 }
 
 @Article{VlaskiSayed2019Second,
@@ -10261,11 +10261,36 @@
   title         = {Small random initialization is akin to spectral learning: Optimization and generalization guarantees for overparameterized low-rank matrix reconstruction},
   year          = {2021},
   month         = jun,
-  abstract      = {Recently there has been significant theoretical progress on understanding the convergence and generalization of gradient-based methods on nonconvex losses with overparameterized models. Nevertheless, many aspects of optimization and generalization and in particular the critical role of small random initialization are not fully understood. In this paper, we take a step towards demystifying this role by proving that small random initialization followed by a few iterations of gradient descent behaves akin to popular spectral methods. We also show that this implicit spectral bias from small random initialization, which is provably more prominent for overparameterized models, also puts the gradient descent iterations on a particular trajectory towards solutions that are not only globally optimal but also generalize well. Concretely, we focus on the problem of reconstructing a low-rank matrix from a few measurements via a natural nonconvex formulation. In this setting, we show that the trajectory of the gradient descent iterations from small random initialization can be approximately decomposed into three phases: (I) a spectral or alignment phase where we show that that the iterates have an implicit spectral bias akin to spectral initialization allowing us to show that at the end of this phase the column space of the iterates and the underlying low-rank matrix are sufficiently aligned, (II) a saddle avoidance/refinement phase where we show that the trajectory of the gradient iterates moves away from certain degenerate saddle points, and (III) a local refinement phase where we show that after avoiding the saddles the iterates converge quickly to the underlying low-rank matrix. Underlying our analysis are insights for the analysis of overparameterized nonconvex optimization schemes that may have implications for computational problems beyond low-rank reconstruction.},
   archiveprefix = {arXiv},
   eprint        = {2106.15013},
   file          = {:http\://arxiv.org/pdf/2106.15013v1:PDF},
   keywords      = {cs.LG, cs.IT, math.IT, math.OC, math.ST, stat.ML, stat.TH},
+  primaryclass  = {cs.LG},
+}
+
+@Article{AchourEtAl2021Global,
+  author        = {El Mehdi Achour and François Malgouyres and Sébastien Gerchinovitz},
+  journal       = {arXiv:2107.13289},
+  title         = {Global minimizers, strict and non-strict saddle points, and implicit regularization for deep linear neural networks},
+  year          = {2021},
+  month         = jul,
+  archiveprefix = {arXiv},
+  eprint        = {2107.13289},
+  file          = {:http\://arxiv.org/pdf/2107.13289v1:PDF},
+  keywords      = {math.ST, stat.TH},
+  primaryclass  = {math.ST},
+}
+
+@Article{ZiyinEtAl2021SGD,
+  author        = {Liu Ziyin and Botao Li and Masahito Ueda},
+  journal       = {arXiv:2107.11774},
+  title         = {SGD May Never Escape Saddle Points},
+  year          = {2021},
+  month         = jul,
+  archiveprefix = {arXiv},
+  eprint        = {2107.11774},
+  file          = {:http\://arxiv.org/pdf/2107.11774v1:PDF},
+  keywords      = {cs.LG, math.OC, stat.ML},
   primaryclass  = {cs.LG},
 }
 

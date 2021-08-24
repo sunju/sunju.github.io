@@ -23,10 +23,7 @@ tags: top
 
 
 ### Masters
-- [Dyah Adila](https://sites.google.com/view/dyahadila/) (CS&E)
-- Sihan Wei (CS&E)
-- Esha Singh (CS&E)
-- [Rishabh Mehta](https://scholar.google.com/citations?user=BlkhvnAAAAAJ) (CS&E)
+- [Buyun Liang](https://www.linkedin.com/in/buyun-liang/) (CS&E)
 
 ### Undergrads
 - [Gaoxiang Luo](https://gaoxiangluo.github.io/index.html)
@@ -34,7 +31,10 @@ tags: top
 
 <!-- ### PhD Alumni -->
 
-
 ### Master Alumni
 
-- Eubin Lim (MS, Stats, 2020)
+- [Dyah Adila](https://sites.google.com/view/dyahadila/) (MS 2021, CS&E, now PhD student @ U of Wisconsin-Madison)
+- [Sihan Wei](https://www.linkedin.com/in/sihanwei/) (MS 2021, CS&E, now PhD student @ Johns Hopkins U.)
+- [Esha Singh](https://www.linkedin.com/in/esha-singh-582a17116/) (MS 2021, CS&E, now PhD student @ UCSB)
+- [Rishabh Mehta](https://scholar.google.com/citations?user=BlkhvnAAAAAJ) (MS 2021, CS&E, now soft engineering @ Intel)
+- Eubin Lim (MS 2020, Stats)

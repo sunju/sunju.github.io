@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Jul 05 2021**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Aug 02 2021**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -15,13 +15,14 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+- [Contents](#contents)
 - [Review Articles](#review-articles)
 - [Problems with Hidden Convexity or Analytic Solutions](#problems-with-hidden-convexity-or-analytic-solutions)
 	- [Blind Deconvolution](#blind-deconvolution)
-	- [Separable Nonnegative  Factorization (NMF)](#separable-nonnegative-matrix-factorization-nmf)
+	- [Separable Nonnegative Matrix Factorization (NMF)](#separable-nonnegative-matrix-factorization-nmf)
 - [Problems with Provable Global Results](#problems-with-provable-global-results)
 	- [Matrix Completion/Sensing](#matrix-completionsensing)
-	- [Tensor Recovery/Decomposition & Hidden Variable Models](#tensor-recoverydecomposition-hidden-variable-models)
+	- [Tensor Recovery/Decomposition & Hidden Variable Models](#tensor-recoverydecomposition--hidden-variable-models)
 	- [Phase Retrieval](#phase-retrieval)
 	- [Dictionary Learning](#dictionary-learning)
 	- [Deep Learning](#deep-learning)
@@ -34,7 +35,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 	- [Joint Alignment](#joint-alignment)
 	- [Numerical Linear Algebra](#numerical-linear-algebra)
 	- [Bayesian Inference](#bayesian-inference)
-	- [Empirical Risk Minimization & Shallow Networks](#empirical-risk-minimization-shallow-networks)
+	- [Empirical Risk Minimization & Shallow Networks](#empirical-risk-minimization--shallow-networks)
 	- [System Identification](#system-identification)
 	- [Burer-Monteiro Style Decomposition Algorithms](#burer-monteiro-style-decomposition-algorithms)
 	- [Generic Structured Problems](#generic-structured-problems)
@@ -257,6 +258,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ### Deep Learning
 
+ + [Global minimizers, strict and non-strict saddle points, and implicit regularization for deep linear neural networks](https://arxiv.org/abs/2107.13289) (2021)
  + [Deep Networks and the Multiple Manifold Problem](https://arxiv.org/abs/2008.11245) (2020)
  + [The Global Landscape of Neural Networks: An Overview](https://arxiv.org/abs/2007.01429) (2020)
  + [Modeling from Features: a Mean-field Framework for Over-parameterized Deep Neural Networks](https://arxiv.org/abs/2007.01452) (2020)
@@ -509,6 +511,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
++ [Optimization on manifolds: A symplectic approach](https://arxiv.org/abs/2107.11231) (2021)
++ [SGD May Never Escape Saddle Points](https://arxiv.org/abs/2107.11774) (2021)
 + [A novel augmented Lagrangian method of multipliers for optimization with general inequality constraints](https://arxiv.org/abs/2106.15044) (2021)
 + [Subgradient Ellipsoid Method for Nonsmooth Convex Problems](https://arxiv.org/abs/2106.13340) (2021)
 + [An accelerated minimax algorithm for convex-concave saddle point problems with nonsmooth coupling function](https://arxiv.org/abs/2104.06206) (2021)
