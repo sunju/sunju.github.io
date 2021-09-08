@@ -10294,4 +10294,57 @@
   primaryclass  = {cs.LG},
 }
 
+@Article{FrancaEtAl2021Optimization,
+  author        = {Guilherme França and Alessandro Barp and Mark Girolami and Michael I. Jordan},
+  journal       = {arXiv:2107.11231},
+  title         = {Optimization on manifolds: A symplectic approach},
+  year          = {2021},
+  month         = jul,
+  abstract      = {There has been great interest in using tools from dynamical systems and numerical analysis of differential equations to understand and construct new optimization methods. In particular, recently a new paradigm has emerged that applies ideas from mechanics and geometric integration to obtain accelerated optimization methods on Euclidean spaces. This has important consequences given that accelerated methods are the workhorses behind many machine learning applications. In this paper we build upon these advances and propose a framework for dissipative and constrained Hamiltonian systems that is suitable for solving optimization problems on arbitrary smooth manifolds. Importantly, this allows us to leverage the well-established theory of symplectic integration to derive "rate-matching" dissipative integrators. This brings a new perspective to optimization on manifolds whereby convergence guarantees follow by construction from classical arguments in symplectic geometry and backward error analysis. Moreover, we construct two dissipative generalizations of leapfrog that are straightforward to implement: one for Lie groups and homogeneous spaces, that relies on the tractable geodesic flow or a retraction thereof, and the other for constrained submanifolds that is based on a dissipative generalization of the famous RATTLE integrator.},
+  archiveprefix = {arXiv},
+  eprint        = {2107.11231},
+  file          = {:http\://arxiv.org/pdf/2107.11231v1:PDF},
+  keywords      = {cond-mat.stat-mech, math.OC, stat.ML},
+  primaryclass  = {cond-mat.stat-mech},
+}
+
+@Article{WangEtAl2021Trust,
+  author        = {Jiulin Wang and Mengmeng Song and Yong Xia},
+  journal       = {arXiv:2108.07963},
+  title         = {Trust-region and $p$-regularized subproblems: local nonglobal minimum is the second smallest objective function value among all first-order stationary points},
+  year          = {2021},
+  month         = aug,
+  archiveprefix = {arXiv},
+  eprint        = {2108.07963},
+  file          = {:http\://arxiv.org/pdf/2108.07963v1:PDF},
+  keywords      = {math.OC, 90C20, 90C26, 90C30},
+  primaryclass  = {math.OC},
+}
+
+@Article{DavisEtAl2021Subgradient,
+  author        = {Damek Davis and Dmitriy Drusvyatskiy and Liwei Jiang},
+  journal       = {arXiv:2108.11832},
+  title         = {Subgradient methods near active manifolds: saddle point avoidance, local convergence, and asymptotic normality},
+  year          = {2021},
+  month         = aug,
+  archiveprefix = {arXiv},
+  eprint        = {2108.11832},
+  file          = {:http\://arxiv.org/pdf/2108.11832v1:PDF},
+  keywords      = {math.OC, cs.LG, 65K05, 65K10, 90C15, 90C30, 90C06},
+  primaryclass  = {math.OC},
+}
+
+@Article{Truong2021New,
+  author        = {Tuyen Trung Truong},
+  journal       = {arXiv:2108.10249},
+  title         = {New Q-Newton's method meets Backtracking line search: good convergence guarantee, saddle points avoidance, quadratic rate of convergence, and easy implementation},
+  year          = {2021},
+  month         = aug,
+  archiveprefix = {arXiv},
+  eprint        = {2108.10249},
+  file          = {:http\://arxiv.org/pdf/2108.10249v1:PDF},
+  keywords      = {math.OC, cs.LG, cs.NA, math.DS, math.NA, stat.ML},
+  primaryclass  = {math.OC},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
