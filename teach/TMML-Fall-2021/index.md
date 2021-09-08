@@ -10,7 +10,7 @@ title: Topics in Modern Machine Learning
 
 ### Course info
 
-**Syllabus**: [PDF](HMML.pdf)
+**Syllabus**: [PDF](TMML.pdf)
 
 **Instructor**:  [Professor Ju Sun](https://sunju.org/)  Email: jusun AT umn.edu  
 
@@ -27,12 +27,15 @@ General readings: [PNAS Colloquium on The Science of Deep Learning, Dec 2020](ht
   + [Expressivity of Deep Neural Networks](https://arxiv.org/abs/2007.04759)
   + [The Modern Mathematics of Deep Learning](https://arxiv.org/abs/2105.04026)
   + [Neural Network Approximation](https://arxiv.org/abs/2012.14501)
++ Papers 
+  
 
-#### Optimization \& Generalization
+#### Optimization & Generalization
 + Surveys  
   + [The Modern Mathematics of Deep Learning](https://arxiv.org/abs/2105.04026)
   + [Deep learning: a statistical viewpoint](https://arxiv.org/abs/2103.09177)
   + [Fit without fear: remarkable mathematica phenomena of deep learning through the prism of interpolation](https://arxiv.org/abs/2105.14368)
++ Papers
 
 #### Invariance 
 + Surveys 
