@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Aug 29 2021**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Sep 12 2021**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -511,6 +511,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
++ [Stochastic Subgradient Descent on a Generic Definable Function Converges to a Minimizer](https://arxiv.org/abs/2109.02455) (2021)
 + [New Q-Newton's method meets Backtracking line search: good convergence guarantee, saddle points avoidance, quadratic rate of convergence, and easy implementation](https://arxiv.org/abs/2108.10249) (2021)
 + [Subgradient methods near active manifolds: saddle point avoidance, local convergence, and asymptotic normality](https://arxiv.org/abs/2108.11832) (2021)
 + [Trust-region and $p$-regularized subproblems: local nonglobal minimum is the second smallest objective function value among all first-order stationary points](https://arxiv.org/abs/2108.07963) (2021)

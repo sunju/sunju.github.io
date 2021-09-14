@@ -41,12 +41,14 @@ University of Minnesota, Twin Cities
 ### What's new
 
 #### Upcoming
+
 - **Talk**: in the session *Mathematical Foundation of Data Science in Scientific Computing* at [AMS Spring Central Sectional Meeting](http://www.ams.org/meetings/sectional/2292_progfull.html) (Purdue University, West Lafayette, Mar 26--27, 2022)
 - **Talk**: in the session *Theory and algorithms for nonlinear inverse problems* at [Asilomar 2021](https://www.asilomarsscconf.org/) (Virtual, Oct 31--Nov 03, 2021)
 - **Talk**: In the session *The Interplay Between Optimization and Statistics* at [2021 INFORMS Annual Meeting](http://meetings2.informs.org/wordpress/anaheim2021/) (Anaheim, Oct 24--27, 2021)
 
 #### Past
 
+- **Talk**: in the [Wilson Lecture Series (UMN ECE Colloquium)](https://cse.umn.edu/ece/events/professor-ju-sun-wilson-lecture-series-ece-fall-2021-colloquium) on deep learning for robust recognition, inverse problems, and healthcare. \[[Slides](talks/ECE-Sep-2021.pdf)\] (Sep 09, 2021)  
 - **Organization**: Co-organizing the [2nd Workshop on Knowledge Guided Machine Learning (KGML)](https://sites.google.com/umn.edu/kgmlworkshop/workshop) (Virtual, Aug 9--13, 2021)
 - **Service**: To be an Area chair for AISTATS 2022 (Jul 5, 2021)   
 - **Paper release**: Proud to release our extended abstract [Phase Retrieval using Single-Instance Deep Generative Prior](https://arxiv.org/abs/2106.04812) that demonstrates single-instance deep generative priors (e.g., deep image priors) could be a powerful tool solving the most difficult cases of Fourier phase retrieval, a cental problem in computational imaging. (Jun 9, 2021)  

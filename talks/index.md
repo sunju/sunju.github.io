@@ -7,6 +7,9 @@ tags: top
 ---
 ...which are select and recent
 
+#### Deep learning for robust recognition, inverse problems, and healthcare 
++ [Wilson Lecture Series (UMN ECE Colloquium)](https://cse.umn.edu/ece/events/professor-ju-sun-wilson-lecture-series-ece-fall-2021-colloquium) \[[Slides](ECE-Sep-2021.pdf)\] (Sep 09, 2021)
+
 #### What's scary about deep learning?
 + Guest lecture at UMN CSCI8002: Introduction to Research in Computer Science \[[Slides](DL_SCARY.pdf)\] (Mar 19, 2021)
 

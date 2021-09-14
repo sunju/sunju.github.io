@@ -17,23 +17,23 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Reports
 
-> **Phase Retrieval: the Role of Overparametrization and a New Method**.     
+> **Phase Retrieval: the Role of Overparametrization and New Methods**.     
 > &nbsp; &nbsp;  Zhong Zhuang,  Yash Travadi, Zhihui Zhu,  **Ju Sun**. In preparation for SIAM Journal on  Mathematics of Data Science (SIMODS), 2021.    
 
-> **Early Stopping beyond Supervised Learning: Self-Validation**.    
+> **Self-Validation: Early Stopping for Single-Instance Deep Generative Priors**.    
 > &nbsp; &nbsp;  Taihui Li, Zhong Zhuang, Hengyue Liang, Le Peng, Hengkang Wang, **Ju Sun**. Submitted to British Machine Vision Conference (BMVC), Jun 2021.   
 
 > **Phase Retrieval using Single-Instance Deep Generative Prior**. \[[arXiv](https://arxiv.org/abs/2106.04812)\]      
 > &nbsp; &nbsp; Kshitij Tayal, Raunak Manekar, Zhong Zhuang, David Yang, Vipin Kumar, Felix Hofmann, **Ju Sun**. Jun 2021.   
 
 > **A Prospective Observational Study to Investigate Performance of a Chest X-ray Artificial Intelligence Diagnostic Support Tool Across 12 U.S. Hospitals**. \[[medRxiv](https://doi.org/10.1101/2021.06.04.21258316)\]  \[[arXiv](https://arxiv.org/abs/2106.02118)\]  
-> &nbsp; &nbsp; **Ju Sun**,  Le Peng, Taihui Li, Dyah Adila,  Zach Zaiman, Genevieve B. Melton,  Nicholas Ingraham, Eric Murray,  Daniel Boley, Sean Switzer,  John L. Burns, Kun Huang,  Tadashi Allen,  Scott D. Steenburg, Judy Wawira Gichoya,  Erich Kummerfeld,  Christopher Tignanelli. Submitted to JAMA, Jun 2021.
+> &nbsp; &nbsp; **Ju Sun**,  Le Peng, Taihui Li, Dyah Adila,  Zach Zaiman, Genevieve B. Melton,  Nicholas Ingraham, Eric Murray,  Daniel Boley, Sean Switzer,  John L. Burns, Kun Huang,  Tadashi Allen,  Scott D. Steenburg, Judy Wawira Gichoya,  Erich Kummerfeld,  Christopher Tignanelli. Under review, 2021.
 
 > **Towards Low-Photon Nanoscale Imaging: Holographic Phase Retrieval via Maximum Likelihood Optimization**. \[[arXiv](https://arxiv.org/abs/2105.11512)\]  
 > &nbsp; &nbsp; David A. Barmherzig, **Ju Sun**. May 2021.
 
 > **Rethink Transfer Learning in Medical Image Classification**. \[[arXiv](https://arxiv.org/abs/2106.05152)\]  \[[Project website](https://sun-umn.github.io/Transfer-Learning-in-Medical-Imaging/)\]    
-> &nbsp; &nbsp;  Le Peng, Hengyue Liang, Taihui Li, **Ju Sun**. Submitted to International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), Mar 2021.   
+> &nbsp; &nbsp;  Le Peng, Hengyue Liang, Taihui Li, **Ju Sun**. Submitted to AAAI Conference on Artificial Intelligence (AAAI), 2021.   
 
 > **Inverse Problems, Deep Learning, and Symmetry Breaking**. \[[arXiv](https://arxiv.org/abs/2003.09077)\]  
 > &nbsp; &nbsp; Kshitij Tayal, Chieh-Hsin Lai, Vipin Kumar,  **Ju Sun**. Mar 2020.
@@ -51,10 +51,10 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > &nbsp; &nbsp; Birra Taha, Daniel Boley, **Ju Sun**, Clark C. Chen. Journal of Clinical Neuroscience,  90:206--211, 2021.
 
 > **State of Radiomics in Glioblastoma**.  \[[Paper](https://doi.org/10.1093/neuros/nyab124)\]    
-> &nbsp; &nbsp; Birra Taha, Daniel Boley, **Ju Sun**, Clark C. Chen. Neurosurgery, 2021. Accepted.
+> &nbsp; &nbsp; Birra Taha, Daniel Boley, **Ju Sun**, Clark C. Chen. Neurosurgery, 89(2):177--184, 2021.
 
 > **Detection of Isocitrate Dehydrogenase Mutated Glioblastomas through Anomaly Detection Analytics**.  \[[Paper](https://doi.org/10.1093/neuros/nyab130)\]     
-> &nbsp; &nbsp; Birra Taha, Taihui Li, Daniel Boley, Clark C. Chen, **Ju Sun**. Neurosurgery, 2021. Accepted.
+> &nbsp; &nbsp; Birra Taha, Taihui Li, Daniel Boley, Clark C. Chen, **Ju Sun**. Neurosurgery, 89(2):323--328, 2021.
 
 > **Dictionary Learning in Fourier Transform Scanning Tunneling Spectroscopy**.  \[[arXiv](https://arxiv.org/abs/1807.10752)\]  \[[Paper](https://doi.org/10.1038/s41467-020-14633-1)\]  
 > &nbsp; &nbsp; Sky Cheung, John Shin, Yenson Lau, Zhengyu Chen, **Ju Sun**, Yuqian Zhang, John Wright, and Abhay Pasupathy. Nature Communications, 11, 1081, 2020.
