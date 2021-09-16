@@ -48,6 +48,7 @@ University of Minnesota, Twin Cities
 
 #### Past
 
+- **Media**: Our real-world implementation of federated learning (with M Health Fairview, Indiana U. and Emory U.), and the initial development for COVID-19 AI model highlighted in [Nvidia Clara white paper](https://developer.download.nvidia.com/CLARA/Federated-Learning-Training-for-Healthcare-Using-NVIDIA-Clara.pdf).  (Sep 16, 2021)
 - **Talk**: in the [Wilson Lecture Series (UMN ECE Colloquium)](https://cse.umn.edu/ece/events/professor-ju-sun-wilson-lecture-series-ece-fall-2021-colloquium) on deep learning for robust recognition, inverse problems, and healthcare. \[[Slides](talks/ECE-Sep-2021.pdf)\] (Sep 09, 2021)  
 - **Organization**: Co-organizing the [2nd Workshop on Knowledge Guided Machine Learning (KGML)](https://sites.google.com/umn.edu/kgmlworkshop/workshop) (Virtual, Aug 9--13, 2021)
 - **Service**: To be an Area chair for AISTATS 2022 (Jul 5, 2021)   
