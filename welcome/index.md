@@ -45,6 +45,7 @@ University of Minnesota, Twin Cities
 - **Talk**: in the session *Mathematical Foundation of Data Science in Scientific Computing* at [AMS Spring Central Sectional Meeting](http://www.ams.org/meetings/sectional/2292_progfull.html) (Purdue University, West Lafayette, Mar 26--27, 2022)
 - **Talk**: in the session *Theory and algorithms for nonlinear inverse problems* at [Asilomar 2021](https://www.asilomarsscconf.org/) (Virtual, Oct 31--Nov 03, 2021)
 - **Talk**: In the session *The Interplay Between Optimization and Statistics* at [2021 INFORMS Annual Meeting](http://meetings2.informs.org/wordpress/anaheim2021/) (Anaheim, Oct 24--27, 2021)
+- **Talk**: In [CDSML Seminar Series](https://www.math.nus.edu.sg/cdsml/cdsml-ss2/), National University of Singapore. (Virtual, Oct 15, 2021)
 
 #### Past
 
