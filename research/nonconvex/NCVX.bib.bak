@@ -10347,4 +10347,17 @@
   primaryclass  = {math.OC},
 }
 
+@Article{OstrovskiiEtAl2021Nonconvex,
+  author        = {Dmitrii M. Ostrovskii and Babak Barazandeh and Meisam Razaviyayn},
+  journal       = {arXiv:2110.03950},
+  title         = {Nonconvex-Nonconcave Min-Max Optimization with a Small Maximization Domain},
+  year          = {2021},
+  month         = oct,
+  archiveprefix = {arXiv},
+  eprint        = {2110.03950},
+  file          = {:http\://arxiv.org/pdf/2110.03950v1:PDF},
+  keywords      = {math.OC, cs.GT, cs.LG},
+  primaryclass  = {math.OC},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

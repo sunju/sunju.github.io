@@ -18,18 +18,12 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 ### Reports
 
 > **Phase Retrieval: the Role of Overparametrization and New Methods**.     
-> &nbsp; &nbsp;  Zhong Zhuang,  Yash Travadi, Zhihui Zhu,  **Ju Sun**. In preparation for SIAM Journal on  Mathematics of Data Science (SIMODS), 2021.    
-
-> **Self-Validation: Early Stopping for Single-Instance Deep Generative Priors**.    
-> &nbsp; &nbsp;  Taihui Li, Zhong Zhuang, Hengyue Liang, Le Peng, Hengkang Wang, **Ju Sun**. Submitted to British Machine Vision Conference (BMVC), Jun 2021.   
-
-> **Phase Retrieval using Single-Instance Deep Generative Prior**. \[[arXiv](https://arxiv.org/abs/2106.04812)\]      
-> &nbsp; &nbsp; Kshitij Tayal, Raunak Manekar, Zhong Zhuang, David Yang, Vipin Kumar, Felix Hofmann, **Ju Sun**. Jun 2021.   
+> &nbsp; &nbsp;  Zhong Zhuang,  Yash Travadi, Zhihui Zhu,  **Ju Sun**. In preparation for SIAM Journal on  Mathematics of Data Science (SIMODS), 2021.      
 
 > **A Prospective Observational Study to Investigate Performance of a Chest X-ray Artificial Intelligence Diagnostic Support Tool Across 12 U.S. Hospitals**. \[[medRxiv](https://doi.org/10.1101/2021.06.04.21258316)\]  \[[arXiv](https://arxiv.org/abs/2106.02118)\]  
-> &nbsp; &nbsp; **Ju Sun**,  Le Peng, Taihui Li, Dyah Adila,  Zach Zaiman, Genevieve B. Melton,  Nicholas Ingraham, Eric Murray,  Daniel Boley, Sean Switzer,  John L. Burns, Kun Huang,  Tadashi Allen,  Scott D. Steenburg, Judy Wawira Gichoya,  Erich Kummerfeld,  Christopher Tignanelli. Under review, 2021.
+> &nbsp; &nbsp; **Ju Sun**,  Le Peng, Taihui Li, Dyah Adila,  Zach Zaiman, Genevieve B. Melton,  Nicholas Ingraham, Eric Murray,  Daniel Boley, Sean Switzer,  John L. Burns, Kun Huang,  Tadashi Allen,  Scott D. Steenburg, Judy Wawira Gichoya,  Erich Kummerfeld,  Christopher Tignanelli. Under review for Radiology: Artificial Intelligence, 2021.
 
-> **Towards Low-Photon Nanoscale Imaging: Holographic Phase Retrieval via Maximum Likelihood Optimization**. \[[arXiv](https://arxiv.org/abs/2105.11512)\]  
+> **Towards Practical Holographic Coherent Diffraction Imaging: Holographic Phase Retrieval via Maximum Likelihood Estimation**. \[[arXiv](https://arxiv.org/abs/2105.11512)\]  
 > &nbsp; &nbsp; David A. Barmherzig, **Ju Sun**. May 2021.
 
 > **Rethink Transfer Learning in Medical Image Classification**. \[[arXiv](https://arxiv.org/abs/2106.05152)\]  \[[Project website](https://sun-umn.github.io/Transfer-Learning-in-Medical-Imaging/)\]    
@@ -84,6 +78,12 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > &nbsp; &nbsp; Guangcan Liu,  Zhouchen Lin, Shuicheng Yan,  **Ju Sun**, Yong Yu, and Yi Ma.  IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI), 35(1):171 - 184, 2013.
 
 ### Conferences and Workshops
+
+> **Self-Validation: Early Stopping for Single-Instance Deep Generative Priors**. \[[arXiv](https://arxiv.org/abs/2110.12271)\] \[[Project website](https://sun-umn.github.io/Self-Validation/)\]   
+> &nbsp; &nbsp;  Taihui Li, Zhong Zhuang, Hengyue Liang, Le Peng, Hengkang Wang, **Ju Sun**. British Machine Vision Conference (BMVC), 2021. 
+
+> **Phase Retrieval using Single-Instance Deep Generative Prior**. \[[arXiv](https://arxiv.org/abs/2106.04812)\]      
+> &nbsp; &nbsp; Kshitij Tayal, Raunak Manekar, Zhong Zhuang, David Yang, Vipin Kumar, Felix Hofmann, **Ju Sun**. OSA Imaging and Applied Optics Congress, 2021. 
 
 > **Unlocking Inverse Problems Using Deep Learning: Breaking Symmetries in Phase Retrieval**.  \[[paper](NIPS20-WS-DL4INV.pdf)\]   \[[poster](NIPS20-WS-DL4INV-poster.pdf)\]    
 > &nbsp; &nbsp; Kshitij Tayal, Chieh-Hsin Lai, Raunak Manekar, Zhong Zhuang, Vipin Kumar, **Ju Sun**. NeurIPS 2020 Workshop on Deep Learning and Inverse Problems, 2020.

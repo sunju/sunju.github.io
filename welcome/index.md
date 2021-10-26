@@ -19,7 +19,8 @@ social: true
 Assistant Professor  
 [Department of Computer Science & Engineering](https://www.cs.umn.edu/)  
 [Department of Neurosurgery](https://med.umn.edu/neurosurgery)  
-[Data Science Graduate Faculty](https://cse.umn.edu/datascience)  
+[Department of Electrical and Computer Engineering](https://cse.umn.edu/ece) (Affiliate Faculty)   
+[UMN Data Science Program](https://cse.umn.edu/datascience)  (Affiliate Faculty)  
 [Institute for Health Informatics](https://healthinformatics.umn.edu/) (Affiliate Faculty)  
 [Institute for Engineering in Medicine](https://www.iem.umn.edu/) (Affiliate Faculty)  
 University of Minnesota, Twin Cities
@@ -44,11 +45,12 @@ University of Minnesota, Twin Cities
 
 - **Talk**: in the session *Mathematical Foundation of Data Science in Scientific Computing* at [AMS Spring Central Sectional Meeting](http://www.ams.org/meetings/sectional/2292_progfull.html) (Purdue University, West Lafayette, Mar 26--27, 2022)
 - **Talk**: in the session *Theory and algorithms for nonlinear inverse problems* at [Asilomar 2021](https://www.asilomarsscconf.org/) (Virtual, Oct 31--Nov 03, 2021)
-- **Talk**: In the session *The Interplay Between Optimization and Statistics* at [2021 INFORMS Annual Meeting](http://meetings2.informs.org/wordpress/anaheim2021/) (Anaheim, Oct 24--27, 2021)
-- **Talk**: In [CDSML Seminar Series](https://www.math.nus.edu.sg/cdsml/cdsml-ss2/), National University of Singapore. (Virtual, Oct 15, 2021)
 
 #### Past
 
+- **Paper release**: Proud to release our paper [Self-Validation: Early Stopping for Single-Instance Deep Generative Priors](https://arxiv.org/abs/2110.12271) (accepted by BMVC 2021; see also the [project webpage](https://sun-umn.github.io/Self-Validation/)) on arXiv! We developed among the **first** reliable and general early stopping method for single-instance deep generative priors in solving inverse problems. (Oct 26 2021)
+- **Talk**: In the session *The Interplay Between Optimization and Statistics* at [2021 INFORMS Annual Meeting](http://meetings2.informs.org/wordpress/anaheim2021/) (Anaheim, Oct 24--27, 2021)
+- **Talk**: In [CDSML Seminar Series](https://www.math.nus.edu.sg/cdsml/cdsml-ss2/), National University of Singapore. (Virtual, Oct 15, 2021)
 - **Media**: Our real-world implementation of federated learning (with M Health Fairview, Indiana U. and Emory U.), and the initial development for COVID-19 AI model highlighted in [Nvidia Clara white paper](https://developer.download.nvidia.com/CLARA/Federated-Learning-Training-for-Healthcare-Using-NVIDIA-Clara.pdf).  (Sep 16, 2021)
 - **Talk**: in the [Wilson Lecture Series (UMN ECE Colloquium)](https://cse.umn.edu/ece/events/professor-ju-sun-wilson-lecture-series-ece-fall-2021-colloquium) on deep learning for robust recognition, inverse problems, and healthcare. \[[Slides](talks/ECE-Sep-2021.pdf)\] (Sep 09, 2021)  
 - **Organization**: Co-organizing the [2nd Workshop on Knowledge Guided Machine Learning (KGML)](https://sites.google.com/umn.edu/kgmlworkshop/workshop) (Virtual, Aug 9--13, 2021)
