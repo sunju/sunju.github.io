@@ -7,7 +7,7 @@ description:
 profile:
   align: right
   image: sunju_2016.jpg
-  address: >
+  Mailing address: >
     <p>4-192 Keller Hall</p>
     <p>200 Union Street SE</p>
     <p>Minneapolis, MN 55455</p>
@@ -29,7 +29,7 @@ University of Minnesota, Twin Cities
 
 ### Contact
 - **Email**: jusun@umn.edu \\ \\  sunjunus@gmail.com
-- **Office**: 5-225E, KHKH
+- **Office**: 6-213, Keller Hall 
 - **Phone**: 612-301-2729
 - **Webpage**: <http://sunju.org>
 - **Office Hour**: 4 -- 5pm Mon/Wed (2021 Fall)
@@ -51,6 +51,7 @@ University of Minnesota, Twin Cities
 - **Paper release**: Proud to release our paper [Self-Validation: Early Stopping for Single-Instance Deep Generative Priors](https://arxiv.org/abs/2110.12271) (accepted by BMVC 2021; see also the [project webpage](https://sun-umn.github.io/Self-Validation/)) on arXiv! We developed among the **first** reliable and general early stopping method for single-instance deep generative priors in solving inverse problems. (Oct 26 2021)
 - **Talk**: In the session *The Interplay Between Optimization and Statistics* at [2021 INFORMS Annual Meeting](http://meetings2.informs.org/wordpress/anaheim2021/) (Anaheim, Oct 24--27, 2021)
 - **Talk**: In [CDSML Seminar Series](https://www.math.nus.edu.sg/cdsml/cdsml-ss2/), National University of Singapore. (Virtual, Oct 15, 2021)
+- **Moving office**: My office is moved to 6-213 Keller Hall. (Oct 01, 2021)  
 - **Media**: Our real-world implementation of federated learning (with M Health Fairview, Indiana U. and Emory U.), and the initial development for COVID-19 AI model highlighted in [Nvidia Clara white paper](https://developer.download.nvidia.com/CLARA/Federated-Learning-Training-for-Healthcare-Using-NVIDIA-Clara.pdf).  (Sep 16, 2021)
 - **Talk**: in the [Wilson Lecture Series (UMN ECE Colloquium)](https://cse.umn.edu/ece/events/professor-ju-sun-wilson-lecture-series-ece-fall-2021-colloquium) on deep learning for robust recognition, inverse problems, and healthcare. \[[Slides](talks/ECE-Sep-2021.pdf)\] (Sep 09, 2021)  
 - **Organization**: Co-organizing the [2nd Workshop on Knowledge Guided Machine Learning (KGML)](https://sites.google.com/umn.edu/kgmlworkshop/workshop) (Virtual, Aug 9--13, 2021)
