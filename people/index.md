@@ -23,7 +23,7 @@ tags: top
 
 
 ### Masters
-- [Buyun Liang](www.buyunliang.org) (CS&E)
+- [Buyun Liang](https://buyunliang.org/) (CS&E)
 
 ### Undergrads
 - [Gaoxiang Luo](https://gaoxiangluo.github.io/index.html)
