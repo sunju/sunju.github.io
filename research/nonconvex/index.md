@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Oct 23 2021**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Nov 24 2021**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -17,6 +17,7 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 - [Contents](#contents)
 - [Review Articles](#review-articles)
+- [Software](#software)
 - [Problems with Hidden Convexity or Analytic Solutions](#problems-with-hidden-convexity-or-analytic-solutions)
 	- [Blind Deconvolution](#blind-deconvolution)
 	- [Separable Nonnegative Matrix Factorization (NMF)](#separable-nonnegative-matrix-factorization-nmf)
@@ -52,6 +53,12 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
  +  [Nonconvex Optimization Meets Low-Rank Matrix Factorization: An Overview](https://arxiv.org/abs/1809.09573) (2018)
  +  [Harnessing Structures in Big Data via Guaranteed Low-Rank Matrix Estimation](https://arxiv.org/abs/1802.08397) (2018)
  +  [Non-convex Optimization for Machine Learning](https://arxiv.org/abs/1712.07897) (2017)
+
+## Software
++ [NCVX--a general-purpose optimization package for nonconvex, particularly constrained and nonsmooth, problems](https://ncvx.org/) (see also [GRANSO](http://www.timmitchell.com/software/GRANSO/))
++ [Manopt--differentiable nonconvex problems with manifold constraints](https://www.manopt.org/) (see also [PyManopt](https://pymanopt.org/))
++ [GENO--Generic Optimization for Classical Machine Learning](http://www.geno-project.org/) 
++ [Pytorch](https://pytorch.org/) and [Tensorflow](https://www.tensorflow.org/) and [Jax](https://github.com/google/jax): Unconstrained optimization with auto-differentiation and GPU/TPU support   
 
 ## Problems with Hidden Convexity or Analytic Solutions
  +  [These slides](http://www.stat.cmu.edu/~ryantibs/convexopt-F16/lectures/nonconvex.pdf) summarize lots of them.  
