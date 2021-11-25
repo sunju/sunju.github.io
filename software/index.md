@@ -11,5 +11,8 @@ tags: top
 <div class="img_row">
     <img src="{{ site.baseurl }}/software/ncvx_logo.png" width="376" height="158">
 </div>
+<div class="caption">
+    [NCVX--a general purpose optimization package for nonconvex, particularly constrained and nonsmooth, problems](https://ncvx.org/)
+</div>
   
 
