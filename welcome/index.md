@@ -7,7 +7,7 @@ description:
 profile:
   align: right
   image: sunju_2016.jpg
-  Mailing address: >
+  Mailing address: >  
     <p>4-192 Keller Hall</p>
     <p>200 Union Street SE</p>
     <p>Minneapolis, MN 55455</p>
