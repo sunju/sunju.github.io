@@ -8,7 +8,7 @@ tags: top
 
 + [NCVX--a general purpose optimization package for nonconvex, particularly constrained and nonsmooth, problems](https://ncvx.org/) 
 <div class="img_row" style="text-align: center;">
-    <img src="{{ site.baseurl }}/software/ncvx_logo.png" width="376" height="158">
+    <img src="{{ site.baseurl }}/software/ncvx_logo.png" width="422" height="115">
 </div>
   
 

@@ -44,10 +44,11 @@ University of Minnesota, Twin Cities
 #### Upcoming
 
 - **Talk**: in the session *Mathematical Foundation of Data Science in Scientific Computing* at [AMS Spring Central Sectional Meeting](http://www.ams.org/meetings/sectional/2292_progfull.html) (Purdue University, West Lafayette, Mar 26--27, 2022)
-- **Talk**: in the session *Theory and algorithms for nonlinear inverse problems* at [Asilomar 2021](https://www.asilomarsscconf.org/) (Virtual, Oct 31--Nov 03, 2021)
 
 #### Past
 
+- **Paper release**: Proud to release our paper [NCVX: A User-Friendly and Scalable Package for Nonconvex Optimization in Machine Learning](https://arxiv.org/abs/2111.13984) on arXiv! [NCVX](https://ncvx.org/) is the initial translation and revamping of the [GRANSO package](http://www.timmitchell.com/software/GRANSO/), with convenient features such as auto-differentiation and GPU support. In particular, NCVX can be used to solve constrained deep learning problems.  (Nov 29, 2021)   
+- **Talk**: in the session *Theory and algorithms for nonlinear inverse problems* at [Asilomar 2021](https://www.asilomarsscconf.org/) (Virtual, Oct 31--Nov 03, 2021)  
 - **Paper release**: Proud to release our paper [Self-Validation: Early Stopping for Single-Instance Deep Generative Priors](https://arxiv.org/abs/2110.12271) (accepted by BMVC 2021; see also the [project webpage](https://sun-umn.github.io/Self-Validation/)) on arXiv! We developed among the **first** reliable and general early stopping method for single-instance deep generative priors in solving inverse problems. (Oct 26 2021)
 - **Talk**: In the session *The Interplay Between Optimization and Statistics* at [2021 INFORMS Annual Meeting](http://meetings2.informs.org/wordpress/anaheim2021/) (Anaheim, Oct 24--27, 2021)
 - **Talk**: In [CDSML Seminar Series](https://www.math.nus.edu.sg/cdsml/cdsml-ss2/), National University of Singapore. (Virtual, Oct 15, 2021)
