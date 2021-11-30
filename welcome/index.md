@@ -17,6 +17,7 @@ social: true
 ---
 
 Assistant Professor  
+Leader, [Group of Learning, Optimization, Vision, Healthcare, and X (GLOVEX)](https://glovex.umn.edu/)   
 [Department of Computer Science & Engineering](https://www.cs.umn.edu/)  
 [Department of Neurosurgery](https://med.umn.edu/neurosurgery)  
 [Department of Electrical and Computer Engineering](https://cse.umn.edu/ece) (Affiliate Faculty)   
@@ -27,6 +28,10 @@ University of Minnesota, Twin Cities
 
 **Research Interests**: **Intersection** and/or **Union** of machine learning, data sciences, and numerical optimization, computer vision, signal/image processing, and computational imaging, healthcare. See my \[[CV](/docs/CV.pdf)\].
 
+<span style="color:red">**Openings**: We plan to recruit a couple of PhD students for 2022 Fall. Prospective students please directly apply through our [PhD application system](https://cse.umn.edu/cs/phd-admissions) and mention Prof. Sun among the potential advisors. </span>
+
+**Group website**: <https://glovex.umn.edu/> 
+
 ### Contact
 - **Email**: jusun@umn.edu \\ \\  sunjunus@gmail.com
 - **Office**: 6-213, Keller Hall 
@@ -34,10 +39,11 @@ University of Minnesota, Twin Cities
 - **Webpage**: <http://sunju.org>
 - **Office Hour**: 4 -- 5pm Mon/Wed (2021 Fall)
 
-### Seminars
+### Seminars of interest 
 - Co-organizing [UMN Machine Learning Seminar Series](https://sites.google.com/umn.edu/machine-learning)
 - [UMN Data Science Seminars](https://www.ima.umn.edu/seminar/dsseminar)
 - [MnRI Seminar](https://cse.umn.edu/mnri/events)
+- [Minnesota Natural Language Processing Seminar](https://cse.umn.edu/categories/9581)
 
 ### What's new
 
