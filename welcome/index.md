@@ -20,10 +20,10 @@ Assistant Professor
 Leader, [Group of Learning, Optimization, Vision, Healthcare, and X (GLOVEX)](https://glovex.umn.edu/)   
 [Department of Computer Science & Engineering](https://www.cs.umn.edu/)  
 [Department of Neurosurgery](https://med.umn.edu/neurosurgery)  
-[Department of Electrical and Computer Engineering](https://cse.umn.edu/ece) (Affiliate Faculty)   
-[UMN Data Science Program](https://cse.umn.edu/datascience)  (Affiliate Faculty)  
-[Institute for Health Informatics](https://healthinformatics.umn.edu/) (Affiliate Faculty)  
-[Institute for Engineering in Medicine](https://www.iem.umn.edu/) (Affiliate Faculty)  
+[Department of Electrical and Computer Engineering](https://cse.umn.edu/ece) (Affiliated)   
+[UMN Data Science Program](https://cse.umn.edu/datascience)  (Affiliated)  
+[Institute for Health Informatics](https://healthinformatics.umn.edu/) (Affiliated)  
+[Institute for Engineering in Medicine](https://www.iem.umn.edu/) (Affiliated)  
 University of Minnesota, Twin Cities
 
 **Research Interests**: **Intersection** and/or **Union** of machine learning, data sciences, and numerical optimization, computer vision, signal/image processing, and computational imaging, healthcare. See my \[[CV](/docs/CV.pdf)\].
