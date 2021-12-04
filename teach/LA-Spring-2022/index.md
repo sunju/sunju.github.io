@@ -14,6 +14,8 @@ title: Elementary Computational Linear Algebra
 
 **Office Hours**: TBD
 
+**Mode of Delivery**: In-person; no synchronous Zoom meeting. Lectures will be recorded and released in Canvas after each lecture. There will be frequent in-person quizzes and exams. 
+
 **Textbook**: 
 + [Required] [Introduction to Linear Algebra (5th Edition)](https://math.mit.edu/~gs/linearalgebra/) by Gilbert Strang, 2016. 
 + [Supplementary; online free] [Introduction to Applied Linear Algebra---Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/) by Stephen Boyd and Lieven Vandenberghe, 2018. 
