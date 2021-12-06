@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Nov 24 2021**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Dec 05 2021**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -518,6 +518,8 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
++ [Escape saddle points by a simple gradient-descent based algorithm](https://arxiv.org/abs/2111.14069) (2021)
++ [Negative curvature obstructs acceleration for geodesically convex optimization, even with exact first-order oracles](https://arxiv.org/abs/2111.13263) (2021)
 + [Finding Second-Order Stationary Point for Nonconvex-Strongly-Concave Minimax Problem](https://arxiv.org/abs/2110.04814) (2021)
 + [Nonconvex-Nonconcave Min-Max Optimization with a Small Maximization Domain](https://arxiv.org/abs/2110.03950) (2021)
 + [Stochastic Subgradient Descent on a Generic Definable Function Converges to a Minimizer](https://arxiv.org/abs/2109.02455) (2021)

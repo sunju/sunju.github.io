@@ -10360,4 +10360,44 @@
   primaryclass  = {math.OC},
 }
 
+@Article{LuoChen2021Finding,
+  author        = {Luo Luo and Cheng Chen},
+  journal       = {arXiv:2110.04814},
+  title         = {Finding Second-Order Stationary Point for Nonconvex-Strongly-Concave Minimax Problem},
+  year          = {2021},
+  month         = oct,
+  archiveprefix = {arXiv},
+  eprint        = {2110.04814},
+  file          = {:http\://arxiv.org/pdf/2110.04814v1:PDF},
+  keywords      = {math.OC, cs.LG},
+  primaryclass  = {math.OC},
+}
+
+@Article{ZhangLi2021Escape,
+  author        = {Chenyi Zhang and Tongyang Li},
+  journal       = {arXiv:2111.14069},
+  title         = {Escape saddle points by a simple gradient-descent based algorithm},
+  year          = {2021},
+  month         = nov,
+  archiveprefix = {arXiv},
+  eprint        = {2111.14069},
+  file          = {:http\://arxiv.org/pdf/2111.14069v1:PDF},
+  keywords      = {math.OC, cs.LG, stat.ML},
+  primaryclass  = {math.OC},
+}
+
+@Article{CriscitielloBoumal2021Negative,
+  author        = {Christopher Criscitiello and Nicolas Boumal},
+  journal       = {arXiv:2111.13263},
+  title         = {Negative curvature obstructs acceleration for geodesically convex optimization, even with exact first-order oracles},
+  year          = {2021},
+  month         = nov,
+  abstract      = {Hamilton and Moitra (2021) showed that it is not possible to accelerate Riemannian gradient descent in the hyperbolic plane if we restrict ourselves to algorithms which make queries in a (large) bounded domain and which receive gradients and function values corrupted by a (small) amount of noise. We show that acceleration remains unachievable for any deterministic algorithm which receives exact gradient and function-value information (unbounded queries, no noise). Our results hold for the classes of strongly and nonstrongly geodesically convex functions, and for a large class of Hadamard manifolds including hyperbolic spaces and the symmetric space $\mathrm{SL}(n) / \mathrm{SO}(n)$ of positive definite $n \times n$ matrices of determinant one. This cements a surprising gap between the complexity of convex optimization and geodesically convex optimization: for hyperbolic spaces, Riemannian gradient descent is optimal on the class of smooth and geodesically convex functions. The key idea for proving the lower bound consists of perturbing the hard functions of Hamilton and Moitra (2021) with sums of bump functions chosen by a resisting oracle.},
+  archiveprefix = {arXiv},
+  eprint        = {2111.13263},
+  file          = {:http\://arxiv.org/pdf/2111.13263v1:PDF},
+  keywords      = {math.OC, cs.CC, cs.NA, math.DG, math.NA},
+  primaryclass  = {math.OC},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
