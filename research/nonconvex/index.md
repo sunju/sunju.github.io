@@ -5,7 +5,7 @@ title: Provable Nonconvex Methods/Algorithms
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Dec 05 2021**)
+General nonconvex optimization is undoubtedly hard --- in sharp contrast to convex optimization, of which there is good separation of problem structure, input data, and optimization algorithms. But many nonconvex problems of interest become amenable to simple and practical algorithms and rigorous analyses once the artificial separation is removed. This page collects recent research effort in this line. (**Update: Dec 11 2021**)
 
 \[<span style="color:red">**S**</span>\] indicates my contribution.
 
@@ -518,6 +518,10 @@ General nonconvex optimization is undoubtedly hard --- in sharp contrast to conv
 
 ## Relevant Optimization Methods, Theory, Miscs
 
++ [Convergence Properties of Monotone and Nonmonotone Proximal Gradient Methods Revisited](https://arxiv.org/abs/2112.01798) (2021)
++ [Riemannian conjugate gradient methods: General framework and specific algorithms with convergence analyses](https://arxiv.org/abs/2112.02572) (2021)
++ [Regularized Newton Method with Global $O(1/k^2)$ Convergence](https://arxiv.org/abs/2112.02089) (2021)
++ [Gradient Regularization of Newton Method with Bregman Distances](https://arxiv.org/abs/2112.02952) (2021)
 + [Escape saddle points by a simple gradient-descent based algorithm](https://arxiv.org/abs/2111.14069) (2021)
 + [Negative curvature obstructs acceleration for geodesically convex optimization, even with exact first-order oracles](https://arxiv.org/abs/2111.13263) (2021)
 + [Finding Second-Order Stationary Point for Nonconvex-Strongly-Concave Minimax Problem](https://arxiv.org/abs/2110.04814) (2021)
