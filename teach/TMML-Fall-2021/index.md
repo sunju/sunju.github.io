@@ -130,6 +130,9 @@ approximators](https://doi.org/10.1016/0893-6080(89)90020-8) (UAT of both deep a
 #### Invariance 
 + Surveys 
   + [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478)
+  + [Geometric Deep Learning Lecture Materials](https://geometricdeeplearning.com/lectures/)
+  + [Generalized covariant neural networks (webpage by Prof. Risi Kondor)](http://people.cs.uchicago.edu/~risi/research/cnn.html) 
+  + [Fourier analysis on permutations (webpage by Prof. Risi Kondor)](http://people.cs.uchicago.edu/~risi/research/symmetric.html)
 
 #### Robustness 
 
