@@ -12,7 +12,7 @@ title: Elementary Computational Linear Algebra
 
 **When/Where**: Mon/Wed/Fri 10:10 -- 11:00am @ Anderson Hall 310
 
-**Office Hours**: TBD
+**Office Hours**: Wed/Fri: 11:10 -- 12:10pm @ Keller Hall 6-213 
 
 **Mode of Delivery**: In-person; no synchronous Zoom meeting. Lectures will be recorded and released in Canvas after each lecture. There will be frequent in-person quizzes and exams. 
 
