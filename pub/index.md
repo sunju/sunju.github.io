@@ -18,7 +18,10 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 ### Reports
 
 > **Phase Retrieval: the Role of Overparametrization and New Methods**.     
-> &nbsp; &nbsp;  Zhong Zhuang,  Yash Travadi, Zhihui Zhu,  **Ju Sun**. In preparation for SIAM Journal on  Mathematics of Data Science (SIMODS), 2021.      
+> &nbsp; &nbsp;  Zhong Zhuang,  Yash Travadi, Zhihui Zhu,  **Ju Sun**. In preparation for SIAM Journal on  Mathematics of Data Science (SIMODS), 2022.   
+
+> **Early Stopping for Deep Image Prior**. \[[arXiv](https://arxiv.org/abs/2112.06074)\]         
+> &nbsp; &nbsp;  Hengkang Wang, Taihui Li, Zhong Zhuang, Tiancong Chen, Hengyue Liang, **Ju Sun**. Dec 2021.   
 
 > **NCVX: A User-Friendly and Scalable Package for Nonconvex Optimization in Machine Learning**.  \[[arXiv](https://arxiv.org/abs/2111.13984)\]      
 > &nbsp; &nbsp;  Buyun Liang,  **Ju Sun**. Submitted to Journal of Machine Learning Research (JMLR), Nov 2021. 

@@ -21,9 +21,10 @@ Leader, [Group of Learning, Optimization, Vision, Healthcare, and X (GLOVEX)](ht
 [Department of Computer Science & Engineering](https://www.cs.umn.edu/)  
 [Department of Neurosurgery](https://med.umn.edu/neurosurgery)  
 [Department of Electrical and Computer Engineering](https://cse.umn.edu/ece) (Affiliated)   
+[UMN Data Science Initiative (DSI)](https://cse.umn.edu/dsi)  (Affiliated)  
 [UMN Data Science Program](https://cse.umn.edu/datascience)  (Affiliated)  
-[Institute for Health Informatics](https://healthinformatics.umn.edu/) (Affiliated)  
-[Institute for Engineering in Medicine](https://www.iem.umn.edu/) (Affiliated)  
+[Institute for Health Informatics (IHI)](https://healthinformatics.umn.edu/) (Affiliated)  
+[Institute for Engineering in Medicine (IME)](https://www.iem.umn.edu/) (Affiliated)  
 University of Minnesota, Twin Cities
 
 **Research Interests**: **Intersection** and/or **Union** of machine learning, data sciences, and numerical optimization, computer vision, signal/image processing, and computational imaging, healthcare. See my \[[CV](/docs/CV.pdf)\].
@@ -53,6 +54,7 @@ University of Minnesota, Twin Cities
 
 #### Past
 
+- **Paper release**: Proud to release our paper [Early Stopping for Deep Image Prior](https://arxiv.org/abs/2112.06074) on arXiv! This is our early stopping method Ver 2.0 for single-instance deep generative priors. This version is as effective as [our first method](https://arxiv.org/abs/2110.12271) but is much more efficient! (Dec 13, 2021)     
 - **Paper release**: Proud to release our paper [NCVX: A User-Friendly and Scalable Package for Nonconvex Optimization in Machine Learning](https://arxiv.org/abs/2111.13984) on arXiv! [NCVX](https://ncvx.org/) is the initial translation and revamping of the [GRANSO package](http://www.timmitchell.com/software/GRANSO/), with convenient features such as auto-differentiation and GPU support. In particular, NCVX can be used to solve constrained deep learning problems.  (Nov 29, 2021)   
 - **Talk**: in the session *Theory and algorithms for nonlinear inverse problems* at [Asilomar 2021](https://www.asilomarsscconf.org/) (Virtual, Oct 31--Nov 03, 2021)  
 - **Paper release**: Proud to release our paper [Self-Validation: Early Stopping for Single-Instance Deep Generative Priors](https://arxiv.org/abs/2110.12271) (accepted by BMVC 2021; see also the [project webpage](https://sun-umn.github.io/Self-Validation/)) on arXiv! We developed among the **first** reliable and general early stopping method for single-instance deep generative priors in solving inverse problems. (Oct 26 2021)
