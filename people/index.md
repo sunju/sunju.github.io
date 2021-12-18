@@ -17,17 +17,17 @@ tags: top
 - Yash Travadi (Stats, co-advised with [Prof. Hui Zou](http://users.stat.umn.edu/~zouxx019/))
 - [Le Peng](https://sites.google.com/view/le-peng/) (CS&E)
 - [Raunak Manekar](https://scholar.google.com/citations?user=ct6Om_wAAAAJ&hl=en) (CS&E)
-- Hengkang Wang (CS&E)
+- [Hengkang Wang](https://www.linkedin.com/in/hengkang-henry-wang-a1b293104/) (CS&E)
 - [Zhong Zhuang](https://scholar.google.com/citations?user=rGGxUQEAAAAJ) (ECE, co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/))
 - [Taihui Li](https://taihui.github.io/) (CS&E, co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/))
 
 
 ### Masters
 - [Buyun Liang](https://www.buyunliang.org/) (CS&E)
+- [Andrew Walker](https://www.linkedin.com/in/andrewwalker-mn/)
 
 ### Undergrads
 - [Gaoxiang Luo](https://gaoxiangluo.github.io/index.html)
-- [Andrew Walker](https://www.linkedin.com/in/andrewwalker-mn/)
 
 <!-- ### PhD Alumni -->
 
@@ -37,4 +37,4 @@ tags: top
 - [Sihan Wei](https://www.linkedin.com/in/sihanwei/) (MS 2021, CS&E, now PhD student @ Johns Hopkins U.)
 - [Esha Singh](https://www.linkedin.com/in/esha-singh-582a17116/) (MS 2021, CS&E, now PhD student @ UCSB)
 - [Rishabh Mehta](https://scholar.google.com/citations?user=BlkhvnAAAAAJ) (MS 2021, CS&E, now soft engineering @ Intel)
-- Eubin Lim (MS 2020, Stats)
+- [Eubin Lim](https://www.linkedin.com/in/eubin-lim/) (MS 2020, Stats, now NH Investment & Securities, South Korea)
