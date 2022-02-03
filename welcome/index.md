@@ -50,7 +50,7 @@ University of Minnesota, Twin Cities
 
 #### Upcoming
 
-- **Organization**: [Prof. Ying Cui](https://cse.umn.edu/isye/ying-cui) and I are co-organizing the **Nonsmooth Optimization in Machine Learning** session in the [International Conference on Continuous Optimization (ICCOPT)](https://iccopt2022.lehigh.edu/), 2022. (Lehigh University, Jul 25--28, 2022)
+- **Organization**: [Prof. Ying Cui](https://cse.umn.edu/isye/ying-cui) and I are co-organizing the *Nonsmooth Optimization in Machine Learning* session in the [International Conference on Continuous Optimization (ICCOPT)](https://iccopt2022.lehigh.edu/), 2022. (Lehigh University, Jul 25--28, 2022)
 - **Talk**: in the session *Mathematical Foundation of Data Science in Scientific Computing* at [AMS Spring Central Sectional Meeting](http://www.ams.org/meetings/sectional/2292_progfull.html) (Purdue University, West Lafayette, Mar 26--27, 2022)
 
 #### Past
