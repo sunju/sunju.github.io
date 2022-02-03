@@ -50,10 +50,12 @@ University of Minnesota, Twin Cities
 
 #### Upcoming
 
+- **Organization**: [Prof. Ying Cui](https://cse.umn.edu/isye/ying-cui) and I are co-organizing the **Nonsmooth Optimization in Machine Learning** session in the [International Conference on Continuous Optimization (ICCOPT)](https://iccopt2022.lehigh.edu/), 2022. (Lehigh University, Jul 25--28, 2022)
 - **Talk**: in the session *Mathematical Foundation of Data Science in Scientific Computing* at [AMS Spring Central Sectional Meeting](http://www.ams.org/meetings/sectional/2292_progfull.html) (Purdue University, West Lafayette, Mar 26--27, 2022)
 
 #### Past
 
+- **Grant approval**: We (with [Jose Debes, MD, PHD](https://med.umn.edu/bio/dom-a-z/jose-debes)) are funded by a [U of M Informatics Institute (UMII)](https://research.umn.edu/units/umii) seed grant (medium) to develop AI-enabled Doppler ultrasound analysis models for liver cancer detection. (Co-PI, Jan 22, 2022)  
 - **Paper release**: Proud to release our paper [Early Stopping for Deep Image Prior](https://arxiv.org/abs/2112.06074) on arXiv! This is our early stopping method Ver 2.0 for single-instance deep generative priors. This version is as effective as [our first method](https://arxiv.org/abs/2110.12271) but is much more efficient! (Dec 13, 2021)     
 - **Paper release**: Proud to release our paper [NCVX: A User-Friendly and Scalable Package for Nonconvex Optimization in Machine Learning](https://arxiv.org/abs/2111.13984) on arXiv! [NCVX](https://ncvx.org/) is the initial translation and revamping of the [GRANSO package](http://www.timmitchell.com/software/GRANSO/), with convenient features such as auto-differentiation and GPU support. In particular, NCVX can be used to solve constrained deep learning problems.  (Nov 29, 2021)   
 - **Talk**: in the session *Theory and algorithms for nonlinear inverse problems* at [Asilomar 2021](https://www.asilomarsscconf.org/) (Virtual, Oct 31--Nov 03, 2021)  

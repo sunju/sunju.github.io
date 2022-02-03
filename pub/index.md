@@ -20,20 +20,23 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > **Phase Retrieval: the Role of Overparametrization and New Methods**.     
 > &nbsp; &nbsp;  Zhong Zhuang,  Yash Travadi, Zhihui Zhu,  **Ju Sun**. In preparation for SIAM Journal on  Mathematics of Data Science (SIMODS), 2022.   
 
+> **Random Projector: Toward Efficient Deep Image Prior**.    
+> &nbsp; &nbsp;  Taihui Li, Zhong Zhuang, Hengkang Wang, **Ju Sun**. In preparation for International Journal of Computer Vision, 2022.  
+
+> **Blind Image Deblurring with Unknown Kernel Size and Substantial Noise**.    
+> &nbsp; &nbsp;  Zhong Zhuang, Taihui Li, Hengkang Wang, **Ju Sun**. In preparation for International Journal of Computer Vision, 2022.  
+
 > **Early Stopping for Deep Image Prior**. \[[arXiv](https://arxiv.org/abs/2112.06074)\]         
-> &nbsp; &nbsp;  Hengkang Wang, Taihui Li, Zhong Zhuang, Tiancong Chen, Hengyue Liang, **Ju Sun**. Dec 2021.   
+> &nbsp; &nbsp;  Hengkang Wang, Taihui Li, Zhong Zhuang, Tiancong Chen, Hengyue Liang, **Ju Sun**. In preparation for International Journal of Computer Vision, 2022.     
 
 > **NCVX: A User-Friendly and Scalable Package for Nonconvex Optimization in Machine Learning**.  \[[arXiv](https://arxiv.org/abs/2111.13984)\]      
-> &nbsp; &nbsp;  Buyun Liang,  **Ju Sun**. Submitted to Journal of Machine Learning Research (JMLR), Nov 2021. 
+> &nbsp; &nbsp;  Buyun Liang, Tim Mitchell, **Ju Sun**. 
 
 > **A Prospective Observational Study to Investigate Performance of a Chest X-ray Artificial Intelligence Diagnostic Support Tool Across 12 U.S. Hospitals**. \[[medRxiv](https://doi.org/10.1101/2021.06.04.21258316)\]  \[[arXiv](https://arxiv.org/abs/2106.02118)\]  
-> &nbsp; &nbsp; **Ju Sun**,  Le Peng, Taihui Li, Dyah Adila,  Zach Zaiman, Genevieve B. Melton,  Nicholas Ingraham, Eric Murray,  Daniel Boley, Sean Switzer,  John L. Burns, Kun Huang,  Tadashi Allen,  Scott D. Steenburg, Judy Wawira Gichoya,  Erich Kummerfeld,  Christopher Tignanelli. Under review for Radiology: Artificial Intelligence, 2021.
-
-> **Towards Practical Holographic Coherent Diffraction Imaging: Holographic Phase Retrieval via Maximum Likelihood Estimation**. \[[arXiv](https://arxiv.org/abs/2105.11512)\]  
-> &nbsp; &nbsp; David A. Barmherzig, **Ju Sun**. May 2021.
+> &nbsp; &nbsp; **Ju Sun**,  Le Peng, Taihui Li, Dyah Adila,  Zach Zaiman, Genevieve B. Melton,  Nicholas Ingraham, Eric Murray,  Daniel Boley, Sean Switzer,  John L. Burns, Kun Huang,  Tadashi Allen,  Scott D. Steenburg, Judy Wawira Gichoya,  Erich Kummerfeld,  Christopher Tignanelli. In revision for Radiology: Artificial Intelligence, 2021.
 
 > **Rethink Transfer Learning in Medical Image Classification**. \[[arXiv](https://arxiv.org/abs/2106.05152)\]  \[[Project website](https://sun-umn.github.io/Transfer-Learning-in-Medical-Imaging/)\]    
-> &nbsp; &nbsp;  Le Peng, Hengyue Liang, Taihui Li, **Ju Sun**. Submitted to AAAI Conference on Artificial Intelligence (AAAI), 2021.   
+> &nbsp; &nbsp;  Le Peng, Hengyue Liang, Taihui Li, **Ju Sun**. 
 
 > **Inverse Problems, Deep Learning, and Symmetry Breaking**. \[[arXiv](https://arxiv.org/abs/2003.09077)\]  
 > &nbsp; &nbsp; Kshitij Tayal, Chieh-Hsin Lai, Vipin Kumar,  **Ju Sun**. Mar 2020.
@@ -46,6 +49,9 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 
 ### Journals
+
+> **Towards Practical Holographic Coherent Diffraction Imaging via Maximum Likelihood Estimation**. \[[arXiv](https://arxiv.org/abs/2105.11512)\]  
+> &nbsp; &nbsp; David A. Barmherzig, **Ju Sun**. To appear in Optics Express, 2022. 
 
 > **Potential and Limitations of Radiomics in Neuro-oncology**.  \[[Paper](https://doi.org/10.1016/j.jocn.2021.05.015)\]    
 > &nbsp; &nbsp; Birra Taha, Daniel Boley, **Ju Sun**, Clark C. Chen. Journal of Clinical Neuroscience,  90:206--211, 2021.
