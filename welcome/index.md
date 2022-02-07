@@ -18,9 +18,10 @@ social: true
 
 Assistant Professor  
 Leader, [Group of Learning, Optimization, Vision, Healthcare, and X (GLOVEX)](https://glovex.umn.edu/)   
-[Department of Computer Science & Engineering](https://www.cs.umn.edu/)  
-[Department of Neurosurgery](https://med.umn.edu/neurosurgery)  
-[Department of Electrical and Computer Engineering](https://cse.umn.edu/ece) (Affiliated)   
+Leadership Team of [Program for Clinical AI](https://med.umn.edu/about/program-clinical-ai), [Center for Learning Health System Sciences (CLHSS)](https://med.umn.edu/clhss)      
+[Department of Computer Science & Engineering](https://www.cs.umn.edu/)  (Primary)    
+[Department of Neurosurgery](https://med.umn.edu/neurosurgery)  (Affiliated)     
+[Department of Electrical and Computer Engineering](https://cse.umn.edu/ece) (Affiliated)      
 [UMN Data Science Initiative (DSI)](https://cse.umn.edu/dsi)  (Affiliated)  
 [UMN Data Science Program](https://cse.umn.edu/datascience)  (Affiliated)  
 [Institute for Health Informatics (IHI)](https://healthinformatics.umn.edu/) (Affiliated)  
