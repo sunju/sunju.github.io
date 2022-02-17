@@ -50,8 +50,8 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Journals
 
-> **Towards Practical Holographic Coherent Diffraction Imaging via Maximum Likelihood Estimation**. \[[arXiv](https://arxiv.org/abs/2105.11512)\]  
-> &nbsp; &nbsp; David A. Barmherzig, **Ju Sun**. To appear in Optics Express, 2022. 
+> **Towards Practical Holographic Coherent Diffraction Imaging via Maximum Likelihood Estimation**. \[[paper (open access)](https://doi.org/10.1364/OE.445015)\]\[[arXiv](https://arxiv.org/abs/2105.11512)\]    
+> &nbsp; &nbsp; David A. Barmherzig, **Ju Sun**. Optics Express, 30(5):6886--6906, 2022. 
 
 > **Potential and Limitations of Radiomics in Neuro-oncology**.  \[[Paper](https://doi.org/10.1016/j.jocn.2021.05.015)\]    
 > &nbsp; &nbsp; Birra Taha, Daniel Boley, **Ju Sun**, Clark C. Chen. Journal of Clinical Neuroscience,  90:206--211, 2021.
