@@ -27,7 +27,7 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > &nbsp; &nbsp;  Zhong Zhuang, Taihui Li, Hengkang Wang, **Ju Sun**. In preparation for International Journal of Computer Vision, 2022.  
 
 > **Early Stopping for Deep Image Prior**. \[[arXiv](https://arxiv.org/abs/2112.06074)\]         
-> &nbsp; &nbsp;  Hengkang Wang, Taihui Li, Zhong Zhuang, Tiancong Chen, Hengyue Liang, **Ju Sun**. In preparation for International Journal of Computer Vision, 2022.     
+> &nbsp; &nbsp;  Hengkang Wang, Taihui Li, Zhong Zhuang, Tiancong Chen, Hengyue Liang, **Ju Sun**. Submitted to International Journal of Computer Vision (IJCV), Mar 2022.     
 
 > **NCVX: A User-Friendly and Scalable Package for Nonconvex Optimization in Machine Learning**.  \[[arXiv](https://arxiv.org/abs/2111.13984)\]      
 > &nbsp; &nbsp;  Buyun Liang, Tim Mitchell, **Ju Sun**. 
