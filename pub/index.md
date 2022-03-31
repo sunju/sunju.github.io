@@ -32,9 +32,6 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > **NCVX: A User-Friendly and Scalable Package for Nonconvex Optimization in Machine Learning**.  \[[arXiv](https://arxiv.org/abs/2111.13984)\]      
 > &nbsp; &nbsp;  Buyun Liang, Tim Mitchell, **Ju Sun**. 
 
-> **A Prospective Observational Study to Investigate Performance of a Chest X-ray Artificial Intelligence Diagnostic Support Tool Across 12 U.S. Hospitals**. \[[medRxiv](https://doi.org/10.1101/2021.06.04.21258316)\]  \[[arXiv](https://arxiv.org/abs/2106.02118)\]  
-> &nbsp; &nbsp; **Ju Sun**,  Le Peng, Taihui Li, Dyah Adila,  Zach Zaiman, Genevieve B. Melton,  Nicholas Ingraham, Eric Murray,  Daniel Boley, Sean Switzer,  John L. Burns, Kun Huang,  Tadashi Allen,  Scott D. Steenburg, Judy Wawira Gichoya,  Erich Kummerfeld,  Christopher Tignanelli. In revision for Radiology: Artificial Intelligence, 2021.
-
 > **Rethink Transfer Learning in Medical Image Classification**. \[[arXiv](https://arxiv.org/abs/2106.05152)\]  \[[Project website](https://sun-umn.github.io/Transfer-Learning-in-Medical-Imaging/)\]    
 > &nbsp; &nbsp;  Le Peng, Hengyue Liang, Taihui Li, **Ju Sun**. 
 
@@ -49,6 +46,9 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 
 ### Journals
+
+> **A Prospective Observational Study to Investigate Performance of a Chest X-ray Artificial Intelligence Diagnostic Support Tool Across 12 U.S. Hospitals**. \[[medRxiv](https://doi.org/10.1101/2021.06.04.21258316)\]  \[[arXiv](https://arxiv.org/abs/2106.02118)\]  
+> &nbsp; &nbsp; **Ju Sun**,  Le Peng, Taihui Li, Dyah Adila,  Zach Zaiman, Genevieve B. Melton,  Nicholas Ingraham, Eric Murray,  Daniel Boley, Sean Switzer,  John L. Burns, Kun Huang,  Tadashi Allen,  Scott D. Steenburg, Judy Wawira Gichoya,  Erich Kummerfeld,  Christopher Tignanelli. To appear in Radiology: Artificial Intelligence, 2022.
 
 > **Towards Practical Holographic Coherent Diffraction Imaging via Maximum Likelihood Estimation**. \[[paper (open access)](https://doi.org/10.1364/OE.445015)\]\[[arXiv](https://arxiv.org/abs/2105.11512)\]    
 > &nbsp; &nbsp; David A. Barmherzig, **Ju Sun**. Optics Express, 30(5):6886--6906, 2022. 
