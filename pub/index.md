@@ -24,7 +24,7 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > &nbsp; &nbsp;  Taihui Li, Zhong Zhuang, Hengkang Wang, **Ju Sun**. In preparation for International Journal of Computer Vision, 2022.  
 
 > **Blind Image Deblurring with Unknown Kernel Size and Substantial Noise**.    
-> &nbsp; &nbsp;  Zhong Zhuang, Taihui Li, Hengkang Wang, **Ju Sun**. In preparation for International Journal of Computer Vision, 2022.  
+> &nbsp; &nbsp;  Zhong Zhuang, Taihui Li, Hengkang Wang, **Ju Sun**. Submitted to International Journal of Computer Vision (IJCV), Apr 2022.  
 
 > **Early Stopping for Deep Image Prior**. \[[arXiv](https://arxiv.org/abs/2112.06074)\]         
 > &nbsp; &nbsp;  Hengkang Wang, Taihui Li, Zhong Zhuang, Tiancong Chen, Hengyue Liang, **Ju Sun**. Submitted to International Journal of Computer Vision (IJCV), Mar 2022.     
@@ -33,7 +33,7 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > &nbsp; &nbsp;  Buyun Liang, Tim Mitchell, **Ju Sun**. 
 
 > **Rethink Transfer Learning in Medical Image Classification**. \[[arXiv](https://arxiv.org/abs/2106.05152)\]  \[[Project website](https://sun-umn.github.io/Transfer-Learning-in-Medical-Imaging/)\]    
-> &nbsp; &nbsp;  Le Peng, Hengyue Liang, Taihui Li, **Ju Sun**. 
+> &nbsp; &nbsp;  Le Peng, Hengyue Liang, Gaoxiang Luo, Taihui Li, **Ju Sun**. Submitted to IEEE Transactions on Medical Imaging (TMI), Apr 2022. 
 
 > **Inverse Problems, Deep Learning, and Symmetry Breaking**. \[[arXiv](https://arxiv.org/abs/2003.09077)\]  
 > &nbsp; &nbsp; Kshitij Tayal, Chieh-Hsin Lai, Vipin Kumar,  **Ju Sun**. Mar 2020.
