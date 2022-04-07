@@ -12,7 +12,7 @@ Full syllabus: TBA
 
 **Instructor**: [Professor Ju Sun](https://sunju.org/)  Email: jusun AT umn.edu   (Office Hours: TBA)
 
-**When/Where**: Tue 6:30--9:00pm @ KHKH 3-125
+**When/Where**: Tue 6:30--9:00pm @ KHKH 3-125 (the classroom is tentative; we may move to a larger room to accommodate more students) 
 
 **TA's**: TBA 
 
