@@ -12,9 +12,18 @@ Full syllabus: TBA
 
 **Instructor**: [Professor Ju Sun](https://sunju.org/)  Email: jusun AT umn.edu   (Office Hours: TBA)
 
-**When/Where**: TBA
+**When/Where**: Tue 6:30--9:00pm @ KHKH 3-125
 
 **TA's**: TBA 
+
+**Registration Q&A**
++ What's the next iteration of this course? 
+  
+Fall 2023 or Spring 2024. It's unlikely to be offered in Spring 2023 as is currently slated. 
+
++ Style of the course. More programming, foundations, or mathematics? 
+
+Check out the previous iteration [5980/8980: Think Deep Learning](https://sunju.org/teach/DL-Fall-2020/), including syllabus, slides, and homework sets. This course is a polished version of that. 
 
 **Lecture Schedule**
 
