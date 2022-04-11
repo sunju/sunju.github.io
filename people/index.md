@@ -12,6 +12,7 @@ tags: top
 
 ### PhD's
 
+- [Ryan de Vera](https://www.linkedin.com/in/ryan-de-vera-b4374089) (CS&E)
 - [Tiancong Chen](https://sites.google.com/view/tiancong-chen) (CS&E, co-advised with [Prof. Arindam Banerjee](https://arindam.cs.illinois.edu/))
 - [Hengyue Liang](https://scholar.google.com/citations?user=aWVo5AEAAAAJ) (ECE)
 - Yash Travadi (Stats, co-advised with [Prof. Hui Zou](http://users.stat.umn.edu/~zouxx019/))
@@ -23,11 +24,12 @@ tags: top
 
 
 ### Masters
+- Wenjie Zhang (CS&E) 
 - [Buyun Liang](https://www.buyunliang.org/) (CS&E)
-- [Andrew Walker](https://www.linkedin.com/in/andrewwalker-mn/)
+- [Andrew Walker](https://www.linkedin.com/in/andrewwalker-mn/) (CS&E)
 
 ### Undergrads
-- [Gaoxiang Luo](https://gaoxiangluo.github.io/index.html)
+- [Gaoxiang Luo](https://gaoxiangluo.github.io/index.html) (CS&E)
 
 <!-- ### PhD Alumni -->
 
