@@ -52,6 +52,7 @@ University of Minnesota, Twin Cities
 #### Upcoming
 
 - **Talk** in [IPAM workshop on Diffractive Imaging with Phase Retrieval](http://www.ipam.ucla.edu/programs/workshops/workshop-i-diffractive-imaging-with-phase-retrieval/?tab=overview) at UCLA (Oct 10--14, 2022)
+- **Talk** in [Mathematics in imaging science, data science and optimization](https://sites.google.com/view/rpimidoseminars) seminar at RPI, 2022. (Rensselaer Polytechnic Institute, Sep 21, 2022)
 - **Organization**: [Prof. Ying Cui](https://cse.umn.edu/isye/ying-cui) and I are co-organizing the *Nonsmooth Optimization in Machine Learning* session in the [International Conference on Continuous Optimization (ICCOPT)](https://iccopt2022.lehigh.edu/), 2022. (Lehigh University, Jul 25--28, 2022)
 
 #### Past
