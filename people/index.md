@@ -8,8 +8,7 @@ tags: top
 
 ### Student Collaborators
 - [Kshitij Tayal](https://www.kshitijtayal.com/) (CS&E)
-- [Chieh-Hsin (Jesse) Lai](https://math.umn.edu/directory/chieh-hsin-jesse-lai) (Math)
-
+  
 ### PhD's
 
 - [Ryan de Vera](https://www.linkedin.com/in/ryan-de-vera-b4374089) (CS&E)
@@ -26,17 +25,19 @@ tags: top
 ### Masters
 - Wenjie Zhang (CS&E) 
 - [Buyun Liang](https://www.buyunliang.org/) (CS&E)
-- [Andrew Walker](https://www.linkedin.com/in/andrewwalker-mn/) (CS&E)
 
 ### Undergrads
-- [Gaoxiang Luo](https://gaoxiangluo.github.io/index.html) (CS&E)
+
 
 <!-- ### PhD Alumni -->
 
 ### Master Alumni
-
+- [Andrew Walker](https://www.linkedin.com/in/andrewwalker-mn/) (MS2022, CS&E, now researcher at [PathAI](https://www.pathai.com/))
 - [Dyah Adila](https://sites.google.com/view/dyahadila/) (MS 2021, CS&E, now PhD student @ U of Wisconsin-Madison)
 - [Sihan Wei](https://www.linkedin.com/in/sihanwei/) (MS 2021, CS&E, now PhD student @ Johns Hopkins U.)
 - [Esha Singh](https://www.linkedin.com/in/esha-singh-582a17116/) (MS 2021, CS&E, now PhD student @ UCSB)
 - [Rishabh Mehta](https://scholar.google.com/citations?user=BlkhvnAAAAAJ) (MS 2021, CS&E, now soft engineering @ Intel)
 - [Eubin Lim](https://www.linkedin.com/in/eubin-lim/) (MS 2020, Stats, now NH Investment & Securities, South Korea)
+
+### Undergrad Alumni 
+- [Gaoxiang Luo](https://gaoxiangluo.github.io/index.html) (BA 2022, CS&E, now PhD student @ U Penn)
