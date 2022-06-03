@@ -57,6 +57,7 @@ University of Minnesota, Twin Cities
 
 #### Past
 
+- **Medium**: We're featured by the [Minnesota Supercomputing Institute (MSI)](https://www.msi.umn.edu/research/machine-learning-agate) as a big consumer of their GPUs! (May, 2022)  
 - **Talk**: in the session *Mathematical Foundation of Data Science in Scientific Computing* at [AMS Spring Central Sectional Meeting](http://www.ams.org/meetings/sectional/2292_progfull.html) (Purdue University, West Lafayette, Mar 26--27, 2022)
 - **Grant approval**: We (with [Jose Debes, MD, PHD](https://med.umn.edu/bio/dom-a-z/jose-debes)) are funded by a [U of M Informatics Institute (UMII)](https://research.umn.edu/units/umii) seed grant (medium) to develop AI-enabled Doppler ultrasound analysis models for liver cancer detection. (Co-PI, Jan 22, 2022)  
 - **Paper release**: Proud to release our paper [Early Stopping for Deep Image Prior](https://arxiv.org/abs/2112.06074) on arXiv! This is our early stopping method Ver 2.0 for single-instance deep generative priors. This version is as effective as [our first method](https://arxiv.org/abs/2110.12271) but is much more efficient! (Dec 13, 2021)     
