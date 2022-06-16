@@ -33,7 +33,7 @@ tags: top
 
 ### Master Alumni
 - [Andrew Walker](https://www.linkedin.com/in/andrewwalker-mn/) (MS2022, CS&E, now researcher at [PathAI](https://www.pathai.com/))
-- [Dyah Adila](https://sites.google.com/view/dyahadila/) (MS 2021, CS&E, now PhD student @ U of Wisconsin-Madison)
+- [Dyah Adila](https://dyahadila.github.io/) (MS 2021, CS&E, now PhD student @ U of Wisconsin-Madison)
 - [Sihan Wei](https://www.linkedin.com/in/sihanwei/) (MS 2021, CS&E, now PhD student @ Johns Hopkins U.)
 - [Esha Singh](https://www.linkedin.com/in/esha-singh-582a17116/) (MS 2021, CS&E, now PhD student @ UCSB)
 - [Rishabh Mehta](https://scholar.google.com/citations?user=BlkhvnAAAAAJ) (MS 2021, CS&E, now soft engineering @ Intel)
