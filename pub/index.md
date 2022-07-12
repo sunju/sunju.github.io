@@ -27,7 +27,7 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > &nbsp; &nbsp;  Zhong Zhuang, Taihui Li, Hengkang Wang, **Ju Sun**. Submitted to International Journal of Computer Vision (IJCV), Apr 2022.  
 
 > **Evaluation of Federated Learning Variations for COVID-19 Diagnosis using Chest Radiographs from 42 US and European Hospitals**.     
-> &nbsp; &nbsp;  Le Peng, Gaoxiang Luo, Andrew Walker, Zachary Zaiman, Emma K. Jones, Hemant Gupta, Kristopher Kersten, John L. Burns, Christopher A. Harle, Tanja Magoc, Benjamin Shickel, Scott D. Steenburg, Tyler Loftus, Genevieve B. Melton, Judy Wawira Gichoya, **Ju Sun**, Christopher J Tignanell. In revision, Journal of the American Medical Informatics Association, 2022. 
+> &nbsp; &nbsp;  Le Peng, Gaoxiang Luo, Andrew Walker, Zachary Zaiman, Emma K. Jones, Hemant Gupta, Kristopher Kersten, John L. Burns, Christopher A. Harle, Tanja Magoc, Benjamin Shickel, Scott D. Steenburg, Tyler Loftus, Genevieve B. Melton, Judy Wawira Gichoya, **Ju Sun**, Christopher J Tignanell. In revision, Journal of the American Medical Informatics Association (JAMIA), 2022. 
 
 > **Early Stopping for Deep Image Prior**. \[[arXiv](https://arxiv.org/abs/2112.06074)\]         
 > &nbsp; &nbsp;  Hengkang Wang, Taihui Li, Zhong Zhuang, Tiancong Chen, Hengyue Liang, **Ju Sun**. Submitted to International Journal of Computer Vision (IJCV), Mar 2022.     
@@ -50,7 +50,7 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Journals
 
-> **A Prospective Observational Study to Investigate Performance of a Chest X-ray Artificial Intelligence Diagnostic Support Tool Across 12 U.S. Hospitals**. \[[medRxiv](https://doi.org/10.1101/2021.06.04.21258316)\]  \[[arXiv](https://arxiv.org/abs/2106.02118)\] \[[paper](https://doi.org/10.1148/ryai.210217)\]
+> **A Prospective Observational Study to Investigate Performance of a Chest X-ray Artificial Intelligence Diagnostic Support Tool Across 12 U.S. Hospitals**. \[[medRxiv](https://doi.org/10.1101/2021.06.04.21258316)\]  \[[arXiv](https://arxiv.org/abs/2106.02118)\] \[[paper](https://doi.org/10.1148/ryai.210217)\]   
 > &nbsp; &nbsp; **Ju Sun**,  Le Peng, Taihui Li, Dyah Adila,  Zach Zaiman, Genevieve B. Melton,  Nicholas Ingraham, Eric Murray,  Daniel Boley, Sean Switzer,  John L. Burns, Kun Huang,  Tadashi Allen,  Scott D. Steenburg, Judy Wawira Gichoya,  Erich Kummerfeld,  Christopher Tignanelli. Radiology: Artificial Intelligence, 4(4), 2022.
 
 > **Towards Practical Holographic Coherent Diffraction Imaging via Maximum Likelihood Estimation**. \[[paper (open access)](https://doi.org/10.1364/OE.445015)\]\[[arXiv](https://arxiv.org/abs/2105.11512)\]    
