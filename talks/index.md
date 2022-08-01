@@ -7,6 +7,9 @@ tags: top
 ---
 ...which are select and recent
 
+#### Deep learning with constraints and nonsmoothness    
++ ICCOPT'22 session on Nonsmooth Optimization in Machine Learning \[[Slides](ICCOPT22-NCVX.pdf)\] (Jul 27, 2022)
+
 #### Deep learning for robust recognition, inverse problems, and healthcare 
 + [Wilson Lecture Series (UMN ECE Colloquium)](https://cse.umn.edu/ece/events/professor-ju-sun-wilson-lecture-series-ece-fall-2021-colloquium) \[[Slides](ECE-Sep-2021.pdf)\] (Sep 09, 2021)
 

@@ -30,7 +30,7 @@ University of Minnesota, Twin Cities
 
 **Research Interests**: **Intersection** and/or **Union** of machine learning, data sciences, and numerical optimization, computer vision, signal/image processing, and computational imaging, healthcare. See my \[[CV](/docs/CV.pdf)\].
 
-<span style="color:red">**Openings**: We plan to recruit a couple of PhD students for 2022 Fall. Prospective students please directly apply through our [PhD application system](https://cse.umn.edu/cs/phd-admissions) and mention Prof. Sun among the potential advisors. </span>
+<!-- <span style="color:red">**Openings**: We plan to recruit a couple of PhD students for 2022 Fall. Prospective students please directly apply through our [PhD application system](https://cse.umn.edu/cs/phd-admissions) and mention Prof. Sun among the potential advisors. </span> -->
 
 **Group website**: <https://glovex.umn.edu/> 
 
@@ -39,7 +39,7 @@ University of Minnesota, Twin Cities
 - **Office**: 6-213, Keller Hall 
 - **Phone**: 612-301-2729
 - **Webpage**: <http://sunju.org>
-- **Office Hour**: 4 -- 5pm Mon/Wed (2021 Fall)
+- **Office Hour**: 
 
 ### Seminars of interest 
 - Co-organizing [UMN Machine Learning Seminar Series](https://sites.google.com/umn.edu/machine-learning)
@@ -53,10 +53,10 @@ University of Minnesota, Twin Cities
 
 - **Talk** in [IPAM workshop on Diffractive Imaging with Phase Retrieval](http://www.ipam.ucla.edu/programs/workshops/workshop-i-diffractive-imaging-with-phase-retrieval/?tab=overview) at UCLA (Oct 10--14, 2022)
 - **Talk** in [Mathematics in imaging science, data science and optimization](https://sites.google.com/view/rpimidoseminars) seminar at RPI, 2022. (Rensselaer Polytechnic Institute, Sep 21, 2022)
-- **Organization**: [Prof. Ying Cui](https://cse.umn.edu/isye/ying-cui) and I are co-organizing the *Nonsmooth Optimization in Machine Learning* session in the [International Conference on Continuous Optimization (ICCOPT)](https://iccopt2022.lehigh.edu/), 2022. (Lehigh University, Jul 25--28, 2022)
 
 #### Past
 
+- **Organization**: [Prof. Ying Cui](https://cse.umn.edu/isye/ying-cui) and I are co-organizing the *Nonsmooth Optimization in Machine Learning* session in the [International Conference on Continuous Optimization (ICCOPT)](https://iccopt2022.lehigh.edu/), 2022. [My talk slides](talks/ICCOPT22-NCVX.pdf) on *Deep Learning with Constraints and Nonsmoothness*.   (Lehigh University, Jul 25--28, 2022)
 - **Medium**: We're featured by the [Minnesota Supercomputing Institute (MSI)](https://www.msi.umn.edu/research/machine-learning-agate) as a big consumer of their GPUs! (May, 2022)  
 - **Talk**: in the session *Mathematical Foundation of Data Science in Scientific Computing* at [AMS Spring Central Sectional Meeting](http://www.ams.org/meetings/sectional/2292_progfull.html) (Purdue University, West Lafayette, Mar 26--27, 2022)
 - **Grant approval**: We (with [Jose Debes, MD, PHD](https://med.umn.edu/bio/dom-a-z/jose-debes)) are funded by a [U of M Informatics Institute (UMII)](https://research.umn.edu/units/umii) seed grant (medium) to develop AI-enabled Doppler ultrasound analysis models for liver cancer detection. (Co-PI, Jan 22, 2022)  
