@@ -56,6 +56,7 @@ University of Minnesota, Twin Cities
 
 #### Past
 
+- **Service**: To be the Local Chair for [SDM 2023](https://www.siam.org/conferences/cm/conference/sdm23), which will happen on Apr 27--29, 2023 at Graduate Hotel of UMN! (Jul, 2022)  
 - **Organization**: [Prof. Ying Cui](https://cse.umn.edu/isye/ying-cui) and I are co-organizing the *Nonsmooth Optimization in Machine Learning* session in the [International Conference on Continuous Optimization (ICCOPT)](https://iccopt2022.lehigh.edu/), 2022. [My talk slides](talks/ICCOPT22-NCVX.pdf) on *Deep Learning with Constraints and Nonsmoothness*.   (Lehigh University, Jul 25--28, 2022)
 - **Medium**: We're featured by the [Minnesota Supercomputing Institute (MSI)](https://www.msi.umn.edu/research/machine-learning-agate) as a big consumer of their GPUs! (May, 2022)  
 - **Talk**: in the session *Mathematical Foundation of Data Science in Scientific Computing* at [AMS Spring Central Sectional Meeting](http://www.ams.org/meetings/sectional/2292_progfull.html) (Purdue University, West Lafayette, Mar 26--27, 2022)
