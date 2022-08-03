@@ -11,6 +11,7 @@ tags: top
   
 ### PhD's
 
+- [Jiandong Chen](https://www.linkedin.com/in/jiandong-chen) ([IHI](https://healthinformatics.umn.edu/))
 - [Ryan de Vera](https://www.linkedin.com/in/ryan-de-vera-b4374089) (CS&E)
 - [Tiancong Chen](https://sites.google.com/view/tiancong-chen) (CS&E, co-advised with [Prof. Arindam Banerjee](https://arindam.cs.illinois.edu/))
 - [Hengyue Liang](https://scholar.google.com/citations?user=aWVo5AEAAAAJ) (ECE)
