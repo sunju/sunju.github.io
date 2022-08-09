@@ -17,7 +17,6 @@ tags: top
 - [Hengyue Liang](https://scholar.google.com/citations?user=aWVo5AEAAAAJ) (ECE)
 - Yash Travadi (Stats, co-advised with [Prof. Hui Zou](http://users.stat.umn.edu/~zouxx019/))
 - [Le Peng](https://sites.google.com/view/le-peng/) (CS&E)
-- [Raunak Manekar](https://scholar.google.com/citations?user=ct6Om_wAAAAJ&hl=en) (CS&E)
 - [Hengkang Wang](https://www.linkedin.com/in/hengkang-henry-wang-a1b293104/) (CS&E)
 - [Zhong Zhuang](https://scholar.google.com/citations?user=rGGxUQEAAAAJ) (ECE, co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/))
 - [Taihui Li](https://taihui.github.io/) (CS&E, co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/))
