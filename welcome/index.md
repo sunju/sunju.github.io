@@ -51,10 +51,13 @@ University of Minnesota, Twin Cities
 #### Upcoming
 
 - **Talk** in [IPAM workshop on Diffractive Imaging with Phase Retrieval](http://www.ipam.ucla.edu/programs/workshops/workshop-i-diffractive-imaging-with-phase-retrieval/?tab=overview) at UCLA (Oct 10--14, 2022)
+- **Talk** in [MnRI Seminar](https://cse.umn.edu/mnri/events) (UMN, Oct 07, 2022)
 - **Talk** in [Mathematics in imaging science, data science and optimization](https://sites.google.com/view/rpimidoseminars) seminar at RPI, 2022. (Rensselaer Polytechnic Institute, Sep 21, 2022)
 
 #### Past
 
+- **Paper release**: Proud to release our paper [Blind Image Deblurring with Unknown Kernel Size and Substantial Noise](https://arxiv.org/abs/2208.09483) on arXiv! This is the first non-data-driven blind image deblurring method that can deal with unknown kernel size and substantial unknown noise type/level. (Aug 22, 2021)     
+- **Service**: To be an Area chair for AISTATS 2023 (Aug, 2022)   
 - **Service**: To be the Local Chair for [SDM 2023](https://www.siam.org/conferences/cm/conference/sdm23), which will happen on Apr 27--29, 2023 at Graduate Hotel of UMN! (Jul, 2022)  
 - **Organization**: [Prof. Ying Cui](https://cse.umn.edu/isye/ying-cui) and I are co-organizing the *Nonsmooth Optimization in Machine Learning* session in the [International Conference on Continuous Optimization (ICCOPT)](https://iccopt2022.lehigh.edu/), 2022. [My talk slides](talks/ICCOPT22-NCVX.pdf) on *Deep Learning with Constraints and Nonsmoothness*.   (Lehigh University, Jul 25--28, 2022)
 - **Medium**: We're featured by the [Minnesota Supercomputing Institute (MSI)](https://www.msi.umn.edu/research/machine-learning-agate) as a big consumer of their GPUs! (May, 2022)  
