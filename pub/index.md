@@ -23,8 +23,8 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > **Random Projector: Toward Efficient Deep Image Prior**.    
 > &nbsp; &nbsp;  Taihui Li, Zhong Zhuang, Hengkang Wang, **Ju Sun**. In preparation for International Journal of Computer Vision, 2022.  
 
-> **Blind Image Deblurring with Unknown Kernel Size and Substantial Noise**.    
-> &nbsp; &nbsp;  Zhong Zhuang, Taihui Li, Hengkang Wang, **Ju Sun**. Submitted to International Journal of Computer Vision (IJCV), Apr 2022.  
+> **Blind Image Deblurring with Unknown Kernel Size and Substantial Noise**. \[[arXiv](https://arxiv.org/abs/2208.09483)\]         
+> &nbsp; &nbsp;  Zhong Zhuang, Taihui Li, Hengkang Wang, **Ju Sun**. Submitted to International Journal of Computer Vision (IJCV), Aug 2022.  
 
 > **Evaluation of Federated Learning Variations for COVID-19 Diagnosis using Chest Radiographs from 42 US and European Hospitals**.     
 > &nbsp; &nbsp;  Le Peng, Gaoxiang Luo, Andrew Walker, Zachary Zaiman, Emma K. Jones, Hemant Gupta, Kristopher Kersten, John L. Burns, Christopher A. Harle, Tanja Magoc, Benjamin Shickel, Scott D. Steenburg, Tyler Loftus, Genevieve B. Melton, Judy Wawira Gichoya, **Ju Sun**, Christopher J Tignanell. In revision, Journal of the American Medical Informatics Association (JAMIA), 2022. 
