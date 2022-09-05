@@ -10,11 +10,13 @@ Over the last few years, deep neural networks (DNNs) have fundamentally transfor
 
 Full syllabus: TBA
 
-**Instructor**: [Professor Ju Sun](https://sunju.org/)  Email: jusun AT umn.edu   (Office Hours: TBA)
+**Instructor**: [Professor Ju Sun](https://sunju.org/)  Email: jusun AT umn.edu   (Office Hours: 2--4pm, Mon)
 
 **When/Where**: Tue 6:30--9:00pm @ KHKH 3-210 
 
-**TA's**: TBA 
+**TA's**:   
+[Hengkang Wang](https://scholar.google.com/citations?user=APqDZvUAAAAJ&hl=en) (email: wang9881 AT umn.edu, office Hours: 1--3pm, Thur)    
+Yash Travadi (email: trava029 AT umn.edu, office Hours: 2--4pm, Wed) 
 
 **Registration Q&A**
 + What's the next iteration of this course? 
