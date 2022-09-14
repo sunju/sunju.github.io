@@ -14,7 +14,7 @@ Full syllabus: [Syllabus.pdf](DL.pdf)
 
 **TA's**:   
 [Hengkang Wang](https://scholar.google.com/citations?user=APqDZvUAAAAJ&hl=en) (email: wang9881 AT umn.edu, office Hours: 1--3pm, Thur)    
-Yash Travadi (email: trava029 AT umn.edu, office Hours: 2--4pm, Wed) 
+Yash Travadi (email: trava029 AT umn.edu, office Hours: 12--2pm, Fri) 
 
 **Lecture Schedule**
 
