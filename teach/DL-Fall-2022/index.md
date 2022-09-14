@@ -21,10 +21,11 @@ Yash Travadi (email: trava029 AT umn.edu, office Hours: 2--4pm, Wed)
 | Date   | Topics                                                                                                                                                                                         |    
 | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |    
 | Sep 06 | Deep learning: overview \[[Slides](sep-06-A.pdf)\] <br> Neural networks: old and new \[[Slides](sep-06-B.pdf)\]                                                                                |    
-| Sep 13 |  |    
+| Sep 13 | Fundamental belief: universal approximation theorems \[[Slides](sep-13-A.pdf)\] <br> Review of high-dimensional calculus \[[Slides](sep-13-B.pdf)\] ([supplementary notes](calculus_review.pdf))  |    
 | Sep 20 |  |    
 | Sep 27 |  | 
 | Oct 04 |  |                   
 
-**Homework**
+**Homework**   
++ [Homework set 0](HW0.pdf) (Due: Sep 24)
 
