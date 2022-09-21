@@ -41,7 +41,7 @@ University of Minnesota, Twin Cities
 - **Office Hour**: 
 
 ### Seminars of interest 
-- Co-organizing [UMN Machine Learning Seminar Series](https://sites.google.com/umn.edu/machine-learning)
+- Co-organizing [UMN Machine Learning Seminar Series](https://cse.umn.edu/dsi/cse-dsi-machine-learning-seminar-series)
 - [UMN Data Science Seminars](https://www.ima.umn.edu/seminar/dsseminar)
 - [MnRI Seminar](https://cse.umn.edu/mnri/events)
 - [Minnesota Natural Language Processing Seminar](https://cse.umn.edu/categories/9581)
@@ -52,10 +52,10 @@ University of Minnesota, Twin Cities
 
 - **Talk** in [IPAM workshop on Diffractive Imaging with Phase Retrieval](http://www.ipam.ucla.edu/programs/workshops/workshop-i-diffractive-imaging-with-phase-retrieval/?tab=overview) at UCLA (Oct 10--14, 2022)
 - **Talk** in [MnRI Seminar](https://cse.umn.edu/mnri/events) (UMN, Oct 07, 2022)
-- **Talk** in [Mathematics in imaging science, data science and optimization](https://sites.google.com/view/rpimidoseminars) seminar at RPI, 2022. (Rensselaer Polytechnic Institute, Sep 21, 2022)
 
 #### Past
 
+- **Talk** in [Mathematics in imaging science, data science and optimization](https://sites.google.com/view/rpimidoseminars) seminar at RPI, 2022. \[[Slides](talks/RPI-MIDO-2022-Sep.pdf)\] (Rensselaer Polytechnic Institute, Sep 21, 2022)  
 - **Paper release**: Proud to release our paper [Blind Image Deblurring with Unknown Kernel Size and Substantial Noise](https://arxiv.org/abs/2208.09483) on arXiv! This is the first non-data-driven blind image deblurring method that can deal with unknown kernel size and substantial unknown noise type/level. (Aug 22, 2021)     
 - **Service**: To be an Area chair for AISTATS 2023 (Aug, 2022)   
 - **Service**: To be the Local Chair for [SDM 2023](https://www.siam.org/conferences/cm/conference/sdm23), which will happen on Apr 27--29, 2023 at Graduate Hotel of UMN! (Jul, 2022)  

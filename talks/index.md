@@ -7,6 +7,9 @@ tags: top
 ---
 ...which are select and recent
 
+#### Deep image prior (and its cousin) for inverse problems: the untold stories    
++ RPI seminar on [Mathematics in imaging science, data science and optimization](https://sites.google.com/view/rpimidoseminars) \[[Slides](RPI-MIDO-2022-Sep.pdf)\] (Sep 21, 2022)
+
 #### Deep learning with constraints and nonsmoothness    
 + ICCOPT'22 session on Nonsmooth Optimization in Machine Learning \[[Slides](ICCOPT22-NCVX.pdf)\] (Jul 27, 2022)
 
