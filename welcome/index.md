@@ -50,6 +50,7 @@ University of Minnesota, Twin Cities
 
 #### Upcoming
 
+- **Talk** in [Computational Imaging XXI](https://www.imaging.org/site/IST/IST/Conferences/EI/EI2023/Conference/C_COIMG.aspx) at the [Electronic Imaging Symposium 2023](https://www.imaging.org/Site/IST/Conferences/EI/EI2023/EI2023.aspx) (San Francisco, Jan 15--19, 2023)
 - **Talk** in Imaging and Vision Seminar Series at Rice University (Nov 18, 2022)
 - **Talk** in [IPAM workshop on Diffractive Imaging with Phase Retrieval](http://www.ipam.ucla.edu/programs/workshops/workshop-i-diffractive-imaging-with-phase-retrieval/?tab=overview) at UCLA (Oct 10--14, 2022)
 - **Talk** in [MnRI Seminar](https://cse.umn.edu/mnri/events) (UMN, Oct 07, 2022)
