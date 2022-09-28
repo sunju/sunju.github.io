@@ -23,8 +23,18 @@ Yash Travadi (email: trava029 AT umn.edu, office Hours: 12--2pm, Fri)
 | Sep 06 | Deep learning: overview \[[Slides](sep-06-A.pdf)\] <br> Neural networks: old and new \[[Slides](sep-06-B.pdf)\]                                                                                |    
 | Sep 13 | Fundamental belief: universal approximation theorems \[[Slides](sep-13-A.pdf)\] <br> Review of high-dimensional calculus \[[Slides](sep-13-B.pdf)\] ([supplementary notes](calculus_review.pdf))  |    
 | Sep 20 | Basics of numerical optimization: optimality conditions \[[Slides](sep-20.pdf)\] |    
-| Sep 27 |  | 
-| Oct 04 |  |                   
+| Sep 27 | Basics of numerical optimization: iterative methods \[[Slides](sep-27.pdf)\] | 
+| Oct 04 |  |     
+| Oct 11 |  |    
+| Oct 18 |  |     
+| Oct 25 |  |      
+| Nov 01 |  |               
+| Nov 08 |  | 
+| Nov 15 |  | 
+| Nov 22 |  | 
+| Nov 29 |  | 
+| Dec 06 |  | 
+| Dec 13 |  | 
 
 **Homework**   
 + [Homework set 0](HW0.pdf) (Due: Sep 25)
