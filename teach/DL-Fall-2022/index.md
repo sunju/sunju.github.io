@@ -36,6 +36,8 @@ Yash Travadi (email: trava029 AT umn.edu, office Hours: 12--2pm, Fri)
 | Dec 06 |  | 
 | Dec 13 |  | 
 
+
+
 **Homework**   
 + [Homework set 0](HW0.pdf) (Due: Sep 25)
 
