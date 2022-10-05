@@ -24,7 +24,7 @@ Yash Travadi (email: trava029 AT umn.edu, office Hours: 12--2pm, Fri)
 | Sep 13 | Fundamental belief: universal approximation theorems \[[Slides](sep-13-A.pdf)\] <br> Review of high-dimensional calculus \[[Slides](sep-13-B.pdf)\] ([supplementary notes](calculus_review.pdf))  |    
 | Sep 20 | Basics of numerical optimization: optimality conditions \[[Slides](sep-20.pdf)\] |    
 | Sep 27 | Basics of numerical optimization: iterative methods \[[Slides](sep-27.pdf)\] | 
-| Oct 04 |  |     
+| Oct 04 | Basics of numerical optimization: computing derivatives \[[Slides](oct-04.pdf)\] |     
 | Oct 11 |  |    
 | Oct 18 |  |     
 | Oct 25 |  |      
@@ -40,4 +40,4 @@ Yash Travadi (email: trava029 AT umn.edu, office Hours: 12--2pm, Fri)
 
 **Homework**   
 + [Homework set 0](HW0.pdf) (Due: Sep 25)
-
++ [Homework set 1](HW1.pdf) (Due: Oct 16)
