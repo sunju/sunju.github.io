@@ -52,7 +52,7 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Journals
 
-> **Evaluation of Federated Learning Variations for COVID-19 Diagnosis using Chest Radiographs from 42 US and European Hospitals**.     
+> **Evaluation of Federated Learning Variations for COVID-19 Diagnosis using Chest Radiographs from 42 US and European Hospitals**.  \[[paper (open access)](https://doi.org/10.1093/jamia/ocac188)\]       
 > &nbsp; &nbsp;  Le Peng, Gaoxiang Luo, Andrew Walker, Zachary Zaiman, Emma K. Jones, Hemant Gupta, Kristopher Kersten, John L. Burns, Christopher A. Harle, Tanja Magoc, Benjamin Shickel, Scott D. Steenburg, Tyler Loftus, Genevieve B. Melton, Judy Wawira Gichoya, **Ju Sun**, Christopher J Tignanelli. To appear in Journal of the American Medical Informatics Association (JAMIA), 2022. 
 
 > **A Prospective Observational Study to Investigate Performance of a Chest X-ray Artificial Intelligence Diagnostic Support Tool Across 12 U.S. Hospitals**. \[[medRxiv](https://doi.org/10.1101/2021.06.04.21258316)\]  \[[arXiv](https://arxiv.org/abs/2106.02118)\] \[[paper](https://doi.org/10.1148/ryai.210217)\]   
