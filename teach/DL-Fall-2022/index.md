@@ -25,7 +25,7 @@ Yash Travadi (email: trava029 AT umn.edu, office Hours: 12--2pm, Fri)
 | Sep 20 | Basics of numerical optimization: optimality conditions \[[Slides](sep-20.pdf)\] |    
 | Sep 27 | Basics of numerical optimization: iterative methods \[[Slides](sep-27.pdf)\] | 
 | Oct 04 | Basics of numerical optimization: computing derivatives \[[Slides](oct-04.pdf)\] |     
-| Oct 11 |  |    
+| Oct 11 | Training DNNs: basic methods and tricks \[[Slides](oct-11.pdf)\]|    
 | Oct 18 |  |     
 | Oct 25 |  |      
 | Nov 01 |  |               
