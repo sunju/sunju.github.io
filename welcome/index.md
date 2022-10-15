@@ -52,10 +52,10 @@ University of Minnesota, Twin Cities
 
 - **Talk** in [Computational Imaging XXI](https://www.imaging.org/site/IST/IST/Conferences/EI/EI2023/Conference/C_COIMG.aspx) at the [Electronic Imaging Symposium 2023](https://www.imaging.org/Site/IST/Conferences/EI/EI2023/EI2023.aspx) (San Francisco, Jan 15--19, 2023)
 - **Talk** in Imaging and Vision Seminar Series at Rice University (Nov 18, 2022)
-- **Talk** in [IPAM workshop on Diffractive Imaging with Phase Retrieval](http://www.ipam.ucla.edu/programs/workshops/workshop-i-diffractive-imaging-with-phase-retrieval/?tab=overview) at UCLA (Oct 10--14, 2022)
-
 
 #### Past
+
+- **Talk** in [IPAM workshop on Diffractive Imaging with Phase Retrieval](http://www.ipam.ucla.edu/programs/workshops/workshop-i-diffractive-imaging-with-phase-retrieval/?tab=overview) at UCLA \[[Slides](talks/2022-Oct-IPAM-PR-WS.pdf)\] \[[Video](https://youtu.be/y4sdeFDuu6M)\]  (Oct 10--14, 2022)
 - **Paper release**: Proud to announce our paper [Evaluation of Federated Learning Variations for COVID-19 Diagnosis using Chest Radiographs from 42 US and European Hospitals](https://doi.org/10.1093/jamia/ocac188) has been recently accepted by [JAMIA](https://academic.oup.com/jamia) and [now live online with open access](https://doi.org/10.1093/jamia/ocac188)! Our pilot federation with Emory University, Indiana University, University of Florida Gainesville is proudly **among the first real-world implementation of federated learning for healthcare world-wide**! We're also **the first in systematic evaluation of data heterogeneity and its remedy, as well as personalized federated learning on realistic healthcare data**! Thanks to CISCO and Nvidia also for their generous financial and technical support! (Oct 11, 2022)   
 - **Talk** in [MnRI Seminar](https://cse.umn.edu/mnri/events) (UMN, Oct 07, 2022)
 - **Paper release**: Proud to release our paper [NCVX: A General-Purpose Optimization Solver for Constrained Machine and Deep Learning](https://arxiv.org/abs/2210.00973) on arXiv! This is an expanded version of [our previous announcement paper](https://arxiv.org/abs/2111.13984), with four detailed examples on constrained deep learning. (Oct 03, 2022)   
