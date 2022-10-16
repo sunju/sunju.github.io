@@ -8,7 +8,7 @@ tags: top
 ...which are select and recent
 
 #### Toward practical phase retrieval with deep learning    
-+ [IPAM workshop on Diffractive Imaging with Phase Retrieval](http://www.ipam.ucla.edu/programs/workshops/workshop-i-diffractive-imaging-with-phase-retrieval/?tab=overview) at UCLA \[[Slides](talks/2022-Oct-IPAM-PR-WS.pdf)\] \[[Video](https://youtu.be/y4sdeFDuu6M)\]  (Oct 10--14, 2022)
++ [IPAM workshop on Diffractive Imaging with Phase Retrieval](http://www.ipam.ucla.edu/programs/workshops/workshop-i-diffractive-imaging-with-phase-retrieval/?tab=overview) at UCLA \[[Slides](2022-Oct-IPAM-PR-WS.pdf)\] \[[Video](https://youtu.be/y4sdeFDuu6M)\]  (Oct 10--14, 2022)
 
 #### Deep image prior (and its cousin) for inverse problems: the untold stories    
 + RPI seminar on [Mathematics in imaging science, data science and optimization](https://sites.google.com/view/rpimidoseminars) \[[Slides](RPI-MIDO-2022-Sep.pdf)\] \[[Video](https://www.youtube.com/watch?v=IxIMvwkUsiQ)\] (Sep 21, 2022)
