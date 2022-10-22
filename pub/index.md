@@ -23,11 +23,8 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > **Random Projector: Toward Efficient Deep Image Prior**.    
 > &nbsp; &nbsp;  Taihui Li, Zhong Zhuang, Hengkang Wang, **Ju Sun**. In preparation for International Journal of Computer Vision, 2022.  
 
-> **NCVX: A General-Purpose Optimization Solver for Constrained Machine and Deep Learning**. \[[arXiv](https://arxiv.org/abs/2210.00973)\]       
-> &nbsp; &nbsp;  Buyun Liang, Tim Mitchell, **Ju Sun**. Submitted to NeurIPS Workshop on Optimization for Machine Learning. Oct 2022.
-
 > **Optimization for Robustness Evaluation beyond $\ell_p$ Metrics**. \[[arXiv](https://arxiv.org/abs/2210.00621)\]     
-> &nbsp; &nbsp;  Hengyue Liang, Buyun Liang, Ying Cui, Tim Mitchell, **Ju Sun**. Submitted to International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023) & NeurIPS Workshop on Optimization for Machine Learning. Oct 2022.  
+> &nbsp; &nbsp;  Hengyue Liang, Buyun Liang, Ying Cui, Tim Mitchell, **Ju Sun**. Submitted to International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023), Oct 2022.  
 
 > **Blind Image Deblurring with Unknown Kernel Size and Substantial Noise**. \[[arXiv](https://arxiv.org/abs/2208.09483)\]         
 > &nbsp; &nbsp;  Zhong Zhuang, Taihui Li, Hengkang Wang, **Ju Sun**. Submitted to International Journal of Computer Vision (IJCV), Aug 2022.  
@@ -98,6 +95,14 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > &nbsp; &nbsp; Guangcan Liu,  Zhouchen Lin, Shuicheng Yan,  **Ju Sun**, Yong Yu, and Yi Ma.  IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI), 35(1):171 - 184, 2013.
 
 ### Conferences and Workshops
+
+
+
+> **Optimization for Robustness Evaluation beyond $\ell_p$ Metrics**. \[[arXiv](https://arxiv.org/abs/2210.00621)\]     
+> &nbsp; &nbsp;  Hengyue Liang, Buyun Liang, Ying Cui, Tim Mitchell, **Ju Sun**.  NeurIPS Workshop on Optimization for Machine Learning, 2022. 
+
+> **NCVX: A General-Purpose Optimization Solver for Constrained Machine and Deep Learning**. \[[arXiv](https://arxiv.org/abs/2210.00973)\]       
+> &nbsp; &nbsp;  Buyun Liang, Tim Mitchell, **Ju Sun**. NeurIPS Workshop on Optimization for Machine Learning, 2022.
 
 > **Self-Validation: Early Stopping for Single-Instance Deep Generative Priors**. \[[arXiv](https://arxiv.org/abs/2110.12271)\] \[[Project website](https://sun-umn.github.io/Self-Validation/)\]   
 > &nbsp; &nbsp;  Taihui Li, Zhong Zhuang, Hengyue Liang, Le Peng, Hengkang Wang, **Ju Sun**. British Machine Vision Conference (BMVC), 2021. 
