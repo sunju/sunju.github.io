@@ -96,7 +96,8 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Conferences and Workshops
 
-
+> **Imbalanced Classification in Medical Imaging via Regrouping**. \[[arXiv](https://arxiv.org/abs/2210.12234)\]     
+> &nbsp; &nbsp;  Le Peng, Yash Travadi, Rui Zhang, Ying Cui, **Ju Sun**.  NeurIPS Workshop on Medical Imaging Meets NeurIPS, 2022. 
 
 > **Optimization for Robustness Evaluation beyond $\ell_p$ Metrics**. \[[arXiv](https://arxiv.org/abs/2210.00621)\]     
 > &nbsp; &nbsp;  Hengyue Liang, Buyun Liang, Ying Cui, Tim Mitchell, **Ju Sun**.  NeurIPS Workshop on Optimization for Machine Learning, 2022. 
