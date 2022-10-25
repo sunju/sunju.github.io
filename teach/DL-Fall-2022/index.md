@@ -32,7 +32,7 @@ Yash Travadi (email: trava029 AT umn.edu, office Hours: 12--2pm, Fri)
 | Nov 08 |  | 
 | Nov 15 |  | 
 | Nov 22 |  | 
-| Nov 29 |  | 
+| Nov 29 | Project lightning talks (no lecture content) | 
 | Dec 06 |  | 
 | Dec 13 |  | 
 
