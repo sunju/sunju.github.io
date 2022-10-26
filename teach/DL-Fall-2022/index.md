@@ -27,7 +27,7 @@ Yash Travadi (email: trava029 AT umn.edu, office Hours: 12--2pm, Fri)
 | Oct 04 | Basics of numerical optimization: computing derivatives \[[Slides](oct-04.pdf)\] |     
 | Oct 11 | Training DNNs: basic methods and tricks \[[Slides](oct-11.pdf)\]|    
 | Oct 18 | MSI tutorial \[[Slides](MSI-tutorial.pdf)\] <br> Course project \[[Slides](oct-18.pdf)\]|     
-| Oct 25 |  |      
+| Oct 25 | Unsupervised representation learning: autoencoders and factorization \[[Slides](oct-25.pdf)\] |      
 | Nov 01 |  |               
 | Nov 08 |  | 
 | Nov 15 |  | 
