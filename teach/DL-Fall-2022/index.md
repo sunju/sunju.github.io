@@ -42,6 +42,6 @@ Yash Travadi (email: trava029 AT umn.edu, office Hours: 12--2pm, Fri)
 + [Homework set 0](HW0.pdf) (Due: Sep 25)
 + [Homework set 1](HW1.pdf) (Due: Oct 16)
 + [Homework set 2](HW2.zip) (Due: Oct 30)
-+ Homework set 3
++ [Homework set 3](HW3.pdf) (Due: Nov 13)
 + Homework set 4
 + Homework set 5
