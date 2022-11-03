@@ -23,6 +23,9 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > **Random Projector: Toward Efficient Deep Image Prior**.    
 > &nbsp; &nbsp;  Taihui Li, Zhong Zhuang, Hengkang Wang, **Ju Sun**. In preparation for International Journal of Computer Vision, 2022.  
 
+> **Practical Phase Retrieval Using Double Deep Image Priors**. \[[arXiv](https://arxiv.org/abs/2211.00799)\]     
+> &nbsp; &nbsp;  Zhong Zhuang, David Yang, Felix Hofmann, David Barmherzig, **Ju Sun**. Submitted to International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023), Oct 2022.  
+
 > **Optimization for Robustness Evaluation beyond $\ell_p$ Metrics**. \[[arXiv](https://arxiv.org/abs/2210.00621)\]     
 > &nbsp; &nbsp;  Hengyue Liang, Buyun Liang, Ying Cui, Tim Mitchell, **Ju Sun**. Submitted to International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023), Oct 2022.  
 
