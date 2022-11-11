@@ -22,7 +22,8 @@ Leadership Team of [Program for Clinical AI](https://med.umn.edu/about/program-c
 [Department of Computer Science & Engineering](https://www.cs.umn.edu/)  (Primary)        
 [Department of Electrical and Computer Engineering](https://cse.umn.edu/ece) (Affiliated)      
 [UMN Data Science Initiative (DSI)](https://cse.umn.edu/dsi)  (Affiliated)  
-[UMN Data Science Program](https://cse.umn.edu/datascience)  (Affiliated)  
+[UMN Data Science Program](https://cse.umn.edu/datascience)  (Affiliated)    
+[Innovative Methods & Data Science, CLHSS](https://med.umn.edu/clhss/imds)  (Affiliated)    
 [Institute for Health Informatics (IHI)](https://healthinformatics.umn.edu/) (Affiliated)  
 [Institute for Engineering in Medicine (IME)](https://www.iem.umn.edu/) (Affiliated)  
 University of Minnesota, Twin Cities

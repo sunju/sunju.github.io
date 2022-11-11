@@ -29,7 +29,7 @@ Yash Travadi (email: trava029 AT umn.edu, office Hours: 12--2pm, Fri)
 | Oct 18 | MSI tutorial \[[Slides](MSI-tutorial.pdf)\] <br> Course project \[[Slides](oct-18.pdf)\]|     
 | Oct 25 | Unsupervised representation learning: autoencoders and factorization \[[Slides](oct-25.pdf)\] |      
 | Nov 01 | From fully-connected to convolutional neural networks \[[Slides](nov-01.pdf)\]  |               
-| Nov 08 |  | 
+| Nov 08 | Applications of CNNs in computer Vision: detection and segmentation \[[Slides](nov-08.pdf)\]  | 
 | Nov 15 |  | 
 | Nov 22 |  | 
 | Nov 29 | Project lightning talks (no lecture content) | 
