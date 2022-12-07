@@ -31,9 +31,9 @@ Yash Travadi (email: trava029 AT umn.edu, office Hours: 12--2pm, Fri)
 | Nov 01 | From fully-connected to convolutional neural networks \[[Slides](nov-01.pdf)\]  |               
 | Nov 08 | Applications of CNNs in computer Vision: detection and segmentation \[[Slides](nov-08.pdf)\]  | 
 | Nov 15 | Sequence modeling: recurrent neural networks \[[Slides](nov-15.pdf)\] | 
-| Nov 22 |  | 
+| Nov 22 | Transformers \[[Slides](nov-22.pdf)\] | 
 | Nov 29 | Project lightning talks (no lecture content) | 
-| Dec 06 |  | 
+| Dec 06 | Generative models: generative adversarial networks, variational autoencoder, normalization flow, Diffusion models \[[Slides](dec-06.pdf)\] | 
 | Dec 13 |  | 
 
 
@@ -44,4 +44,4 @@ Yash Travadi (email: trava029 AT umn.edu, office Hours: 12--2pm, Fri)
 + [Homework set 2](HW2.zip) (Due: Oct 30)
 + [Homework set 3](HW3.pdf) (Due: Nov 13)
 + [Homework set 4](HW4.pdf) (Due: Nov 28)
-+ Homework set 5
++ [Homework set 5](HW5.pdf) (Due: Dec 18)
