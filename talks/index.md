@@ -7,6 +7,9 @@ tags: top
 ---
 ...which are select and recent
 
+#### Three Pillars of Health Data Science: Transfer Learning, Federated Learning, and Imbalanced Learning   
++ UMN IHI Annual Retreat \[[Slides](2022-Dec-IHI-Retreat.pdf)\] (Dec 08, 2022)
+
 #### Toward practical phase retrieval with deep learning    
 + [IPAM workshop on Diffractive Imaging with Phase Retrieval](http://www.ipam.ucla.edu/programs/workshops/workshop-i-diffractive-imaging-with-phase-retrieval/?tab=overview) at UCLA \[[Slides](2022-Oct-IPAM-PR-WS.pdf)\] \[[Video](https://youtu.be/y4sdeFDuu6M)\]  (Oct 10--14, 2022)
 

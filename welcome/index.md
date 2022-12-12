@@ -57,6 +57,7 @@ University of Minnesota, Twin Cities
 
 #### Past
 
+- **Talk** in the Annual Retreat of the Institute for Health Informatics at UMN \[[Slides](talks/2022-Dec-IHI-Retreat.pdf)\] (Dec 08, 2022)
 - **Talk** in Imaging and Vision Seminar Series at Rice University \[[Slides](talks/2022-Nov-Rice-IVS.pdf)\] (Nov 18, 2022)
 - **Paper release**: Proud to release our short paper [Practical Phase Retrieval Using Double Deep Image Priors](https://arxiv.org/abs/2211.00799) on arXiv! This is a preview of a sequence of our forthcoming works that use double deep image priors (DIPs) to solve the Fourier phase retrieval problem with unprecedented precision and practicality.  (Nov 02, 2022)
 - **Talk** in [IPAM workshop on Diffractive Imaging with Phase Retrieval](http://www.ipam.ucla.edu/programs/workshops/workshop-i-diffractive-imaging-with-phase-retrieval/?tab=overview) at UCLA \[[Slides](talks/2022-Oct-IPAM-PR-WS.pdf)\] \[[Video](https://youtu.be/y4sdeFDuu6M)\]  (Oct 10--14, 2022)
