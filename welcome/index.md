@@ -51,7 +51,7 @@ University of Minnesota, Twin Cities
 
 #### Upcoming
 
-- **Tutorial** on Deep Learning with Nontrivial Constraints in the SIAM International Conference on Data Mining (SDM23) (Minneapolis, Apr 27--29, 2023)
+- **Tutorial** on [Deep Learning with Nontrivial Constraints](https://ncvx.org/tutorials/SDM23.html) in the SIAM International Conference on Data Mining (SDM23) (Minneapolis, Apr 27--29, 2023)
 - **Talk** in [Computational Imaging XXI](https://www.imaging.org/site/IST/IST/Conferences/EI/EI2023/Conference/C_COIMG.aspx) at the [Electronic Imaging Symposium 2023](https://www.imaging.org/Site/IST/Conferences/EI/EI2023/EI2023.aspx) (San Francisco, Jan 15--19, 2023)
 - **Talk** in Annual BICB ([Bioinformatics and Computational Biology](https://r.umn.edu/academics-research/graduate/bicb)) [Research Symposium](https://r.umn.edu/academics-research/graduate/bicb-research-symposium) at UMN, Rochester (Jan 12, 2023)
 
