@@ -34,8 +34,7 @@ Yash Travadi (email: trava029 AT umn.edu, office Hours: 12--2pm, Fri)
 | Nov 22 | Transformers \[[Slides](nov-22.pdf)\] | 
 | Nov 29 | Project lightning talks (no lecture content) | 
 | Dec 06 | Generative models: generative adversarial networks, variational autoencoder, normalization flow, Diffusion models \[[Slides](dec-06.pdf)\] | 
-| Dec 13 |  | 
-
+| Dec 13 | Relationship Modeling: Graph Neural Networks \[[Slides](dec-13.pdf)\] | 
 
 
 **Homework**   
