@@ -52,11 +52,12 @@ University of Minnesota, Twin Cities
 #### Upcoming
 
 - **Tutorial** on [Deep Learning with Nontrivial Constraints](https://ncvx.org/tutorials/SDM23.html) in the SIAM International Conference on Data Mining (SDM23) (Minneapolis, Apr 27--29, 2023)
-- **Talk** in [Computational Imaging XXI](https://www.imaging.org/site/IST/IST/Conferences/EI/EI2023/Conference/C_COIMG.aspx) at the [Electronic Imaging Symposium 2023](https://www.imaging.org/Site/IST/Conferences/EI/EI2023/EI2023.aspx) (San Francisco, Jan 15--19, 2023)
-- **Talk** in Annual BICB ([Bioinformatics and Computational Biology](https://r.umn.edu/academics-research/graduate/bicb)) [Research Symposium](https://r.umn.edu/academics-research/graduate/bicb-research-symposium) at UMN, Rochester (Jan 12, 2023)
 
 #### Past
 
+- **Talk** in [Computational Imaging XXI](https://www.imaging.org/site/IST/IST/Conferences/EI/EI2023/Conference/C_COIMG.aspx) at the [Electronic Imaging Symposium 2023](https://www.imaging.org/Site/IST/Conferences/EI/EI2023/EI2023.aspx) \[[Slides](talks/EI_2023_Jan.pdf)\] (San Francisco, Jan 15--19, 2023)
+- **Talk** in Annual BICB ([Bioinformatics and Computational Biology](https://r.umn.edu/academics-research/graduate/bicb)) [Research Symposium](https://r.umn.edu/academics-research/graduate/bicb-research-symposium) at UMN, Rochester \[[Slides](talks/BICB-Symp-2023-Three-Pillars.pdf)\] (Jan 12, 2023)
+- **Grant approval** With [Prof. Rui Zhang's group](https://ruizhang.umn.edu/), we are funded by CISCO to develop new federated learning and imbalanced learning techniques for medical NLP and imaging.  (Dec, 2022)  
 - **Talk** in the Annual Retreat of the Institute for Health Informatics at UMN \[[Slides](talks/2022-Dec-IHI-Retreat.pdf)\] (Dec 08, 2022)
 - **Talk** in Imaging and Vision Seminar Series at Rice University \[[Slides](talks/2022-Nov-Rice-IVS.pdf)\] (Nov 18, 2022)
 - **Paper release**: Proud to release our short paper [Practical Phase Retrieval Using Double Deep Image Priors](https://arxiv.org/abs/2211.00799) on arXiv! This is a preview of a sequence of our forthcoming works that use double deep image priors (DIPs) to solve the Fourier phase retrieval problem with unprecedented precision and practicality.  (Nov 02, 2022)

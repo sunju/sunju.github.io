@@ -8,10 +8,13 @@ tags: top
 ...which are select and recent
 
 #### Three Pillars of Health Data Science: Transfer Learning, Federated Learning, and Imbalanced Learning   
++ Annual BICB ([Bioinformatics and Computational Biology](https://r.umn.edu/academics-research/graduate/bicb)) [Research Symposium](https://r.umn.edu/academics-research/graduate/bicb-research-symposium) at UMN, Rochester \[[Slides](BICB-Symp-2023-Three-Pillars.pdf)\] (Jan 12, 2023)
 + UMN IHI Annual Retreat \[[Slides](2022-Dec-IHI-Retreat.pdf)\] (Dec 08, 2022)
 
-#### Toward practical phase retrieval with deep learning    
+#### Toward practical phase retrieval with deep learning
++ [Computational Imaging XXI](https://www.imaging.org/site/IST/IST/Conferences/EI/EI2023/Conference/C_COIMG.aspx) at the [Electronic Imaging Symposium 2023](https://www.imaging.org/Site/IST/Conferences/EI/EI2023/EI2023.aspx) \[[Slides](EI_2023_Jan.pdf)\] (San Francisco, Jan 15--19, 2023)    
 + [IPAM workshop on Diffractive Imaging with Phase Retrieval](http://www.ipam.ucla.edu/programs/workshops/workshop-i-diffractive-imaging-with-phase-retrieval/?tab=overview) at UCLA \[[Slides](2022-Oct-IPAM-PR-WS.pdf)\] \[[Video](https://youtu.be/y4sdeFDuu6M)\]  (Oct 10--14, 2022)
+
 
 #### Deep image prior (and its cousin) for inverse problems: the untold stories    
 + Rice Imaging and Vision Seminar Series \[[Slides](2022-Nov-Rice-IVS.pdf)\] (Nov 18, 2022)
