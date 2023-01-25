@@ -55,6 +55,7 @@ University of Minnesota, Twin Cities
 
 #### Past
 
+- **Service**: To be an Area chair for UAI 2023 (Jan, 2023)  
 - **Talk** in [Computational Imaging XXI](https://www.imaging.org/site/IST/IST/Conferences/EI/EI2023/Conference/C_COIMG.aspx) at the [Electronic Imaging Symposium 2023](https://www.imaging.org/Site/IST/Conferences/EI/EI2023/EI2023.aspx) \[[Slides](talks/EI_2023_Jan.pdf)\] (San Francisco, Jan 15--19, 2023)
 - **Talk** in Annual BICB ([Bioinformatics and Computational Biology](https://r.umn.edu/academics-research/graduate/bicb)) [Research Symposium](https://r.umn.edu/academics-research/graduate/bicb-research-symposium) at UMN, Rochester \[[Slides](talks/BICB-Symp-2023-Three-Pillars.pdf)\] (Jan 12, 2023)
 - **Grant approval** With [Prof. Rui Zhang's group](https://ruizhang.umn.edu/), we are funded by CISCO to develop new federated learning and imbalanced learning techniques for medical NLP and imaging.  (Dec, 2022)  
