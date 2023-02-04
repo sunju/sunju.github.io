@@ -8,14 +8,14 @@ tags: top
 
 Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6FaD-UAAAAJ)\] \[[Semantic Scholar](https://www.semanticscholar.org/author/Ju-Sun/144706338)\] \[[arXiv Personal Page](http://arxiv.org/a/sun_j_1)\]
 
-- [Reports](#reports)
+- [Preprints](#preprints)
 - [Journals](#journals)
 - [Conferences and Workshops](#conferences-and-workshops)
 - [Dissertation](#dissertation)
 - [Unpublished Reports](#unpublished-reports)
 
 
-### Reports
+### Preprints 
 
 > **Phase Retrieval: the Role of Overparametrization and New Methods**.     
 > &nbsp; &nbsp;  Zhong Zhuang,  Yash Travadi, Zhihui Zhu,  **Ju Sun**. In preparation for SIAM Journal on  Mathematics of Data Science (SIMODS), 2022.   
@@ -23,14 +23,11 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > **Random Projector: Toward Efficient Deep Image Prior**.    
 > &nbsp; &nbsp;  Taihui Li, Zhong Zhuang, Hengkang Wang, **Ju Sun**. In preparation for International Journal of Computer Vision, 2022.  
 
-> **Practical Phase Retrieval Using Double Deep Image Priors**. \[[arXiv](https://arxiv.org/abs/2211.00799)\]     
-> &nbsp; &nbsp;  Zhong Zhuang, David Yang, Felix Hofmann, David Barmherzig, **Ju Sun**. Submitted to International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023), Oct 2022.  
-
 > **Optimization for Robustness Evaluation beyond $\ell_p$ Metrics**. \[[arXiv](https://arxiv.org/abs/2210.00621)\]     
 > &nbsp; &nbsp;  Hengyue Liang, Buyun Liang, Ying Cui, Tim Mitchell, **Ju Sun**. Submitted to International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023), Oct 2022.  
 
 > **Blind Image Deblurring with Unknown Kernel Size and Substantial Noise**. \[[arXiv](https://arxiv.org/abs/2208.09483)\]         
-> &nbsp; &nbsp;  Zhong Zhuang, Taihui Li, Hengkang Wang, **Ju Sun**. Submitted to International Journal of Computer Vision (IJCV), Aug 2022.  
+> &nbsp; &nbsp;  Zhong Zhuang, Taihui Li, Hengkang Wang, **Ju Sun**. Under review, International Journal of Computer Vision (IJCV), Aug 2022.  
 
 > **Early Stopping for Deep Image Prior**. \[[arXiv](https://arxiv.org/abs/2112.06074)\]         
 > &nbsp; &nbsp;  Hengkang Wang, Taihui Li, Zhong Zhuang, Tiancong Chen, Hengyue Liang, **Ju Sun**. Submitted to International Journal of Computer Vision (IJCV), Mar 2022.     
@@ -39,7 +36,7 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > &nbsp; &nbsp;  Buyun Liang, Tim Mitchell, **Ju Sun**. 
 
 > **Rethink Transfer Learning in Medical Image Classification**. \[[arXiv](https://arxiv.org/abs/2106.05152)\]  \[[Project website](https://sun-umn.github.io/Transfer-Learning-in-Medical-Imaging/)\]    
-> &nbsp; &nbsp;  Le Peng, Hengyue Liang, Gaoxiang Luo, Taihui Li, **Ju Sun**. Submitted to IEEE Transactions on Medical Imaging (TMI), Apr 2022. 
+> &nbsp; &nbsp;  Le Peng, Hengyue Liang, Gaoxiang Luo, Taihui Li, **Ju Sun**. Under review, Medical Image Analysis, Oct 2022. 
 
 > **Inverse Problems, Deep Learning, and Symmetry Breaking**. \[[arXiv](https://arxiv.org/abs/2003.09077)\]  
 > &nbsp; &nbsp; Kshitij Tayal, Chieh-Hsin Lai, Vipin Kumar,  **Ju Sun**. Mar 2020.
@@ -98,6 +95,9 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > &nbsp; &nbsp; Guangcan Liu,  Zhouchen Lin, Shuicheng Yan,  **Ju Sun**, Yong Yu, and Yi Ma.  IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI), 35(1):171 - 184, 2013.
 
 ### Conferences and Workshops
+
+> **Practical Phase Retrieval Using Double Deep Image Priors**. \[[arXiv](https://arxiv.org/abs/2211.00799)\]     
+> &nbsp; &nbsp;  Zhong Zhuang, David Yang, Felix Hofmann, David Barmherzig, **Ju Sun**. Computational Imaging XXI, 2023.  
 
 > **Imbalanced Classification in Medical Imaging via Regrouping**. \[[arXiv](https://arxiv.org/abs/2210.12234)\]     
 > &nbsp; &nbsp;  Le Peng, Yash Travadi, Rui Zhang, Ying Cui, **Ju Sun**.  NeurIPS Workshop on Medical Imaging Meets NeurIPS, 2022. 
