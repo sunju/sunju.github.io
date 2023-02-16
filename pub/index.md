@@ -23,9 +23,6 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > **Random Projector: Toward Efficient Deep Image Prior**.    
 > &nbsp; &nbsp;  Taihui Li, Zhong Zhuang, Hengkang Wang, **Ju Sun**. In preparation for International Journal of Computer Vision, 2022.  
 
-> **Optimization for Robustness Evaluation beyond $\ell_p$ Metrics**. \[[arXiv](https://arxiv.org/abs/2210.00621)\]     
-> &nbsp; &nbsp;  Hengyue Liang, Buyun Liang, Ying Cui, Tim Mitchell, **Ju Sun**. Submitted to International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023), Oct 2022.  
-
 > **Blind Image Deblurring with Unknown Kernel Size and Substantial Noise**. \[[arXiv](https://arxiv.org/abs/2208.09483)\]         
 > &nbsp; &nbsp;  Zhong Zhuang, Taihui Li, Hengkang Wang, **Ju Sun**. Under review, International Journal of Computer Vision (IJCV), Aug 2022.  
 
@@ -95,6 +92,15 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > &nbsp; &nbsp; Guangcan Liu,  Zhouchen Lin, Shuicheng Yan,  **Ju Sun**, Yong Yu, and Yi Ma.  IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI), 35(1):171 - 184, 2013.
 
 ### Conferences and Workshops
+
+> **Random Projector: Efficient Deep Image Prior**.  
+> &nbsp; &nbsp;  Taihui Li, Zhong Zhuang, Hengkang Wang, **Ju Sun**. International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023.  
+
+> **Robust Autoencoders for Collective Corruption Removal**.  
+> &nbsp; &nbsp;  Taihui Li, Hengkang Wang, Le Peng, XianE Tang, **Ju Sun**. International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023.  
+
+> **Optimization for Robustness Evaluation beyond $\ell_p$ Metrics**. \[[arXiv](https://arxiv.org/abs/2210.00621)\]     
+> &nbsp; &nbsp;  Hengyue Liang, Buyun Liang, Ying Cui, Tim Mitchell, **Ju Sun**. International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023.  
 
 > **Practical Phase Retrieval Using Double Deep Image Priors**. \[[arXiv](https://arxiv.org/abs/2211.00799)\]     
 > &nbsp; &nbsp;  Zhong Zhuang, David Yang, Felix Hofmann, David Barmherzig, **Ju Sun**. Computational Imaging XXI, 2023.  
