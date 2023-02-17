@@ -49,6 +49,9 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Journals
 
+> **Welfare and Fairness Dynamics in Federated Learning: A Client Selection Perspective**.     
+> &nbsp; &nbsp;  Yash Travadi, Le Peng, Xuan Bi, **Ju Sun**, Mochen Yang. To appear in Statistics and Its Interface. 2023.     
+
 > **Evaluation of Federated Learning Variations for COVID-19 Diagnosis using Chest Radiographs from 42 US and European Hospitals**.  \[[paper (open access)](https://doi.org/10.1093/jamia/ocac188)\]       
 > &nbsp; &nbsp;  Le Peng, Gaoxiang Luo, Andrew Walker, Zachary Zaiman, Emma K. Jones, Hemant Gupta, Kristopher Kersten, John L. Burns, Christopher A. Harle, Tanja Magoc, Benjamin Shickel, Scott D. Steenburg, Tyler Loftus, Genevieve B. Melton, Judy Wawira Gichoya, **Ju Sun**, Christopher J Tignanelli. Journal of the American Medical Informatics Association (JAMIA), 30(1):54--63, 2023. 
 
