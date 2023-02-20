@@ -49,7 +49,7 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Journals
 
-> **Welfare and Fairness Dynamics in Federated Learning: A Client Selection Perspective**.     
+> **Welfare and Fairness Dynamics in Federated Learning: A Client Selection Perspective**. \[[arXiv](https://arxiv.org/abs/2302.08976)\]     
 > &nbsp; &nbsp;  Yash Travadi, Le Peng, Xuan Bi, **Ju Sun**, Mochen Yang. To appear in Statistics and Its Interface. 2023.     
 
 > **Evaluation of Federated Learning Variations for COVID-19 Diagnosis using Chest Radiographs from 42 US and European Hospitals**.  \[[paper (open access)](https://doi.org/10.1093/jamia/ocac188)\]       
