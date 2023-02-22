@@ -55,6 +55,7 @@ University of Minnesota, Twin Cities
 
 #### Past
 
+- **Grant approval**: [Zhong](https://scholar.google.com/citations?user=rGGxUQEAAAAJ&hl=en) won the inaugural DSI PhD Fellowship for our collaborative work with [Prof. Andre Mkhoyan](https://cse.umn.edu/cems/andre-mkhoyan) of CEMS on Sharp Analysis of Atomic-Resolution STEM Data via Deep Learning. (Feb 20, 2023)
 - **Service**: To be an Area chair for UAI 2023 (Jan, 2023)  
 - **Talk** in [Computational Imaging XXI](https://www.imaging.org/site/IST/IST/Conferences/EI/EI2023/Conference/C_COIMG.aspx) at the [Electronic Imaging Symposium 2023](https://www.imaging.org/Site/IST/Conferences/EI/EI2023/EI2023.aspx) \[[Slides](talks/EI_2023_Jan.pdf)\] (San Francisco, Jan 15--19, 2023)
 - **Talk** in Annual BICB ([Bioinformatics and Computational Biology](https://r.umn.edu/academics-research/graduate/bicb)) [Research Symposium](https://r.umn.edu/academics-research/graduate/bicb-research-symposium) at UMN, Rochester \[[Slides](talks/BICB-Symp-2023-Three-Pillars.pdf)\] (Jan 12, 2023)
