@@ -102,7 +102,7 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > **Random Projector: Efficient Deep Image Prior**.  
 > &nbsp; &nbsp;  Taihui Li, Zhong Zhuang, Hengkang Wang, **Ju Sun**. International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023.  
 
-> **Robust Autoencoders for Collective Corruption Removal**.  
+> **Robust Autoencoders for Collective Corruption Removal**.  \[[arXiv](https://arxiv.org/abs/2303.02828)\]     
 > &nbsp; &nbsp;  Taihui Li, Hengkang Wang, Le Peng, XianE Tang, **Ju Sun**. International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023.  
 
 > **Optimization for Robustness Evaluation beyond $\ell_p$ Metrics**. \[[arXiv](https://arxiv.org/abs/2210.00621)\]     
