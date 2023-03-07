@@ -56,6 +56,7 @@ University of Minnesota, Twin Cities
 
 #### Past
 
+- **Paper release**: Proud to release our short paper [Robust Autoencoders for Collective Corruption Removal](https://arxiv.org/abs/2303.02828) on arXiv! We show how to perform manifold learning robust to sparse corruption, i.e., generalization of Robust PCA to manifold setting. (Mar 06, 2023)  
 - **Grant approval**: [Zhong](https://scholar.google.com/citations?user=rGGxUQEAAAAJ&hl=en) won the inaugural DSI PhD Fellowship for our collaborative work with [Prof. Andre Mkhoyan](https://cse.umn.edu/cems/andre-mkhoyan) of CEMS on Sharp Analysis of Atomic-Resolution STEM Data via Deep Learning. (Feb 20, 2023)
 - **Service**: To be an Area chair for UAI 2023 (Jan, 2023)  
 - **Talk** in [Computational Imaging XXI](https://www.imaging.org/site/IST/IST/Conferences/EI/EI2023/Conference/C_COIMG.aspx) at the [Electronic Imaging Symposium 2023](https://www.imaging.org/Site/IST/Conferences/EI/EI2023/EI2023.aspx) \[[Slides](talks/EI_2023_Jan.pdf)\] (San Francisco, Jan 15--19, 2023)
