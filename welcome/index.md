@@ -51,6 +51,7 @@ University of Minnesota, Twin Cities
 
 #### Upcoming
 
+- **Talk** at [2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023)](https://2023.ieeeicassp.org/) (Rohdes Island, Greece, Jun 04--10, 2023) 
 - **Talk** on [Midwest Machine Learning Symposium 2023](https://midwest-ml.org/2023/) (Chicago, May 16--17, 2023)
 - **Tutorial** on [Deep Learning with Nontrivial Constraints](https://ncvx.org/tutorials/SDM23.html) in the SIAM International Conference on Data Mining (SDM23) (Minneapolis, Apr 27--29, 2023)
 
