@@ -99,6 +99,9 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Conferences and Workshops
 
+> **Implications of Solution Patterns on Adversarial Robustness**. \[[arXiv](https://arxiv.org/abs/2303.13401)\]         
+> &nbsp; &nbsp;  Hengyue Liang, Buyun Liang, Le Peng, Ying Cui, Tim Mitchell, **Ju Sun**. The 3rd Workshop of Adversarial Machine Learning on Computer Vision: Art of Robustness (in conjunction with CVPR 2023), 2023.    
+
 > **Deep Random Projector: Accelerated Deep Image Prior**.    
 > &nbsp; &nbsp;  Taihui Li, Hengkang Wang, Zhong Zhuang, **Ju Sun**.  Computer Vision and Pattern Recognition (CVPR), 2023.  
 
