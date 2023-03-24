@@ -17,6 +17,9 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Preprints 
 
+> **Optimization and Optimizers for Adversarial Robustness**.   \[[arXiv](https://arxiv.org/abs/2303.13401)\]          
+> &nbsp; &nbsp;  Hengyue Liang, Buyun Liang, Le Peng, Ying Cui, Tim Mitchell, **Ju Sun**. Under review for International Journal of Computer Vision, 2023.  
+
 > **Interpretable Deep Learning Methods for Multiview Learning**.   \[[arXiv](https://arxiv.org/abs/2302.07930)\]          
 > &nbsp; &nbsp;  Hengkang Wang, Han Lu, **Ju Sun**, Sandra Safo. Under review for Biometrics, 2023.  
 
@@ -24,16 +27,16 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > &nbsp; &nbsp;  Zhong Zhuang,  Yash Travadi, Zhihui Zhu,  **Ju Sun**. In preparation for SIAM Journal on  Mathematics of Data Science (SIMODS), 2022. 
 
 > **Blind Image Deblurring with Unknown Kernel Size and Substantial Noise**. \[[arXiv](https://arxiv.org/abs/2208.09483)\]         
-> &nbsp; &nbsp;  Zhong Zhuang, Taihui Li, Hengkang Wang, **Ju Sun**. Under review for International Journal of Computer Vision (IJCV), Aug 2022.  
+> &nbsp; &nbsp;  Zhong Zhuang, Taihui Li, Hengkang Wang, **Ju Sun**. Under review for International Journal of Computer Vision (IJCV), 2022.  
 
 > **Early Stopping for Deep Image Prior**. \[[arXiv](https://arxiv.org/abs/2112.06074)\]         
-> &nbsp; &nbsp;  Hengkang Wang, Taihui Li, Zhong Zhuang, Tiancong Chen, Hengyue Liang, **Ju Sun**. Submitted to International Journal of Computer Vision (IJCV), Mar 2022.     
+> &nbsp; &nbsp;  Hengkang Wang, Taihui Li, Zhong Zhuang, Tiancong Chen, Hengyue Liang, **Ju Sun**. Under review for Transaction on Machine Learning Research (TMLR), 2022.     
 
 > **NCVX: A User-Friendly and Scalable Package for Nonconvex Optimization in Machine Learning**.  \[[arXiv](https://arxiv.org/abs/2111.13984)\] (an expanded version with detailed examples on constrained deep learning \[[arXiv](https://arxiv.org/abs/2210.00973)\])     
 > &nbsp; &nbsp;  Buyun Liang, Tim Mitchell, **Ju Sun**. 
 
 > **Rethink Transfer Learning in Medical Image Classification**. \[[arXiv](https://arxiv.org/abs/2106.05152)\]  \[[Project website](https://sun-umn.github.io/Transfer-Learning-in-Medical-Imaging/)\]    
-> &nbsp; &nbsp;  Le Peng, Hengyue Liang, Gaoxiang Luo, Taihui Li, **Ju Sun**. Under review, Medical Image Analysis, Oct 2022. 
+> &nbsp; &nbsp;  Le Peng, Hengyue Liang, Gaoxiang Luo, Taihui Li, **Ju Sun**. Under review for Medical Image Analysis, 2022. 
 
 > **Inverse Problems, Deep Learning, and Symmetry Breaking**. \[[arXiv](https://arxiv.org/abs/2003.09077)\]  
 > &nbsp; &nbsp; Kshitij Tayal, Chieh-Hsin Lai, Vipin Kumar,  **Ju Sun**. Mar 2020.
