@@ -52,11 +52,14 @@ University of Minnesota, Twin Cities
 #### Upcoming
 
 - **Talk** at [2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023)](https://2023.ieeeicassp.org/) (Rohdes Island, Greece, Jun 04--10, 2023) 
+- **Talk** on [SIAM Conference on Optimization](https://www.siam.org/conferences/cm/conference/op23) (Seattle, May 31--Jun 03, 2023)
 - **Talk** on [Midwest Machine Learning Symposium 2023](https://midwest-ml.org/2023/) (Chicago, May 16--17, 2023)
-- **Tutorial** on [Deep Learning with Nontrivial Constraints](https://ncvx.org/tutorials/SDM23.html) in the SIAM International Conference on Data Mining (SDM23) (Minneapolis, Apr 27--29, 2023)
+- **Tutorial** on [Deep Learning with Nontrivial Constraints](https://ncvx.org/tutorials/SDM23.html) in the SIAM International Conference on Data Mining (SDM23) (Minneapolis, Apr 27--29, 2023) 
 
 #### Past
 
+- **Grant approval**: With [Prof. Christine Conelea](https://med.umn.edu/bio/christine-conelea) and [Prof. Kelvin Lim](https://med.umn.edu/bio/kelvin-lim) of UMN Medical School, we're funded by [NIH NINDS](https://www.ninds.nih.gov/) to develop novel video analysis tools to help doctors expedite the diagnosis and treatment of Tourette syndrome.  (May 04, 2023)  
+- **Grant approval**: Proud to be in the foundational AI team of the newly funded UMN-lead NSF/NIFA AI Institute [AI-CLIMATE (AI Institute for Climate-Land Interactions, Mitigation, Adaptation, Tradeoffs and Economy)](https://portal.nifa.usda.gov/web/crisprojectpages/1030594-ai-climate-ai-institute-for-climate-land-interactions-mitigation-adaptation-tradeoffs-and-economy.html). See [UMN news release](https://twin-cities.umn.edu/news-events/u-m-lead-new-ai-institute-focusing-climate-smart-agriculture-and-forestry), [CS&E departmental news release](https://cse.umn.edu/cs/news/cse-professor-shashi-shekhar-lead-new-20m-ai-institute), and [NSF news release](https://new.nsf.gov/news/nsf-announces-seven-new-national-artificial). (May 04, 2023)  
 - **Paper release**: Proud to release our short paper [Robust Autoencoders for Collective Corruption Removal](https://arxiv.org/abs/2303.02828) on arXiv! We show how to perform manifold learning robust to sparse corruption, i.e., generalization of Robust PCA to manifold setting. (Mar 06, 2023)  
 - **Grant approval**: [Zhong](https://scholar.google.com/citations?user=rGGxUQEAAAAJ&hl=en) won the inaugural DSI PhD Fellowship for our collaborative work with [Prof. Andre Mkhoyan](https://cse.umn.edu/cems/andre-mkhoyan) of CEMS on Sharp Analysis of Atomic-Resolution STEM Data via Deep Learning. (Feb 20, 2023)
 - **Service**: To be an Area chair for UAI 2023 (Jan, 2023)  
