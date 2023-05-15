@@ -52,6 +52,9 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Journals
 
+> **A Unified Analysis of AdaGrad with Weighted Aggregation and Momentum Acceleration**. \[[arXiv](https://arxiv.org/abs/1808.03408v3)\]     
+> &nbsp; &nbsp;  Shen Li, Congliang Chen, Fangyu Zou, Zequn Jie, **Ju Sun**, Wei Liu. To appear in IEEE Transactions on Neural Networks and Learning Systems (TNNLS). 2023.
+
 > **Welfare and Fairness Dynamics in Federated Learning: A Client Selection Perspective**. \[[arXiv](https://arxiv.org/abs/2302.08976)\]     
 > &nbsp; &nbsp;  Yash Travadi, Le Peng, Xuan Bi, **Ju Sun**, Mochen Yang. To appear in Statistics and Its Interface. 2023.     
 
