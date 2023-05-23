@@ -16,7 +16,8 @@ tags: top
 + [IPAM workshop on Diffractive Imaging with Phase Retrieval](http://www.ipam.ucla.edu/programs/workshops/workshop-i-diffractive-imaging-with-phase-retrieval/?tab=overview) at UCLA \[[Slides](2022-Oct-IPAM-PR-WS.pdf)\] \[[Video](https://youtu.be/y4sdeFDuu6M)\]  (Oct 10--14, 2022)
 
 
-#### Deep image prior (and its cousin) for inverse problems: the untold stories    
+#### Deep image prior (and its cousin) for inverse problems: the untold stories 
++ Midwest Machine Learning Symposium (MMLS'23) \[[Slides](2023-May-MMLS.pdf)\] (May 2023)   
 + Rice Imaging and Vision Seminar Series \[[Slides](2022-Nov-Rice-IVS.pdf)\] (Nov 18, 2022)
 + RPI seminar on [Mathematics in imaging science, data science and optimization](https://sites.google.com/view/rpimidoseminars) \[[Slides](RPI-MIDO-2022-Sep.pdf)\] \[[Video](https://www.youtube.com/watch?v=IxIMvwkUsiQ)\] (Sep 21, 2022)
 
