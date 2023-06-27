@@ -51,11 +51,12 @@ University of Minnesota, Twin Cities
 
 #### Upcoming
 
-- **Talk** at [2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023)](https://2023.ieeeicassp.org/) (Rohdes Island, Greece, Jun 04--10, 2023) 
-- **Talk** on [SIAM Conference on Optimization](https://www.siam.org/conferences/cm/conference/op23) (Seattle, May 31--Jun 03, 2023)
 
 #### Past
 
+- **Grant approval**: With [Prof. Qizhi He (CEGE)](https://cse.umn.edu/cege/faculty/qizhi-he), [Prof. Qi Zhang (CEMS)](https://cse.umn.edu/cems/qi-zhang), [Prof. Yiling Zhang (ISyE)](https://cse.umn.edu/isye/yiling-zhang), we receive a [Research Computing Large Seed Grant](https://umnresearch.smapply.io/res/p/research-computing/) and will lead a joint effort to study the impact of deep learning on general numerical optimization. (Jun 23, 2023) 
+- **Talk** at [2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023)](https://2023.ieeeicassp.org/) (Rohdes Island, Greece, Jun 04--10, 2023) 
+- **Talk** on [SIAM Conference on Optimization](https://www.siam.org/conferences/cm/conference/op23) (Seattle, May 31--Jun 03, 2023)
 - **Talk** on [Midwest Machine Learning Symposium 2023](https://midwest-ml.org/2023/) \[[Slides](talks/2023-May-MMLS.pdf)\] (Chicago, May 16--17, 2023)
 - **Grant approval**: With [Prof. Andre Mkhoyan (CEMS)](https://cse.umn.edu/cems/andre-mkhoyan) and [Prof. Vlad Pribiag (SPA)](https://cse.umn.edu/physics/vlad-pribiag), we are funded by the UMN CSE InterS&Ections Seed Grant Program to develop novel blind denoising methods to advance STEM analysis of quantum devices. (Apr 29, 2023)
 - **Grant approval**: With [Prof. Christine Conelea](https://med.umn.edu/bio/christine-conelea) and [Prof. Kelvin Lim](https://med.umn.edu/bio/kelvin-lim) of UMN Medical School, we're funded by [NIH NINDS](https://www.ninds.nih.gov/) to develop novel video analysis tools to help doctors expedite the diagnosis and treatment of Tourette syndrome.  (May 04, 2023)  
