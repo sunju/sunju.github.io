@@ -55,8 +55,8 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > **Automated Quantification of Eye Tics using Computer Vision and Deep Learning Techniques**.       
 > &nbsp; &nbsp; Christine Conelea, Hengyue Liang, Megan DuBois, Brittany Raab, Mia Kellman, Brianna Wellen, Suma Jacob, Sonya Wang, **Ju Sun**, Kelvin Lim. To appear in Movement Disorders. 2023.
 
-> **Effects of Personalized Exercise Prescriptions and Social Media through m-Health on Cancer Survivors’ Physical Activity and Quality of Life**.       
-> &nbsp; &nbsp; Zan Gao, Suryeon Ryu, Wanjiang Zhou, Kaitlyn Adams, Mohamed Hassan, Rui Zhang, Anne Blaes, Julian Wolfson, **Ju Sun**. To appear in Journal of Sport and Health Science. 2023.
+> **Effects of Personalized Exercise Prescriptions and Social Media through m-Health on Cancer Survivors’ Physical Activity and Quality of Life**. \[[paper](https://doi.org/10.1016/j.jshs.2023.07.002)\]       
+> &nbsp; &nbsp; Zan Gao, Suryeon Ryu, Wanjiang Zhou, Kaitlyn Adams, Mohamed Hassan, Rui Zhang, Anne Blaes, Julian Wolfson, **Ju Sun**. Journal of Sport and Health Science. 2023.
 
 > **A Unified Analysis of AdaGrad with Weighted Aggregation and Momentum Acceleration**. \[[arXiv](https://arxiv.org/abs/1808.03408v3)\]     
 > &nbsp; &nbsp;  Shen Li, Congliang Chen, Fangyu Zou, Zequn Jie, **Ju Sun**, Wei Liu. To appear in IEEE Transactions on Neural Networks and Learning Systems (TNNLS). 2023.
