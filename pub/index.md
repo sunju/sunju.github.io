@@ -111,6 +111,9 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Conferences and Workshops
 
+> **A Systematic Evaluation of Federated Learning on Biomedical Natural Language Processing**. \[[paper](https://openreview.net/forum?id=pLEQFXACNA)\]   
+> &nbsp; &nbsp; Le Peng, Sicheng Zhou, Jiandong Chen, Rui Zhang, Ziyue Xu, **Ju Sun**. International Workshop on Federated Learning for Distributed Data Mining (in KDD 2023), 2023. 
+
 > **Implications of Solution Patterns on Adversarial Robustness**. \[[arXiv](https://arxiv.org/abs/2303.13401)\]         
 > &nbsp; &nbsp;  Hengyue Liang, Buyun Liang, Le Peng, Ying Cui, Tim Mitchell, **Ju Sun**. The 3rd Workshop of Adversarial Machine Learning on Computer Vision: Art of Robustness (in conjunction with CVPR 2023), 2023.    
 
