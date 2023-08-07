@@ -51,6 +51,8 @@ University of Minnesota, Twin Cities
 
 #### Upcoming
 
+- **Talk**: [PSU-Purdue-UMD Joint Seminar on Mathematical Data Science](https://yuangaogao.github.io/seminar.html) (Nov 06, 2023)
+- **Workshop**: [DARPA CriticalMAAS](https://www.darpa.mil/program/critical-mineral-assessments-with-ai-support) kickoff workshop (Aug 15--18, [National Conservation and Training Center in Shepherdstown, WV](https://www.fws.gov/office/national-conservation-training-center-facility) ) 
 
 #### Past
 
