@@ -56,7 +56,7 @@ University of Minnesota, Twin Cities
 
 #### Past
 
-- **Grant approval**: With [Prof. Rui Zhang (Surgery)](https://med.umn.edu/bio/rui-zhang) and [Prof. Ying Cui (ISyE, UMN; Now IEOR of UC Berkeley)](https://sites.google.com/site/optyingcui/), we receive a R01 grant from National Cancer Institute of NIH . (Jul 28, 2023) 
+- **Grant approval**: With [Prof. Rui Zhang (Surgery)](https://med.umn.edu/bio/rui-zhang) and [Prof. Ying Cui (ISyE, UMN; Now IEOR of UC Berkeley)](https://sites.google.com/site/optyingcui/), we receive an R01 grant from National Cancer Institute of NIH to develop new methods for imbalanced classification and imbalanced regression with special emphasis on applications in biomedical data. \[[Award link](https://reporter.nih.gov/search/1H2lPwhRtU6ykiVLiMTA1Q/project-details/10816630)\] (Jul 28, 2023) 
 - **Paper release**: Proud to release our short paper [A Systematic Evaluation of Federated Learning on Biomedical Natural Language Processing](https://arxiv.org/abs/2307.11254) that represents the first systematic evaluation of federated learning for medical NLP tasks. (Jul 22, 2023) 
 - **Grant approval**: With [Prof. Yao-Yi Chiang (CS&E)](https://cse.umn.edu/cs/yao-yi-chiang), we are in a funded team by DARPA CriticalMAAS---Critical Mineral Assessments with AI Support. (Jun 30, 2023)
 - **Grant approval**: With [Prof. Qizhi He (CEGE)](https://cse.umn.edu/cege/faculty/qizhi-he), [Prof. Qi Zhang (CEMS)](https://cse.umn.edu/cems/qi-zhang), [Prof. Yiling Zhang (ISyE)](https://cse.umn.edu/isye/yiling-zhang), we receive a [Research Computing Large Seed Grant](https://umnresearch.smapply.io/res/p/research-computing/) and will lead a joint effort to study the impact of deep learning on general numerical optimization. (Jun 23, 2023) 
