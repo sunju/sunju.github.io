@@ -22,16 +22,19 @@ tags: top
 - [Taihui Li](https://taihui.github.io/) (CS&E, co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/))
 
 
+### Research Assistants  
+- Yuxiang Wan (CEGE)
+
 ### Masters
 - Wenjie Zhang (CS&E) 
-- [Buyun Liang](https://www.buyunliang.org/) (CS&E)
 
 ### Undergrads
-
+- Sean Schweiger (Math & CS&E)
 
 <!-- ### PhD Alumni -->
 
 ### Master Alumni
+- [Buyun Liang](https://www.buyunliang.org/) (MS2023, CS&E, now PhD student @ U Penn)
 - [Andrew Walker](https://www.linkedin.com/in/andrewwalker-mn/) (MS2022, CS&E, now researcher at [PathAI](https://www.pathai.com/))
 - [Dyah Adila](https://dyahadila.github.io/) (MS 2021, CS&E, now PhD student @ U of Wisconsin-Madison)
 - [Sihan Wei](https://www.linkedin.com/in/sihanwei/) (MS 2021, CS&E, now PhD student @ Johns Hopkins U.)

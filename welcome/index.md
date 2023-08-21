@@ -16,17 +16,12 @@ news: true
 social: true
 ---
 
-Assistant Professor, [Department of Computer Science & Engineering](https://www.cs.umn.edu/)       
+Assistant Professor, [Computer Science & Engineering](https://www.cs.umn.edu/)       
 Leader, [Group of Learning, Optimization, Vision, Healthcare, and X (GLOVEX)](https://glovex.umn.edu/)   
 Leader of Computer Vision, [Program for Clinical AI](https://med.umn.edu/clhss/activities/clinical-ai), [Center for Learning Health System Sciences (CLHSS)](https://med.umn.edu/clhss)   
 Full Member, [Innovative Methods & Data Science](https://med.umn.edu/clhss/activities/imds), [Center for Learning Health System Sciences (CLHSS)](https://med.umn.edu/clhss)      
-Member of Foundational Data Science Committee, [UMN Data Science Initiative (DSI)](https://dsi.umn.edu/)            
-Affiliated Faculty, [Department of Electrical and Computer Engineering](https://cse.umn.edu/ece)          
-Affiliated Faculty, [UMN CSE Data Science Initiative (CSE-DSI)](https://cse.umn.edu/dsi)  
-Affiliated Faculty, [AI Institute for Climate-Land Interactions, Mitigation, Adaptation, Tradeoffs and Economy (AI-CLIMATE)](https://cse.umn.edu/aiclimate)        
-Graduate Faculty, [UMN Data Science Program](https://cse.umn.edu/datascience)    
-Affiliated Faculty, [Institute for Health Informatics (IHI)](https://healthinformatics.umn.edu/)   
-Affiliated Faculty, [Institute for Engineering in Medicine (IME)](https://www.iem.umn.edu/)   
+Foundational Data Science Committee, [UMN Data Science Initiative (DSI)](https://dsi.umn.edu/)            
+Affiliated Faculty of [Electrical and Computer Engineering](https://cse.umn.edu/ece); [UMN CSE Data Science Initiative (CSE-DSI)](https://cse.umn.edu/dsi); [AI Institute for Climate-Land Interactions, Mitigation, Adaptation, Tradeoffs and Economy (AI-CLIMATE)](https://cse.umn.edu/aiclimate); [UMN Data Science Program](https://cse.umn.edu/datascience); [Institute for Health Informatics (IHI)](https://healthinformatics.umn.edu/); [Institute for Engineering in Medicine (IME)](https://www.iem.umn.edu/)   
 University of Minnesota, Twin Cities
 
 R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
