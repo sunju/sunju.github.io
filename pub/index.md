@@ -20,9 +20,6 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > **Optimization and Optimizers for Adversarial Robustness**.   \[[arXiv](https://arxiv.org/abs/2303.13401)\]          
 > &nbsp; &nbsp;  Hengyue Liang, Buyun Liang, Le Peng, Ying Cui, Tim Mitchell, **Ju Sun**. Under review for International Journal of Computer Vision, 2023.  
 
-> **A Cross-institutional Evaluation on Breast Cancer Phenotyping NLP Algorithms on Electronic Health Records**. \[[arXiv](https://arxiv.org/abs/2303.08448)\]            
-> &nbsp; &nbsp;  Sicheng Zhou, Nan Wang, Liwei Wang, **Ju Sun**, Anne Blaes, Hongfang Liu, Rui Zhang. Under review for Journal of the American Medical Informatics Association (JAMIA), 2023.  
-
 > **Interpretable Deep Learning Methods for Multiview Learning**.   \[[arXiv](https://arxiv.org/abs/2302.07930)\]          
 > &nbsp; &nbsp;  Hengkang Wang, Han Lu, **Ju Sun**, Sandra Safo. Under review for Biometrics, 2023.  
 
@@ -48,6 +45,9 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > &nbsp; &nbsp; Yu Bai, Qijia Jiang, **Ju Sun**. 2018.   
 
 ### Journals
+
+> **A Cross-institutional Evaluation on Breast Cancer Phenotyping NLP Algorithms on Electronic Health Records**. \[[arXiv](https://arxiv.org/abs/2303.08448)\]            
+> &nbsp; &nbsp;  Sicheng Zhou, Nan Wang, Liwei Wang, **Ju Sun**, Anne Blaes, Hongfang Liu, Rui Zhang. To appear in Computational and Structural Biotechnology Journal, 2023.  
 
 > **Blind Image Deblurring with Unknown Kernel Size and Substantial Noise**. \[[arXiv](https://arxiv.org/abs/2208.09483)\]         
 > &nbsp; &nbsp;  Zhong Zhuang, Taihui Li, Hengkang Wang, **Ju Sun**. To appear in International Journal of Computer Vision (IJCV), 2023.

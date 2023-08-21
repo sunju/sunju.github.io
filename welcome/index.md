@@ -16,17 +16,21 @@ news: true
 social: true
 ---
 
-Assistant Professor  
+Assistant Professor, [Department of Computer Science & Engineering](https://www.cs.umn.edu/)       
 Leader, [Group of Learning, Optimization, Vision, Healthcare, and X (GLOVEX)](https://glovex.umn.edu/)   
-Leadership Team of [Program for Clinical AI](https://med.umn.edu/about/program-clinical-ai), [Center for Learning Health System Sciences (CLHSS)](https://med.umn.edu/clhss)      
-[Department of Computer Science & Engineering](https://www.cs.umn.edu/)  (Primary)        
-[Department of Electrical and Computer Engineering](https://cse.umn.edu/ece) (Affiliated)      
-[UMN Data Science Initiative (DSI)](https://cse.umn.edu/dsi)  (Affiliated)  
-[UMN Data Science Program](https://cse.umn.edu/datascience)  (Affiliated)    
-[Innovative Methods & Data Science, CLHSS](https://med.umn.edu/clhss/imds)  (Affiliated)    
-[Institute for Health Informatics (IHI)](https://healthinformatics.umn.edu/) (Affiliated)  
-[Institute for Engineering in Medicine (IME)](https://www.iem.umn.edu/) (Affiliated)  
+Leader of Computer Vision, [Program for Clinical AI](https://med.umn.edu/clhss/activities/clinical-ai), [Center for Learning Health System Sciences (CLHSS)](https://med.umn.edu/clhss)   
+Full Member, [Innovative Methods & Data Science](https://med.umn.edu/clhss/activities/imds), [Center for Learning Health System Sciences (CLHSS)](https://med.umn.edu/clhss)      
+Member of Foundational Data Science Committee, [UMN Data Science Initiative (DSI)](https://dsi.umn.edu/)            
+Affiliated Faculty, [Department of Electrical and Computer Engineering](https://cse.umn.edu/ece)          
+Affiliated Faculty, [UMN CSE Data Science Initiative (CSE-DSI)](https://cse.umn.edu/dsi)  
+Affiliated Faculty, [AI Institute for Climate-Land Interactions, Mitigation, Adaptation, Tradeoffs and Economy (AI-CLIMATE)](https://cse.umn.edu/aiclimate)        
+Graduate Faculty, [UMN Data Science Program](https://cse.umn.edu/datascience)    
+Affiliated Faculty, [Institute for Health Informatics (IHI)](https://healthinformatics.umn.edu/)   
+Affiliated Faculty, [Institute for Engineering in Medicine (IME)](https://www.iem.umn.edu/)   
 University of Minnesota, Twin Cities
+
+R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
+
 
 **Research Interests**: **Intersection** and/or **Union** of machine learning, data sciences, and numerical optimization, computer vision, signal/image processing, and computational imaging, healthcare. See my \[[CV](/docs/CV.pdf)\].
 
@@ -52,10 +56,10 @@ University of Minnesota, Twin Cities
 #### Upcoming
 
 - **Talk**: [PSU-Purdue-UMD Joint Seminar on Mathematical Data Science](https://yuangaogao.github.io/seminar.html) (Nov 06, 2023)
-- **Workshop**: [DARPA CriticalMAAS](https://www.darpa.mil/program/critical-mineral-assessments-with-ai-support) kickoff workshop (Aug 15--18, [National Conservation and Training Center in Shepherdstown, WV](https://www.fws.gov/office/national-conservation-training-center-facility) ) 
 
 #### Past
 
+- **Workshop**: [DARPA CriticalMAAS](https://www.darpa.mil/program/critical-mineral-assessments-with-ai-support) kickoff workshop (Aug 15--18, [National Conservation and Training Center in Shepherdstown, WV](https://www.fws.gov/office/national-conservation-training-center-facility) )
 - **Grant approval**: With [Prof. Rui Zhang (Surgery)](https://med.umn.edu/bio/rui-zhang) and [Prof. Ying Cui (ISyE, UMN; Now IEOR of UC Berkeley)](https://sites.google.com/site/optyingcui/), we receive an R01 grant from National Cancer Institute of NIH to develop new methods for imbalanced classification and imbalanced regression with special emphasis on applications in biomedical data. \[[Award link](https://reporter.nih.gov/search/1H2lPwhRtU6ykiVLiMTA1Q/project-details/10816630)\] (Jul 28, 2023) 
 - **Paper release**: Proud to release our short paper [A Systematic Evaluation of Federated Learning on Biomedical Natural Language Processing](https://arxiv.org/abs/2307.11254) that represents the first systematic evaluation of federated learning for medical NLP tasks. (Jul 22, 2023) 
 - **Grant approval**: With [Prof. Yao-Yi Chiang (CS&E)](https://cse.umn.edu/cs/yao-yi-chiang), we are in a funded team by DARPA CriticalMAAS---Critical Mineral Assessments with AI Support. (Jun 30, 2023)
