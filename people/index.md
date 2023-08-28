@@ -8,6 +8,9 @@ tags: top
 
 ### Student Collaborators
 - [Kshitij Tayal](https://www.kshitijtayal.com/) (CS&E)
+
+### Postdocs 
+- [Chuan He](https://chuanhe97.github.io/chuanhe97/) 
   
 ### PhD's
 
@@ -26,10 +29,10 @@ tags: top
 - Yuxiang Wan (CEGE)
 
 ### Masters
-- Wenjie Zhang (CS&E) 
+- [Wenjie Zhang](https://www.linkedin.com/in/wenjie-zhang-785771237/) (CS&E) 
 
 ### Undergrads
-- Sean Schweiger (Math & CS&E)
+- [Sean Schweiger](https://www.linkedin.com/in/sean-schweiger/) (Math & CS&E)
 
 <!-- ### PhD Alumni -->
 
