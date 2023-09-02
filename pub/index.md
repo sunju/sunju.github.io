@@ -46,7 +46,7 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > **A Cross-institutional Evaluation on Breast Cancer Phenotyping NLP Algorithms on Electronic Health Records**. \[[arXiv](https://arxiv.org/abs/2303.08448)\]            
 > &nbsp; &nbsp;  Sicheng Zhou, Nan Wang, Liwei Wang, **Ju Sun**, Anne Blaes, Hongfang Liu, Rui Zhang. To appear in Computational and Structural Biotechnology Journal, 2023.  
 
-> **Blind Image Deblurring with Unknown Kernel Size and Substantial Noise**. \[[arXiv](https://arxiv.org/abs/2208.09483)\]         
+> **Blind Image Deblurring with Unknown Kernel Size and Substantial Noise**. \[[arXiv](https://arxiv.org/abs/2208.09483)\] \[[paper](https://doi.org/10.1007/s11263-023-01883-x)\]       
 > &nbsp; &nbsp;  Zhong Zhuang, Taihui Li, Hengkang Wang, **Ju Sun**. To appear in International Journal of Computer Vision (IJCV), 2023.
 
 > **Automated Quantification of Eye Tics using Computer Vision and Deep Learning Techniques**.       
