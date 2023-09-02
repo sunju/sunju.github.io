@@ -24,16 +24,13 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > &nbsp; &nbsp;  Hengkang Wang, Han Lu, **Ju Sun**, Sandra Safo. Under review for Biometrics, 2023.  
 
 > **Phase Retrieval: the Role of Overparametrization and New Methods**.     
-> &nbsp; &nbsp;  Zhong Zhuang,  Yash Travadi, Zhihui Zhu,  **Ju Sun**. In preparation for SIAM Journal on  Mathematics of Data Science (SIMODS), 2022.   
+> &nbsp; &nbsp;  Zhong Zhuang,  Yash Travadi, Zhihui Zhu,  **Ju Sun**. In preparation for SIAM Journal on  Mathematics of Data Science (SIMODS), 2023.   
 
 > **Early Stopping for Deep Image Prior**. \[[arXiv](https://arxiv.org/abs/2112.06074)\]         
-> &nbsp; &nbsp;  Hengkang Wang, Taihui Li, Zhong Zhuang, Tiancong Chen, Hengyue Liang, **Ju Sun**. Under review for Transaction on Machine Learning Research (TMLR), 2022.     
+> &nbsp; &nbsp;  Hengkang Wang, Taihui Li, Zhong Zhuang, Tiancong Chen, Hengyue Liang, **Ju Sun**. Under review for Transaction on Machine Learning Research (TMLR), 2023.     
 
 > **NCVX: A User-Friendly and Scalable Package for Nonconvex Optimization in Machine Learning**.  \[[arXiv](https://arxiv.org/abs/2111.13984)\] (an expanded version with detailed examples on constrained deep learning \[[arXiv](https://arxiv.org/abs/2210.00973)\])     
 > &nbsp; &nbsp;  Buyun Liang, Tim Mitchell, **Ju Sun**. 
-
-> **Rethink Transfer Learning in Medical Image Classification**. \[[arXiv](https://arxiv.org/abs/2106.05152)\]  \[[Project website](https://sun-umn.github.io/Transfer-Learning-in-Medical-Imaging/)\]    
-> &nbsp; &nbsp;  Le Peng, Hengyue Liang, Gaoxiang Luo, Taihui Li, **Ju Sun**. Under review for Medical Image Analysis, 2022. 
 
 > **Inverse Problems, Deep Learning, and Symmetry Breaking**. \[[arXiv](https://arxiv.org/abs/2003.09077)\]  
 > &nbsp; &nbsp; Kshitij Tayal, Chieh-Hsin Lai, Vipin Kumar,  **Ju Sun**. Mar 2020.
@@ -110,6 +107,9 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > &nbsp; &nbsp; Guangcan Liu,  Zhouchen Lin, Shuicheng Yan,  **Ju Sun**, Yong Yu, and Yi Ma.  IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI), 35(1):171 - 184, 2013.
 
 ### Conferences and Workshops
+
+> **Rethink Transfer Learning in Medical Image Classification**. \[[arXiv](https://arxiv.org/abs/2106.05152)\]  \[[Project website](https://sun-umn.github.io/Transfer-Learning-in-Medical-Imaging/)\]    
+> &nbsp; &nbsp;  Le Peng, Hengyue Liang, Gaoxiang Luo, Taihui Li, **Ju Sun**. British Machine Vision Conference (BMVC), 2023.
 
 > **A Systematic Evaluation of Federated Learning on Biomedical Natural Language Processing**. \[[paper](https://openreview.net/forum?id=pLEQFXACNA)\]   
 > &nbsp; &nbsp; Le Peng, Sicheng Zhou, Jiandong Chen, Rui Zhang, Ziyue Xu, **Ju Sun**. International Workshop on Federated Learning for Distributed Data Mining (in KDD 2023), 2023. 
