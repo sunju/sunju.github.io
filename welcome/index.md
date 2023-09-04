@@ -50,6 +50,7 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 
 #### Upcoming
 
+- **Talk**: [The British Machine Vision Conference (BMVC) 2023](https://bmvc2023.org/) (Aberdeen, UK, Nov 20--24, 2023)
 - **Talk**: [PSU-Purdue-UMD Joint Seminar on Mathematical Data Science](https://yuangaogao.github.io/seminar.html) (Nov 06, 2023)
 
 #### Past

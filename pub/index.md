@@ -43,23 +43,23 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Journals
 
-> **A Cross-institutional Evaluation on Breast Cancer Phenotyping NLP Algorithms on Electronic Health Records**. \[[arXiv](https://arxiv.org/abs/2303.08448)\]            
-> &nbsp; &nbsp;  Sicheng Zhou, Nan Wang, Liwei Wang, **Ju Sun**, Anne Blaes, Hongfang Liu, Rui Zhang. To appear in Computational and Structural Biotechnology Journal, 2023.  
+> **A Cross-institutional Evaluation on Breast Cancer Phenotyping NLP Algorithms on Electronic Health Records**. \[[arXiv](https://arxiv.org/abs/2303.08448)\] \[[paper](https://doi.org/10.1016/j.csbj.2023.08.018)\]   
+> &nbsp; &nbsp;  Sicheng Zhou, Nan Wang, Liwei Wang, **Ju Sun**, Anne Blaes, Hongfang Liu, Rui Zhang. Computational and Structural Biotechnology Journal, 2023.  
 
 > **Blind Image Deblurring with Unknown Kernel Size and Substantial Noise**. \[[arXiv](https://arxiv.org/abs/2208.09483)\] \[[paper](https://doi.org/10.1007/s11263-023-01883-x)\]       
-> &nbsp; &nbsp;  Zhong Zhuang, Taihui Li, Hengkang Wang, **Ju Sun**. To appear in International Journal of Computer Vision (IJCV), 2023.
+> &nbsp; &nbsp;  Zhong Zhuang, Taihui Li, Hengkang Wang, **Ju Sun**. International Journal of Computer Vision (IJCV), 2023.
 
 > **Automated Quantification of Eye Tics using Computer Vision and Deep Learning Techniques**.       
-> &nbsp; &nbsp; Christine Conelea, Hengyue Liang, Megan DuBois, Brittany Raab, Mia Kellman, Brianna Wellen, Suma Jacob, Sonya Wang, **Ju Sun**, Kelvin Lim. To appear in Movement Disorders. 2023.
+> &nbsp; &nbsp; Christine Conelea, Hengyue Liang, Megan DuBois, Brittany Raab, Mia Kellman, Brianna Wellen, Suma Jacob, Sonya Wang, **Ju Sun**, Kelvin Lim. Movement Disorders. 2023.
 
 > **Effects of Personalized Exercise Prescriptions and Social Media through m-Health on Cancer Survivors’ Physical Activity and Quality of Life**. \[[paper](https://doi.org/10.1016/j.jshs.2023.07.002)\]       
 > &nbsp; &nbsp; Zan Gao, Suryeon Ryu, Wanjiang Zhou, Kaitlyn Adams, Mohamed Hassan, Rui Zhang, Anne Blaes, Julian Wolfson, **Ju Sun**. Journal of Sport and Health Science. 2023.
 
 > **A Unified Analysis of AdaGrad with Weighted Aggregation and Momentum Acceleration**. \[[arXiv](https://arxiv.org/abs/1808.03408v3)\]     
-> &nbsp; &nbsp;  Shen Li, Congliang Chen, Fangyu Zou, Zequn Jie, **Ju Sun**, Wei Liu. To appear in IEEE Transactions on Neural Networks and Learning Systems (TNNLS). 2023.
+> &nbsp; &nbsp;  Shen Li, Congliang Chen, Fangyu Zou, Zequn Jie, **Ju Sun**, Wei Liu. IEEE Transactions on Neural Networks and Learning Systems (TNNLS). 2023.
 
 > **Welfare and Fairness Dynamics in Federated Learning: A Client Selection Perspective**. \[[arXiv](https://arxiv.org/abs/2302.08976)\]     
-> &nbsp; &nbsp;  Yash Travadi, Le Peng, Xuan Bi, **Ju Sun**, Mochen Yang. To appear in Statistics and Its Interface. 2023.     
+> &nbsp; &nbsp;  Yash Travadi, Le Peng, Xuan Bi, **Ju Sun**, Mochen Yang. Statistics and Its Interface. 2023.     
 
 > **Evaluation of Federated Learning Variations for COVID-19 Diagnosis using Chest Radiographs from 42 US and European Hospitals**.  \[[paper (open access)](https://doi.org/10.1093/jamia/ocac188)\]       
 > &nbsp; &nbsp;  Le Peng, Gaoxiang Luo, Andrew Walker, Zachary Zaiman, Emma K. Jones, Hemant Gupta, Kristopher Kersten, John L. Burns, Christopher A. Harle, Tanja Magoc, Benjamin Shickel, Scott D. Steenburg, Tyler Loftus, Genevieve B. Melton, Judy Wawira Gichoya, **Ju Sun**, Christopher J Tignanelli. Journal of the American Medical Informatics Association (JAMIA), 30(1):54--63, 2023. 
