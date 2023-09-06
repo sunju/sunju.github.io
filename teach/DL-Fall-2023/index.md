@@ -18,29 +18,30 @@ Full syllabus: [Syllabus.pdf](DL.pdf)
 
 **Lecture Schedule**
 
+Disclaimer: The schedule is tentative and subject to change 
+
 | Date   | Topics                                                                                                                                                                                         |    
 | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |    
-| Sep 06 | Deep learning: overview \[[Slides](sep-06-A.pdf)\] <br> Neural networks: old and new \[[Slides](sep-06-B.pdf)\]                                                                                |    
-| Sep 13 | Fundamental belief: universal approximation theorems \[[Slides](sep-13-A.pdf)\] <br> Review of high-dimensional calculus \[[Slides](sep-13-B.pdf)\] ([supplementary notes](calculus_review.pdf))  |    
-| Sep 20 | Basics of numerical optimization: optimality conditions \[[Slides](sep-20.pdf)\] |    
-| Sep 27 | Basics of numerical optimization: iterative methods \[[Slides](sep-27.pdf)\] | 
-| Oct 04 | Basics of numerical optimization: computing derivatives \[[Slides](oct-04.pdf)\] |     
-| Oct 11 | Training DNNs: basic methods and tricks \[[Slides](oct-11.pdf)\]|    
-| Oct 18 | MSI tutorial \[[Slides](MSI-tutorial.pdf)\] <br> Course project \[[Slides](oct-18.pdf)\]|     
-| Oct 25 | Unsupervised representation learning: autoencoders and factorization \[[Slides](oct-25.pdf)\] |      
-| Nov 01 | From fully-connected to convolutional neural networks \[[Slides](nov-01.pdf)\]  |               
-| Nov 08 | Applications of CNNs in computer Vision: detection and segmentation \[[Slides](nov-08.pdf)\]  | 
-| Nov 15 | Sequence modeling: recurrent neural networks \[[Slides](nov-15.pdf)\] | 
-| Nov 22 | Transformers \[[Slides](nov-22.pdf)\] | 
-| Nov 29 | Project lightning talks (no lecture content) | 
-| Dec 06 | Generative models: generative adversarial networks, variational autoencoder, normalization flow, Diffusion models \[[Slides](dec-06.pdf)\] | 
-| Dec 13 | Relationship Modeling: Graph Neural Networks \[[Slides](dec-13.pdf)\] | 
-
+| Sep 06 | Deep learning: overview  <br> Neural networks: old and new      |    
+| Sep 13 | Fundamental belief: universal approximation theorems  <br> Review of high-dimensional calculus |    
+| Sep 20 | Basics of numerical optimization: optimality conditions |    
+| Sep 27 | Basics of numerical optimization: iterative methods | 
+| Oct 04 | Basics of numerical optimization: computing derivatives |     
+| Oct 11 | Training DNNs: basic methods and tricks |    
+| Oct 18 | MSI tutorial<br> Course project|     
+| Oct 25 | Unsupervised representation learning: autoencoders and factorization  |      
+| Nov 01 | From fully-connected to convolutional neural networks |               
+| Nov 08 | Applications of CNNs in computer Vision: detection and segmentation | 
+| Nov 15 | Sequence modeling: recurrent neural networks | 
+| Nov 22 | Project lightning talks (no lecture content) | 
+| Nov 29 | Transformers | 
+| Dec 06 | Generative models: generative adversarial networks, variational autoencoder, normalization flow, diffusion models | 
+| Dec 13 | Relationship Modeling: Graph Neural Networks | 
 
 **Homework**   
-<!-- + [Homework set 0](HW0.pdf) (Due: Sep 25)
-+ [Homework set 1](HW1.pdf) (Due: Oct 16)
-+ [Homework set 2](HW2.zip) (Due: Oct 30)
-+ [Homework set 3](HW3.pdf) (Due: Nov 13)
-+ [Homework set 4](HW4.pdf) (Due: Nov 28)
-+ [Homework set 5](HW5.pdf) (Due: Dec 18) -->
++ [HW set 0] (Due: )
++ [HW set 1] (Due: )
++ [HW set 2] (Due: )
++ [HW set 3] (Due: )
++ [HW set 4] (Due: )
++ [HW set 5] (Due: )
