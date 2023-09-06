@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teach/DL-Fall-2022/
+permalink: /teach/DL-Fall-2023/
 title: Deep Learning---Models, Computation, and Applications 
 ---
 
@@ -8,13 +8,13 @@ Over the last few years, deep neural networks (DNNs) have fundamentally transfor
 
 Full syllabus: [Syllabus.pdf](DL.pdf)
 
-**Instructor**: [Professor Ju Sun](https://sunju.org/)  Email: jusun AT umn.edu   (Office Hours: 2--4pm, Mon)
+**Instructor**: [Professor Ju Sun](https://sunju.org/)  Email: jusun AT umn.edu   (Office Hours: 1--3pm, Mon)
 
-**When/Where**: Tue 6:30--9:00pm @ KHKH 3-210 
+**When/Where**: Wed 6:30--9:00pm @ KHKH 3-210 
 
 **TA's**:   
-[Hengkang Wang](https://scholar.google.com/citations?user=APqDZvUAAAAJ&hl=en) (email: wang9881 AT umn.edu, office Hours: 1--3pm, Thur)    
-Yash Travadi (email: trava029 AT umn.edu, office Hours: 12--2pm, Fri) 
+[Tiancong Chen](https://sites.google.com/view/tiancong-chen) (email: chen6271 AT umn.edu, office Hours: TBA)    
+[Jiandong Chen](https://www.linkedin.com/in/jiandong-chen) (email: chen8111 AT umn.edu, office Hours: TBA) 
 
 **Lecture Schedule**
 
@@ -38,9 +38,9 @@ Yash Travadi (email: trava029 AT umn.edu, office Hours: 12--2pm, Fri)
 
 
 **Homework**   
-+ [Homework set 0](HW0.pdf) (Due: Sep 25)
+<!-- + [Homework set 0](HW0.pdf) (Due: Sep 25)
 + [Homework set 1](HW1.pdf) (Due: Oct 16)
 + [Homework set 2](HW2.zip) (Due: Oct 30)
 + [Homework set 3](HW3.pdf) (Due: Nov 13)
 + [Homework set 4](HW4.pdf) (Due: Nov 28)
-+ [Homework set 5](HW5.pdf) (Due: Dec 18)
++ [Homework set 5](HW5.pdf) (Due: Dec 18) -->
