@@ -7,9 +7,9 @@ tags: top
 ---
 
 - NO TEACHING  (Spring 2024)
-- CSCI5527: Deep Learning: Models, Computation, Applications (Fall 2023)
+- [CSCI5527: Deep Learning: Models, Computation, Applications (Fall 2023)](DL-Fall-2023)
 - [CSCI2033: Elementary Computational Linear Algebra (Spring 2023)](LA-Spring-2023)
-- [CSCI5527: Deep Learning: Models, Computation, Applications (Fall 2022)](DL-Fall-2022)
+- CSCI5527: Deep Learning: Models, Computation, Applications (Fall 2022)(DL-Fall-2022)
 - CSCI2033: Elementary Computational Linear Algebra (Spring 2022)
 - [CSCI8980: Topics in Modern Machine Learning (Fall 2021)](TMML-Fall-2021)
 - [CSCI5525: Machine Learning: Analysis and Methods (Spring 2021)](ML-Spring-2021)
