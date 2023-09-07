@@ -22,7 +22,7 @@ Disclaimer: The schedule is tentative and subject to change
 
 | Date   | Topics                                                                                                                                                                                         |    
 | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |    
-| Sep 06 | Deep learning: overview  <br> Neural networks: old and new      |    
+| Sep 06 | Deep learning: overview \[[slides](lecture-sep-06-A.pdf)\]  <br> Neural networks: old and new \[[slides](lecture-sep-06-B.pdf)\]      |    
 | Sep 13 | Fundamental belief: universal approximation theorems  <br> Review of high-dimensional calculus |    
 | Sep 20 | Basics of numerical optimization: optimality conditions |    
 | Sep 27 | Basics of numerical optimization: iterative methods | 
@@ -36,7 +36,8 @@ Disclaimer: The schedule is tentative and subject to change
 | Nov 22 | Project lightning talks (no lecture content) | 
 | Nov 29 | Transformers | 
 | Dec 06 | Generative models: generative adversarial networks, variational autoencoder, normalization flow, diffusion models | 
-| Dec 13 | Relationship Modeling: Graph Neural Networks | 
+| Dec 13 | Relationship Modeling: Graph Neural Networks |    
+|  |  |
 
 **Homework**   
 + [HW set 0] (Due: )
