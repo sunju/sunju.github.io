@@ -21,7 +21,6 @@ tags: top
 - Yash Travadi (Stats, co-advised with [Prof. Hui Zou](http://users.stat.umn.edu/~zouxx019/))
 - [Le Peng](https://sites.google.com/view/le-peng/) (CS&E)
 - [Hengkang Wang](https://www.linkedin.com/in/hengkang-henry-wang-a1b293104/) (CS&E)
-- [Zhong Zhuang](https://scholar.google.com/citations?user=rGGxUQEAAAAJ) (ECE, co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/))
 - [Taihui Li](https://taihui.github.io/) (CS&E, co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/))
 
 
@@ -34,7 +33,8 @@ tags: top
 ### Undergrads
 - [Sean Schweiger](https://www.linkedin.com/in/sean-schweiger/) (Math & CS&E)
 
-<!-- ### PhD Alumni -->
+### PhD Alumni  
+- [Zhong Zhuang](https://scholar.google.com/citations?user=rGGxUQEAAAAJ) (PhD'2023, ECE, now Postdoc @ UCLA; Co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/)) 
 
 ### Master Alumni
 - [Buyun Liang](https://www.buyunliang.org/) (MS2023, CS&E, now PhD student @ U Penn)
