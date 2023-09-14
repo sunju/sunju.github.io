@@ -23,7 +23,7 @@ Disclaimer: The schedule is tentative and subject to change
 | Date   | Topics                                                                                                                                                                                         |    
 | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |    
 | Sep 06 | Deep learning: overview \[[slides](lecture-sep-06-A.pdf)\]  <br> Neural networks: old and new \[[slides](lecture-sep-06-B.pdf)\]      |    
-| Sep 13 | Fundamental belief: universal approximation theorems  <br> Review of high-dimensional calculus |    
+| Sep 13 | Fundamental belief: universal approximation theorems \[[slides](lecture-sep-13-A.pdf)\]  <br> Review of high-dimensional calculus \[[slides](lecture-sep-13-B.pdf)\] \[[notes](calculus_review.pdf)\]|    
 | Sep 20 | Basics of numerical optimization: optimality conditions |    
 | Sep 27 | Basics of numerical optimization: iterative methods | 
 | Oct 04 | Basics of numerical optimization: computing derivatives |     
