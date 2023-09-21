@@ -24,9 +24,9 @@ Disclaimer: The schedule is tentative and subject to change
 | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |    
 | Sep 06 | Deep learning: overview \[[slides](lecture-sep-06-A.pdf)\]  <br> Neural networks: old and new \[[slides](lecture-sep-06-B.pdf)\]      |    
 | Sep 13 | Fundamental belief: universal approximation theorems \[[slides](lecture-sep-13-A.pdf)\]  <br> Review of high-dimensional calculus \[[slides](lecture-sep-13-B.pdf)\] \[[notes](calculus_review.pdf)\]|    
-| Sep 20 | Basics of numerical optimization: optimality conditions |    
-| Sep 27 | Basics of numerical optimization: iterative methods | 
-| Oct 04 | Basics of numerical optimization: computing derivatives |     
+| Sep 20 | Basics of numerical optimization: optimality conditions \[[slides](lecture-sep-20-A.pdf)\] <br> Basics of numerical optimization: iterative methods|    
+| Sep 27 | Basics of numerical optimization: computing derivatives  | 
+| Oct 04 | SCHEDULE HERE AND BELOW TO BE UPDATED |     
 | Oct 11 | Training DNNs: basic methods and tricks |    
 | Oct 18 | MSI tutorial<br> Course project|     
 | Oct 25 | Unsupervised representation learning: autoencoders and factorization  |      
@@ -40,7 +40,7 @@ Disclaimer: The schedule is tentative and subject to change
 |  |  |
 
 **Homework**   
-+ [HW set 0] (Due: )
++ [HW set 0](HW0.pdf) (Due: Sep 29)
 + [HW set 1] (Due: )
 + [HW set 2] (Due: )
 + [HW set 3] (Due: )
