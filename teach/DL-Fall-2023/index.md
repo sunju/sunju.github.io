@@ -13,8 +13,8 @@ Full syllabus: [Syllabus.pdf](2023_Fall_DL.pdf)
 **When/Where**: Wed 6:30--9:00pm @ KHKH 3-210 
 
 **TA's**:   
-[Tiancong Chen](https://sites.google.com/view/tiancong-chen) (email: chen6271 AT umn.edu, office Hours: TBA)    
-[Jiandong Chen](https://www.linkedin.com/in/jiandong-chen) (email: chen8111 AT umn.edu, office Hours: TBA) 
+[Tiancong Chen](https://sites.google.com/view/tiancong-chen) (email: chen6271 AT umn.edu, office Hours: 10am-12pm Tue)    
+[Jiandong Chen](https://www.linkedin.com/in/jiandong-chen) (email: chen8111 AT umn.edu, office Hours: 12-2pm Wed) 
 
 **Lecture Schedule**
 
@@ -24,7 +24,7 @@ Disclaimer: The schedule is tentative and subject to change
 | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |    
 | Sep 06 | Deep learning: overview \[[slides](lecture-sep-06-A.pdf)\]  <br> Neural networks: old and new \[[slides](lecture-sep-06-B.pdf)\]      |    
 | Sep 13 | Fundamental belief: universal approximation theorems \[[slides](lecture-sep-13-A.pdf)\]  <br> Review of high-dimensional calculus \[[slides](lecture-sep-13-B.pdf)\] \[[notes](calculus_review.pdf)\]|    
-| Sep 20 | Basics of numerical optimization: optimality conditions \[[slides](lecture-sep-20-A.pdf)\] <br> Basics of numerical optimization: iterative methods|    
+| Sep 20 | Basics of numerical optimization: optimality conditions \[[slides](lecture-sep-20-A.pdf)\] <br> Basics of numerical optimization: iterative methods [[slides](lecture-sep-20-B.pdf)\]|    
 | Sep 27 | Basics of numerical optimization: computing derivatives  | 
 | Oct 04 | SCHEDULE HERE AND BELOW TO BE UPDATED |     
 | Oct 11 | Training DNNs: basic methods and tricks |    
