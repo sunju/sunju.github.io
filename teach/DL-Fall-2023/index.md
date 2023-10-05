@@ -25,8 +25,9 @@ Disclaimer: The schedule is tentative and subject to change
 | Sep 06 | Deep learning: overview \[[slides](lecture-sep-06-A.pdf)\]  <br> Neural networks: old and new \[[slides](lecture-sep-06-B.pdf)\]      |    
 | Sep 13 | Fundamental belief: universal approximation theorems \[[slides](lecture-sep-13-A.pdf)\]  <br> Review of high-dimensional calculus \[[slides](lecture-sep-13-B.pdf)\] \[[notes](calculus_review.pdf)\]|    
 | Sep 20 | Basics of numerical optimization: optimality conditions \[[slides](lecture-sep-20-A.pdf)\] <br> Basics of numerical optimization: iterative methods [[slides](lecture-sep-20-B.pdf)\]|    
-| Sep 27 | Basics of numerical optimization: computing derivatives  | 
-| Oct 04 | SCHEDULE HERE AND BELOW TO BE UPDATED |     
+| Sep 27 | Basics of numerical optimization: computing derivatives  [[slides](lecture-sep-27.pdf)\] | 
+| Oct 04 | Introduction to Google Colab and PyTorch \[[slides](Intro-Colab-PyTorch.pdf)\] \[[Colab file](https://colab.research.google.com/drive/1-nyT230WaDCUa-OyPWCjfRFjqVKz0ft-?usp=sharing)\]  |
+|  | SCHEDULE BELOW MIGHT BE UPDATED |     
 | Oct 11 | Training DNNs: basic methods and tricks |    
 | Oct 18 | MSI tutorial<br> Course project|     
 | Oct 25 | Unsupervised representation learning: autoencoders and factorization  |      
