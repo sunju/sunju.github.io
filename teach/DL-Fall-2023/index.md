@@ -42,7 +42,7 @@ Disclaimer: The schedule is tentative and subject to change
 
 **Homework**   
 + [HW set 0](HW0.pdf) (Due: Sep 29)
-+ [HW set 1] (Due: )
++ [HW set 1](HW1.pdf) (Due: Oct 19)
 + [HW set 2] (Due: )
 + [HW set 3] (Due: )
 + [HW set 4] (Due: )
