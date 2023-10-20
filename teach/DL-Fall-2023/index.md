@@ -26,10 +26,10 @@ Disclaimer: The schedule is tentative and subject to change
 | Sep 13 | Fundamental belief: universal approximation theorems \[[slides](lecture-sep-13-A.pdf)\]  <br> Review of high-dimensional calculus \[[slides](lecture-sep-13-B.pdf)\] \[[notes](calculus_review.pdf)\]|    
 | Sep 20 | Basics of numerical optimization: optimality conditions \[[slides](lecture-sep-20-A.pdf)\] <br> Basics of numerical optimization: iterative methods [[slides](lecture-sep-20-B.pdf)\]|    
 | Sep 27 | Basics of numerical optimization: computing derivatives  [[slides](lecture-sep-27.pdf)\] | 
-| Oct 04 | Introduction to Google Colab and PyTorch \[[slides](Intro-Colab-PyTorch.pdf)\] \[[Colab file](https://colab.research.google.com/drive/1-nyT230WaDCUa-OyPWCjfRFjqVKz0ft-?usp=sharing)\]  |
-|  | SCHEDULE BELOW MIGHT BE UPDATED |     
-| Oct 11 | Training DNNs: basic methods and tricks |    
-| Oct 18 | MSI tutorial<br> Course project|     
+| Oct 04 | Introduction to Google Colab and PyTorch \[[slides](Intro-Colab-PyTorch.pdf)\] \[[Colab file](https://colab.research.google.com/drive/1-nyT230WaDCUa-OyPWCjfRFjqVKz0ft-?usp=sharing)\]  |    
+| Oct 11 | Training DNNs: basic methods and tricks \[[slides](lecture-oct-11.pdf)\]| |    
+| Oct 18 | Training DNNs: basic methods and tricks (continued) <br> Course project \[[slides](project.pdf)\] |    
+|  | SCHEDULE BELOW MIGHT BE UPDATED |  
 | Oct 25 | Unsupervised representation learning: autoencoders and factorization  |      
 | Nov 01 | From fully-connected to convolutional neural networks |               
 | Nov 08 | Applications of CNNs in computer Vision: detection and segmentation | 

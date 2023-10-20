@@ -7,6 +7,9 @@ tags: top
 ---
 ...which are select and recent
 
+#### Robust Deep Learning: Where Are We?
++ [MnRI Robotics Colloquium](https://cse.umn.edu/mnri/events/robotics-colloquium-guest-ju-sun) at Minnesota Robotics Institute \[[Slides](2023-Oct-MnRI-Robustness.pdf)\] (Oct 20, 2023)
+
 #### Three Pillars of Health Data Science: Transfer Learning, Federated Learning, and Imbalanced Learning   
 + Annual BICB ([Bioinformatics and Computational Biology](https://r.umn.edu/academics-research/graduate/bicb)) [Research Symposium](https://r.umn.edu/academics-research/graduate/bicb-research-symposium) at UMN, Rochester \[[Slides](BICB-Symp-2023-Three-Pillars.pdf)\] (Jan 12, 2023)
 + UMN IHI Annual Retreat \[[Slides](2022-Dec-IHI-Retreat.pdf)\] (Dec 08, 2022)
