@@ -28,8 +28,9 @@ Disclaimer: The schedule is tentative and subject to change
 | Sep 27 | Basics of numerical optimization: computing derivatives  [[slides](lecture-sep-27.pdf)\] | 
 | Oct 04 | Introduction to Google Colab and PyTorch \[[slides](Intro-Colab-PyTorch.pdf)\] \[[Colab file](https://colab.research.google.com/drive/1-nyT230WaDCUa-OyPWCjfRFjqVKz0ft-?usp=sharing)\]  |    
 | Oct 11 | Training DNNs: basic methods and tricks \[[slides](lecture-oct-11.pdf)\]| |    
-| Oct 18 | Training DNNs: basic methods and tricks (continued) <br> Course project \[[slides](project.pdf)\] |    
-|  | SCHEDULE BELOW MIGHT BE UPDATED |  
+| Oct 18 | Training DNNs: basic methods and tricks (continued) <br> Course project \[[slides](project.pdf)\] | 
+| Oct 25 | From fully-connected to convolutional neural networks \[[slides](lecture-oct-25.pdf)\]|        
+|  | SCHEDULE BELOW WILL BE UPDATED |  
 | Oct 25 | Unsupervised representation learning: autoencoders and factorization  |      
 | Nov 01 | From fully-connected to convolutional neural networks |               
 | Nov 08 | Applications of CNNs in computer Vision: detection and segmentation | 
@@ -43,7 +44,7 @@ Disclaimer: The schedule is tentative and subject to change
 **Homework**   
 + [HW set 0](HW0.pdf) (Due: Sep 29)
 + [HW set 1](HW1.pdf) (Due: Oct 19)
-+ [HW set 2] (Due: )
++ [HW set 2](HW2.pdf) (Due: Nov 01)
 + [HW set 3] (Due: )
 + [HW set 4] (Due: )
 + [HW set 5] (Due: )
