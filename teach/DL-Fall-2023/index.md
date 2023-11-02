@@ -29,17 +29,15 @@ Disclaimer: The schedule is tentative and subject to change
 | Oct 04 | Introduction to Google Colab and PyTorch \[[slides](Intro-Colab-PyTorch.pdf)\] \[[Colab file](https://colab.research.google.com/drive/1-nyT230WaDCUa-OyPWCjfRFjqVKz0ft-?usp=sharing)\]  |    
 | Oct 11 | Training DNNs: basic methods and tricks \[[slides](lecture-oct-11.pdf)\]| |    
 | Oct 18 | Training DNNs: basic methods and tricks (continued) <br> Course project \[[slides](project.pdf)\] | 
-| Oct 25 | From fully-connected to convolutional neural networks \[[slides](lecture-oct-25.pdf)\]|        
-|  | SCHEDULE BELOW WILL BE UPDATED |  
-| Oct 25 | Unsupervised representation learning: autoencoders and factorization  |      
-| Nov 01 | From fully-connected to convolutional neural networks |               
-| Nov 08 | Applications of CNNs in computer Vision: detection and segmentation | 
-| Nov 15 | Sequence modeling: recurrent neural networks | 
+| Oct 25 | From fully-connected to convolutional neural networks \[[slides](lecture-oct-25.pdf)\]|      
+| Nov 01 | Applications of CNNs in computer Vision: detection and segmentation \[[slides](lecture-nov-01.pdf)\] |  
+| Nov 07 | Sequence modeling: recurrent neural networks |  
+| Nov 15 | Relationship modeling: graph neural networks |  
 | Nov 22 | Project lightning talks (no lecture content) | 
-| Nov 29 | Transformers | 
-| Dec 06 | Generative models: generative adversarial networks, variational autoencoder, normalization flow, diffusion models | 
-| Dec 13 | Relationship Modeling: Graph Neural Networks |    
-|  |  |
+| Nov 29 | Transformers, large language models, and foundation models  |
+| Dec 06 | Generative models: generative adversarial networks, variational autoencoder, normalization flow, diffusion models |
+| Dec 13 | Unsupervised representation learning: autoencoders and factorization  |     
+         
 
 **Homework**   
 + [HW set 0](HW0.pdf) (Due: Sep 29)

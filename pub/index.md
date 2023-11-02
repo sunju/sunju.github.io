@@ -17,8 +17,11 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Preprints 
 
+> **A proximal augmented Lagrangian based algorithm for federated learning with global and local convex conic constraints**. \[[arXiv](https://arxiv.org/abs/2310.10117)\]          
+> &nbsp; &nbsp; Chuan He, Le Peng, **Ju Sun**. Under review for Transaction on Machine Learning Research (TMLR), 2023.  
+
 > **Optimization and Optimizers for Adversarial Robustness**.   \[[arXiv](https://arxiv.org/abs/2303.13401)\]          
-> &nbsp; &nbsp;  Hengyue Liang, Buyun Liang, Le Peng, Ying Cui, Tim Mitchell, **Ju Sun**. Under review for International Journal of Computer Vision, 2023.  
+> &nbsp; &nbsp;  Hengyue Liang, Buyun Liang, Le Peng, Ying Cui, Tim Mitchell, **Ju Sun**. Under review for International Journal of Computer Vision (IJCV), 2023.  
 
 > **Interpretable Deep Learning Methods for Multiview Learning**.   \[[arXiv](https://arxiv.org/abs/2302.07930)\]          
 > &nbsp; &nbsp;  Hengkang Wang, Han Lu, **Ju Sun**, Sandra Safo. Under review for Biometrics, 2023.  
@@ -108,8 +111,17 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Conferences and Workshops
 
+> **Blind Image Deblurring with Unknown Kernel Size and Substantial Noise**. \[[arXiv](https://arxiv.org/abs/2208.09483)\]  
+> &nbsp; &nbsp; Zhuang Zhong, Taihui Li, Hengkang Wang, **Ju Sun**. NeurIPS'23 Workshop on Deep Learning and Inverse Problems, 2023. 
+
+> **Phase Retrieval Using Double Deep Image Priors**. \[[arXiv](https://arxiv.org/abs/2211.00799)\]  
+> &nbsp; &nbsp; Zhuang Zhong, David Yang, Felix Hofmann, David Barmherzig, **Ju Sun**. NeurIPS'23 Workshop on Deep Learning and Inverse Problems, 2023. 
+
+> **A proximal augmented Lagrangian based algorithm for federated learning with constraints**. \[[arXiv](https://arxiv.org/abs/2310.10117)\]  
+> &nbsp; &nbsp; Chuan He, Le Peng, **Ju Sun**. NeurIPS'23 Workshop on Optimization for Machine Learning, 2023.
+
 > **Rethink Transfer Learning in Medical Image Classification**. \[[arXiv](https://arxiv.org/abs/2106.05152)\]  \[[Project website](https://sun-umn.github.io/Transfer-Learning-in-Medical-Imaging/)\]    
-> &nbsp; &nbsp;  Le Peng, Hengyue Liang, Gaoxiang Luo, Taihui Li, **Ju Sun**. British Machine Vision Conference (BMVC), 2023.
+> &nbsp; &nbsp;  Le Peng, Hengyue Liang, Gaoxiang Luo, Taihui Li, **Ju Sun**. British Machine Vision Conference (BMVC, Oral), 2023.
 
 > **A Systematic Evaluation of Federated Learning on Biomedical Natural Language Processing**. \[[paper](https://openreview.net/forum?id=pLEQFXACNA)\]   
 > &nbsp; &nbsp; Le Peng, Sicheng Zhou, Jiandong Chen, Rui Zhang, Ziyue Xu, **Ju Sun**. International Workshop on Federated Learning for Distributed Data Mining (in KDD 2023), 2023. 
@@ -224,7 +236,7 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > &nbsp; &nbsp; **Ju Sun**, Yadong Mu,  Shuicheng Yan, Loong-Fah Cheong. International Conference on Multimedia & Expo (ICME), 2010 (Invited paper to special session).
 
 > **Hierarchical Spatio-Temporal Context Modeling for Action Recognition**. \[[PDF](/docs/cvpr09_hcm.pdf)\]  
-> &nbsp; &nbsp; **Ju Sun**, Xiao Wu, Shuicheng Yan, Loong-Fah Cheong, Tat-Seng Chua, Jintao Li. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2009 (Oral).
+> &nbsp; &nbsp; **Ju Sun**, Xiao Wu, Shuicheng Yan, Loong-Fah Cheong, Tat-Seng Chua, Jintao Li. IEEE Conference on Computer Vision and Pattern Recognition (CVPR, Oral), 2009.
 
 > **3D Ordinal Constraint in Spatial Configuration for Robust Scene Recognition**. \[[PDF](/docs/icpr08_ordinal.pdf)\]  
 > &nbsp; &nbsp; Ching-Lik Teo, Shimiao Li, Loong-Fah Cheong, **Ju Sun**.  IEEE International Conference on Pattern Recognition (ICPR), 2008.
