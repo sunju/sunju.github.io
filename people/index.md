@@ -13,7 +13,8 @@ tags: top
 - [Chuan He](https://chuanhe97.github.io/chuanhe97/) 
   
 ### PhD's
-
+ 
+- [Corey Senger](https://www.linkedin.com/in/corey-senger-69bbb3122/) (CS&E, co-advised with [Prof. Jiarong Hong](https://cse.umn.edu/me/jiarong-hong))
 - [Wenjie Zhang](https://www.linkedin.com/in/wenjie-zhang-785771237/) (CS&E) 
 - [Jiandong Chen](https://www.linkedin.com/in/jiandong-chen) ([IHI](https://healthinformatics.umn.edu/))
 - [Ryan de Vera](https://www.linkedin.com/in/ryan-de-vera-b4374089) (CS&E)
