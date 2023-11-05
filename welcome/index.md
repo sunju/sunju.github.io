@@ -50,7 +50,9 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 
 #### Upcoming
 
-- **Service**: With [Prof. Mingyi Hong](https://people.ece.umn.edu/~mhong/mingyi.html), we're leading the organization of the [Midwest Machine Learning Symposium 2024]() at UMN on 2024 summer. Stay tuned! (Summer, 2024)
+- **Service**: With [Prof. Mingyi Hong](https://people.ece.umn.edu/~mhong/mingyi.html), we're leading the organization of the [Midwest Machine Learning Symposium 2024](https://midwest-ml.org/) at UMN on 2024 summer. Stay tuned! (Summer, 2024)
+- **Conference**: [Conference on Neural Information Processing Systems 2023](https://nips.cc/Conferences/2023)  (New Orleans, Dec 11--16, 2023)
+- **Workshop**: [The Convergence of Smart Sensing Systems, Applications, Analytic and Decision Making](https://sites.google.com/umn.edu/nsf-workshop-sensing-analytics/home) (DC, Dec 07--08, 2023)
 - **Talk**: [The British Machine Vision Conference (BMVC) 2023](https://bmvc2023.org/) (Aberdeen, UK, Nov 20--24, 2023)
 - **Talk**: [PSU-Purdue-UMD Joint Seminar on Mathematical Data Science](https://yuangaogao.github.io/seminar.html) (Nov 06, 2023)
 
