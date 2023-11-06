@@ -43,6 +43,6 @@ Disclaimer: The schedule is tentative and subject to change
 + [HW set 0](HW0.pdf) (Due: Sep 29)
 + [HW set 1](HW1.pdf) (Due: Oct 19)
 + [HW set 2](HW2.pdf) (Due: Nov 01)
-+ [HW set 3] (Due: )
++ [HW set 3](HW3.pdf) (Due: Nov 13)
 + [HW set 4] (Due: )
 + [HW set 5] (Due: )
