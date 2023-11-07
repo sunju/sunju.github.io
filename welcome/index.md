@@ -54,10 +54,10 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 - **Conference**: [Conference on Neural Information Processing Systems 2023](https://nips.cc/Conferences/2023)  (New Orleans, Dec 11--16, 2023)
 - **Workshop**: [The Convergence of Smart Sensing Systems, Applications, Analytic and Decision Making](https://sites.google.com/umn.edu/nsf-workshop-sensing-analytics/home) (DC, Dec 07--08, 2023)
 - **Talk**: [The British Machine Vision Conference (BMVC) 2023](https://bmvc2023.org/) (Aberdeen, UK, Nov 20--24, 2023)
-- **Talk**: [PSU-Purdue-UMD Joint Seminar on Mathematical Data Science](https://yuangaogao.github.io/seminar.html) (Nov 06, 2023)
 
 #### Past
 
+- **Talk**: [PSU-Purdue-UMD Joint Seminar on Mathematical Data Science](https://yuangaogao.github.io/seminar.html) \[[Slides](talks/2023-Nov-Robustness-PSU-Purdue-UMD.pdf)\] (Nov 06, 2023)
 - **Talk**: at the [Robotics Colloquium](https://cse.umn.edu/mnri/events/robotics-colloquium-guest-ju-sun) of the [Minnesota Robotics Institute](https://cse.umn.edu/mnri). \[[Slides](talks/2023-Oct-MnRI-Robustness.pdf)\]  (Oct 20, 2023)  
 - **Graduation**: The first PhD graduate of the group, [Zhong Zhuang](https://scholar.google.com/citations?user=rGGxUQEAAAAJ) (ECE, co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/)) has successfully defended his thesis titled Advancing Deep Learning for Scientific Inverse Problems. Heartfelt congratulations to Dr. Zhong Zhuang! Zhong is continuing his research into AI for Science at UCLA with [Professor John Miao](https://www.pa.ucla.edu/faculty-websites/miao.html)! (Sep 12, 2023)
 - **Workshop**: [DARPA CriticalMAAS](https://www.darpa.mil/program/critical-mineral-assessments-with-ai-support) kickoff workshop (Aug 15--18, [National Conservation and Training Center in Shepherdstown, WV](https://www.fws.gov/office/national-conservation-training-center-facility) )
