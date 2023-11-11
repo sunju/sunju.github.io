@@ -17,6 +17,9 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Preprints 
 
+> **An In-Depth Evaluation of Federated Learning on Biomedical Natural Language Processing**.    
+> &nbsp; &nbsp; Le Peng, Gaoxiang Luo, Sicheng Zhou, Jiandong Chen, Ziyue Xu, Rui Zhang, **Ju Sun**. Under review for npj Digital Medicine, 2023.  
+
 > **A proximal augmented Lagrangian based algorithm for federated learning with global and local convex conic constraints**. \[[arXiv](https://arxiv.org/abs/2310.10117)\]          
 > &nbsp; &nbsp; Chuan He, Le Peng, **Ju Sun**. Under review for Transaction on Machine Learning Research (TMLR), 2023.  
 
