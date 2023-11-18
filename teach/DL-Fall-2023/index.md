@@ -31,10 +31,10 @@ Disclaimer: The schedule is tentative and subject to change
 | Oct 18 | Training DNNs: basic methods and tricks (continued) <br> Course project \[[slides](project.pdf)\] | 
 | Oct 25 | From fully-connected to convolutional neural networks \[[slides](lecture-oct-25.pdf)\]|      
 | Nov 01 | Applications of CNNs in computer Vision: detection and segmentation \[[slides](lecture-nov-01.pdf)\] |  
-| Nov 08 | Sequence modeling: recurrent neural networks |  
-| Nov 15 | Relationship modeling: graph neural networks |  
+| Nov 08 | Sequence modeling: recurrent neural networks \[[slides](lecture-nov-08.pdf)\]|  
+| Nov 15 | Transformers, large language models, and foundation models \[[slides](lecture-nov-15.pdf)\] |
 | Nov 22 | Project lightning talks (no lecture content) | 
-| Nov 29 | Transformers, large language models, and foundation models  |
+| Nov 29 | Relationship modeling: graph neural networks |  
 | Dec 06 | Generative models: generative adversarial networks, variational autoencoder, normalization flow, diffusion models |
 | Dec 13 | Unsupervised representation learning: autoencoders and factorization  |     
          
