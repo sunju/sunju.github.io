@@ -34,10 +34,9 @@ Disclaimer: The schedule is tentative and subject to change
 | Nov 08 | Sequence modeling: recurrent neural networks \[[slides](lecture-nov-08.pdf)\]|  
 | Nov 15 | Transformers, large language models, and foundation models \[[slides](lecture-nov-15.pdf)\] |
 | Nov 22 | Project lightning talks (no lecture content) | 
-| Nov 29 | Relationship modeling: graph neural networks |  
-| Dec 06 | Generative models: generative adversarial networks, variational autoencoder, normalization flow, diffusion models |
-| Dec 13 | Unsupervised representation learning: autoencoders and factorization  |     
-         
+| Nov 29 | Relationship modeling: graph neural networks \[[slides](lecture-nov-29.pdf)\] |  
+| Dec 06 | Unsupervised and self-supervised representation |     
+| Dec 13 | Deep generative models |   
 
 **Homework**   
 + [HW set 0](HW0.pdf) (Due: Sep 29)
