@@ -30,10 +30,7 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > &nbsp; &nbsp;  Hengkang Wang, Han Lu, **Ju Sun**, Sandra Safo. Under review for Biometrics, 2023.  
 
 > **Phase Retrieval: the Role of Overparametrization and New Methods**.     
-> &nbsp; &nbsp;  Zhong Zhuang,  Yash Travadi, Zhihui Zhu,  **Ju Sun**. In preparation for SIAM Journal on  Mathematics of Data Science (SIMODS), 2023.   
-
-> **Early Stopping for Deep Image Prior**. \[[arXiv](https://arxiv.org/abs/2112.06074)\]         
-> &nbsp; &nbsp;  Hengkang Wang, Taihui Li, Zhong Zhuang, Tiancong Chen, Hengyue Liang, **Ju Sun**. Under review for Transaction on Machine Learning Research (TMLR), 2023.     
+> &nbsp; &nbsp;  Zhong Zhuang,  Yash Travadi, Zhihui Zhu,  **Ju Sun**. In preparation for SIAM Journal on  Mathematics of Data Science (SIMODS), 2023.     
 
 > **NCVX: A User-Friendly and Scalable Package for Nonconvex Optimization in Machine Learning**.  \[[arXiv](https://arxiv.org/abs/2111.13984)\] (an expanded version with detailed examples on constrained deep learning \[[arXiv](https://arxiv.org/abs/2210.00973)\])     
 > &nbsp; &nbsp;  Buyun Liang, Tim Mitchell, **Ju Sun**. 
@@ -48,6 +45,9 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > &nbsp; &nbsp; Yu Bai, Qijia Jiang, **Ju Sun**. 2018.   
 
 ### Journals
+
+> **Early Stopping for Deep Image Prior**. \[[arXiv](https://arxiv.org/abs/2112.06074)\] \[[openreview](https://openreview.net/forum?id=231ZzrLC8X)\]         
+> &nbsp; &nbsp;  Hengkang Wang, Taihui Li, Zhong Zhuang, Tiancong Chen, Hengyue Liang, **Ju Sun**. Transactions on Machine Learning Research (TMLR), 2023.   
 
 > **A Cross-institutional Evaluation on Breast Cancer Phenotyping NLP Algorithms on Electronic Health Records**. \[[arXiv](https://arxiv.org/abs/2303.08448)\] \[[paper](https://doi.org/10.1016/j.csbj.2023.08.018)\]   
 > &nbsp; &nbsp;  Sicheng Zhou, Nan Wang, Liwei Wang, **Ju Sun**, Anne Blaes, Hongfang Liu, Rui Zhang. Computational and Structural Biotechnology Journal, 2023.  
