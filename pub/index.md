@@ -17,10 +17,10 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Preprints 
 
-> **An In-Depth Evaluation of Federated Learning on Biomedical Natural Language Processing**.    
+> **An In-Depth Evaluation of Federated Learning on Biomedical Natural Language Processing**. \[[arXiv](https://arxiv.org/abs/2307.11254)\] \[[medRxiv](https://doi.org/10.1101/2023.11.24.23299002)\]     
 > &nbsp; &nbsp; Le Peng, Gaoxiang Luo, Sicheng Zhou, Jiandong Chen, Ziyue Xu, Rui Zhang, **Ju Sun**. Under review for npj Digital Medicine, 2023.  
 
-> **A proximal augmented Lagrangian based algorithm for federated learning with global and local convex conic constraints**. \[[arXiv](https://arxiv.org/abs/2310.10117)\]          
+> **Federated Learning with Convex Global and Local Constraints**. \[[arXiv](https://arxiv.org/abs/2310.10117)\]          
 > &nbsp; &nbsp; Chuan He, Le Peng, **Ju Sun**. Under review for Transaction on Machine Learning Research (TMLR), 2023.  
 
 > **Optimization and Optimizers for Adversarial Robustness**.   \[[arXiv](https://arxiv.org/abs/2303.13401)\]          
@@ -120,7 +120,7 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > **Phase Retrieval Using Double Deep Image Priors**. \[[arXiv](https://arxiv.org/abs/2211.00799)\]  
 > &nbsp; &nbsp; Zhuang Zhong, David Yang, Felix Hofmann, David Barmherzig, **Ju Sun**. NeurIPS'23 Workshop on Deep Learning and Inverse Problems, 2023. 
 
-> **A proximal augmented Lagrangian based algorithm for federated learning with constraints**. \[[arXiv](https://arxiv.org/abs/2310.10117)\]  
+> **Federated Learning with Convex Global and Local Constraints**. \[[arXiv](https://arxiv.org/abs/2310.10117)\] \[[openreview](https://openreview.net/forum?id=JprHZqWE4M)\]    
 > &nbsp; &nbsp; Chuan He, Le Peng, **Ju Sun**. NeurIPS'23 Workshop on Optimization for Machine Learning, 2023.
 
 > **Rethink Transfer Learning in Medical Image Classification**. \[[arXiv](https://arxiv.org/abs/2106.05152)\]  \[[Project website](https://sun-umn.github.io/Transfer-Learning-in-Medical-Imaging/)\]    
