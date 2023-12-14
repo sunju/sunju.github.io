@@ -36,12 +36,12 @@ Disclaimer: The schedule is tentative and subject to change
 | Nov 22 | Project lightning talks (no lecture content) | 
 | Nov 29 | Relationship modeling: graph neural networks \[[slides](lecture-nov-29.pdf)\] |  
 | Dec 06 | Unsupervised and self-supervised representation |     
-| Dec 13 | Deep generative models |   
+| Dec 13 | Deep generative models  \[[slides](lecture-dec-13.pdf)\]|   
 
 **Homework**   
 + [HW set 0](HW0.pdf) (Due: Sep 29)
 + [HW set 1](HW1.pdf) (Due: Oct 19)
 + [HW set 2](HW2.pdf) (Due: Nov 01)
 + [HW set 3](HW3.pdf) (Due: Nov 13)
-+ [HW set 4] (Due: )
++ [HW set 4](HW4.pdf) (Due: Dec 14)
 + [HW set 5] (Due: )
