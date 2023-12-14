@@ -35,7 +35,7 @@ Disclaimer: The schedule is tentative and subject to change
 | Nov 15 | Transformers, large language models, and foundation models \[[slides](lecture-nov-15.pdf)\] |
 | Nov 22 | Project lightning talks (no lecture content) | 
 | Nov 29 | Relationship modeling: graph neural networks \[[slides](lecture-nov-29.pdf)\] |  
-| Dec 06 | Unsupervised and self-supervised representation |     
+| Dec 06 | Unsupervised and self-supervised representation \[[slides](lecture-dec-06.pdf)\]|     
 | Dec 13 | Deep generative models  \[[slides](lecture-dec-13.pdf)\]|   
 
 **Homework**   
