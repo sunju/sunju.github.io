@@ -51,12 +51,14 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 #### Upcoming
 
 - **Service**: With [Prof. Mingyi Hong](https://people.ece.umn.edu/~mhong/mingyi.html), we're leading the organization of the [Midwest Machine Learning Symposium 2024](https://midwest-ml.org/) at UMN on 2024 summer. Stay tuned! (Summer, 2024)
-- **Conference**: [Conference on Neural Information Processing Systems 2023](https://nips.cc/Conferences/2023)  (New Orleans, Dec 11--16, 2023)
-- **Workshop**: [The Convergence of Smart Sensing Systems, Applications, Analytic and Decision Making](https://sites.google.com/umn.edu/nsf-workshop-sensing-analytics/home) (DC, Dec 07--08, 2023)
-- **Talk**: [The British Machine Vision Conference (BMVC) 2023](https://bmvc2023.org/) (Aberdeen, UK, Nov 20--24, 2023)
+- **Talk**: at [Machine Learning for Scientific Imaging Conference](https://www.imaging.org/IST/Conferences/EI/EI2024/Conference/C_MLSI.aspx) of [Electronic Imaging 2024](https://www.imaging.org/IST/Conferences/EI/EI2024/EI2024) (Burlingame, California, Jan 21--25, 2024) 
 
 #### Past
 
+- **Grant approval**: with [Prof. Zhaosong Lu](https://cse.umn.edu/isye/zhaosong-lu), we are funded by the [UMN DSI Seed Grant, Medium](https://umnresearch.smapply.io/prog/DSI-ML-Seed-Grant/) to develop stochastic numerical optimization methods for constrained deep learning problems. (Dec, 2023)
+- **Conference**: [Conference on Neural Information Processing Systems 2023](https://nips.cc/Conferences/2023)  (New Orleans, Dec 11--16, 2023)
+- **Workshop**: [The Convergence of Smart Sensing Systems, Applications, Analytic and Decision Making](https://sites.google.com/umn.edu/nsf-workshop-sensing-analytics/home) (DC, Dec 07--08, 2023)
+- **Talk**: [The British Machine Vision Conference (BMVC) 2023](https://bmvc2023.org/) (Aberdeen, UK, Nov 20--24, 2023)
 - **Talk**: [PSU-Purdue-UMD Joint Seminar on Mathematical Data Science](https://yuangaogao.github.io/seminar.html) \[[Slides](talks/2023-Nov-Robustness-PSU-Purdue-UMD.pdf)\] (Nov 06, 2023)
 - **Talk**: at the [Robotics Colloquium](https://cse.umn.edu/mnri/events/robotics-colloquium-guest-ju-sun) of the [Minnesota Robotics Institute](https://cse.umn.edu/mnri). \[[Slides](talks/2023-Oct-MnRI-Robustness.pdf)\]  (Oct 20, 2023)  
 - **Graduation**: The first PhD graduate of the group, [Zhong Zhuang](https://scholar.google.com/citations?user=rGGxUQEAAAAJ) (ECE, co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/)) has successfully defended his thesis titled Advancing Deep Learning for Scientific Inverse Problems. Heartfelt congratulations to Dr. Zhong Zhuang! Zhong is continuing his research into AI for Science at UCLA with [Professor John Miao](https://www.pa.ucla.edu/faculty-websites/miao.html)! (Sep 12, 2023)
