@@ -50,6 +50,8 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 
 #### Upcoming
 
+- **Talk**: [International Symposium on Mathematical Programming (ISMP24)](https://ismp2024.gerad.ca/) (Montréal, Canada, Jul 21--26, 2024)
+- **Talk**: [SIAM Conference on Imaging Science (IS24)](https://www.siam.org/conferences/cm/conference/is24) (Atlanta, May 28--31, 2024)
 - **Service**: With [Prof. Mingyi Hong](https://people.ece.umn.edu/~mhong/mingyi.html), we're leading the organization of the [Midwest Machine Learning Symposium 2024](https://midwest-ml.org/) at UMN on 2024 summer. Stay tuned! (Summer, 2024)
 - **Talk**: at [Machine Learning for Scientific Imaging Conference](https://www.imaging.org/IST/Conferences/EI/EI2024/Conference/C_MLSI.aspx) of [Electronic Imaging 2024](https://www.imaging.org/IST/Conferences/EI/EI2024/EI2024) (Burlingame, California, Jan 21--25, 2024) 
 
