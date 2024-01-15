@@ -21,7 +21,7 @@ Leader, [Group of Learning, Optimization, Vision, Healthcare, and X (GLOVEX)](ht
 Foundational Data Science Committee, [UMN Data Science Initiative (DSI)](https://dsi.umn.edu/)      
 Leader of Computer Vision, [Program for Clinical AI](https://med.umn.edu/clhss/activities/clinical-ai), [Center for Learning Health System Sciences (CLHSS)](https://med.umn.edu/clhss)   
 Full Member, [Innovative Methods & Data Science](https://med.umn.edu/clhss/activities/imds), [Center for Learning Health System Sciences (CLHSS)](https://med.umn.edu/clhss)            
-Affiliated Faculty of [Electrical and Computer Engineering](https://cse.umn.edu/ece); [UMN CSE Data Science Initiative (CSE-DSI)](https://cse.umn.edu/dsi); [AI Institute for Climate-Land Interactions, Mitigation, Adaptation, Tradeoffs and Economy (AI-CLIMATE)](https://cse.umn.edu/aiclimate); [UMN Data Science Program](https://cse.umn.edu/datascience); [Institute for Health Informatics (IHI)](https://healthinformatics.umn.edu/); [Institute for Engineering in Medicine (IME)](https://www.iem.umn.edu/)   
+Affiliated Faculty of [Electrical and Computer Engineering](https://cse.umn.edu/ece); [UMN CSE Data Science Initiative (CSE-DSI)](https://cse.umn.edu/dsi); [AI Institute for Climate-Land Interactions, Mitigation, Adaptation, Tradeoffs and Economy (AI-CLIMATE)](https://cse.umn.edu/aiclimate); [UMN Data Science Program](https://cse.umn.edu/datascience); [Institute for Health Informatics (IHI)](https://healthinformatics.umn.edu/); [Institute for Engineering in Medicine (IME)](https://www.iem.umn.edu/); [Masonic Cancer Center (MCC)](https://cancer.umn.edu/)   
 University of Minnesota, Twin Cities
 
 R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
@@ -52,8 +52,9 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 
 - **Talk**: [International Symposium on Mathematical Programming (ISMP24)](https://ismp2024.gerad.ca/) (Montréal, Canada, Jul 21--26, 2024)
 - **Talk**: [SIAM Conference on Imaging Science (IS24)](https://www.siam.org/conferences/cm/conference/is24) (Atlanta, May 28--31, 2024)
-- **Service**: With [Prof. Mingyi Hong](https://people.ece.umn.edu/~mhong/mingyi.html), we're leading the organization of the [Midwest Machine Learning Symposium 2024](https://midwest-ml.org/) at UMN on 2024 summer. Stay tuned! (Summer, 2024)
-- **Event**: [DARPA Discover DSO Day](https://events.sa-meetings.com/website/65050/home/) (Feb 21--22, San Francisco)
+- **Event \& Service**: [UMN DSI 2024 Spring Research Workshop on Generative AI](https://sites.google.com/umn.edu/dsi-srw-2024/home) (May 22--24, 2024)
+- **Event \& Service**: With [Prof. Mingyi Hong](https://people.ece.umn.edu/~mhong/mingyi.html), we're leading the organization of the [Midwest Machine Learning Symposium 2024](https://midwest-ml.org/) at UMN. (May 20--21, 2024)
+- **Event**: [DARPA Discover DSO Day](https://events.sa-meetings.com/website/65050/home/) (Feb 21--22, San Francisco) 
 - **Talk**: at [Machine Learning for Scientific Imaging Conference](https://www.imaging.org/IST/Conferences/EI/EI2024/Conference/C_MLSI.aspx) of [Electronic Imaging 2024](https://www.imaging.org/IST/Conferences/EI/EI2024/EI2024) (Burlingame, California, Jan 21--25, 2024) 
 
 #### Past
