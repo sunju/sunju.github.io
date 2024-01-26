@@ -7,6 +7,9 @@ tags: top
 ---
 ...which are select and recent
 
+#### What’s Wrong with End-to-End Learning for Phase Retrieval?   
++ [Machine Learning for Scientific Imaging Conference](https://www.imaging.org/IST/Conferences/EI/EI2024/Conference/C_MLSI.aspx) of [Electronic Imaging 2024](https://www.imaging.org/IST/Conferences/EI/EI2024/EI2024)  \[[Slides](EI-2024-Jan.pdf)\] (Jan, 2024)
+
 #### Robust Deep Learning: Where Are We?
 + [PSU-Purdue-UMD Joint Seminar on Mathematical Data Science](https://yuangaogao.github.io/seminar.html) \[[Slides](2023-Nov-Robustness-PSU-Purdue-UMD.pdf)\] (Nov 06, 2023)
 + [MnRI Robotics Colloquium](https://cse.umn.edu/mnri/events/robotics-colloquium-guest-ju-sun) at Minnesota Robotics Institute \[[Slides](2023-Oct-MnRI-Robustness.pdf)\] (Oct 20, 2023)

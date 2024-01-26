@@ -55,10 +55,10 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 - **Event & Service**: [UMN DSI 2024 Spring Research Workshop on Generative AI](https://sites.google.com/umn.edu/dsi-srw-2024/home) (May 22--24, 2024)
 - **Event & Service**: With [Prof. Mingyi Hong](https://people.ece.umn.edu/~mhong/mingyi.html), we're leading the organization of the [Midwest Machine Learning Symposium 2024](https://midwest-ml.org/) at UMN. (May 20--21, 2024)
 - **Event**: [DARPA Discover DSO Day](https://events.sa-meetings.com/website/65050/home/) (Feb 21--22, San Francisco) 
-- **Talk**: at [Machine Learning for Scientific Imaging Conference](https://www.imaging.org/IST/Conferences/EI/EI2024/Conference/C_MLSI.aspx) of [Electronic Imaging 2024](https://www.imaging.org/IST/Conferences/EI/EI2024/EI2024) (Burlingame, California, Jan 21--25, 2024) 
 
 #### Past
 
+- **Talk**: at [Machine Learning for Scientific Imaging Conference](https://www.imaging.org/IST/Conferences/EI/EI2024/Conference/C_MLSI.aspx) of [Electronic Imaging 2024](https://www.imaging.org/IST/Conferences/EI/EI2024/EI2024) \[[Slides](talks/EI-2024-Jan.pdf)\] (Burlingame, California, Jan 21--25, 2024) 
 - **Grant approval**: with [Prof. Zhaosong Lu](https://cse.umn.edu/isye/zhaosong-lu), we are funded by the [UMN DSI Seed Grant, Medium](https://umnresearch.smapply.io/prog/DSI-ML-Seed-Grant/) to develop stochastic numerical optimization methods for constrained deep learning problems. (Dec, 2023)
 - **Conference**: [Conference on Neural Information Processing Systems 2023](https://nips.cc/Conferences/2023)  (New Orleans, Dec 11--16, 2023)
 - **Workshop**: [The Convergence of Smart Sensing Systems, Applications, Analytic and Decision Making](https://sites.google.com/umn.edu/nsf-workshop-sensing-analytics/home) (DC, Dec 07--08, 2023)
