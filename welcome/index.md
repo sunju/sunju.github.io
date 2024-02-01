@@ -54,7 +54,8 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 - **Talk**: [SIAM Conference on Imaging Science (IS24)](https://www.siam.org/conferences/cm/conference/is24) (Atlanta, May 28--31, 2024)
 - **Event & Service**: [UMN DSI 2024 Spring Research Workshop on Generative AI](https://sites.google.com/umn.edu/dsi-srw-2024/home) (May 22--24, 2024)
 - **Event & Service**: With [Prof. Mingyi Hong](https://people.ece.umn.edu/~mhong/mingyi.html), we're leading the organization of the [Midwest Machine Learning Symposium 2024](https://midwest-ml.org/) at UMN. (May 20--21, 2024)
-- **Event**: [DARPA Discover DSO Day](https://events.sa-meetings.com/website/65050/home/) (Feb 21--22, San Francisco) 
+- **Talk**: [2024 INFORMS Optimization Society (IOS) Conference](https://ios2024.rice.edu/) (Houston, Mar 22--24, 2024)
+- **Event**: [DARPA Discover DSO Day](https://events.sa-meetings.com/website/65050/home/) (San Francisco, Feb 21--22, 2024) 
 
 #### Past
 
