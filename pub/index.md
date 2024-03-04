@@ -17,6 +17,18 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Preprints 
 
+> **Direct Metric Optimization for Imbalanced Classification**.  
+> &nbsp; &nbsp; Le Peng, Yash Travadi, Chuan He, Ying Cui, **Ju Sun**. 2024.  
+
+> **Diff-Inversion: Diffusion Models for Blind Image Deblurring**.  
+> &nbsp; &nbsp; Hengkang Wang, Xu Zhang, Taihui Li, Yuxiang Wan, **Ju Sun**. 2024.  
+
+> **Regression with High-Dimensional Targets**.  
+> &nbsp; &nbsp; Tiancong Chen, Hengkang Wang, Chuan He, Ying Cui, **Ju Sun**. 2024.  
+
+> **Selective Classification Under Distribution Shifts**.  
+> &nbsp; &nbsp; Hengyue Liang, Le Peng, **Ju Sun**. 2024.  
+
 > **An In-Depth Evaluation of Federated Learning on Biomedical Natural Language Processing**. \[[arXiv](https://arxiv.org/abs/2307.11254)\] \[[medRxiv](https://doi.org/10.1101/2023.11.24.23299002)\]     
 > &nbsp; &nbsp; Le Peng, Gaoxiang Luo, Sicheng Zhou, Jiandong Chen, Ziyue Xu, Rui Zhang, **Ju Sun**. Under review for npj Digital Medicine, 2023.  
 
@@ -44,17 +56,17 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Journals
 
-> **Interpretable Deep Learning Methods for Multiview Learning**.   \[[arXiv](https://arxiv.org/abs/2302.07930)\]          
-> &nbsp; &nbsp;  Hengkang Wang, Han Lu, **Ju Sun**, Sandra Safo. BMC Bioinformatics, 2024.  
+> **Interpretable Deep Learning Methods for Multiview Learning**.   \[[arXiv](https://arxiv.org/abs/2302.07930)\] \[[paper](https://doi.org/10.1186/s12859-024-05679-9)\]         
+> &nbsp; &nbsp;  Hengkang Wang, Han Lu, **Ju Sun**, Sandra Safo. BMC Bioinformatics, 25(1):1--30, 2024.  
+
+> **Blind Image Deblurring with Unknown Kernel Size and Substantial Noise**. \[[arXiv](https://arxiv.org/abs/2208.09483)\] \[[paper](https://doi.org/10.1007/s11263-023-01883-x)\]       
+> &nbsp; &nbsp;  Zhong Zhuang, Taihui Li, Hengkang Wang, **Ju Sun**. International Journal of Computer Vision (IJCV), 132(2):319--348, 2024.
 
 > **Early Stopping for Deep Image Prior**. \[[arXiv](https://arxiv.org/abs/2112.06074)\] \[[openreview](https://openreview.net/forum?id=231ZzrLC8X)\]         
-> &nbsp; &nbsp;  Hengkang Wang, Taihui Li, Zhong Zhuang, Tiancong Chen, Hengyue Liang, **Ju Sun**. Transactions on Machine Learning Research (TMLR), 2023.   
+> &nbsp; &nbsp;  Hengkang Wang, Taihui Li, Zhong Zhuang, Tiancong Chen, Hengyue Liang, **Ju Sun**. Transactions on Machine Learning Research (TMLR), 2023.  
 
 > **A Cross-institutional Evaluation on Breast Cancer Phenotyping NLP Algorithms on Electronic Health Records**. \[[arXiv](https://arxiv.org/abs/2303.08448)\] \[[paper](https://doi.org/10.1016/j.csbj.2023.08.018)\]   
 > &nbsp; &nbsp;  Sicheng Zhou, Nan Wang, Liwei Wang, **Ju Sun**, Anne Blaes, Hongfang Liu, Rui Zhang. Computational and Structural Biotechnology Journal, 22:32--40, 2023.  
-
-> **Blind Image Deblurring with Unknown Kernel Size and Substantial Noise**. \[[arXiv](https://arxiv.org/abs/2208.09483)\] \[[paper](https://doi.org/10.1007/s11263-023-01883-x)\]       
-> &nbsp; &nbsp;  Zhong Zhuang, Taihui Li, Hengkang Wang, **Ju Sun**. International Journal of Computer Vision (IJCV), 2023.
 
 > **Automated Quantification of Eye Tics using Computer Vision and Deep Learning Techniques**. \[[paper (open access)](https://doi.org/10.1002/mds.29593)\]      
 > &nbsp; &nbsp; Christine Conelea, Hengyue Liang, Megan DuBois, Brittany Raab, Mia Kellman, Brianna Wellen, Suma Jacob, Sonya Wang, **Ju Sun**, Kelvin Lim. Movement Disorders, 39(1):183--191, 2023.
@@ -115,6 +127,9 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Conferences and Workshops
 
+> **What’s Wrong with End-to-End Learning for Phase Retrieval?**.   
+> &nbsp; &nbsp; Wenjie Zhang, Yuxiang Wan, Zhuang Zhong, **Ju Sun**. Machine Learning for Scientic Imaging at Electronic Imaging, 2024. 
+
 > **Blind Image Deblurring with Unknown Kernel Size and Substantial Noise**. \[[arXiv](https://arxiv.org/abs/2208.09483)\]  
 > &nbsp; &nbsp; Zhuang Zhong, Taihui Li, Hengkang Wang, **Ju Sun**. NeurIPS'23 Workshop on Deep Learning and Inverse Problems, 2023. 
 
@@ -146,7 +161,7 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > &nbsp; &nbsp;  Hengyue Liang, Buyun Liang, Ying Cui, Tim Mitchell, **Ju Sun**. International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023.  
 
 > **Practical Phase Retrieval Using Double Deep Image Priors**. \[[arXiv](https://arxiv.org/abs/2211.00799)\]     
-> &nbsp; &nbsp;  Zhong Zhuang, David Yang, Felix Hofmann, David Barmherzig, **Ju Sun**. Computational Imaging XXI, 2023.  
+> &nbsp; &nbsp;  Zhong Zhuang, David Yang, Felix Hofmann, David Barmherzig, **Ju Sun**. Computational Imaging XXI at Electronic Imaging, 2023.  
 
 > **Imbalanced Classification in Medical Imaging via Regrouping**. \[[arXiv](https://arxiv.org/abs/2210.12234)\]     
 > &nbsp; &nbsp;  Le Peng, Yash Travadi, Rui Zhang, Ying Cui, **Ju Sun**.  NeurIPS Workshop on Medical Imaging Meets NeurIPS, 2022. 
