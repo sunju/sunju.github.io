@@ -29,9 +29,6 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > **Selective Classification Under Distribution Shifts**.  
 > &nbsp; &nbsp; Hengyue Liang, Le Peng, **Ju Sun**. 2024.  
 
-> **An In-Depth Evaluation of Federated Learning on Biomedical Natural Language Processing**. \[[arXiv](https://arxiv.org/abs/2307.11254)\] \[[medRxiv](https://doi.org/10.1101/2023.11.24.23299002)\]     
-> &nbsp; &nbsp; Le Peng, Gaoxiang Luo, Sicheng Zhou, Jiandong Chen, Ziyue Xu, Rui Zhang, **Ju Sun**. Under review for npj Digital Medicine, 2023.  
-
 > **Federated Learning with Convex Global and Local Constraints**. \[[arXiv](https://arxiv.org/abs/2310.10117)\]          
 > &nbsp; &nbsp; Chuan He, Le Peng, **Ju Sun**. Under review for Transaction on Machine Learning Research (TMLR), 2023.  
 
@@ -55,6 +52,9 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > &nbsp; &nbsp; Yu Bai, Qijia Jiang, **Ju Sun**. 2018.   
 
 ### Journals
+
+> **An In-Depth Evaluation of Federated Learning on Biomedical Natural Language Processing**. \[[arXiv](https://arxiv.org/abs/2307.11254)\] \[[medRxiv](https://doi.org/10.1101/2023.11.24.23299002)\]     
+> &nbsp; &nbsp; Le Peng, Gaoxiang Luo, Sicheng Zhou, Jiandong Chen, Ziyue Xu, Rui Zhang, **Ju Sun**. npj Digital Medicine, 2024.  
 
 > **Interpretable Deep Learning Methods for Multiview Learning**.   \[[arXiv](https://arxiv.org/abs/2302.07930)\] \[[paper](https://doi.org/10.1186/s12859-024-05679-9)\]         
 > &nbsp; &nbsp;  Hengkang Wang, Han Lu, **Ju Sun**, Sandra Safo. BMC Bioinformatics, 25(1):1--30, 2024.  
