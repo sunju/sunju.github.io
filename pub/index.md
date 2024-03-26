@@ -127,7 +127,7 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Conferences and Workshops
 
-> **What’s Wrong with End-to-End Learning for Phase Retrieval?**.   
+> **What’s Wrong with End-to-End Learning for Phase Retrieval?**. \[[arXiv](https://arxiv.org/abs/2403.15448)\]        
 > &nbsp; &nbsp; Wenjie Zhang, Yuxiang Wan, Zhuang Zhong, **Ju Sun**. Machine Learning for Scientic Imaging at Electronic Imaging, 2024. 
 
 > **Blind Image Deblurring with Unknown Kernel Size and Substantial Noise**. \[[arXiv](https://arxiv.org/abs/2208.09483)\]  
