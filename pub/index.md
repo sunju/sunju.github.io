@@ -53,6 +53,9 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Journals
 
+> **Unraveling the Multiple Chronic Conditions Patterns Among People with Alzheimer's Disease and Related Dementia--A Machine Learning Approach to Incorporate Synergistic Interactions**.  
+> &nbsp; &nbsp; Pui Ying Yew, Ryan Devera, Yue Liang, Razan A. El Khaifa, **Ju Sun**, Nai-Ching Chi, Ying-Chyi Chou, Peter J. Tonellato, Chih-Lin Chi. Alzheimer's & Dementia: The Journal of the Alzheimer's Association, 2024.  
+
 > **An In-Depth Evaluation of Federated Learning on Biomedical Natural Language Processing**. \[[arXiv](https://arxiv.org/abs/2307.11254)\] \[[medRxiv](https://doi.org/10.1101/2023.11.24.23299002)\]     
 > &nbsp; &nbsp; Le Peng, Gaoxiang Luo, Sicheng Zhou, Jiandong Chen, Ziyue Xu, Rui Zhang, **Ju Sun**. npj Digital Medicine, 2024.  
 
