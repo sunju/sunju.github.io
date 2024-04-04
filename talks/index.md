@@ -7,6 +7,9 @@ tags: top
 ---
 ...which are select and recent
 
+#### Deep Learning with Nontrivial Constraints
++ [2024 INFORMS Optimization Society Conference](https://ios2024.rice.edu/)  \[[Slides](INFORMS-OPT-2024-Mar.pdf)\] (Mar, 2024) 
+
 #### What’s Wrong with End-to-End Learning for Phase Retrieval?   
 + [Machine Learning for Scientific Imaging Conference](https://www.imaging.org/IST/Conferences/EI/EI2024/Conference/C_MLSI.aspx) of [Electronic Imaging 2024](https://www.imaging.org/IST/Conferences/EI/EI2024/EI2024)  \[[Slides](EI-2024-Jan.pdf)\] (Jan, 2024)
 

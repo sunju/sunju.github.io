@@ -54,11 +54,12 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 - **Talk**: [SIAM Conference on Imaging Science (IS24)](https://www.siam.org/conferences/cm/conference/is24) (Atlanta, May 28--31, 2024)
 - **Event & Service**: [UMN DSI 2024 Spring Research Workshop on Generative AI](https://sites.google.com/umn.edu/dsi-srw-2024/home) (May 22--24, 2024)
 - **Event & Service**: With [Prof. Mingyi Hong](https://people.ece.umn.edu/~mhong/mingyi.html), we're leading the organization of the [Midwest Machine Learning Symposium 2024](https://midwest-ml.org/) at UMN. (May 20--21, 2024)
-- **Talk**: [2024 INFORMS Optimization Society (IOS) Conference](https://ios2024.rice.edu/) (Houston, Mar 22--24, 2024)
-- **Event**: [DARPA Discover DSO Day](https://events.sa-meetings.com/website/65050/home/) (San Francisco, Feb 21--22, 2024) 
+- **Event**: [2024 Peter O. Stahl Advanced Design Forum](https://sites.google.com/umn.edu/stahlforum2024?usp=sharing) at Medtronic, Minneapolis (Apr 19, 2024) 
 
 #### Past
 
+- **Talk**: [2024 INFORMS Optimization Society (IOS) Conference](https://ios2024.rice.edu/) \[[Slides](talks/INFORMS-OPT-2024-Mar.pdf)\] (Houston, Mar 22--24, 2024)
+- **Event**: [DARPA Discover DSO Day](https://events.sa-meetings.com/website/65050/home/) (San Francisco, Feb 21--22, 2024) 
 - **Talk**: at [Machine Learning for Scientific Imaging Conference](https://www.imaging.org/IST/Conferences/EI/EI2024/Conference/C_MLSI.aspx) of [Electronic Imaging 2024](https://www.imaging.org/IST/Conferences/EI/EI2024/EI2024) \[[Slides](talks/EI-2024-Jan.pdf)\] (Burlingame, California, Jan 21--25, 2024) 
 - **Grant approval**: with [Prof. Zhaosong Lu](https://cse.umn.edu/isye/zhaosong-lu), we are funded by the [UMN DSI Seed Grant, Medium](https://umnresearch.smapply.io/prog/DSI-ML-Seed-Grant/) to develop stochastic numerical optimization methods for constrained deep learning problems. (Dec, 2023)
 - **Conference**: [Conference on Neural Information Processing Systems 2023](https://nips.cc/Conferences/2023)  (New Orleans, Dec 11--16, 2023)
