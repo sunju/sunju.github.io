@@ -14,6 +14,7 @@ tags: top
   
 ### PhD's
  
+- Guanchen Li (CS&E) 
 - [Gaoxiang Luo](https://gaoxiangluo.github.io/index.html) (CS&E)
 - [Yuxiang Wan](https://www.linkedin.com/in/yuxiang-wang-893b82b4) (CS&E)
 - [Corey Senger](https://www.linkedin.com/in/corey-senger-69bbb3122/) (CS&E, co-advised with [Prof. Jiarong Hong](https://cse.umn.edu/me/jiarong-hong))
