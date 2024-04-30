@@ -29,12 +29,8 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > **Selective Classification Under Distribution Shifts**.  
 > &nbsp; &nbsp; Hengyue Liang, Le Peng, **Ju Sun**. 2024.  
 
-> **Federated Learning with Convex Global and Local Constraints**. \[[arXiv](https://arxiv.org/abs/2310.10117)\]          
-> &nbsp; &nbsp; Chuan He, Le Peng, **Ju Sun**. Under review for Transaction on Machine Learning Research (TMLR), 2023.  
-
 > **Optimization and Optimizers for Adversarial Robustness**.   \[[arXiv](https://arxiv.org/abs/2303.13401)\]          
 > &nbsp; &nbsp;  Hengyue Liang, Buyun Liang, Le Peng, Ying Cui, Tim Mitchell, **Ju Sun**. Under review for International Journal of Computer Vision (IJCV), 2023.  
-
 
 > **Phase Retrieval: the Role of Overparametrization and New Methods**.     
 > &nbsp; &nbsp;  Zhong Zhuang,  Yash Travadi, Zhihui Zhu,  **Ju Sun**. In preparation for SIAM Journal on  Mathematics of Data Science (SIMODS), 2023.     
@@ -52,6 +48,9 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > &nbsp; &nbsp; Yu Bai, Qijia Jiang, **Ju Sun**. 2018.   
 
 ### Journals
+
+> **Federated Learning with Convex Global and Local Constraints**. \[[arXiv](https://arxiv.org/abs/2310.10117)\]          
+> &nbsp; &nbsp; Chuan He, Le Peng, **Ju Sun**. Transactions on Machine Learning Research (TMLR), 2024.  
 
 > **Unraveling the Multiple Chronic Conditions Patterns Among People with Alzheimer's Disease and Related Dementia--A Machine Learning Approach to Incorporate Synergistic Interactions**.  
 > &nbsp; &nbsp; Pui Ying Yew, Ryan Devera, Yue Liang, Razan A. El Khaifa, **Ju Sun**, Nai-Ching Chi, Ying-Chyi Chou, Peter J. Tonellato, Chih-Lin Chi. Alzheimer's & Dementia: The Journal of the Alzheimer's Association, 2024.  

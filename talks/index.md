@@ -7,6 +7,9 @@ tags: top
 ---
 ...which are select and recent
 
+#### AI4Science: Striking the Best Data-Knowledge Tradeoff 
++ AI4Science Seminar Series, AWS  \[[Slides](2024-Apr-AI4Sci-AWS.pdf)\] (Apr, 2024) 
+
 #### Deep Learning with Nontrivial Constraints
 + [2024 INFORMS Optimization Society Conference](https://ios2024.rice.edu/)  \[[Slides](INFORMS-OPT-2024-Mar.pdf)\] (Mar, 2024) 
 
