@@ -26,8 +26,8 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > **Regression with High-Dimensional Targets**.  
 > &nbsp; &nbsp; Tiancong Chen, Hengkang Wang, Chuan He, Ying Cui, **Ju Sun**. 2024.  
 
-> **Selective Classification Under Distribution Shifts**.  
-> &nbsp; &nbsp; Hengyue Liang, Le Peng, **Ju Sun**. 2024.  
+> **Selective Classification Under Distribution Shifts**. \[[arXiv](https://arxiv.org/abs/2405.05160)\]    
+> &nbsp; &nbsp; Hengyue Liang, Le Peng, **Ju Sun**. Under review for Transactions on Machine Learning Research (TMLR), 2024.  
 
 > **Optimization and Optimizers for Adversarial Robustness**.   \[[arXiv](https://arxiv.org/abs/2303.13401)\]          
 > &nbsp; &nbsp;  Hengyue Liang, Buyun Liang, Le Peng, Ying Cui, Tim Mitchell, **Ju Sun**. Under review for International Journal of Computer Vision (IJCV), 2023.  

@@ -57,7 +57,7 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 
 #### Past
 
-
+- **Paper release**: Proud to release our paper [Selective Classification Under Distribution Shifts](https://arxiv.org/abs/2405.05160) on arXiv. This is the first work in machine learning that considers selective classification under distribution shifts, especially covariate shifts and label shifts (i.e., mostly handled by out-of-distribution detection), representing an important step toward deployable selective prediction methods for real-world high-stakes applications, where the data can come from the wild! (May 08, 2024)    
 - **Talk**: AI for Science Seminar, AWS \[[Slides](talks/2024-Apr-AI4Sci-AWS.pdf)\] (Remote, Apr 30, 2024)
 - **Event**: [2024 Peter O. Stahl Advanced Design Forum](https://sites.google.com/umn.edu/stahlforum2024?usp=sharing) at Medtronic, Minneapolis (Apr 19, 2024) 
 - **Talk**: [2024 INFORMS Optimization Society (IOS) Conference](https://ios2024.rice.edu/) \[[Slides](talks/INFORMS-OPT-2024-Mar.pdf)\] (Houston, Mar 22--24, 2024)
