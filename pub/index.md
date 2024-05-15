@@ -49,6 +49,9 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Journals
 
+> **Risk Prediction of Heart Diseases in Breast Cancer Patients: A Deep Learning Approach with Longitudinal Electronic Health Records Data**.             
+> &nbsp; &nbsp; Sicheng Zhou, Anne Blaes, Chetan Shenoy, **Ju Sun**, Rui Zhang. iScience, 2024.  
+
 > **Federated Learning with Convex Global and Local Constraints**. \[[arXiv](https://arxiv.org/abs/2310.10117)\]          
 > &nbsp; &nbsp; Chuan He, Le Peng, **Ju Sun**. Transactions on Machine Learning Research (TMLR), 2024.  
 
