@@ -52,11 +52,13 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 
 - **Talk**: [International Symposium on Mathematical Programming (ISMP24)](https://ismp2024.gerad.ca/) (Montréal, Canada, Jul 21--26, 2024)
 - **Talk**: [SIAM Conference on Imaging Science (IS24)](https://www.siam.org/conferences/cm/conference/is24) (Atlanta, May 28--31, 2024)
+- **Service**: [Minisymposium on Deep Learning for Imaging Science](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=79060) at [SIAM Conference on Imaging Science (IS24)](https://www.siam.org/conferences/cm/conference/is24) (Atlanta, May 28--31, 2024)
 - **Event & Service**: [UMN DSI 2024 Spring Research Workshop on Generative AI](https://sites.google.com/umn.edu/dsi-srw-2024/home) (May 22--24, 2024)
-- **Event & Service**: With [Prof. Mingyi Hong](https://people.ece.umn.edu/~mhong/mingyi.html), we're leading the organization of the [Midwest Machine Learning Symposium 2024](https://midwest-ml.org/) at UMN. (May 20--21, 2024)
+
 
 #### Past
 
+- **Event & Service**: With [Prof. Mingyi Hong](https://people.ece.umn.edu/~mhong/mingyi.html), we're leading the organization of the [Midwest Machine Learning Symposium 2024](https://midwest-ml.org/) at UMN. (May 20--21, 2024)
 - **Paper release**: Proud to release our paper [Selective Classification Under Distribution Shifts](https://arxiv.org/abs/2405.05160) on arXiv. This is the first work in machine learning that considers selective classification under distribution shifts, especially covariate shifts and label shifts (i.e., mostly handled by out-of-distribution detection), representing an important step toward deployable selective prediction methods for real-world high-stakes applications, where the data can come from the wild! (May 08, 2024)    
 - **Talk**: AI for Science Seminar, AWS \[[Slides](talks/2024-Apr-AI4Sci-AWS.pdf)\] (Remote, Apr 30, 2024)
 - **Event**: [2024 Peter O. Stahl Advanced Design Forum](https://sites.google.com/umn.edu/stahlforum2024?usp=sharing) at Medtronic, Minneapolis (Apr 19, 2024) 
