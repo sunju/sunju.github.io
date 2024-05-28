@@ -58,6 +58,7 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 
 #### Past
 
+- **Paper release**: Thrilled to release our paper [DMPlug: A Plug-in Method for Solving Inverse Problems with Diffusion Models](https://arxiv.org/abs/2405.16749) on arXiv! Our simply beautiful idea represents a significant departure from the past methods that use pretrained diffusion models to solve inverse problems, and addresses their major drawbacks: struggle to find solutions that are photorealistic, consistent with the measurement, and robust to unknown noise. I call this "diffusion models for inverse problems done right!" (May 27, 2024)   
 - **Event & Service**: With [Prof. Mingyi Hong](https://people.ece.umn.edu/~mhong/mingyi.html), we're leading the organization of the [Midwest Machine Learning Symposium 2024](https://midwest-ml.org/) at UMN. (May 20--21, 2024)
 - **Paper release**: Proud to release our paper [Selective Classification Under Distribution Shifts](https://arxiv.org/abs/2405.05160) on arXiv. This is the first work in machine learning that considers selective classification under distribution shifts, especially covariate shifts and label shifts (i.e., mostly handled by out-of-distribution detection), representing an important step toward deployable selective prediction methods for real-world high-stakes applications, where the data can come from the wild! (May 08, 2024)    
 - **Talk**: AI for Science Seminar, AWS \[[Slides](talks/2024-Apr-AI4Sci-AWS.pdf)\] (Remote, Apr 30, 2024)

@@ -17,14 +17,23 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 
 ### Preprints 
 
+> **Deep Learning with Constraints: Applications and Algorithms**.  
+> &nbsp; &nbsp; Chuan He, Ryan Devera, Wenjie Zhang, Ying Cui, Zhaosong Lu, **Ju Sun**. 2024.  
+
+> **Neural Topology Optimization with Principled Constrained Optimization**.  
+> &nbsp; &nbsp; Ryan Devera, Buyun Liang, Binyao Guo, Qizhi He, **Ju Sun**. 2024.  
+
+> **A Strong Baseline for Removing Invisible Watermarks on Images via Deep Image Prior**.  
+> &nbsp; &nbsp; Hengyue Liang, Taihui Li, **Ju Sun**. 2024.  
+
 > **Direct Metric Optimization for Imbalanced Classification**.  
 > &nbsp; &nbsp; Le Peng, Yash Travadi, Chuan He, Ying Cui, **Ju Sun**. 2024.  
 
-> **Diff-Inversion: Diffusion Models for Blind Image Deblurring**.  
-> &nbsp; &nbsp; Hengkang Wang, Xu Zhang, Taihui Li, Yuxiang Wan, **Ju Sun**. 2024.  
-
 > **Regression with High-Dimensional Targets**.  
 > &nbsp; &nbsp; Tiancong Chen, Hengkang Wang, Chuan He, Ying Cui, **Ju Sun**. 2024.  
+
+> **DMPlug: A Plug-in Method for Solving Inverse Problems with Diffusion Models**. \[[arXiv](https://arxiv.org/abs/2405.16749)\]    
+> &nbsp; &nbsp; Hengkang Wang, Xu Zhang, Taihui Li, Yuxiang Wan, Tiancong Chen, **Ju Sun**. 2024.  
 
 > **Selective Classification Under Distribution Shifts**. \[[arXiv](https://arxiv.org/abs/2405.05160)\]    
 > &nbsp; &nbsp; Hengyue Liang, Le Peng, **Ju Sun**. Under review for Transactions on Machine Learning Research (TMLR), 2024.  
@@ -153,7 +162,7 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > **Implications of Solution Patterns on Adversarial Robustness**. \[[arXiv](https://arxiv.org/abs/2303.13401)\]         
 > &nbsp; &nbsp;  Hengyue Liang, Buyun Liang, Le Peng, Ying Cui, Tim Mitchell, **Ju Sun**. The 3rd Workshop of Adversarial Machine Learning on Computer Vision: Art of Robustness (in conjunction with CVPR 2023), 2023.    
 
-> **Deep Random Projector: Accelerated Deep Image Prior**.    
+> **Deep Random Projector: Accelerated Deep Image Prior**. \[[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Deep_Random_Projector_Accelerated_Deep_Image_Prior_CVPR_2023_paper.html)\]    
 > &nbsp; &nbsp;  Taihui Li, Hengkang Wang, Zhong Zhuang, **Ju Sun**.  Computer Vision and Pattern Recognition (CVPR), 2023.  
 
 > **Random Projector: Efficient Deep Image Prior**.  
