@@ -7,7 +7,7 @@ tags: top
 ---
 ...which are select and recent
 
-#### Diffusion Models for Inverse Problems Done Right 
+#### Diffusion Models for Inverse Problems Done Right    
 + [SIAM Conference on Imaging Science](https://www.siam.org/conferences/cm/conference/is24) \[[Slides](SIAM-IS-2024-May.pdf)\] (May, 2024) 
 
 #### AI4Science: Striking the Best Data-Knowledge Tradeoff 
