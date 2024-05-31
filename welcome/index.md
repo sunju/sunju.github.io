@@ -51,13 +51,13 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 #### Upcoming
 
 - **Talk**: [International Symposium on Mathematical Programming (ISMP24)](https://ismp2024.gerad.ca/) (Montréal, Canada, Jul 21--26, 2024)
-- **Talk**: [SIAM Conference on Imaging Science (IS24)](https://www.siam.org/conferences/cm/conference/is24) (Atlanta, May 28--31, 2024)
-- **Service**: [Minisymposium on Deep Learning for Imaging Science](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=79060) at [SIAM Conference on Imaging Science (IS24)](https://www.siam.org/conferences/cm/conference/is24) (Atlanta, May 28--31, 2024)
-- **Event & Service**: [UMN DSI 2024 Spring Research Workshop on Generative AI](https://sites.google.com/umn.edu/dsi-srw-2024/home) (May 22--24, 2024)
 
 
 #### Past
 
+- **Talk**: [SIAM Conference on Imaging Science (IS24)](https://www.siam.org/conferences/cm/conference/is24) \[[Slides](talks/SIAM-IS-2024-May.pdf)\] (Atlanta, May 28--31, 2024)
+- **Service**: [Minisymposium on Deep Learning for Imaging Science](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=79060) at [SIAM Conference on Imaging Science (IS24)](https://www.siam.org/conferences/cm/conference/is24) (Atlanta, May 28--31, 2024)
+- **Event & Service**: [UMN DSI 2024 Spring Research Workshop on Generative AI](https://sites.google.com/umn.edu/dsi-srw-2024/home) (May 22--24, 2024)
 - **Paper release**: Thrilled to release our paper [DMPlug: A Plug-in Method for Solving Inverse Problems with Diffusion Models](https://arxiv.org/abs/2405.16749) on arXiv! Our simply beautiful idea represents a significant departure from the past methods that use pretrained diffusion models to solve inverse problems, and addresses their major drawbacks: struggle to find solutions that are photorealistic, consistent with the measurement, and robust to unknown noise. I call this "diffusion models for inverse problems done right!" (May 27, 2024)   
 - **Event & Service**: With [Prof. Mingyi Hong](https://people.ece.umn.edu/~mhong/mingyi.html), we're leading the organization of the [Midwest Machine Learning Symposium 2024](https://midwest-ml.org/) at UMN. (May 20--21, 2024)
 - **Paper release**: Proud to release our paper [Selective Classification Under Distribution Shifts](https://arxiv.org/abs/2405.05160) on arXiv. This is the first work in machine learning that considers selective classification under distribution shifts, especially covariate shifts and label shifts (i.e., mostly handled by out-of-distribution detection), representing an important step toward deployable selective prediction methods for real-world high-stakes applications, where the data can come from the wild! (May 08, 2024)    
