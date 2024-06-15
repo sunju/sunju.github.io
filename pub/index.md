@@ -64,7 +64,7 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > **Federated Learning with Convex Global and Local Constraints**. \[[arXiv](https://arxiv.org/abs/2310.10117)\]          
 > &nbsp; &nbsp; Chuan He, Le Peng, **Ju Sun**. Transactions on Machine Learning Research (TMLR), 2024.  
 
-> **Unraveling the Multiple Chronic Conditions Patterns Among People with Alzheimer's Disease and Related Dementia--A Machine Learning Approach to Incorporate Synergistic Interactions**.  
+> **Unraveling the Multiple Chronic Conditions Patterns Among People with Alzheimer's Disease and Related Dementia--A Machine Learning Approach to Incorporate Synergistic Interactions**.  \[[paper](https://doi.org/10.1002/alz.13923)\]     
 > &nbsp; &nbsp; Pui Ying Yew, Ryan Devera, Yue Liang, Razan A. El Khaifa, **Ju Sun**, Nai-Ching Chi, Ying-Chyi Chou, Peter J. Tonellato, Chih-Lin Chi. Alzheimer's & Dementia: The Journal of the Alzheimer's Association, 2024.  
 
 > **An In-Depth Evaluation of Federated Learning on Biomedical Natural Language Processing**. \[[arXiv](https://arxiv.org/abs/2307.11254)\] \[[medRxiv](https://doi.org/10.1101/2023.11.24.23299002)\]     
