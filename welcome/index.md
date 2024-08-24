@@ -50,11 +50,12 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 
 #### Upcoming
 
-- **Talk**: [International Symposium on Mathematical Programming (ISMP24)](https://ismp2024.gerad.ca/) (Montréal, Canada, Jul 21--26, 2024)
-
+- **Talk**: [SIAM Conference on Computational Science and Engineering (CSE25)](https://www.siam.org/conferences-events/siam-conferences/cse25/) (Fort Worth, Texas, Mar 3--7, 2025)   
+ 
 
 #### Past
 
+- **Talk**: [International Symposium on Mathematical Programming (ISMP24)](https://ismp2024.gerad.ca/) (Montréal, Canada, Jul 21--26, 2024)
 - **Talk**: [SIAM Conference on Imaging Science (IS24)](https://www.siam.org/conferences/cm/conference/is24) \[[Slides](talks/SIAM-IS-2024-May.pdf)\] (Atlanta, May 28--31, 2024)
 - **Service**: [Minisymposium on Deep Learning for Imaging Science](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=79060) at [SIAM Conference on Imaging Science (IS24)](https://www.siam.org/conferences/cm/conference/is24) (Atlanta, May 28--31, 2024)
 - **Event & Service**: [UMN DSI 2024 Spring Research Workshop on Generative AI](https://sites.google.com/umn.edu/dsi-srw-2024/home) (May 22--24, 2024)
