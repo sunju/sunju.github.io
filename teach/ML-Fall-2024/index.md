@@ -9,13 +9,18 @@ introductory course to machine learning focuses on the foundations of modern mac
 We will cover selected topics from supervised learning, unsupervised learning, and interactive
 learning. For each topic, key algorithmic ideas/intuitions and basic theoretical insights will be
 highlighted. The end goal is that the students will be able to develop and deploy novel learning
-methods for their applications, and potentially derive basic theoretical understanding
+methods for their applications, and potentially derive basic theoretical understanding. 
 
-Full syllabus: [AML.pdf](AML.pdf)
+**Instructor**: [Professor Ju Sun](https://sunju.org/)  Email: jusun AT umn.edu   (Office Hours: 4--6pm Thur)
 
-**Instructor**: [Professor Ju Sun](https://sunju.org/)  Email: jusun AT umn.edu   (Office Hours: 5--6pm Tue/Thur)
+**When/Where**: Tue/Thur 2:30 -- 3:45pm @ Mechanical Engineering 108 (in-person only with UNITE option)
 
-**When/Where**: Mon/Wed 1:00 -- 2:15pm/Keller 3-210
+We don't have required textbooks, and recommended textbooks are freely available online! 
+
+More details coming soon! 
+
+
+<!-- Full syllabus: [AML.pdf](AML.pdf)
 
 **TA's**:
 [Le Peng](https://sites.google.com/view/le-peng/)  Email: peng0347 AT umn.edu   (Office Hours: 3--4pm Mon/Wed)
@@ -193,4 +198,4 @@ Full syllabus: [AML.pdf](AML.pdf)
 [HW4](HW4.pdf)  (Due: Apr 28  2021)  
 [Mid Term](MT.pdf)
 [HW5](HW5.pdf)  (Due: May 14 2021)  
-[HW6]  (optional)  
+[HW6]  (optional)   -->
