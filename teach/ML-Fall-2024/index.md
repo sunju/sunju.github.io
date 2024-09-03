@@ -31,7 +31,7 @@ What are the state-of-the-art machine learning methods and why do they work? Thi
     <tr>
       <td>Sep 03</td>
       <td>Overview</td>
-      <td>[Slides]</td>
+      <td><a href="https://docs.google.com/presentation/d/1DHWL5TFlDDjd1yE8sHRkuGXjXbrqjH2UBTZkVNAamjk/edit?usp=sharing">[Slides]</a></td>
     </tr>
     <tr>
       <td>Sep 05</td>
