@@ -4,32 +4,60 @@ permalink: /teach/ML-Fall-2024/
 title: Advanced Machine Learning
 ---
 
-What are state-of-the-art machine learning methods, and why they work? This graduate-level
-introductory course to machine learning focuses on the foundations of modern machine learning.
-We will cover selected topics from supervised learning, unsupervised learning, and interactive
-learning. For each topic, key algorithmic ideas/intuitions and basic theoretical insights will be
-highlighted. The end goal is that the students will be able to develop and deploy novel learning
-methods for their applications, and potentially derive basic theoretical understanding. 
+What are the state-of-the-art machine learning methods and why do they work? This graduate-level introductory course to machine learning focuses on the foundations of modern machine learning. We will cover selected topics from supervised learning, unsupervised learning, generative learning, and interactive learning. For each topic, we will describe key algorithmic ideas/intuitions and basic theoretical insights. By the end of the course, students will master main machine learning techniques, and apply/optimize/develop them for specific applications. 
 
-**Instructor**: [Professor Ju Sun](https://sunju.org/)  Email: jusun AT umn.edu   (Office Hours: 4--6pm Thur)
 
+**Syllabus**: [Syllabus](CSCI5525_2024_Fall.pdf)
+
+**Who**: [Professor Ju Sun](https://sunju.org/) (Instructor)   Email: jusun AT umn.edu   (Office Hours: 4--6pm Thur) <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Leon Luo](https://gaoxiangluo.github.io/)  Email: luo00042 AT umn.edu   (Office Hours: 3--4pm Mon) 
+ 
 **When/Where**: Tue/Thur 2:30 -- 3:45pm @ Mechanical Engineering 108 (in-person only with UNITE option)
-
-We don't have required textbooks, and recommended textbooks are freely available online! 
-
-More details coming soon! 
-
-
-<!-- Full syllabus: [AML.pdf](AML.pdf)
-
-**TA's**:
-[Le Peng](https://sites.google.com/view/le-peng/)  Email: peng0347 AT umn.edu   (Office Hours: 3--4pm Mon/Wed)
-
- [Tiancong Chen](https://sites.google.com/view/tiancong-chen)  Email: chen6271 AT umn.edu   (Office Hours: 3--4pm Fri)
 
 **Lecture Schedule**
 
 <table rules="groups" class="fixed">
+    <col width="15%" />
+   <col width="75%" />
+   <col width="10%" />
+  <thead>
+    <tr>
+      <th style="text-align: left">Date</th>
+      <th style="text-align: center">Topics</th>
+      <th style="text-align: center">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Sep 03</td>
+      <td>Overview</td>
+      <td>[Slides]</td>
+    </tr>
+    <tr>
+      <td>Sep 05</td>
+      <td>Review of high-dimensional calculus</td>
+      <td>[Notes]</td>
+    </tr>
+    <tr>
+    <td  colspan="3" style="text-align: center"><b>Linear Predictions</b></td>
+    </tr>
+    <tr>
+      <td>Sep 10</td>
+      <td> Linear regression and least-squares problem</td>
+      <td rowspan="3"  style="vertical-align:middle">[Notes]</td>
+    </tr>
+    <tr>
+      <td>Sep 12</td>
+      <td>Gradient descent for unconstrained optimization </td>
+    </tr>
+    <tr>
+      <td>Sep 17</td>
+      <td>Linear classification: Perceptron, SVM, and logistic regression </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- <table rules="groups" class="fixed">
     <col width="15%" />
    <col width="75%" />
    <col width="10%" />
@@ -189,13 +217,11 @@ More details coming soon!
     <td> </td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 **Homework Assignments**  
-[HW1](HW1.pdf)  (Due: Feb 10 2021)  
-[HW2](HW2.pdf)  (Due: Mar 19 2021)  
-[HW3](HW3.pdf)  (Due: Mar 31 2021)  
-[HW4](HW4.pdf)  (Due: Apr 28  2021)  
-[Mid Term](MT.pdf)
-[HW5](HW5.pdf)  (Due: May 14 2021)  
-[HW6]  (optional)   -->
+[HW1]  (Due: xxx 2024)  
+[HW2]  (Due: xxx 2024)  
+[HW3]  (Due: xxx 2024)  
+[HW4]  (Due: xxx 2024)  
+[HW5]  (Due: xxx 2024)  
