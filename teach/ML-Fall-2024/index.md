@@ -36,7 +36,7 @@ What are the state-of-the-art machine learning methods and why do they work? Thi
     <tr>
       <td>Sep 05</td>
       <td>Review of high-dimensional calculus</td>
-      <td>[Notes]</td>
+      <td><a href="calculus-review-notes.pdf">[Notes]</a></td>
     </tr>
     <tr>
     <td  colspan="3" style="text-align: center"><b>Linear Predictions</b></td>
