@@ -39,7 +39,7 @@ What are the state-of-the-art machine learning methods and why do they work? Thi
       <td><a href="calculus-review-notes.pdf">[Notes]</a></td>
     </tr>
     <tr>
-    <td  colspan="3" style="text-align: center"><b>Linear Predictions</b></td>
+    <td  colspan="3" style="text-align: center"><b>Three Ingredients of Machine Learning; Linear Predictions</b></td>
     </tr>
     <tr>
       <td>Sep 10</td>
@@ -54,98 +54,54 @@ What are the state-of-the-art machine learning methods and why do they work? Thi
       <td>Sep 17</td>
       <td>Linear classification: Perceptron, SVM, and logistic regression </td>
     </tr>
-  </tbody>
-</table>
-
-<!-- <table rules="groups" class="fixed">
-    <col width="15%" />
-   <col width="75%" />
-   <col width="10%" />
-  <thead>
-    <tr>
-      <th style="text-align: left">Date</th>
-      <th style="text-align: center">Topics</th>
-      <th style="text-align: center">Notes</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Jan 20</td>
-      <td>Overview</td>
-      <td><a href="lecture_intro.pdf">[Slides]</a></td>
-    </tr>
-    <tr>
-    <td  colspan="3" style="text-align: center"><b>Calculus Review</b></td>
-    </tr>
-    <tr>
-      <td>Jan 25</td>
-      <td>Review of high-dimensional calculus - I</td>
-      <td rowspan="2"  style="vertical-align:middle"><a href="calculus_review.pdf">[Notes]</a></td>
-    </tr>
-    <tr>
-      <td>Jan 27</td>
-      <td>Review of high-dimensional calculus - II</td>
-    </tr>
-    <tr>
-    <td  colspan="3" style="text-align: center"><b>Linear Predictions</b></td>
-    </tr>
-    <tr>
-      <td>Feb 01</td>
-      <td> Linear regression and least-squares problem</td>
-      <td rowspan="3"  style="vertical-align:middle"><a href="linear_predictions.pdf">[Notes]</a></td>
-    </tr>
-    <tr>
-      <td>Feb 03</td>
-      <td>Gradient descent for unconstrained optimization </td>
-    </tr>
-    <tr>
-      <td>Feb 15</td>
-      <td>Linear classification: Perceptron, SVM, and logistic regression </td>
-    </tr>
-    <tr>
+        <tr>
     <td  colspan="3" style="text-align: center"><b>Support Vector Machines and Kernel Methods</b></td>
     </tr>
     <tr>
-      <td>Feb 17</td>
+      <td>Sep 19</td>
       <td>Subspaces, hyperplanes, and margins  </td>
         <td rowspan="5"  style="vertical-align:middle">[Notes]</td>
     </tr>
     <tr>
-      <td>Feb 22</td>
+      <td>Sep 24</td>
       <td>Hard-margin SVMs and properties </td>
     </tr>
     <tr>
-      <td>Feb 24</td>
+      <td>Sep 26</td>
       <td>Review of convex analysis & optimization; analysis of hard-margin SVMs  </td>
     </tr>
     <tr>
-      <td>Mar 01</td>
+      <td>Oct 01</td>
       <td>Soft-margin SVMs; optimizing SVMs  </td>
     </tr>
     <tr>
-      <td>Mar 03</td>
+      <td>Oct 03</td>
       <td>Kernel methods</td>
     </tr>
     <tr>
     <td  colspan="3" style="text-align: center"><b>Elements of Statistical Learning Theory</b></td>
     </tr>
     <tr>
-    <td>Mar 08</td>
-    <td>PAC learning with finite hypothesis classes </td>
+    <td>Oct 08</td>
+    <td> </td>
     <td rowspan="4" style="vertical-align:middle">[Notes]</td>
     </tr>
     <tr>
-    <td>Mar 10</td>
-    <td>Agnostic PAC learning with finite hypothesis classes; Uniform convergence </td>
+    <td>Oct 10</td>
+    <td></td>
     </tr>
     <tr>
-    <td>Mar 15</td>
-    <td>Agnostic PCA learning with infinite hypothesis classes; Rademacher complexity </td>
+    <td>Oct 15</td>
+    <td> </td>
     </tr>
     <tr>
-    <td>Mar 17</td>
-    <td>VC dimensions; Bias-complexity tradeoff and model selection </td>
+    <td>Oct 17</td>
+    <td> </td>
     </tr>
+  </tbody>
+</table>
+
+<!-- <table rules="groups" class="fixed">
     <tr>
     <td  colspan="3" style="text-align: center"><b>Ensemble Methods: from Simple to Powerful</b></td>
     </tr>
