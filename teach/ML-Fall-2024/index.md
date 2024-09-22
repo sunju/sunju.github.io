@@ -176,7 +176,7 @@ What are the state-of-the-art machine learning methods and why do they work? Thi
 </table> -->
 
 **Homework Assignments**  
-[HW1]  (Due: xxx 2024)  
+[HW1](HW1.pdf)  (Due: Oct 06, 2024)  
 [HW2]  (Due: xxx 2024)  
 [HW3]  (Due: xxx 2024)  
 [HW4]  (Due: xxx 2024)  
