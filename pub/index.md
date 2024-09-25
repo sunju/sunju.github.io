@@ -32,12 +32,6 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > **Regression with High-Dimensional Targets**.  
 > &nbsp; &nbsp; Tiancong Chen, Hengkang Wang, Chuan He, Ying Cui, **Ju Sun**. 2024.  
 
-> **DMPlug: A Plug-in Method for Solving Inverse Problems with Diffusion Models**. \[[arXiv](https://arxiv.org/abs/2405.16749)\]    
-> &nbsp; &nbsp; Hengkang Wang, Xu Zhang, Taihui Li, Yuxiang Wan, Tiancong Chen, **Ju Sun**. 2024.  
-
-> **Selective Classification Under Distribution Shifts**. \[[arXiv](https://arxiv.org/abs/2405.05160)\]    
-> &nbsp; &nbsp; Hengyue Liang, Le Peng, **Ju Sun**. Under review for Transactions on Machine Learning Research (TMLR), 2024.  
-
 > **Optimization and Optimizers for Adversarial Robustness**.   \[[arXiv](https://arxiv.org/abs/2303.13401)\]          
 > &nbsp; &nbsp;  Hengyue Liang, Buyun Liang, Le Peng, Ying Cui, Tim Mitchell, **Ju Sun**. Under review for International Journal of Computer Vision (IJCV), 2023.  
 
@@ -57,6 +51,9 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > &nbsp; &nbsp; Yu Bai, Qijia Jiang, **Ju Sun**. 2018.   
 
 ### Journals
+
+> **Selective Classification Under Distribution Shifts**. \[[arXiv](https://arxiv.org/abs/2405.05160)\]    
+> &nbsp; &nbsp; Hengyue Liang, Le Peng, **Ju Sun**. Transactions on Machine Learning Research (TMLR), 2024.  
 
 > **Risk Prediction of Heart Diseases in Breast Cancer Patients: A Deep Learning Approach with Longitudinal Electronic Health Records Data**.             
 > &nbsp; &nbsp; Sicheng Zhou, Anne Blaes, Chetan Shenoy, **Ju Sun**, Rui Zhang. iScience, 2024.  
@@ -140,6 +137,9 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > &nbsp; &nbsp; Guangcan Liu,  Zhouchen Lin, Shuicheng Yan,  **Ju Sun**, Yong Yu, and Yi Ma.  IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI), 35(1):171 - 184, 2013.
 
 ### Conferences and Workshops
+
+> **DMPlug: A Plug-in Method for Solving Inverse Problems with Diffusion Models**. \[[arXiv](https://arxiv.org/abs/2405.16749)\]    
+> &nbsp; &nbsp; Hengkang Wang, Xu Zhang, Taihui Li, Yuxiang Wan, Tiancong Chen, **Ju Sun**. Conference on Neural Information Processing Systems (NeurIPS), 2024.   
 
 > **What’s Wrong with End-to-End Learning for Phase Retrieval?**. \[[arXiv](https://arxiv.org/abs/2403.15448)\]        
 > &nbsp; &nbsp; Wenjie Zhang, Yuxiang Wan, Zhuang Zhong, **Ju Sun**. Machine Learning for Scientic Imaging at Electronic Imaging, 2024. 
