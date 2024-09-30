@@ -29,7 +29,7 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 
 **Research Interests**: Foundations of machine learning, computer vision, numerical optimization, and their application to science, engineering, and medicine. 
 
-<!-- <span style="color:red">**Openings**: We plan to recruit three PhD students for 2024 Fall. Ideal candidates should have strong mathematics and programming background, preferably with prior research experience in at least one of the fields: machine learning, computer vision, numerical optimization, and their applications. Due to the interdisciplinary nature of our work (check out [my publications](https://sunju.org/pub/) and our [research page](https://glovex.umn.edu/research) (NB: to be fully updated by the end of Oct, 2023)), we welcome applicants from outside CS fields also, such as electrical engineering, mathematics, statistics, data science,  operation research, mechanical engineering, biomedical engineering, and so on (see the background of our current and past members [here](https://sunju.org/people/)). Prospective students please directly apply through our [PhD application system](https://cse.umn.edu/cs/phd-admissions) and mention Prof. Sun among the potential advisors. </span>  -->
+<span style="color:red">**Openings**: We plan to recruit two or three PhD students for 2025 Fall. Ideal candidates should have strong mathematics and programming background, preferably with prior research experience in at least one of the fields: machine learning, computer vision, numerical optimization, and their applications. Due to the interdisciplinary nature of our work (check out [my publications](https://sunju.org/pub/) and [my recent talks](https://sunju.org/talks/), we welcome applicants from outside CS fields also, such as electrical engineering, mathematics, statistics, data science,  operation research, mechanical engineering, biomedical engineering, and so on (see the background of our current and past members [here](https://sunju.org/people/)). Prospective students please directly apply through our [PhD application system](https://cse.umn.edu/cs/phd-admissions) and mention Prof. Sun among the potential advisors. </span> 
 
 **Group website**: <https://glovex.umn.edu/> 
 
@@ -51,6 +51,7 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 #### Upcoming
 
 - **Talk**: [SIAM Conference on Computational Science and Engineering (CSE25)](https://www.siam.org/conferences-events/siam-conferences/cse25/) (Fort Worth, Texas, Mar 3--7, 2025)   
+- **Event**: [ARPA-H PRECISE AI Proposers' Day](https://arpa-h.gov/research-and-funding/programs/precise-ai) (Madison, Wisconsin, Oct 17, 2024)
  
 
 #### Past
