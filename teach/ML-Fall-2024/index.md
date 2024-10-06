@@ -44,7 +44,7 @@ What are the state-of-the-art machine learning methods and why do they work? Thi
     <tr>
       <td>Sep 10</td>
       <td> Linear regression and least-squares problem</td>
-      <td rowspan="3"  style="vertical-align:middle">[Notes]</td>
+      <td rowspan="4"  style="vertical-align:middle"><a href="linear-prediction-notes.pdf">[Notes]</a></td>
     </tr>
     <tr>
       <td>Sep 12</td>
@@ -52,50 +52,58 @@ What are the state-of-the-art machine learning methods and why do they work? Thi
     </tr>
     <tr>
       <td>Sep 17</td>
+      <td>More on gradient descent; review of subspaces and hyperplanes </td>
+    </tr>
+      <tr>
+      <td>Sep 19</td>
       <td>Linear classification: Perceptron, SVM, and logistic regression </td>
     </tr>
         <tr>
     <td  colspan="3" style="text-align: center"><b>Support Vector Machines and Kernel Methods</b></td>
     </tr>
     <tr>
-      <td>Sep 19</td>
-      <td>Subspaces, hyperplanes, and margins  </td>
+      <td>Sep 24</td>
+      <td>Margin-maximization principle and hard-margin SVM</td>
         <td rowspan="5"  style="vertical-align:middle">[Notes]</td>
     </tr>
     <tr>
-      <td>Sep 24</td>
-      <td>Hard-margin SVMs and properties </td>
-    </tr>
-    <tr>
       <td>Sep 26</td>
-      <td>Review of convex analysis & optimization; analysis of hard-margin SVMs  </td>
+      <td>Review of convex analysis; KKT conditions for convex problems </td>
     </tr>
     <tr>
       <td>Oct 01</td>
-      <td>Soft-margin SVMs; optimizing SVMs  </td>
+      <td>Analysis of hard-margin SVMs; soft-margin SVM</td>
     </tr>
     <tr>
       <td>Oct 03</td>
+      <td>Property of soft-margin SVMs; solving SVM problem via stochastic gradient descent</td>
+    </tr>
+    <tr>
+      <td>Oct 08</td>
       <td>Kernel methods</td>
+    </tr>
+    <tr>
+      <td>Oct 10</td>
+      <td>Beyond binary classification: multiclass and other learning settings</td>
     </tr>
     <tr>
     <td  colspan="3" style="text-align: center"><b>Elements of Statistical Learning Theory</b></td>
     </tr>
     <tr>
-    <td>Oct 08</td>
+    <td>Oct 15</td>
     <td> </td>
     <td rowspan="4" style="vertical-align:middle">[Notes]</td>
     </tr>
     <tr>
-    <td>Oct 10</td>
+    <td>Oct 17</td>
     <td></td>
     </tr>
     <tr>
-    <td>Oct 15</td>
+    <td>Oct 22</td>
     <td> </td>
     </tr>
     <tr>
-    <td>Oct 17</td>
+    <td>Oct 24</td>
     <td> </td>
     </tr>
   </tbody>
