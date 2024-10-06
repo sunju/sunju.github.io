@@ -64,7 +64,7 @@ What are the state-of-the-art machine learning methods and why do they work? Thi
     <tr>
       <td>Sep 24</td>
       <td>Margin-maximization principle and hard-margin SVM</td>
-        <td rowspan="5"  style="vertical-align:middle">[Notes]</td>
+        <td rowspan="6"  style="vertical-align:middle">[Notes]</td>
     </tr>
     <tr>
       <td>Sep 26</td>
@@ -106,13 +106,38 @@ What are the state-of-the-art machine learning methods and why do they work? Thi
     <td>Oct 24</td>
     <td> </td>
     </tr>
-  </tbody>
-</table>
-
-<!-- <table rules="groups" class="fixed">
     <tr>
     <td  colspan="3" style="text-align: center"><b>Ensemble Methods: from Simple to Powerful</b></td>
     </tr>
+    <tr>
+    <td>Oct 29</td>
+    <td> </td>
+    <td rowspan="6" style="vertical-align:middle">[Notes]</td>
+    </tr>
+    <tr>
+    <td>Oct 31</td>
+    <td> </td>
+    </tr>
+    <tr>
+    <td>Nov 05</td>
+    <td> </td>
+    </tr>
+    <tr>
+    <td>Nov 07</td>
+    <td> </td>
+    </tr>
+    <tr>
+    <td>Nov 12</td>
+    <td> </td>
+    </tr>    <tr>
+    <td>Nov 14</td>
+    <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+
+<!-- <table rules="groups" class="fixed">
     <tr>
     <td>Mar 22</td>
     <td> Decision stumps and their linear combinations</td>
