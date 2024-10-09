@@ -51,6 +51,7 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 #### Upcoming
 
 - **Talk**: [SIAM Conference on Computational Science and Engineering (CSE25)](https://www.siam.org/conferences-events/siam-conferences/cse25/) (Fort Worth, Texas, Mar 3--7, 2025)   
+- **Event**: [DARPA I2O Proposers' Day](https://creative.gryphontechnologies.com/darpa/i2o/ow-baa-pd-24/index.php?p=welcome) (Arlington, VA, Nov 07, 2024)
 - **Event**: [ARPA-H PRECISE AI Proposers' Day](https://arpa-h.gov/research-and-funding/programs/precise-ai) (Madison, Wisconsin, Oct 17, 2024)
  
 
