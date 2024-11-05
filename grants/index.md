@@ -7,6 +7,8 @@ tags: top
 ---
 
 ## External
+
+- [**Adolescents' Social Media Management Strategies: Bidirectional Links to Objective Social Media Use and Mental Health Outcomes**](https://reporter.nih.gov/search/sq1DIxuMwEOw3zgIBkrwbg/project-details/11045466) (Co-PI, $2.8M, NIH, 2024--2028)
 - [**AI-CLIMATE (AI INSTITUTE FOR CLIMATE-LAND INTERACTIONS, MITIGATION, ADAPTATION, TRADEOFFS AND ECONOMY)**](https://portal.nifa.usda.gov/web/crisprojectpages/1030594-ai-climate-ai-institute-for-climate-land-interactions-mitigation-adaptation-tradeoffs-and-economy.html) (Co-PI, $20M, NIFA, 2023--2028)
 - [**AI for Map Geolocation and Extraction to Find Critical Minerals**](https://knowledge-computing.github.io/criticalmaas-web/) (Co-PI, $3.2M, DARPA, 2023--2025)
 - [**Quantification of Tics in Tourette Syndrome**](https://reporter.nih.gov/search/I81ac0XnF0WOj_1GA-VfYA/project-details/10635872) (Co-PI, $3.2M, NIH, 2023--2028)
