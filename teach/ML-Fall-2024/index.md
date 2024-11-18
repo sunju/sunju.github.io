@@ -64,7 +64,7 @@ What are the state-of-the-art machine learning methods and why do they work? Thi
     <tr>
       <td>Sep 24</td>
       <td>Margin-maximization principle and hard-margin SVM</td>
-        <td rowspan="6"  style="vertical-align:middle">[Notes]</td>
+        <td rowspan="6"  style="vertical-align:middle"><a href="kernel-methods-notes.pdf">[Notes]</a></td>
     </tr>
     <tr>
       <td>Sep 26</td>
@@ -91,48 +91,80 @@ What are the state-of-the-art machine learning methods and why do they work? Thi
     </tr>
     <tr>
     <td>Oct 15</td>
-    <td> </td>
+    <td>Warmup: finite hypothesis class, realizable case</td>
     <td rowspan="4" style="vertical-align:middle">[Notes]</td>
     </tr>
     <tr>
     <td>Oct 17</td>
-    <td></td>
+    <td>General learning setup with finite hypothesis class</td>
     </tr>
     <tr>
     <td>Oct 22</td>
-    <td> </td>
+    <td>Infinite hypothesis class with Rademacher complexity</td>
     </tr>
     <tr>
     <td>Oct 24</td>
-    <td> </td>
+    <td>Infinite hypothesis class with growth function and VC dimension</td>
     </tr>
     <tr>
     <td  colspan="3" style="text-align: center"><b>Ensemble Methods: from Simple to Powerful</b></td>
     </tr>
     <tr>
     <td>Oct 29</td>
-    <td> </td>
+    <td>Decision stumps and their linear combinations; Adaboost</td>
     <td rowspan="6" style="vertical-align:middle">[Notes]</td>
     </tr>
     <tr>
     <td>Oct 31</td>
-    <td> </td>
+    <td>Why Adaboost works; Adaboost as greedy method to find a linear combination</td>
     </tr>
     <tr>
     <td>Nov 05</td>
-    <td> </td>
+    <td>Gradient boosting</td>
     </tr>
     <tr>
     <td>Nov 07</td>
-    <td> </td>
+    <td>Decision trees</td>
     </tr>
     <tr>
     <td>Nov 12</td>
-    <td> </td>
-    </tr>    <tr>
+    <td>Random forests</td>
+    </tr>    
+    <tr>
     <td>Nov 14</td>
+    <td>Generalization of SVM and Boosting via margin bounds</td>
+    </tr>
+    <tr>
+    <td  colspan="3" style="text-align: center"><b></b></td>
+    </tr>
+    <tr>
+    <td>Nov 19</td>
     <td> </td>
     </tr>
+    <tr>
+    <td>Nov 21</td>
+    <td> </td>
+    </tr>    
+    <tr>
+    <td>Nov 26</td>
+    <td> </td>
+    </tr>
+    <tr>
+    <td>Nov 28</td>
+    <td>HAPPY THANKSGIVING! NO LECTURE</td>
+    </tr>
+    <tr>
+    <td>Dec 03</td>
+    <td> </td>
+    </tr>    
+    <tr>
+    <td>Dec 05</td>
+    <td> </td>
+    </tr>
+       <tr>
+    <td>Dec 10</td>
+    <td> </td>
+    </tr>    
   </tbody>
 </table>
 
@@ -211,6 +243,6 @@ What are the state-of-the-art machine learning methods and why do they work? Thi
 **Homework Assignments**  
 [HW1](HW1.pdf)  (Due: Oct 06, 2024)  
 [HW2](HW2.pdf)  (Due: Oct 27, 2024)  
-[HW3]  (Due: xxx 2024)  
-[HW4]  (Due: xxx 2024)  
-[HW5]  (Due: xxx 2024)  
+[HW3](HW3.pdf)  (Due: Nov 30, 2024)  
+[HW4]  (Due: Dec 10 2024)  
+[HW5]  (Due: Dec 17 2024)  
