@@ -92,7 +92,7 @@ What are the state-of-the-art machine learning methods and why do they work? Thi
     <tr>
     <td>Oct 15</td>
     <td>Warmup: finite hypothesis class, realizable case</td>
-    <td rowspan="4" style="vertical-align:middle">[Notes]</td>
+    <td rowspan="4" style="vertical-align:middle"><a href="learning-theory-notes.pdf">[Notes]</a></td>
     </tr>
     <tr>
     <td>Oct 17</td>
@@ -135,19 +135,20 @@ What are the state-of-the-art machine learning methods and why do they work? Thi
     <td>Generalization of SVM and Boosting via margin bounds</td>
     </tr>
     <tr>
-    <td  colspan="3" style="text-align: center"><b></b></td>
+    <td  colspan="3" style="text-align: center"><b>Beyond Supervised Learning</b></td>
     </tr>
     <tr>
     <td>Nov 19</td>
-    <td> </td>
+    <td>Three interpretation of PCA</td>
+    <td rowspan="6" style="vertical-align:middle">[Notes]</td>
     </tr>
     <tr>
     <td>Nov 21</td>
-    <td> </td>
+    <td>Random projection and compressed sensing</td>
     </tr>    
     <tr>
     <td>Nov 26</td>
-    <td> </td>
+    <td>Nonlinear dimension reduction</td>
     </tr>
     <tr>
     <td>Nov 28</td>
@@ -155,94 +156,26 @@ What are the state-of-the-art machine learning methods and why do they work? Thi
     </tr>
     <tr>
     <td>Dec 03</td>
-    <td> </td>
+    <td>Clustering with non-density-based methods</td>
     </tr>    
     <tr>
     <td>Dec 05</td>
-    <td> </td>
+    <td>Clustering with density-based methods</td>
     </tr>
        <tr>
     <td>Dec 10</td>
-    <td> </td>
+    <td>Generative models</td>
     </tr>    
+    <thead>
+    <tr>
+    </tr>
+  </thead>
   </tbody>
 </table>
-
-
-<!-- <table rules="groups" class="fixed">
-    <tr>
-    <td>Mar 22</td>
-    <td> Decision stumps and their linear combinations</td>
-    <td rowspan="6" style="vertical-align:middle">[Notes]</td>
-    </tr>
-    <tr>
-    <td>Mar 24</td>
-    <td> Adaboost and its training error</td>
-    </tr>
-    <tr>
-    <td>Mar 29</td>
-    <td>Generalizations of Adaboost: greedy methods and gradient methods</td>
-    </tr>
-    <tr>
-    <td>Mar 31</td>
-    <td>Computing with decision trees</td>
-    </tr>
-    <tr>
-    <td>Apr 12</td>
-    <td>CART; Generalization gap of Adaboost </td>
-    </tr>
-    <tr>
-    <td>Apr 14</td>
-    <td> Bagging and random forests </td>
-    </tr>
-    <td  colspan="3" style="text-align: center"><b>Linear and Nonlinear Dimension Reduction</b></td>
-    <tr>
-    <td>Apr 19</td>
-    <td>PCA as subspace fitting/autoencoder; random projection </td>
-    <td rowspan="2" style="vertical-align:middle">[Notes]</td>
-    </tr>
-    <tr>
-    <td>Apr 21</td>
-    <td>Compressive sensing; nonlinear dimension reduction</td>
-    </tr>
-      <td  colspan="3" style="text-align: center"><b>Clustering</b></td>
-    <tr>
-    <td>Apr 26</td>
-    <td>K-means, hierarchical clustering, spectral clustering </td>
-      <td rowspan="2" style="vertical-align:middle">[Notes]</td>
-    </tr>
-    <tr>
-    <td>Apr 28</td>
-    <td> More on spectral clustering; mode seeking methods</td>
-    </tr>
-    <td  colspan="3" style="text-align: center"><b>Generative Models</b></td>
-    <tr>
-    <td>May 03</td>
-    <td> Mixture modeling, MLE, and EM principle</td>
-    <td rowspan="2" style="vertical-align:middle">[Notes]</td>
-    </tr>
-    <tr>
-    <td>May 05</td>
-    <td>MAP, normalization flows, GANs </td>
-    </tr>
-    <tr>
-    <td  colspan="3" style="text-align: center"><b>Neural Networks: Taking the Universal Power</b></td>
-    </tr>
-    <tr>
-    <td>Apr 05</td>
-    <td> </td>
-      <td rowspan="2" style="vertical-align:middle">[Notes]</td>
-    </tr>
-    <tr>
-    <td>Apr 07</td>
-    <td> </td>
-    </tr>
-  </tbody>
-</table> -->
 
 **Homework Assignments**  
 [HW1](HW1.pdf)  (Due: Oct 06, 2024)  
 [HW2](HW2.pdf)  (Due: Oct 27, 2024)  
 [HW3](HW3.pdf)  (Due: Nov 30, 2024)  
-[HW4]  (Due: Dec 10 2024)  
-[HW5]  (Due: Dec 17 2024)  
+[HW4](HW4.pdf)  (Due: Dec 11 2024)  
+[HW5](HW5.pdf)  (Due: Dec 23 2024)  
