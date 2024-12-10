@@ -172,6 +172,7 @@ What are the state-of-the-art machine learning methods and why do they work? Thi
   </thead>
   </tbody>
 </table>
+  <br> 
 
 **Homework Assignments**  
 [HW1](HW1.pdf)  (Due: Oct 06, 2024)  
