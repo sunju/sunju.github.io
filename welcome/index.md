@@ -51,12 +51,11 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 #### Upcoming
 
 - **Talk**: [SIAM Conference on Computational Science and Engineering (CSE25)](https://www.siam.org/conferences-events/siam-conferences/cse25/) (Fort Worth, Texas, Mar 3--7, 2025)   
-- **Event**: [DARPA I2O Proposers' Day](https://creative.gryphontechnologies.com/darpa/i2o/ow-baa-pd-24/index.php?p=welcome) (Arlington, VA, Nov 07, 2024)
-- **Event**: [ARPA-H PRECISE AI Proposers' Day](https://arpa-h.gov/research-and-funding/programs/precise-ai) (Madison, Wisconsin, Oct 17, 2024)
- 
 
 #### Past
 
+- **Event**: [DARPA I2O Proposers' Day](https://creative.gryphontechnologies.com/darpa/i2o/ow-baa-pd-24/index.php?p=welcome) (Arlington, VA, Nov 07, 2024)
+- **Event**: [ARPA-H PRECISE AI Proposers' Day](https://arpa-h.gov/research-and-funding/programs/precise-ai) (Madison, Wisconsin, Oct 17, 2024)
 - **Talk**: [International Symposium on Mathematical Programming (ISMP24)](https://ismp2024.gerad.ca/) (Montréal, Canada, Jul 21--26, 2024)
 - **Talk**: [SIAM Conference on Imaging Science (IS24)](https://www.siam.org/conferences/cm/conference/is24) \[[Slides](talks/SIAM-IS-2024-May.pdf)\] (Atlanta, May 28--31, 2024)
 - **Service**: [Minisymposium on Deep Learning for Imaging Science](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=79060) at [SIAM Conference on Imaging Science (IS24)](https://www.siam.org/conferences/cm/conference/is24) (Atlanta, May 28--31, 2024)
