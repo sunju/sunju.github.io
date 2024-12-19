@@ -55,7 +55,6 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 #### Past
 
 - **Grant approval**: With [Prof. Zhaosong Lu](https://cse.umn.edu/isye/zhaosong-lu), [Prof. Chris Bartel](https://cse.umn.edu/cems/chris-bartel), and [Prof. Qizhi He](https://cse.umn.edu/cege/he-qizhi), we are funded by the [UMN DSI Faculty Fellowship](https://dsi.umn.edu/seed-grants) program to further develop our toolkit of constrained deep learning for materials discovery and engineering designs. (Dec 17, 2024)
-
 - **Event**: [DARPA I2O Proposers' Day](https://creative.gryphontechnologies.com/darpa/i2o/ow-baa-pd-24/index.php?p=welcome) (Arlington, VA, Nov 07, 2024)
 - **Event**: [ARPA-H PRECISE AI Proposers' Day](https://arpa-h.gov/research-and-funding/programs/precise-ai) (Madison, Wisconsin, Oct 17, 2024)
 - **Talk**: [International Symposium on Mathematical Programming (ISMP24)](https://ismp2024.gerad.ca/) (Montréal, Canada, Jul 21--26, 2024)
