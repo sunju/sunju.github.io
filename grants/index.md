@@ -21,6 +21,7 @@ tags: top
 
 ## Internal (selected)
 
+- **Accelerating Materials Discovery and Engineering Designs by Learning with Physics-Informed Constraints** (PI, $75K, DSI Faculty Fellowship, 2025)
 - **Data Science Methods to Enable Real-world Evidence to Support Stroke Care (DRESS)** (Co-PI, $120K, DSI Seed Grant---Large, 2023--2024)
 - **Stochastic Optimization for Constrained Deep Learning** (PI, $50K, DSI Seed Grant---Medium, 2023--2024)
 - **Constrained deep learning for the efficient discovery of stable solid-state materials** (PI, $50K, CSE DSI PhD Fellowship, 2023--2024)
