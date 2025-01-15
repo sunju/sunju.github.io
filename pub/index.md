@@ -55,86 +55,86 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > **Selective Classification Under Distribution Shifts**. \[[arXiv](https://arxiv.org/abs/2405.05160)\]    
 > &nbsp; &nbsp; Hengyue Liang, Le Peng, **Ju Sun**. Transactions on Machine Learning Research (TMLR), 2024.  
 
-> **Risk Prediction of Heart Diseases in Breast Cancer Patients: A Deep Learning Approach with Longitudinal Electronic Health Records Data**.             
-> &nbsp; &nbsp; Sicheng Zhou, Anne Blaes, Chetan Shenoy, **Ju Sun**, Rui Zhang. iScience, 2024.  
+> **Risk Prediction of Heart Diseases in Breast Cancer Patients: A Deep Learning Approach with Longitudinal Electronic Health Records Data**.  \[[paper](http://dx.doi.org/10.1016/j.isci.2024.110329)\]           
+> &nbsp; &nbsp; Sicheng Zhou, Anne Blaes, Chetan Shenoy, **Ju Sun**, Rui Zhang. iScience, 27(7), 110329, 2024.  
 
 > **Federated Learning with Convex Global and Local Constraints**. \[[arXiv](https://arxiv.org/abs/2310.10117)\]          
 > &nbsp; &nbsp; Chuan He, Le Peng, **Ju Sun**. Transactions on Machine Learning Research (TMLR), 2024.  
 
 > **Unraveling the Multiple Chronic Conditions Patterns Among People with Alzheimer's Disease and Related Dementia--A Machine Learning Approach to Incorporate Synergistic Interactions**.  \[[paper](https://doi.org/10.1002/alz.13923)\]     
-> &nbsp; &nbsp; Pui Ying Yew, Ryan Devera, Yue Liang, Razan A. El Khaifa, **Ju Sun**, Nai-Ching Chi, Ying-Chyi Chou, Peter J. Tonellato, Chih-Lin Chi. Alzheimer's & Dementia: The Journal of the Alzheimer's Association, 2024.  
+> &nbsp; &nbsp; Pui Ying Yew, Ryan Devera, Yue Liang, Razan A. El Khaifa, **Ju Sun**, Nai-Ching Chi, Ying-Chyi Chou, Peter J. Tonellato, Chih-Lin Chi. Alzheimer's & Dementia: The Journal of the Alzheimer's Association, 20(7), 4818--4827, 2024.  
 
 > **An In-Depth Evaluation of Federated Learning on Biomedical Natural Language Processing**. \[[arXiv](https://arxiv.org/abs/2307.11254)\] \[[medRxiv](https://doi.org/10.1101/2023.11.24.23299002)\]     
-> &nbsp; &nbsp; Le Peng, Gaoxiang Luo, Sicheng Zhou, Jiandong Chen, Ziyue Xu, Rui Zhang, **Ju Sun**. npj Digital Medicine, 2024.  
+> &nbsp; &nbsp; Le Peng, Gaoxiang Luo, Sicheng Zhou, Jiandong Chen, Ziyue Xu, Rui Zhang, **Ju Sun**. npj Digital Medicine, 7, 127, 2024.  
 
 > **Interpretable Deep Learning Methods for Multiview Learning**.   \[[arXiv](https://arxiv.org/abs/2302.07930)\] \[[paper](https://doi.org/10.1186/s12859-024-05679-9)\]         
-> &nbsp; &nbsp;  Hengkang Wang, Han Lu, **Ju Sun**, Sandra Safo. BMC Bioinformatics, 25(1):1--30, 2024.  
+> &nbsp; &nbsp;  Hengkang Wang, Han Lu, **Ju Sun**, Sandra Safo. BMC Bioinformatics, 25(1), 1--30, 2024.  
 
 > **Blind Image Deblurring with Unknown Kernel Size and Substantial Noise**. \[[arXiv](https://arxiv.org/abs/2208.09483)\] \[[paper](https://doi.org/10.1007/s11263-023-01883-x)\]       
-> &nbsp; &nbsp;  Zhong Zhuang, Taihui Li, Hengkang Wang, **Ju Sun**. International Journal of Computer Vision (IJCV), 132(2):319--348, 2024.
+> &nbsp; &nbsp;  Zhong Zhuang, Taihui Li, Hengkang Wang, **Ju Sun**. International Journal of Computer Vision (IJCV), 132(2), 319--348, 2024.
 
 > **Early Stopping for Deep Image Prior**. \[[arXiv](https://arxiv.org/abs/2112.06074)\] \[[openreview](https://openreview.net/forum?id=231ZzrLC8X)\]         
 > &nbsp; &nbsp;  Hengkang Wang, Taihui Li, Zhong Zhuang, Tiancong Chen, Hengyue Liang, **Ju Sun**. Transactions on Machine Learning Research (TMLR), 2023.  
 
 > **A Cross-institutional Evaluation on Breast Cancer Phenotyping NLP Algorithms on Electronic Health Records**. \[[arXiv](https://arxiv.org/abs/2303.08448)\] \[[paper](https://doi.org/10.1016/j.csbj.2023.08.018)\]   
-> &nbsp; &nbsp;  Sicheng Zhou, Nan Wang, Liwei Wang, **Ju Sun**, Anne Blaes, Hongfang Liu, Rui Zhang. Computational and Structural Biotechnology Journal, 22:32--40, 2023.  
+> &nbsp; &nbsp;  Sicheng Zhou, Nan Wang, Liwei Wang, **Ju Sun**, Anne Blaes, Hongfang Liu, Rui Zhang. Computational and Structural Biotechnology Journal, 22, 32--40, 2023.  
 
 > **Automated Quantification of Eye Tics using Computer Vision and Deep Learning Techniques**. \[[paper (open access)](https://doi.org/10.1002/mds.29593)\]      
-> &nbsp; &nbsp; Christine Conelea, Hengyue Liang, Megan DuBois, Brittany Raab, Mia Kellman, Brianna Wellen, Suma Jacob, Sonya Wang, **Ju Sun**, Kelvin Lim. Movement Disorders, 39(1):183--191, 2024.
+> &nbsp; &nbsp; Christine Conelea, Hengyue Liang, Megan DuBois, Brittany Raab, Mia Kellman, Brianna Wellen, Suma Jacob, Sonya Wang, **Ju Sun**, Kelvin Lim. Movement Disorders, 39(1), 183--191, 2024.
 
 > **Effects of Personalized Exercise Prescriptions and Social Media through m-Health on Cancer Survivors’ Physical Activity and Quality of Life**. \[[paper](https://doi.org/10.1016/j.jshs.2023.07.002)\]       
-> &nbsp; &nbsp; Zan Gao, Suryeon Ryu, Wanjiang Zhou, Kaitlyn Adams, Mohamed Hassan, Rui Zhang, Anne Blaes, Julian Wolfson, **Ju Sun**. Journal of Sport and Health Science. 12(6):705--714, 2023.
+> &nbsp; &nbsp; Zan Gao, Suryeon Ryu, Wanjiang Zhou, Kaitlyn Adams, Mohamed Hassan, Rui Zhang, Anne Blaes, Julian Wolfson, **Ju Sun**. Journal of Sport and Health Science. 12(6), 705--714, 2023.
 
 > **A Unified Analysis of AdaGrad with Weighted Aggregation and Momentum Acceleration**. \[[arXiv](https://arxiv.org/abs/1808.03408v3)\] \[[paper](https://ieeexplore.ieee.org/document/10149826)\]       
-> &nbsp; &nbsp;  Shen Li, Congliang Chen, Fangyu Zou, Zequn Jie, **Ju Sun**, Wei Liu. IEEE Transactions on Neural Networks and Learning Systems (TNNLS). 2023.
+> &nbsp; &nbsp;  Shen Li, Congliang Chen, Fangyu Zou, Zequn Jie, **Ju Sun**, Wei Liu. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 35(10), 14482--14490, 2024.
 
 > **Welfare and Fairness Dynamics in Federated Learning: A Client Selection Perspective**. \[[arXiv](https://arxiv.org/abs/2302.08976)\]     
-> &nbsp; &nbsp;  Yash Travadi, Le Peng, Xuan Bi, **Ju Sun**, Mochen Yang. Statistics and Its Interface. 2023.     
+> &nbsp; &nbsp;  Yash Travadi, Le Peng, Xuan Bi, **Ju Sun**, Mochen Yang. Statistics and Its Interface, 17(3), 383--395, 2024.     
 
 > **Evaluation of Federated Learning Variations for COVID-19 Diagnosis using Chest Radiographs from 42 US and European Hospitals**.  \[[paper (open access)](https://doi.org/10.1093/jamia/ocac188)\]       
-> &nbsp; &nbsp;  Le Peng, Gaoxiang Luo, Andrew Walker, Zachary Zaiman, Emma K. Jones, Hemant Gupta, Kristopher Kersten, John L. Burns, Christopher A. Harle, Tanja Magoc, Benjamin Shickel, Scott D. Steenburg, Tyler Loftus, Genevieve B. Melton, Judy Wawira Gichoya, **Ju Sun**, Christopher J Tignanelli. Journal of the American Medical Informatics Association (JAMIA), 30(1):54--63, 2023. 
+> &nbsp; &nbsp;  Le Peng, Gaoxiang Luo, Andrew Walker, Zachary Zaiman, Emma K. Jones, Hemant Gupta, Kristopher Kersten, John L. Burns, Christopher A. Harle, Tanja Magoc, Benjamin Shickel, Scott D. Steenburg, Tyler Loftus, Genevieve B. Melton, Judy Wawira Gichoya, **Ju Sun**, Christopher J Tignanelli. Journal of the American Medical Informatics Association (JAMIA), 30(1), 54--63, 2023. 
 
 > **A Prospective Observational Study to Investigate Performance of a Chest X-ray Artificial Intelligence Diagnostic Support Tool Across 12 U.S. Hospitals**. \[[medRxiv](https://doi.org/10.1101/2021.06.04.21258316)\]  \[[arXiv](https://arxiv.org/abs/2106.02118)\] \[[paper](https://doi.org/10.1148/ryai.210217)\]   
 > &nbsp; &nbsp; **Ju Sun**,  Le Peng, Taihui Li, Dyah Adila,  Zach Zaiman, Genevieve B. Melton,  Nicholas Ingraham, Eric Murray,  Daniel Boley, Sean Switzer,  John L. Burns, Kun Huang,  Tadashi Allen,  Scott D. Steenburg, Judy Wawira Gichoya,  Erich Kummerfeld,  Christopher Tignanelli. Radiology: Artificial Intelligence, 4(4), 2022.
 
 > **Towards Practical Holographic Coherent Diffraction Imaging via Maximum Likelihood Estimation**. \[[paper (open access)](https://doi.org/10.1364/OE.445015)\]\[[arXiv](https://arxiv.org/abs/2105.11512)\]    
-> &nbsp; &nbsp; David A. Barmherzig, **Ju Sun**. Optics Express, 30(5):6886--6906, 2022. 
+> &nbsp; &nbsp; David A. Barmherzig, **Ju Sun**. Optics Express, 30(5), 6886--6906, 2022. 
 
 > **Potential and Limitations of Radiomics in Neuro-oncology**.  \[[Paper](https://doi.org/10.1016/j.jocn.2021.05.015)\]    
-> &nbsp; &nbsp; Birra Taha, Daniel Boley, **Ju Sun**, Clark C. Chen. Journal of Clinical Neuroscience,  90:206--211, 2021.
+> &nbsp; &nbsp; Birra Taha, Daniel Boley, **Ju Sun**, Clark C. Chen. Journal of Clinical Neuroscience,  90, 206--211, 2021.
 
 > **State of Radiomics in Glioblastoma**.  \[[Paper](https://doi.org/10.1093/neuros/nyab124)\]    
-> &nbsp; &nbsp; Birra Taha, Daniel Boley, **Ju Sun**, Clark C. Chen. Neurosurgery, 89(2):177--184, 2021.
+> &nbsp; &nbsp; Birra Taha, Daniel Boley, **Ju Sun**, Clark C. Chen. Neurosurgery, 89(2), 177--184, 2021.
 
 > **Detection of Isocitrate Dehydrogenase Mutated Glioblastomas through Anomaly Detection Analytics**.  \[[Paper](https://doi.org/10.1093/neuros/nyab130)\]     
-> &nbsp; &nbsp; Birra Taha, Taihui Li, Daniel Boley, Clark C. Chen, **Ju Sun**. Neurosurgery, 89(2):323--328, 2021.
+> &nbsp; &nbsp; Birra Taha, Taihui Li, Daniel Boley, Clark C. Chen, **Ju Sun**. Neurosurgery, 89(2), 323--328, 2021.
 
 > **Dictionary Learning in Fourier Transform Scanning Tunneling Spectroscopy**.  \[[arXiv](https://arxiv.org/abs/1807.10752)\]  \[[Paper](https://doi.org/10.1038/s41467-020-14633-1)\]  
 > &nbsp; &nbsp; Sky Cheung, John Shin, Yenson Lau, Zhengyu Chen, **Ju Sun**, Yuqian Zhang, John Wright, and Abhay Pasupathy. Nature Communications, 11, 1081, 2020.
 
 > **Holographic Phase Retrieval and Reference Design**. \[[arXiv](https://arxiv.org/abs/1901.06453)\] \[[Paper](https://doi.org/10.1088/1361-6420/ab23d1)\]   
-> &nbsp; &nbsp; David Barmherzig, **Ju Sun**, Po-Nan Li, TJ Lane, and Emmanuel J. Cand&#232;s. Inverse Problems, 35(9):094001, 2019.
+> &nbsp; &nbsp; David Barmherzig, **Ju Sun**, Po-Nan Li, TJ Lane, and Emmanuel J. Cand&#232;s. Inverse Problems, 35(9), 094001, 2019.
 
 > **High-Speed Channel Modeling with Machine Learning Methods for Signal Integrity Analysis**.  \[[Draft](/docs/lu2017highspeed.pdf)\]\[[Paper](https://doi.org/10.1109/TEMC.2017.2784833)\]  
-> &nbsp; &nbsp; Tianjian Lu, **Ju Sun**, Ken Wu, Zhiping Yang. IEEE Trans. Electromagnetic Compatibility, 60(6):1957--1964, 2018.
+> &nbsp; &nbsp; Tianjian Lu, **Ju Sun**, Ken Wu, Zhiping Yang. IEEE Trans. Electromagnetic Compatibility, 60(6), 1957--1964, 2018.
 
 > **A Geometrical Analysis of Phase Retrieval**. \[[extended abstract](/docs/PR_G4_16.pdf)\]\[[arXiv](http://arxiv.org/abs/1602.06664)\] \[[Paper](https://doi.org/10.1007/s10208-017-9365-9)\]  
-> &nbsp; &nbsp; **Ju Sun**, Qing Qu, John Wright. Foundations of Computational Mathematics, 18(5):1131--1198, 2018.
+> &nbsp; &nbsp; **Ju Sun**, Qing Qu, John Wright. Foundations of Computational Mathematics, 18(5), 1131--1198, 2018.
 
 > **Complete Dictionary Recovery over the Sphere I: Overview and the Geometric Picture**. \[[summary](/docs/DL_LSE_15.pdf)\]\[[Arxiv](http://arxiv.org/abs/1511.03607)\] \[[Paper](http://dx.doi.org/10.1109/TIT.2016.2632162)\]\[[Codes](https://github.com/sunju/dl_focm)\]\[[Arxiv-Full Report](http://arxiv.org/abs/1504.06785)\]  
-> &nbsp; &nbsp; **Ju Sun**, Qing Qu, John Wright. IEEE Trans. Information Theory, 63(2):  853 - 884, 2017.
+> &nbsp; &nbsp; **Ju Sun**, Qing Qu, John Wright. IEEE Trans. Information Theory, 63(2), 853--884, 2017.
 
 > **Complete Dictionary Recovery over the Sphere II: Recovery by Riemannian Trust-region Method**. \[[summary](/docs/DL_LSE_15.pdf)\]\[[Arxiv](http://arxiv.org/abs/1511.04777)\] \[[Paper](http://dx.doi.org/10.1109/TIT.2016.2632149)\] \[[Codes](https://github.com/sunju/dl_focm)\]\[[Arxiv-Full Report](http://arxiv.org/abs/1504.06785)\]  
-> &nbsp; &nbsp; **Ju Sun**, Qing Qu, John Wright. IEEE Trans. Information Theory, 63(2):  885 -- 914, 2017.
+> &nbsp; &nbsp; **Ju Sun**, Qing Qu, John Wright. IEEE Trans. Information Theory, 63(2), 885--914, 2017.
 
 > **Finding a Sparse Vector in a Subspace: Linear Sparsity Using Alternating Direction**. \[[arXiv](http://arxiv.org/abs/1412.4659)\] \[[Paper](http://dx.doi.org/10.1109/TIT.2016.2601599)\] \[[Codes](https://github.com/sunju/psv )\]  
-> &nbsp; &nbsp; Qing Qu, **Ju Sun**, John Wright. IEEE Trans. Information Theory, 62(10): 5855 - 5880, 2016.
+> &nbsp; &nbsp; Qing Qu, **Ju Sun**, John Wright. IEEE Trans. Information Theory, 62(10), 5855--5880, 2016.
 
 > **Efficient Point-to-Subspace Query in $\ell^1$ with Application to Robust Object Instance Recognition**. \[[arXiv](http://arxiv.org/abs/1208.0432)\]  \[[paper](/docs/L1_SIIMS_14.pdf)\]   
-> &nbsp; &nbsp; **Ju Sun**, Yuqian Zhang, John Wright. SIAM J. Imaging Sciences (SIIMS), 7(4):2105 - 2138, 2014.
+> &nbsp; &nbsp; **Ju Sun**, Yuqian Zhang, John Wright. SIAM J. Imaging Sciences (SIIMS), 7(4), 2105--2138, 2014.
 
 > **Robust Recovery of Subspace Structures by Low-Rank Representation**. \[[arXiv](http://arxiv.org/abs/1010.2955)\] \[[paper](http://dx.doi.org/10.1109/TPAMI.2012.88)\] [[Codes](https://sites.google.com/site/guangcanliu/lrr.zip?attredirects=0&d=1)[^pami_lrr]]   
-> &nbsp; &nbsp; Guangcan Liu,  Zhouchen Lin, Shuicheng Yan,  **Ju Sun**, Yong Yu, and Yi Ma.  IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI), 35(1):171 - 184, 2013.
+> &nbsp; &nbsp; Guangcan Liu,  Zhouchen Lin, Shuicheng Yan,  **Ju Sun**, Yong Yu, and Yi Ma.  IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI), 35(1), 171--184, 2013.
 
 ### Conferences and Workshops
 
