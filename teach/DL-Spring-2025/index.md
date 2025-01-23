@@ -20,14 +20,29 @@ Full syllabus: [Syllabus.pdf](CSCI5527_2025_Spring.pdf)
 
 Disclaimer: The schedule is tentative and subject to change 
 
-| Date   | Topics                                                                                                                                                                                         |    
-| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |    
-| Jan 21/23 | Deep learning: overview [slides] <br> Neural networks: old and new [slides]      |    
+| Date   | Topics |    
+| ------ |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|    
+| Jan 21/23 | Deep learning: overview \[[slides](Jan-21.pdf)\] <br> Neural networks: old and new [slides]      |    
+| Jan 28/30 | Fundamental belief: universal approximation theorems [slides]  <br> Basics of numerical optimization: optimality conditions [slides]  |
+| Feb 04/06 | Basics of numerical optimization: iterative methods [slides]   |
+| Feb 11/13 | Basics of numerical optimization: computing derivatives [slides] <br>  Introduction to Google Colab and PyTorch [slides] | 
+| Feb 18/20 |  | 
+| Feb 25/27 |  | 
+| Mar 04/06 |  | 
+| Mar 11/13 | SPRING BREAK; NO LECTURES | 
+| Mar 18/20 |  | 
+| Mar 25/27 |  | 
+| Apr 01/03 |  | 
+| Apr 08/10 |  | 
+| Apr 15/17 |  | 
+| Apr 22/24 |  | 
+| Apr 29 <br> May 01 |  | 
+|  |  |
 
 **Homework**   
-+ [HW set 0] (Due: xx)
-+ [HW set 1] (Due: xx)
-+ [HW set 2] (Due: xx)
-+ [HW set 3] (Due: xx)
-+ [HW set 4] (Due: xx)
-+ [HW set 5] (Due: xx)
++ [HW 0] (Due: xx)
++ [HW 1] (Due: xx)
++ [HW 2] (Due: xx)
++ [HW 3] (Due: xx)
++ [HW 4] (Due: xx)
++ [HW 5] (Due: xx)
