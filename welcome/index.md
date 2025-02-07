@@ -50,6 +50,7 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 
 #### Upcoming
 
+- **Event**: [DARPA Proposers' Day on Securing Artificial Intelligence for Battlefield Effective Robustness](https://creative.spa.com/darpa/i2o/saber/pd/index.php?p=welcome) (Arlington, VA, Mar 12, 2025)  
 - **Talk**: [SIAM Conference on Computational Science and Engineering (CSE25)](https://www.siam.org/conferences-events/siam-conferences/cse25/) (Fort Worth, Texas, Mar 3--7, 2025)   
 
 #### Past
