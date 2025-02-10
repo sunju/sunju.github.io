@@ -41,7 +41,7 @@ Disclaimer: The schedule is tentative and subject to change
 
 **Homework**   
 + [HW 0](HW0.pdf) (Due: Feb 09)
-+ [HW 1] (Due: xx)
++ [HW 1](HW1.pdf) (Due: Feb 24)
 + [HW 2] (Due: xx)
 + [HW 3] (Due: xx)
 + [HW 4] (Due: xx)
