@@ -25,7 +25,7 @@ Disclaimer: The schedule is tentative and subject to change
 | Jan 21/23 | Deep learning: overview \[[slides](Jan-21.pdf)\] <br> Neural networks: old and new \[[slides](Jan-23.pdf)\] <br> [Supplementary notes on high-dimensional calculus](calculus-review.pdf) |    
 | Jan 28/30 | Fundamental belief: universal approximation theorems \[[slides](Jan-28.pdf)\]  <br> Basics of numerical optimization: optimality conditions \[[slides](Jan-30.pdf)\]  |
 | Feb 04/06 | Basics of numerical optimization: iterative methods \[[slides](Feb-04.pdf)\]   |
-| Feb 11/13 | Basics of numerical optimization: computing derivatives [slides] <br>  Introduction to Google Colab and PyTorch [slides] | 
+| Feb 11/13 | Basics of numerical optimization: computing derivatives \[[slides](Feb-11-13.pdf)\] <br>  Introduction to Google Colab and PyTorch [slides] | 
 | Feb 18/20 |  | 
 | Feb 25/27 |  | 
 | Mar 04/06 |  | 
