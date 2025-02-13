@@ -13,6 +13,7 @@ tags: top
   
 ### PhD's
  
+- [Sinian Zhang](https://scholar.google.com/citations?user=gdFyWbIAAAAJ&hl=en) (Biostats, co-advised with [Prof. Jue Hou](https://directory.sph.umn.edu/bio/sph-a-z/jue-hou))
 - Guanchen Li (CS&E) 
 - [Gaoxiang Luo](https://gaoxiangluo.github.io/index.html) (CS&E)
 - [Yuxiang Wan](https://www.linkedin.com/in/yuxiang-wang-893b82b4) (CS&E)
@@ -20,7 +21,7 @@ tags: top
 - [Wenjie Zhang](https://wenjie-zhang08.github.io/) (CS&E) 
 - [Jiandong Chen](https://www.linkedin.com/in/jiandong-chen) ([IHI](https://healthinformatics.umn.edu/))
 - [Ryan de Vera](https://www.linkedin.com/in/ryan-de-vera-b4374089) (CS&E)
-- [Hengkang Wang](https://www.linkedin.com/in/hengkang-henry-wang-a1b293104/) (CS&E)
+- [Hengkang Wang](https://scholar.google.com/citations?user=APqDZvUAAAAJ&hl=en) (CS&E)
 
 <!-- 
 ### Research Assistants  
