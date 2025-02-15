@@ -16,7 +16,9 @@ news: true
 social: true
 ---
 
-Assistant Professor, [Computer Science & Engineering](https://www.cs.umn.edu/)       
+[Curriculum Vitae](CV.pdf)
+
+Assistant Professor, [Computer Science & Engineering](https://www.cs.umn.edu/)   
 Leader, [Group of Learning, Optimization, Vision, Healthcare, and X (GLOVEX)](https://glovex.umn.edu/)   
 Foundational Data Science Committee, [UMN Data Science Initiative (DSI)](https://dsi.umn.edu/)      
 Leader of Computer Vision, [Program for Clinical AI](https://med.umn.edu/clhss/activities/clinical-ai), [Center for Learning Health System Sciences (CLHSS)](https://med.umn.edu/clhss)   
@@ -24,10 +26,12 @@ Full Member, [Innovative Methods & Data Science](https://med.umn.edu/clhss/activ
 Affiliated Faculty of [Electrical and Computer Engineering](https://cse.umn.edu/ece); [UMN CSE Data Science Initiative (CSE-DSI)](https://cse.umn.edu/dsi); [AI Institute for Climate-Land Interactions, Mitigation, Adaptation, Tradeoffs and Economy (AI-CLIMATE)](https://cse.umn.edu/aiclimate); [UMN Data Science Program](https://cse.umn.edu/datascience); [Institute for Health Informatics (IHI)](https://healthinformatics.umn.edu/); [Institute for Engineering in Medicine (IME)](https://www.iem.umn.edu/); [Masonic Cancer Center (MCC)](https://cancer.umn.edu/)   
 University of Minnesota, Twin Cities
 
+CEO, [Deeployable](https://deeployable.com/) 
+
 R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 
 
-**Research Interests**: Foundations of machine learning, computer vision, numerical optimization, and their application to science, engineering, and medicine. 
+**Research Interests**: Foundations of machine learning, computer vision, numerical optimization, and their application to science, engineering, and medicine. See our [group research](https://glovex.umn.edu/research) 
 
 <span style="color:red">**Openings**: We plan to recruit two or three PhD students for 2025 Fall. Ideal candidates should have strong mathematics and programming background, preferably with prior research experience in at least one of the fields: machine learning, computer vision, numerical optimization, and their applications. Due to the interdisciplinary nature of our work (check out [my publications](https://sunju.org/pub/) and [my recent talks](https://sunju.org/talks/), we welcome applicants from outside CS fields also, such as electrical engineering, mathematics, statistics, data science,  operation research, mechanical engineering, biomedical engineering, and so on (see the background of our current and past members [here](https://sunju.org/people/)). Prospective students please directly apply through our [PhD application system](https://cse.umn.edu/cs/phd-admissions) and mention Prof. Sun among the potential advisors. </span> 
 
