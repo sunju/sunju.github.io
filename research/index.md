@@ -6,10 +6,11 @@ tags: top
 <!--description: Publications by categories in reversed chronological order. -->
 ---
 
-- [Artificial Intelligence for Healthcare]
-- [Artificial Intelligence for Science]
-- [Optimization for Deep Learning]
-- [Robustness in Deep Learning]
+### 2019--Present  
+
+- [Current Research at UMN](https://glovex.umn.edu/research)
+
+### Before 2019 
 - [Provable Nonconvex Methods/Algorithms](nonconvex/)
 - [Phase Retrieval and Applications](pr/)
 - [Dictionary Learning, Blind Deconvolution, and Deep Learning](dict-learn/)
