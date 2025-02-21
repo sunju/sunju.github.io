@@ -23,17 +23,17 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > **Neural Topology Optimization with Principled Constrained Optimization**.  
 > &nbsp; &nbsp; Ryan Devera, Buyun Liang, Binyao Guo, Qizhi He, **Ju Sun**. 2024.  
 
-> **A Strong Baseline for Removing Invisible Watermarks on Images via Deep Image Prior**.  
-> &nbsp; &nbsp; Hengyue Liang, Taihui Li, **Ju Sun**. 2024.  
-
 > **Direct Metric Optimization for Imbalanced Classification**.  
 > &nbsp; &nbsp; Le Peng, Yash Travadi, Chuan He, Ying Cui, **Ju Sun**. 2024.  
 
 > **Regression with High-Dimensional Targets**.  
 > &nbsp; &nbsp; Tiancong Chen, Hengkang Wang, Chuan He, Ying Cui, **Ju Sun**. 2024.  
 
+> **A Baseline Method for Removing Invisible Image Watermarks using Deep Image Prior**. \[[arXiv](https://arxiv.org/abs/2502.13998)\]   
+> &nbsp; &nbsp; Hengyue Liang, Taihui Li, **Ju Sun**. Under review for Transactions on Machine Learning Research (TMLR), 2025.  
+
 > **Optimization and Optimizers for Adversarial Robustness**.   \[[arXiv](https://arxiv.org/abs/2303.13401)\]          
-> &nbsp; &nbsp;  Hengyue Liang, Buyun Liang, Le Peng, Ying Cui, Tim Mitchell, **Ju Sun**. Under review for International Journal of Computer Vision (IJCV), 2023.  
+> &nbsp; &nbsp;  Hengyue Liang, Buyun Liang, Le Peng, Ying Cui, Tim Mitchell, **Ju Sun**. 
 
 > **Phase Retrieval: the Role of Overparametrization and New Methods**.     
 > &nbsp; &nbsp;  Zhong Zhuang,  Yash Travadi, Zhihui Zhu,  **Ju Sun**. In preparation for SIAM Journal on  Mathematics of Data Science (SIMODS), 2023.     
