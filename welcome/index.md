@@ -59,6 +59,7 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 
 #### Past
 
+- **Honors**: Thrilled to be awarded the [McKnight Land-Grant Professorship](https://scholarswalk.umn.edu/university-awards/mcknight-land-grant-professorship) by the University of Minnesota, the highest honor for assistant professors.  (Mar 05, 2025)   
 - **Paper release**: Proud to release our paper [A Baseline Method for Removing Invisible Image Watermarks using Deep Image Prior](https://arxiv.org/abs/2502.13998) on arXiv! Our method operates on a very different principle compared to state-of-the-art watermark evasion methods, and hence largely complements the existing evasion methods.  (Feb 20, 2025)   
 - **Grant approval**: With [Prof. Zhaosong Lu](https://cse.umn.edu/isye/zhaosong-lu), [Prof. Chris Bartel](https://cse.umn.edu/cems/chris-bartel), and [Prof. Qizhi He](https://cse.umn.edu/cege/he-qizhi), we are funded by the [UMN DSI Faculty Fellowship](https://dsi.umn.edu/seed-grants) program to further develop our toolkit of constrained deep learning for materials discovery and engineering designs. (Dec 17, 2024)
 - **Event**: [DARPA I2O Proposers' Day](https://creative.gryphontechnologies.com/darpa/i2o/ow-baa-pd-24/index.php?p=welcome) (Arlington, VA, Nov 07, 2024)
