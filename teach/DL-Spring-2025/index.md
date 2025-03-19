@@ -43,6 +43,6 @@ Disclaimer: The schedule is tentative and subject to change
 + [HW 0](HW0.pdf) (Due: Feb 09)
 + [HW 1](HW1.pdf) (Due: Feb 24)
 + [HW 2](HW2.pdf) (Due: Mar 16)
-+ [HW 3] (Due: xx)
++ [HW 3](HW3.pdf) (Due: Apr 03)
 + [HW 4] (Due: xx)
 + [HW 5] (Due: xx)
