@@ -30,6 +30,8 @@ tags: top
 ### Masters
 
 ### Undergrads
+
+- [Chongwei Chen](https://www.linkedin.com/in/chongwei-chen-99b0072b7/) (Math & CS&E)
 - [Sean Schweiger](https://www.linkedin.com/in/sean-schweiger/) (Math & CS&E)
 
 ### PhD & Postdoc Alumni  
