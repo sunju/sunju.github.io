@@ -59,6 +59,7 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 
 #### Past
 
+- **Paper release**: Proud to release our paper [Temporal-Consistent Video Restoration with Pre-trained Diffusion Models](https://arxiv.org/abs/2503.14863) on arXiv! This paper builds on our previous [DMPlug idea](https://arxiv.org/abs/2405.16749) for solving inverse problems using pretrained image diffusion models, and integrates substantial innovation, customization, and optimization to excel in solving video restoration problems.  (Mar 19, 2025)    
 - **Talk**: [SIAM Conference on Computational Science and Engineering (CSE25)](https://www.siam.org/conferences-events/siam-conferences/cse25/) \[[Slides](talks/SIAM-CSE-2025-Mar.pdf)\] (Fort Worth, Texas, Mar 3--7, 2025)  
 - **Honors**: Thrilled to be awarded the [McKnight Land-Grant Professorship](https://scholarswalk.umn.edu/university-awards/mcknight-land-grant-professorship) (2025--2027) by the University of Minnesota, the highest honor for assistant professors.  (Mar 05, 2025)   
 - **Paper release**: Proud to release our paper [A Baseline Method for Removing Invisible Image Watermarks using Deep Image Prior](https://arxiv.org/abs/2502.13998) on arXiv! Our method operates on a very different principle compared to state-of-the-art watermark evasion methods, and hence largely complements the existing evasion methods.  (Feb 20, 2025)   

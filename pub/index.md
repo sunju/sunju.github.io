@@ -29,6 +29,9 @@ Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6F
 > **Regression with High-Dimensional Targets**.  
 > &nbsp; &nbsp; Tiancong Chen, Hengkang Wang, Chuan He, Ying Cui, **Ju Sun**. 2024.  
 
+> **Temporal-Consistent Video Restoration with Pre-trained Diffusion Models**. \[[arXiv](https://arxiv.org/abs/2503.14863)\]       
+> &nbsp; &nbsp; Hengkang Wang, Yang Liu, Huidong Liu, Chien-Chih Wang, Yanhui Guo, Hongdong Li, Bryan Wang, **Ju Sun**. Under review for International Conference on Computer Vision (ICCV), 2025.  
+
 > **A Baseline Method for Removing Invisible Image Watermarks using Deep Image Prior**. \[[arXiv](https://arxiv.org/abs/2502.13998)\]   
 > &nbsp; &nbsp; Hengyue Liang, Taihui Li, **Ju Sun**. Under review for Transactions on Machine Learning Research (TMLR), 2025.  
 
