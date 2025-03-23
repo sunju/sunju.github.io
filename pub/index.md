@@ -6,7 +6,7 @@ title: Publications
 tags: top
 ---
 
-Paper citations: \[[Google Scholar](http://scholar.google.com/citations?user=V6FaD-UAAAAJ)\] \[[Semantic Scholar](https://www.semanticscholar.org/author/Ju-Sun/144706338)\] \[[arXiv Personal Page](http://arxiv.org/a/sun_j_1)\] \[[ORCID](https://orcid.org/0000-0002-2017-5903)\]
+Paper profile: \[[Google Scholar](http://scholar.google.com/citations?user=V6FaD-UAAAAJ)\] \[[Semantic Scholar](https://www.semanticscholar.org/author/Ju-Sun/144706338)\] \[[arXiv Personal Page](http://arxiv.org/a/sun_j_1)\] \[[ORCID](https://orcid.org/0000-0002-2017-5903)\] \[[OpenReview](https://openreview.net/profile?id=~Ju_Sun2)\]
 
 - [Preprints](#preprints)
 - [Journals](#journals)
