@@ -20,13 +20,13 @@ social: true
 
 [McKnight Land-Grant Professor](https://scholarswalk.umn.edu/university-awards/mcknight-land-grant-professorship), [Computer Science & Engineering](https://www.cs.umn.edu/)   
 Leader, [Group of Learning, Optimization, Vision, Healthcare, and X (GLOVEX)](https://glovex.umn.edu/)   
-Foundational Data Science Committee, [UMN Data Science Initiative (DSI)](https://dsi.umn.edu/)      
+Core executive member, [UMN Data Science Initiative (DSI)](https://dsi.umn.edu/)      
 Leader of Computer Vision, [Program for Clinical AI](https://med.umn.edu/clhss/activities/clinical-ai), [Center for Learning Health System Sciences (CLHSS)](https://med.umn.edu/clhss)   
 Full Member, [Innovative Methods & Data Science](https://med.umn.edu/clhss/activities/imds), [Center for Learning Health System Sciences (CLHSS)](https://med.umn.edu/clhss)            
 Affiliated Faculty of [Electrical and Computer Engineering](https://cse.umn.edu/ece); [UMN CSE Data Science Initiative (CSE-DSI)](https://cse.umn.edu/dsi); [AI Institute for Climate-Land Interactions, Mitigation, Adaptation, Tradeoffs and Economy (AI-CLIMATE)](https://cse.umn.edu/aiclimate); [UMN Data Science Program](https://cse.umn.edu/datascience); [Institute for Health Informatics (IHI)](https://healthinformatics.umn.edu/); [Institute for Engineering in Medicine (IME)](https://www.iem.umn.edu/); [Masonic Cancer Center (MCC)](https://cancer.umn.edu/)   
 University of Minnesota, Twin Cities
 
-CEO, [Deeployable](https://deeployable.com/) 
+CEO, [Deeployable AI](https://deeployable.com/) 
 
 R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 
