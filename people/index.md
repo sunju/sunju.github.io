@@ -14,7 +14,7 @@ tags: top
 ### PhD's
  
 - [Sinian Zhang](https://scholar.google.com/citations?user=gdFyWbIAAAAJ&hl=en) (Biostats, co-advised with [Prof. Jue Hou](https://directory.sph.umn.edu/bio/sph-a-z/jue-hou))
-- Guanchen Li (CS&E) 
+- [Guanchen Li](https://scholar.google.com/citations?user=73BtRsIAAAAJ&hl=en) (CS&E) 
 - [Gaoxiang Luo](https://gaoxiangluo.github.io/index.html) (CS&E)
 - [Yuxiang Wan](https://www.linkedin.com/in/yuxiang-wang-893b82b4) (CS&E)
 - [Corey Senger](https://www.linkedin.com/in/corey-senger-69bbb3122/) (CS&E, co-advised with [Prof. Jiarong Hong](https://cse.umn.edu/me/jiarong-hong))

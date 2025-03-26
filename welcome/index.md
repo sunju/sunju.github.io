@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: sunju_2016.jpg
+  image: Sun_Ju_2.jpg
   Mailing address: >  
     <p>4-192 Keller Hall</p>
     <p>200 Union Street SE</p>
