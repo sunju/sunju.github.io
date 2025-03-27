@@ -41,7 +41,7 @@ tags: top
 - [Hengyue Liang](https://hengyuel.github.io/) (PhD'24 with thesis pending, @Amazon)
 - [Le Peng](https://sites.google.com/view/le-peng/) (PhD'24 with thesis pending, @Meta AI)
 - [Taihui Li](https://taihui.github.io/) (PhD'24 with thesis pending, @Meta AI; co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/))
-- [Chuan He](https://chuanhe97.github.io/) (Postdoc'23--24, Assistant Professor @Linköping University, Sweden)
+- [Chuan He](https://liu.se/en/employee/chuhe48) (Postdoc'23--24, Assistant Professor @Linköping University, Sweden)
 - [Zhong Zhuang](https://scholar.google.com/citations?user=rGGxUQEAAAAJ) (PhD'23 \[[thesis](https://hdl.handle.net/11299/258910)\], Postdoc @UCLA; Co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/)) 
 
 ### Master Alumni
