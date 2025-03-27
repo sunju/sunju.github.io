@@ -55,6 +55,9 @@ Paper profile: \[[Google Scholar](http://scholar.google.com/citations?user=V6FaD
 
 ### Journals
 
+> **Automated Ventricular Segmentation in Pediatric Hydrocephalus: How Close Are We?**.      
+> &nbsp; &nbsp; Birra R. Taha, Gaoxiang Luo, Anant Naik, Luke Sabal, **Ju Sun**, Robert McGovern, Carolina Sandoval-Garcia, Daniel J. Guillaume. Journal of Neurosurgery: Pediatrics, 2025.    
+
 > **Selective Classification Under Distribution Shifts**. \[[arXiv](https://arxiv.org/abs/2405.05160)\]    
 > &nbsp; &nbsp; Hengyue Liang, Le Peng, **Ju Sun**. Transactions on Machine Learning Research (TMLR), 2024.  
 
