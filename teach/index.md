@@ -5,6 +5,9 @@ title: Teaching
 tags: top
 <!--description: Publications by categories in reversed chronological order. -->
 ---
+
+- CSCI5527: Deep Learning: Models, Computation, Applications (Spring 2026)
+- CSCI8980: Topics in Modern Machine Learning (Fall 2025) 
 - [CSCI5527: Deep Learning: Models, Computation, Applications (Spring 2025)](DL-Spring-2025)
 - [CSCI5525: Machine Learning: Analysis and Methods (Fall 2024)](ML-Fall-2024)
 - NO TEACHING  (Spring 2024)

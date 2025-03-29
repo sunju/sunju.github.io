@@ -30,13 +30,13 @@ Disclaimer: The schedule is tentative and subject to change
 | Feb 25/27 | Training DNNs: Basic Methods and Tricks (Continued) | 
 | Mar 04/06 | Introduction to Google Colab and PyTorch [slides] <br> Course project [slides] | 
 | Mar 11/13 | SPRING BREAK; NO LECTURES | 
-| Mar 18/20 |  | 
-| Mar 25/27 |  | 
-| Apr 01/03 |  | 
-| Apr 08/10 |  | 
-| Apr 15/17 |  | 
-| Apr 22/24 |  | 
-| Apr 29 <br> May 01 |  | 
+| Mar 18/20 | From Fully Connected to Convolutional Neural Networks \[[slides](Mar-18-20.pdf)\] | 
+| Mar 25/27 | Applications of CNNs in Computer Vision: Detection, Segmentation \[[slides](Mar-25-27.pdf)\]| 
+| Apr 01/03 | Sequence modeling: recurrent neural networks | 
+| Apr 08/10 | Transformers, large language models, and foundation models | 
+| Apr 15/17 | Relationship modeling: graph neural networks | 
+| Apr 22/24 | Unsupervised and self-supervised representation | 
+| Apr 29 <br> May 01 | Deep generative models | 
 |  |  |
 
 **Homework**   
