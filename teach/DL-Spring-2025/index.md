@@ -26,12 +26,12 @@ Disclaimer: The schedule is tentative and subject to change
 | Jan 28/30 | Fundamental belief: universal approximation theorems \[[slides](Jan-28.pdf)\]  <br> Basics of numerical optimization: optimality conditions \[[slides](Jan-30.pdf)\]  |
 | Feb 04/06 | Basics of numerical optimization: iterative methods \[[slides](Feb-04.pdf)\]   |
 | Feb 11/13 | Basics of numerical optimization: computing derivatives \[[slides](Feb-11-13.pdf)\]  | 
-| Feb 18/20 | Basics of numerical optimization: computing derivative (Continued) <br> Training DNNs: Basic Methods and Tricks \[[slides](Feb-20-25.pdf)\]  |    
-| Feb 25/27 | Training DNNs: Basic Methods and Tricks (Continued) | 
-| Mar 04/06 | Introduction to Google Colab and PyTorch [slides] <br> Course project [slides] | 
+| Feb 18/20 | Basics of numerical optimization: computing derivative (Continued) <br> Training DNNs: Basic methods and tricks \[[slides](Feb-20-25.pdf)\]  |    
+| Feb 25/27 | Training DNNs: basic methods and tricks (Continued) | 
+| Mar 04/06 | Introduction to Google Colab and PyTorch [slides] <br> Course project \[[slides](Mar-30.pdf)\] | 
 | Mar 11/13 | SPRING BREAK; NO LECTURES | 
-| Mar 18/20 | From Fully Connected to Convolutional Neural Networks \[[slides](Mar-18-20.pdf)\] | 
-| Mar 25/27 | Applications of CNNs in Computer Vision: Detection, Segmentation \[[slides](Mar-25-27.pdf)\]| 
+| Mar 18/20 | From fully connected to convolutional neural networks \[[slides](Mar-18-20.pdf)\] | 
+| Mar 25/27 | Applications of CNNs in computer vision: detection & segmentation \[[slides](Mar-25-27.pdf)\]| 
 | Apr 01/03 | Sequence modeling: recurrent neural networks | 
 | Apr 08/10 | Transformers, large language models, and foundation models | 
 | Apr 15/17 | Relationship modeling: graph neural networks | 
