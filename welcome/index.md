@@ -42,7 +42,7 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 - **Office**: 6-213, Keller Hall 
 - **Phone**: 612-301-2729
 - **Webpage**: <http://sunju.org>
-- **Office Hour**: Mon 1--3pm (Fall 2023)
+- **Office Hour**: Thur 4--6pm (Spring 2025)
 
 ### Seminars of interest 
 - Co-organizing [UMN Machine Learning Seminar Series](https://cse.umn.edu/dsi/cse-dsi-machine-learning-seminar-series)
