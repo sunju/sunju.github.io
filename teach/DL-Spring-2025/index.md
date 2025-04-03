@@ -28,11 +28,11 @@ Disclaimer: The schedule is tentative and subject to change
 | Feb 11/13 | Basics of numerical optimization: computing derivatives \[[slides](Feb-11-13.pdf)\]  | 
 | Feb 18/20 | Basics of numerical optimization: computing derivative (Continued) <br> Training DNNs: Basic methods and tricks \[[slides](Feb-20-25.pdf)\]  |    
 | Feb 25/27 | Training DNNs: basic methods and tricks (Continued) | 
-| Mar 04/06 | Introduction to Google Colab and PyTorch [slides] <br> Course project \[[slides](Mar-30.pdf)\] | 
+| Mar 04/06 | Introduction to Google Colab and PyTorch \[[slides](Intro-Colab-PyTorch.pdf)\] <br> Introduction to Minnesota Supercomputing Institute (MSI) \[[slides](Intro-MSI.pdf)\] <br>    Course project \[[slides](Mar-30.pdf)\] | 
 | Mar 11/13 | SPRING BREAK; NO LECTURES | 
 | Mar 18/20 | From fully connected to convolutional neural networks \[[slides](Mar-18-20.pdf)\] | 
 | Mar 25/27 | Applications of CNNs in computer vision: detection & segmentation \[[slides](Mar-25-27.pdf)\]| 
-| Apr 01/03 | Sequence modeling: recurrent neural networks | 
+| Apr 01/03 | Sequence modeling: recurrent neural networks \[[slides](Apr-01-03.pdf)\] | 
 | Apr 08/10 | Transformers, large language models, and foundation models | 
 | Apr 15/17 | Relationship modeling: graph neural networks | 
 | Apr 22/24 | Unsupervised and self-supervised representation | 
