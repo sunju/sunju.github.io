@@ -33,7 +33,7 @@ Disclaimer: The schedule is tentative and subject to change
 | Mar 18/20 | From fully connected to convolutional neural networks \[[slides](Mar-18-20.pdf)\] | 
 | Mar 25/27 | Applications of CNNs in computer vision: detection & segmentation \[[slides](Mar-25-27.pdf)\]| 
 | Apr 01/03 | Sequence modeling: recurrent neural networks \[[slides](Apr-01-03.pdf)\] | 
-| Apr 08/10 | Transformers, large language models, and foundation models | 
+| Apr 08/10 | Transformers, large language models, and foundation models \[[slides](Apr-8-10.pdf)\]| 
 | Apr 15/17 | Relationship modeling: graph neural networks | 
 | Apr 22/24 | Unsupervised and self-supervised representation | 
 | Apr 29 <br> May 01 | Deep generative models | 
@@ -44,5 +44,5 @@ Disclaimer: The schedule is tentative and subject to change
 + [HW 1](HW1.pdf) (Due: Feb 24)
 + [HW 2](HW2.pdf) (Due: Mar 16)
 + [HW 3](HW3.pdf) (Due: Apr 03)
-+ [HW 4] (Due: xx)
++ [HW 4](HW4.pdf) (Due: Apr 23)
 + [HW 5] (Due: xx)
