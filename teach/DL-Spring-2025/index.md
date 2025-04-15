@@ -34,7 +34,7 @@ Disclaimer: The schedule is tentative and subject to change
 | Mar 25/27 | Applications of CNNs in computer vision: detection & segmentation \[[slides](Mar-25-27.pdf)\]| 
 | Apr 01/03 | Sequence modeling: recurrent neural networks \[[slides](Apr-01-03.pdf)\] | 
 | Apr 08/10 | Transformers, large language models, and foundation models \[[slides](Apr-8-10.pdf)\]| 
-| Apr 15/17 | Relationship modeling: graph neural networks | 
+| Apr 15/17 | Relationship modeling: graph neural networks \[[slides](Apr-10.pdf)\]| 
 | Apr 22/24 | Unsupervised and self-supervised representation | 
 | Apr 29 <br> May 01 | Deep generative models | 
 |  |  |
