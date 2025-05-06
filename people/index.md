@@ -21,7 +21,6 @@ tags: top
 - [Wenjie Zhang](https://wenjie-zhang08.github.io/) (CS&E) 
 - [Jiandong Chen](https://www.linkedin.com/in/jiandong-chen) ([IHI](https://healthinformatics.umn.edu/))
 - [Ryan de Vera](https://www.linkedin.com/in/ryan-de-vera-b4374089) (CS&E)
-- [Hengkang Wang](https://scholar.google.com/citations?user=APqDZvUAAAAJ&hl=en) (CS&E)
 
 <!-- 
 ### Research Assistants  
@@ -34,13 +33,14 @@ tags: top
 - [Chongwei Chen](https://www.linkedin.com/in/chongwei-chen-99b0072b7/) (Math & CS&E)
 - [Sean Schweiger](https://www.linkedin.com/in/sean-schweiger/) (Math & CS&E)
 
-### PhD & Postdoc Alumni  
+### PhD & Postdoc Alumni 
 
+- [Hengkang Wang](https://scholar.google.com/citations?user=APqDZvUAAAAJ&hl=en) (PhD'25 with thesis pending, @Meta AI) 
 - [Tiancong Chen](https://sites.google.com/view/tiancong-chen) (PhD'24 with thesis pending, @Morgan Stanley;  co-advised with [Prof. Arindam Banerjee](https://arindam.cs.illinois.edu/))
 - Yash Travadi (PhD'24 with thesis pending, @Astrin Biosciences; co-advised with [Prof. Hui Zou](http://users.stat.umn.edu/~zouxx019/))
-- [Hengyue Liang](https://hengyuel.github.io/) (PhD'24 with thesis pending, @Amazon)
 - [Le Peng](https://sites.google.com/view/le-peng/) (PhD'24 with thesis pending, @Meta AI)
 - [Taihui Li](https://taihui.github.io/) (PhD'24 with thesis pending, @Meta AI; co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/))
+- [Hengyue Liang](https://hengyuel.github.io/) (PhD'25, Applied Scientist@Amazon)
 - [Chuan He](https://liu.se/en/employee/chuhe48) (Postdoc'23--24, Assistant Professor @Linköping University, Sweden)
 - [Zhong Zhuang](https://scholar.google.com/citations?user=rGGxUQEAAAAJ) (PhD'23 \[[thesis](https://hdl.handle.net/11299/258910)\], Postdoc @UCLA; Co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/)) 
 

@@ -57,6 +57,7 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 
 #### Past
 
+- **Graduation**: The second Phd student of the group, [Hengyue Liang](https://www.linkedin.com/in/lianghengyue/) (ECE) has successfully defended his thesis titled **Robustness and Safety of Deep Learning Models**. Heartfelt congratulations to Dr. Hengyue Liang! Hengyue has joined Amazon as an applied scientist! (May 06, 2025)   
 - **Paper release**: Proud to release our paper [Temporal-Consistent Video Restoration with Pre-trained Diffusion Models](https://arxiv.org/abs/2503.14863) on arXiv! This paper builds on our previous [DMPlug idea](https://arxiv.org/abs/2405.16749) for solving inverse problems using pretrained image diffusion models, and integrates substantial innovation, customization, and optimization to excel in solving video restoration problems.  (Mar 19, 2025)    
 - **Event**: [DARPA Proposers' Day on Securing Artificial Intelligence for Battlefield Effective Robustness](https://creative.spa.com/darpa/i2o/saber/pd/index.php?p=welcome) (Arlington, VA, Mar 12, 2025)  
 - **Talk**: [SIAM Conference on Computational Science and Engineering (CSE25)](https://www.siam.org/conferences-events/siam-conferences/cse25/) \[[Slides](talks/SIAM-CSE-2025-Mar.pdf)\] (Fort Worth, Texas, Mar 3--7, 2025)  
