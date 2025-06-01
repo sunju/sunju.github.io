@@ -12,7 +12,9 @@ tags: top
 <!-- ### Postdocs  -->
   
 ### PhD's
- 
+
+
+- [Harsh Hemant Shah](https://www.linkedin.com/in/harsh-hemant-shah-7b5785167/) (CS&E, co-advised with [Prof. Jie Ding](https://jding.org/))
 - [Sinian Zhang](https://scholar.google.com/citations?user=gdFyWbIAAAAJ&hl=en) (Biostats, co-advised with [Prof. Jue Hou](https://directory.sph.umn.edu/bio/sph-a-z/jue-hou))
 - [Guanchen Li](https://scholar.google.com/citations?user=73BtRsIAAAAJ&hl=en) (CS&E) 
 - [Gaoxiang Luo](https://gaoxiangluo.github.io/index.html) (CS&E)
@@ -27,6 +29,7 @@ tags: top
 - Yuxiang Wan (CEGE) -->
 
 ### Masters
+- Runqi Chen (CS&E) 
 
 ### Undergrads
 
@@ -38,9 +41,9 @@ tags: top
 - [Hengkang Wang](https://scholar.google.com/citations?user=APqDZvUAAAAJ&hl=en) (PhD'25 with thesis pending, @Meta AI) 
 - [Tiancong Chen](https://sites.google.com/view/tiancong-chen) (PhD'24 with thesis pending, @Morgan Stanley;  co-advised with [Prof. Arindam Banerjee](https://arindam.cs.illinois.edu/))
 - Yash Travadi (PhD'24 with thesis pending, @Astrin Biosciences; co-advised with [Prof. Hui Zou](http://users.stat.umn.edu/~zouxx019/))
-- [Le Peng](https://sites.google.com/view/le-peng/) (PhD'24 with thesis pending, @Meta AI)
 - [Taihui Li](https://taihui.github.io/) (PhD'24 with thesis pending, @Meta AI; co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/))
-- [Hengyue Liang](https://hengyuel.github.io/) (PhD'25, Applied Scientist@Amazon)
+- [Le Peng](https://sites.google.com/view/le-peng/) (PhD'24 with thesis pending, @Meta AI)
+- [Hengyue Liang](https://hengyuel.github.io/) (PhD'25 [thesis], Applied Scientist@Amazon)
 - [Chuan He](https://liu.se/en/employee/chuhe48) (Postdoc'23--24, Assistant Professor @Linköping University, Sweden)
 - [Zhong Zhuang](https://scholar.google.com/citations?user=rGGxUQEAAAAJ) (PhD'23 \[[thesis](https://hdl.handle.net/11299/258910)\], Postdoc @UCLA; Co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/)) 
 
