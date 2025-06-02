@@ -29,11 +29,8 @@ Paper profile: \[[Google Scholar](http://scholar.google.com/citations?user=V6FaD
 > **Regression with High-Dimensional Targets**.  
 > &nbsp; &nbsp; Tiancong Chen, Hengkang Wang, Chuan He, Ying Cui, **Ju Sun**. 2024.  
 
-> **Temporal-Consistent Video Restoration with Pre-trained Diffusion Models**. \[[arXiv](https://arxiv.org/abs/2503.14863)\]       
+> **Temporal-Consistent Video Restoration with Pre-trained Diffusion Models**. \[[arXiv](https://arxiv.org/abs/2503.14863)\]         
 > &nbsp; &nbsp; Hengkang Wang, Yang Liu, Huidong Liu, Chien-Chih Wang, Yanhui Guo, Hongdong Li, Bryan Wang, **Ju Sun**. Under review for International Conference on Computer Vision (ICCV), 2025.  
-
-> **A Baseline Method for Removing Invisible Image Watermarks using Deep Image Prior**. \[[arXiv](https://arxiv.org/abs/2502.13998)\]   
-> &nbsp; &nbsp; Hengyue Liang, Taihui Li, **Ju Sun**. Under review for Transactions on Machine Learning Research (TMLR), 2025.  
 
 > **Optimization and Optimizers for Adversarial Robustness**.   \[[arXiv](https://arxiv.org/abs/2303.13401)\]          
 > &nbsp; &nbsp;  Hengyue Liang, Buyun Liang, Le Peng, Ying Cui, Tim Mitchell, **Ju Sun**. 
@@ -54,6 +51,9 @@ Paper profile: \[[Google Scholar](http://scholar.google.com/citations?user=V6FaD
 > &nbsp; &nbsp; Yu Bai, Qijia Jiang, **Ju Sun**. 2018.   
 
 ### Journals
+
+> **A Baseline Method for Removing Invisible Image Watermarks using Deep Image Prior**. \[[arXiv](https://arxiv.org/abs/2502.13998)\]   
+> &nbsp; &nbsp; Hengyue Liang, Taihui Li, **Ju Sun**. Transactions on Machine Learning Research (TMLR), 2025.     
 
 > **Automated Ventricular Segmentation in Pediatric Hydrocephalus: How Close Are We?**.      
 > &nbsp; &nbsp; Birra R. Taha, Gaoxiang Luo, Anant Naik, Luke Sabal, **Ju Sun**, Robert McGovern, Carolina Sandoval-Garcia, Daniel J. Guillaume. Journal of Neurosurgery: Pediatrics, 2025.    
