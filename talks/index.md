@@ -7,7 +7,8 @@ tags: top
 ---
 ...which are select and recent
 
-#### Advancing Trustworthy & Efficient AI for Science, Engineering, and Medicine     
+#### Advancing Trustworthy & Efficient AI for Science, Engineering, and Medicine      
++ Systems, Information, Learning and Optimization (SILO) Seminar, University of Wisconsin, Madison \[[Slides](UWM-Jun-04-2025.pdf)\] (Jun, 2025)
 + Computer Science Seminar, University of Maryland, College Park \[[Slides](UMD-May-09-2025.pdf)\] (May, 2025)  
 
 #### Diffusion Models for Inverse Problems Done Right    
