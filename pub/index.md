@@ -55,7 +55,7 @@ Paper profile: \[[Google Scholar](http://scholar.google.com/citations?user=V6FaD
 > **A Baseline Method for Removing Invisible Image Watermarks using Deep Image Prior**. \[[arXiv](https://arxiv.org/abs/2502.13998)\]   
 > &nbsp; &nbsp; Hengyue Liang, Taihui Li, **Ju Sun**. Transactions on Machine Learning Research (TMLR), 2025.     
 
-> **Automated Ventricular Segmentation in Pediatric Hydrocephalus: How Close Are We?**.      
+> **Automated Ventricular Segmentation in Pediatric Hydrocephalus: How Close Are We?**.  \[[paper](https://doi.org/10.3171/2025.2.PEDS24590)\]        
 > &nbsp; &nbsp; Birra R. Taha, Gaoxiang Luo, Anant Naik, Luke Sabal, **Ju Sun**, Robert McGovern, Carolina Sandoval-Garcia, Daniel J. Guillaume. Journal of Neurosurgery: Pediatrics, 2025.    
 
 > **Selective Classification Under Distribution Shifts**. \[[arXiv](https://arxiv.org/abs/2405.05160)\]    
