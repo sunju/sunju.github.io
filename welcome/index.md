@@ -42,6 +42,7 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 - **Office**: 6-213, Keller Hall 
 - **Phone**: 612-301-2729
 - **Webpage**: <http://sunju.org>
+- **LinkedIn**: <https://www.linkedin.com/in/ju-sun-ai>
 - **Office Hour**: Thur 4--6pm (Spring 2025)
 
 ### Seminars of interest 
