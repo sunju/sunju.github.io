@@ -42,10 +42,10 @@ tags: top
 - [Tiancong Chen](https://sites.google.com/view/tiancong-chen) (PhD'24 with thesis pending, @Morgan Stanley;  co-advised with [Prof. Arindam Banerjee](https://arindam.cs.illinois.edu/))
 - Yash Travadi (PhD'24 with thesis pending, @Astrin Biosciences; co-advised with [Prof. Hui Zou](http://users.stat.umn.edu/~zouxx019/))
 - [Taihui Li](https://taihui.github.io/) (PhD'24 with thesis pending, @Meta AI; co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/))
-- [Le Peng](https://sites.google.com/view/le-peng/) (PhD'24 with thesis pending, @Meta AI)
-- [Hengyue Liang](https://hengyuel.github.io/) (PhD'25 [thesis], Applied Scientist@Amazon)
+- [Le Peng](https://sites.google.com/view/le-peng/) (PhD'25 [Thesis: Towards Robust and Reliable Artificial Intelligence in Healthcare], Research Scientist@Meta)
+- [Hengyue Liang](https://hengyuel.github.io/) (PhD'25; [Thesis: Robustness and Safety of Deep Learning Models], Applied Scientist@Amazon)
 - [Chuan He](https://liu.se/en/employee/chuhe48) (Postdoc'23--24, Assistant Professor @Linköping University, Sweden)
-- [Zhong Zhuang](https://scholar.google.com/citations?user=rGGxUQEAAAAJ) (PhD'23 \[[thesis](https://hdl.handle.net/11299/258910)\], Postdoc @UCLA; Co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/)) 
+- [Zhong Zhuang](https://scholar.google.com/citations?user=rGGxUQEAAAAJ) (PhD'23; [Thesis: Advancing Deep Learning For Scientific Inverse Problems](https://hdl.handle.net/11299/258910), Postdoc @UCLA; Co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/)) 
 
 ### Master Alumni
 - [Wenjie Zhang](https://www.linkedin.com/in/wenjie-zhang-785771237/) (MS2023, CS&E, now PhD student in the group) 

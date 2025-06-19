@@ -54,10 +54,12 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 ### What's new
 
 #### Upcoming
-- **Event**: [AI Spring Summit on Healthcare, Governence & Ethics](https://healthai.institute/) (UMN, Jun 10--12, 2025)
+
 
 #### Past
 
+- **Graduation**: The third Phd student of the group, [Le Peng](https://scholar.google.com/citations?user=K0BZOpsAAAAJ&hl=en) (CS&E) has successfully defended his thesis titled **Towards Robust and Reliable Artificial Intelligence in Healthcare**. Heartfelt congratulations to Dr. Peng! Le has joined Meta as a research scientist! (Jun 18, 2025)      
+- **Event**: [AI Spring Summit on Healthcare, Governence & Ethics](https://healthai.institute/) (UMN, Jun 10--12, 2025)   
 - **Grant approval**: With [Prof. Zhaosong Lu](https://cse.umn.edu/isye/zhaosong-lu), [Prof. Chris Bartel](https://cse.umn.edu/cems/chris-bartel), we are funded by the [NSF ACED (Accelerating Computing-Enabled Scientific Discovery) Program](https://www.nsf.gov/funding/opportunities/aced-aced-accelerating-computing-enabled-scientific-discovery/506267/nsf24-541) to [boost the efficiency of data-driven material discovery by, for the first time, incorporating physics-informed constraints during training and developing rigorous numerical methods to solve the resulting constrained deep learning problems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2435911).  (Jun 06, 2025) 
 - **Graduation**: The second Phd student of the group, [Hengyue Liang](https://www.linkedin.com/in/lianghengyue/) (ECE) has successfully defended his thesis titled **Robustness and Safety of Deep Learning Models**. Heartfelt congratulations to Dr. Hengyue Liang! Hengyue has joined Amazon as an applied scientist! (May 06, 2025)   
 - **Paper release**: Proud to release our paper [Temporal-Consistent Video Restoration with Pre-trained Diffusion Models](https://arxiv.org/abs/2503.14863) on arXiv! This paper builds on our previous [DMPlug idea](https://arxiv.org/abs/2405.16749) for solving inverse problems using pretrained image diffusion models, and integrates substantial innovation, customization, and optimization to excel in solving video restoration problems.  (Mar 19, 2025)    
