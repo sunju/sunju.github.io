@@ -13,7 +13,9 @@ tags: top
   
 ### PhD's
 
-
+- [Yifan Wu](https://www.linkedin.com/in/yifan-wu-42b6a8290/) ([BCIB](https://r.umn.edu/academics-research/graduate/bicb), co-advised with [Prof. Rui Zhang](https://med.umn.edu/bio/rui-zhang))
+- [Qiaozhi Huang](https://www.linkedin.com/in/qiaozhi-huang-1a1581269/) (CS&E)
+- [Lingjie Su](https://sulingjie.github.io/) (CS&E)
 - [Harsh Hemant Shah](https://www.linkedin.com/in/harsh-hemant-shah-7b5785167/) (CS&E, co-advised with [Prof. Jie Ding](https://jding.org/))
 - [Sinian Zhang](https://scholar.google.com/citations?user=gdFyWbIAAAAJ&hl=en) (Biostats, co-advised with [Prof. Jue Hou](https://directory.sph.umn.edu/bio/sph-a-z/jue-hou))
 - [Guanchen Li](https://scholar.google.com/citations?user=73BtRsIAAAAJ&hl=en) (CS&E) 
