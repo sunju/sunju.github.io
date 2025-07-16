@@ -32,6 +32,7 @@ tags: top
 
 ### Masters
 - Runqi Chen (CS&E) 
+- [Vivek Kumar](https://www.linkedin.com/in/vivek-kumar-robotics/) (Robotics)
 
 ### Undergrads
 
