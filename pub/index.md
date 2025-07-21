@@ -18,25 +18,25 @@ Paper profile: \[[Google Scholar](http://scholar.google.com/citations?user=V6FaD
 ### Preprints 
 
 > **Deep Learning with Constraints: Applications and Algorithms**.  
-> &nbsp; &nbsp; Chuan He, Ryan Devera, Wenjie Zhang, Ying Cui, Zhaosong Lu, **Ju Sun**. 2024.  
+> &nbsp; &nbsp; Chuan He, Ryan Devera, Wenjie Zhang, Ying Cui, Zhaosong Lu, **Ju Sun**.   
 
-> **Neural Topology Optimization with Principled Constrained Optimization**.  
-> &nbsp; &nbsp; Ryan Devera, Buyun Liang, Binyao Guo, Qizhi He, **Ju Sun**. 2024.  
-
-> **Direct Metric Optimization for Imbalanced Classification**.  
-> &nbsp; &nbsp; Le Peng, Yash Travadi, Chuan He, Ying Cui, **Ju Sun**. 2024.  
-
-> **Regression with High-Dimensional Targets**.  
-> &nbsp; &nbsp; Tiancong Chen, Hengkang Wang, Chuan He, Ying Cui, **Ju Sun**. 2024.  
-
-> **Temporal-Consistent Video Restoration with Pre-trained Diffusion Models**. \[[arXiv](https://arxiv.org/abs/2503.14863)\]         
-> &nbsp; &nbsp; Hengkang Wang, Yang Liu, Huidong Liu, Chien-Chih Wang, Yanhui Guo, Hongdong Li, Bryan Wang, **Ju Sun**. Under review for International Conference on Computer Vision (ICCV), 2025.  
+> **Phase Retrieval: the Role of Overparametrization and New Methods**.     
+> &nbsp; &nbsp;  Zhong Zhuang,  Yash Travadi, Zhihui Zhu,  **Ju Sun**. 
 
 > **Optimization and Optimizers for Adversarial Robustness**.   \[[arXiv](https://arxiv.org/abs/2303.13401)\]          
 > &nbsp; &nbsp;  Hengyue Liang, Buyun Liang, Le Peng, Ying Cui, Tim Mitchell, **Ju Sun**. 
 
-> **Phase Retrieval: the Role of Overparametrization and New Methods**.     
-> &nbsp; &nbsp;  Zhong Zhuang,  Yash Travadi, Zhihui Zhu,  **Ju Sun**. In preparation for SIAM Journal on  Mathematics of Data Science (SIMODS), 2023.     
+> **Superquantiles for Robust Regression with High-Dimensional Targets**.  
+> &nbsp; &nbsp; Tiancong Chen, Hengkang Wang, Chuan He, Ying Cui, **Ju Sun**. Under review for IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025.  
+
+> **Neural Topology Optimization with Principled Constrained Optimization**.  
+> &nbsp; &nbsp; Ryan Devera, Binyao Guo, Buyun Liang, Qizhi He, **Ju Sun**. Under review for SIAM Journal on Scientific Computing (SISC), 2025. 
+
+> **Exact Reformulation and Optimization for Direct Metric Optimization in Binary Imbalanced Classification**.  
+> &nbsp; &nbsp; Le Peng, Yash Travadi, Chuan He, Ying Cui, **Ju Sun**. 2025. Under review for SIAM Journal on Mathematics of Data Science (SIMODS), 2025.
+
+> **Temporal-Consistent Video Restoration with Pre-trained Diffusion Models**. \[[arXiv](https://arxiv.org/abs/2503.14863)\]         
+> &nbsp; &nbsp; Hengkang Wang, Yang Liu, Huidong Liu, Chien-Chih Wang, Yanhui Guo, Hongdong Li, Bryan Wang, **Ju Sun**. Under review for International Conference on Computer Vision (ICCV), 2025.  
 
 > **NCVX: A User-Friendly and Scalable Package for Nonconvex Optimization in Machine Learning**.  \[[arXiv](https://arxiv.org/abs/2111.13984)\] (an expanded version with detailed examples on constrained deep learning \[[arXiv](https://arxiv.org/abs/2210.00973)\])     
 > &nbsp; &nbsp;  Buyun Liang, Tim Mitchell, **Ju Sun**. 
