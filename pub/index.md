@@ -32,7 +32,7 @@ Paper profile: \[[Google Scholar](http://scholar.google.com/citations?user=V6FaD
 > **Neural Topology Optimization with Principled Constrained Optimization**.  
 > &nbsp; &nbsp; Ryan Devera, Binyao Guo, Buyun Liang, Qizhi He, **Ju Sun**. Under review for SIAM Journal on Scientific Computing (SISC), 2025. 
 
-> **Exact Reformulation and Optimization for Direct Metric Optimization in Binary Imbalanced Classification**.  
+> **Exact Reformulation and Optimization for Direct Metric Optimization in Binary Imbalanced Classification**. \[[arXiv](https://arxiv.org/abs/2507.15240)\]     
 > &nbsp; &nbsp; Le Peng, Yash Travadi, Chuan He, Ying Cui, **Ju Sun**. 2025. Under review for SIAM Journal on Mathematics of Data Science (SIMODS), 2025.
 
 > **Temporal-Consistent Video Restoration with Pre-trained Diffusion Models**. \[[arXiv](https://arxiv.org/abs/2503.14863)\]         

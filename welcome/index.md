@@ -55,9 +55,11 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 
 #### Upcoming
 
+- **Event**: [GenAI4Science: Integrating Scientific Knowledge into Generative AI](https://sites.google.com/umn.edu/genai4sc2025) (UMN, Aug 13--14, 2025) 
 
 #### Past
 
+- **Paper release**: Proud to release our paper [Exact Reformulation and Optimization for Direct Metric Optimization in Binary Imbalanced Classification](https://arxiv.org/abs/2507.15240) on arXiv! This paper paves a radically new way of dealing with indicator functions that often appear in machine learning problems with nonconventional metric objectives and/or constraints.  (Jul 21, 2025) 
 - **Graduation**: The third Phd student of the group, [Le Peng](https://scholar.google.com/citations?user=K0BZOpsAAAAJ&hl=en) (CS&E) has successfully defended his thesis titled **Towards Robust and Reliable Artificial Intelligence in Healthcare**. Heartfelt congratulations to Dr. Peng! Le has joined Meta as a research scientist! (Jun 18, 2025)      
 - **Event**: [AI Spring Summit on Healthcare, Governence & Ethics](https://healthai.institute/) (UMN, Jun 10--12, 2025)   
 - **Grant approval**: With [Prof. Zhaosong Lu](https://cse.umn.edu/isye/zhaosong-lu), [Prof. Chris Bartel](https://cse.umn.edu/cems/chris-bartel), we are funded by the [NSF ACED (Accelerating Computing-Enabled Scientific Discovery) Program](https://www.nsf.gov/funding/opportunities/aced-aced-accelerating-computing-enabled-scientific-discovery/506267/nsf24-541) to [boost the efficiency of data-driven material discovery by, for the first time, incorporating physics-informed constraints during training and developing rigorous numerical methods to solve the resulting constrained deep learning problems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2435911).  (Jun 06, 2025) 
