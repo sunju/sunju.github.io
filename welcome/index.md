@@ -55,6 +55,7 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 
 #### Upcoming
 
+- **Service & Event**: Serving as local chair for [IEEE International Conference on Healthcare Informatics 2026](https://zhang-informatics.github.io/ICHI2026/) (UMN, Jun 01--04, 2026)    
 - **Event**: [GenAI4Science: Integrating Scientific Knowledge into Generative AI](https://sites.google.com/umn.edu/genai4sc2025) (UMN, Aug 13--14, 2025) 
 
 #### Past
