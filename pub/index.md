@@ -144,6 +144,9 @@ Paper profile: \[[Google Scholar](http://scholar.google.com/citations?user=V6FaD
 
 ### Conferences and Workshops
 
+> **FMPlug: Plug-In Foundation Flow-Matching Priors for Inverse Problems**. \[[arXiv](https://arxiv.org/abs/2508.00721)\]    
+> &nbsp; &nbsp; Yuxiang Wan, Ryan Devera, Wenjie Zhang, **Ju Sun**. IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP), 2025.    
+
 > **DMPlug: A Plug-in Method for Solving Inverse Problems with Diffusion Models**. \[[arXiv](https://arxiv.org/abs/2405.16749)\]    
 > &nbsp; &nbsp; Hengkang Wang, Xu Zhang, Taihui Li, Yuxiang Wan, Tiancong Chen, **Ju Sun**. Conference on Neural Information Processing Systems (NeurIPS), 2024.   
 

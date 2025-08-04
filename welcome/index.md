@@ -60,6 +60,9 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 
 #### Past
 
+- **Paper release**: Proud to release our paper [FMPlug: Plug-In Foundation Flow-Matching Priors for Inverse Problems](https://arxiv.org/abs/2508.00721) on arXiv! In this paper, we identify major gaps in the current ideas for solving inverse problems with pretrained foundation flow-matching priors and find they might not even catch up with untrained priors---which is a shame! We propose new methods to substantially boost the performance and bridge the gaps. 
+
+-  paves a radically new way of dealing with indicator functions that often appear in machine learning problems with nonconventional metric objectives and/or constraints.  (Aug 03, 2025) 
 - **Paper release**: Proud to release our paper [Exact Reformulation and Optimization for Direct Metric Optimization in Binary Imbalanced Classification](https://arxiv.org/abs/2507.15240) on arXiv! This paper paves a radically new way of dealing with indicator functions that often appear in machine learning problems with nonconventional metric objectives and/or constraints.  (Jul 21, 2025) 
 - **Graduation**: The third Phd student of the group, [Le Peng](https://scholar.google.com/citations?user=K0BZOpsAAAAJ&hl=en) (CS&E) has successfully defended his thesis titled **Towards Robust and Reliable Artificial Intelligence in Healthcare**. Heartfelt congratulations to Dr. Peng! Le has joined Meta as a research scientist! (Jun 18, 2025)      
 - **Event**: [AI Spring Summit on Healthcare, Governence & Ethics](https://healthai.institute/) (UMN, Jun 10--12, 2025)   
