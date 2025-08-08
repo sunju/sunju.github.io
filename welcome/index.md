@@ -55,6 +55,8 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 
 #### Upcoming
 
+- **Talk**: [ECE Communications and Signal Processing Seminar](https://ece.engin.umich.edu/events/all-seminars/communications-signal-processing-seminars/) at University of Michigan (Ann Arbor, MI, Oct 16, 2025) 
+- **Event**: [Annual Midwest Optimization Meeting](https://25midwestoptimization.vfairs.com/) (University of North Dakota, Grand Forks, ND, Oct 31--Nov 01, 2025) 
 - **Service & Event**: Serving as local chair for [IEEE International Conference on Healthcare Informatics 2026](https://zhang-informatics.github.io/ICHI2026/) (UMN, Jun 01--04, 2026)    
 - **Event**: [GenAI4Science: Integrating Scientific Knowledge into Generative AI](https://sites.google.com/umn.edu/genai4sc2025) (UMN, Aug 13--14, 2025) 
 
