@@ -46,7 +46,7 @@ tags: top
 - Yash Travadi (PhD'24 with thesis pending, @Astrin Biosciences; co-advised with [Prof. Hui Zou](http://users.stat.umn.edu/~zouxx019/))
 - [Taihui Li](https://taihui.github.io/) (PhD'24 with thesis pending, @Meta AI; co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/))
 - [Le Peng](https://sites.google.com/view/le-peng/) (PhD'25 [Thesis: Towards Robust and Reliable Artificial Intelligence in Healthcare], Research Scientist@Meta)
-- [Hengyue Liang](https://hengyuel.github.io/) (PhD'25; [Thesis: Robustness and Safety of Deep Learning Models], Applied Scientist@Amazon)
+- [Hengyue Liang](https://hengyuel.github.io/) (PhD'25; [Thesis: Robustness and Safety of Deep Learning Models](https://hdl.handle.net/11299/275904), Applied Scientist@Amazon)
 - [Chuan He](https://liu.se/en/employee/chuhe48) (Postdoc'23--24, Assistant Professor @Linköping University, Sweden)
 - [Zhong Zhuang](https://scholar.google.com/citations?user=rGGxUQEAAAAJ) (PhD'23; [Thesis: Advancing Deep Learning For Scientific Inverse Problems](https://hdl.handle.net/11299/258910), Postdoc @UCLA; Co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/)) 
 
