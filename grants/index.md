@@ -8,6 +8,7 @@ tags: top
 
 ## External
 
+- **CardioOnco-AI: AI-Empowered Cardiotoxicity Risk Prediction Among Breast Cancer Survivors Using Multi-Site Real-World Data** (Co-PI, $1.5M, FDA, Oct 2025--Sep 2028) 
 - [**ACED: Accelerating Materials Discovery by Learning with Physics-Informed Constraints**](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2435911) (PI, $500K, NSF, Jun 2025--Nov 2026)  
 - [**Adolescents' Social Media Management Strategies: Bidirectional Links to Objective Social Media Use and Mental Health Outcomes**](https://reporter.nih.gov/search/sq1DIxuMwEOw3zgIBkrwbg/project-details/11045466) (Co-PI, $2.8M, NIH, 2024--2028)
 - [**AI-CLIMATE (AI INSTITUTE FOR CLIMATE-LAND INTERACTIONS, MITIGATION, ADAPTATION, TRADEOFFS AND ECONOMY)**](https://portal.nifa.usda.gov/web/crisprojectpages/1030594-ai-climate-ai-institute-for-climate-land-interactions-mitigation-adaptation-tradeoffs-and-economy.html) (Co-PI, $20M, NIFA, 2023--2028)

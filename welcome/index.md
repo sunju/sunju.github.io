@@ -61,6 +61,9 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 
 #### Past
 
+- **Service**: To be an Action Editor of [Transactions on Machine Learning Research](https://jmlr.org/tmlr/) (Oct 11, 2025)      
+- **Grant approval**: Led by [Prof. Rui Zhang](https://med.umn.edu/bio/rui-zhang), we are funded by FDA to develop a scalable,
+generalizable, and explainable AI-powered informatics framework, CardioOnco-AI, on the curation and modeling of real-world data for individualized prediction of cardiotoxicity among breast cancer survivors. (Grant title: CardioOnco-AI: AI-empowered cardiotoxicity risk prediction among breast cancer survivors using multi-site real-world data)  (Sep 19, 2025)      
 - **Event**: [GenAI4Science: Integrating Scientific Knowledge into Generative AI](https://sites.google.com/umn.edu/genai4sc2025) (UMN, Aug 13--14, 2025) 
 - **Paper release**: Proud to release our paper [FMPlug: Plug-In Foundation Flow-Matching Priors for Inverse Problems](https://arxiv.org/abs/2508.00721) on arXiv! In this paper, we identify major gaps in the current ideas for solving inverse problems with pretrained foundation flow-matching priors and find they might not even catch up with untrained priors---which is a shame! We propose new methods to substantially boost the performance and bridge the gaps. (Aug 03, 2025) 
 - **Paper release**: Proud to release our paper [Exact Reformulation and Optimization for Direct Metric Optimization in Binary Imbalanced Classification](https://arxiv.org/abs/2507.15240) on arXiv! This paper paves a radically new way of dealing with indicator functions that often appear in machine learning problems with nonconventional metric objectives and/or constraints.  (Jul 21, 2025) 
