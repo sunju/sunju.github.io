@@ -57,10 +57,10 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 
 - **Service & Event**: Serving as local chair for [IEEE International Conference on Healthcare Informatics 2026](https://zhang-informatics.github.io/ICHI2026/) (UMN, Jun 01--04, 2026)    
 - **Event**: [Annual Midwest Optimization Meeting](https://25midwestoptimization.vfairs.com/) (University of North Dakota, Grand Forks, ND, Oct 31--Nov 01, 2025) 
-- **Talk**: [ECE Communications and Signal Processing Seminar](https://ece.engin.umich.edu/events/all-seminars/communications-signal-processing-seminars/) at University of Michigan (Ann Arbor, MI, Oct 16, 2025)   
+ 
 
 #### Past
-
+- **Talk**: [ECE Communications and Signal Processing Seminar](https://ece.engin.umich.edu/events/all-seminars/communications-signal-processing-seminars/) at University of Michigan \[[Slides](talks/UMich-CSP-Oct-16-2025.pdf)\] (Ann Arbor, MI, Oct 16, 2025)  
 - **Service**: To be an Action Editor of [Transactions on Machine Learning Research](https://jmlr.org/tmlr/) (Oct 11, 2025)      
 - **Grant approval**: Led by [Prof. Rui Zhang](https://med.umn.edu/bio/rui-zhang), we are funded by FDA to develop a scalable,
 generalizable, and explainable AI-powered informatics framework, CardioOnco-AI, on the curation and modeling of real-world data for individualized prediction of cardiotoxicity among breast cancer survivors. (Grant title: CardioOnco-AI: AI-empowered cardiotoxicity risk prediction among breast cancer survivors using multi-site real-world data)  (Sep 19, 2025)      

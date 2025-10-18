@@ -8,6 +8,7 @@ tags: top
 ...which are select and recent
 
 #### Advancing Trustworthy & Efficient AI for Science, Engineering, and Medicine      
++  ECE Communications and Signal Processing Seminar at University of Michigan \[[Slides](UMich-CSP-Oct-16-2025.pdf)\] (Oct, 2025)
 + Systems, Information, Learning and Optimization (SILO) Seminar, University of Wisconsin, Madison \[[Slides](UWM-Jun-04-2025.pdf)\] (Jun, 2025)
 + Computer Science Seminar, University of Maryland, College Park \[[Slides](UMD-May-09-2025.pdf)\] (May, 2025)  
 
