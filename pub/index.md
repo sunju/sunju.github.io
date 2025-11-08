@@ -41,9 +41,6 @@ Paper profile: \[[Google Scholar](http://scholar.google.com/citations?user=V6FaD
 > **Exact Reformulation and Optimization for Direct Metric Optimization in Binary Imbalanced Classification**. \[[arXiv](https://arxiv.org/abs/2507.15240)\]     
 > &nbsp; &nbsp; Le Peng, Yash Travadi, Chuan He, Ying Cui, **Ju Sun**. 2025. Under review for IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025. 
 
-> **Temporal-Consistent Video Restoration with Pre-trained Diffusion Models**. \[[arXiv](https://arxiv.org/abs/2503.14863)\]         
-> &nbsp; &nbsp; Hengkang Wang, Yang Liu, Huidong Liu, Chien-Chih Wang, Yanhui Guo, Hongdong Li, Bryan Wang, **Ju Sun**. Under review for AAAI Conference on Artificial Intelligence (AAAI), 2025.  
-
 > **NCVX: A User-Friendly and Scalable Package for Nonconvex Optimization in Machine Learning**.  \[[arXiv](https://arxiv.org/abs/2111.13984)\] (an expanded version with detailed examples on constrained deep learning \[[arXiv](https://arxiv.org/abs/2210.00973)\])     
 > &nbsp; &nbsp;  Buyun Liang, Tim Mitchell, **Ju Sun**. 
 
@@ -149,6 +146,9 @@ Paper profile: \[[Google Scholar](http://scholar.google.com/citations?user=V6FaD
 > &nbsp; &nbsp; Guangcan Liu,  Zhouchen Lin, Shuicheng Yan,  **Ju Sun**, Yong Yu, and Yi Ma.  IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI), 35(1), 171--184, 2013.
 
 ### Conferences and Workshops
+
+> **Temporal-Consistent Video Restoration with Pre-trained Diffusion Models**. \[[arXiv](https://arxiv.org/abs/2503.14863)\]         
+> &nbsp; &nbsp; Hengkang Wang, Yang Liu, Huidong Liu, Chien-Chih Wang, Yanhui Guo, Hongdong Li, Bryan Wang, **Ju Sun**. AAAI Conference on Artificial Intelligence (AAAI), 2026. 
 
 > **FMPlug: Plug-In Foundation Flow-Matching Priors for Inverse Problems**. \[[arXiv](https://arxiv.org/abs/2508.00721)\]    
 > &nbsp; &nbsp; Yuxiang Wan, Ryan Devera, Wenjie Zhang, **Ju Sun**. IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP), 2025.    

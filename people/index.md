@@ -37,14 +37,13 @@ tags: top
 ### Undergrads
 
 - [Chongwei Chen](https://www.linkedin.com/in/chongwei-chen-99b0072b7/) (Math & CS&E)
-- [Sean Schweiger](https://www.linkedin.com/in/sean-schweiger/) (Math & CS&E)
 
 ### PhD & Postdoc Alumni 
 
 - [Hengkang Wang](https://scholar.google.com/citations?user=APqDZvUAAAAJ&hl=en) (PhD'25 with thesis pending, @Meta AI) 
 - [Tiancong Chen](https://sites.google.com/view/tiancong-chen) (PhD'24 with thesis pending, @Morgan Stanley;  co-advised with [Prof. Arindam Banerjee](https://arindam.cs.illinois.edu/))
-- Yash Travadi (PhD'24 with thesis pending, @Astrin Biosciences; co-advised with [Prof. Hui Zou](http://users.stat.umn.edu/~zouxx019/))
-- [Taihui Li](https://taihui.github.io/) (PhD'24 with thesis pending, @Meta AI; co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/))
+- Yash Travadi (PhD'25 with thesis pending, @Astrin Biosciences; co-advised with [Prof. Hui Zou](http://users.stat.umn.edu/~zouxx019/))
+- [Taihui Li](https://taihui.github.io/) (PhD'25 [Thesis: Advancing Untrained Deep Neural Networks], Research Scientist@Meta AI; co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/))
 - [Le Peng](https://sites.google.com/view/le-peng/) (PhD'25 [Thesis: Towards Robust and Reliable Artificial Intelligence in Healthcare], Research Scientist@Meta)
 - [Hengyue Liang](https://hengyuel.github.io/) (PhD'25; [Thesis: Robustness and Safety of Deep Learning Models](https://hdl.handle.net/11299/275904), Applied Scientist@Amazon)
 - [Chuan He](https://liu.se/en/employee/chuhe48) (Postdoc'23--24, Assistant Professor @Linköping University, Sweden)
