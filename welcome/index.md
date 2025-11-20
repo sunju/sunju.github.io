@@ -56,11 +56,13 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 #### Upcoming
 
 - **Service & Event**: Serving as local chair for [IEEE International Conference on Healthcare Informatics 2026](https://zhang-informatics.github.io/ICHI2026/) (UMN, Jun 01--04, 2026)    
+- **Talk**: [IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP 2025)](https://camsap25.ig.umons.ac.be/) (Dominican Republic, Dec 14--17, 2025)
 - **Talk**: [UMN Industrial and Systems Engineering Graduate Seminar](https://cse.umn.edu/isye/isye-seminar-series) (UMN, Dec 10, 2025)
  
 
 #### Past
 
+- **Service**: To be an Area Chair for [International Conference on Machine Learning (ICML) 2026](https://icml.cc/Conferences/2026) (Nov 20, 2025)
 - **Graduation**: The fourth PhD student of the group, [Taihui Li](https://scholar.google.com/citations?user=1zrHEeYAAAAJ&hl=en) (CS&E) has successfully defended his thesis titled **Advancing Untrained Deep Neural Networks**. Heartfelt congratulations to Dr. Li and sincere thanks---he helped GLOVEX grow from day one! Taihui has joined Meta as a research scientist! (Nov 06, 2025)  
 - **Event**: [Annual Midwest Optimization Meeting](https://25midwestoptimization.vfairs.com/) (University of North Dakota, Grand Forks, ND, Oct 31--Nov 01, 2025) 
 - **Talk**: [ECE Communications and Signal Processing Seminar](https://ece.engin.umich.edu/events/all-seminars/communications-signal-processing-seminars/) at University of Michigan \[[Slides](talks/UMich-CSP-Oct-16-2025.pdf)\] (Ann Arbor, MI, Oct 16, 2025)  
