@@ -62,6 +62,7 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 
 #### Past
 
+- **Paper release**: Proud to release our paper [Saving Foundation Flow-Matching Priors for Inverse Problems](https://arxiv.org/abs/2511.16520), a substantial expanded and revamped version of the short paper [FMPlug: Plug-In Foundation Flow-Matching Priors for Inverse Problems](https://arxiv.org/abs/2508.00721), on arXiv! In this paper, we reveal the striking performance deficiency of foundation flow-matching priors (e.g., Stable Diffusion V3) for solving inverse problems, and make the first step in closing the performance gap between foundation and domain-specific flow-matching priors for solving a wide range of inverse problems. (Nov 20, 2025)  
 - **Service**: To be an Area Chair for [International Conference on Machine Learning (ICML) 2026](https://icml.cc/Conferences/2026) (Nov 20, 2025)
 - **Graduation**: The fourth PhD student of the group, [Taihui Li](https://scholar.google.com/citations?user=1zrHEeYAAAAJ&hl=en) (CS&E) has successfully defended his thesis titled **Advancing Untrained Deep Neural Networks**. Heartfelt congratulations to Dr. Li and sincere thanks---he helped GLOVEX grow from day one! Taihui has joined Meta as a research scientist! (Nov 06, 2025)  
 - **Event**: [Annual Midwest Optimization Meeting](https://25midwestoptimization.vfairs.com/) (University of North Dakota, Grand Forks, ND, Oct 31--Nov 01, 2025) 
