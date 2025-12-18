@@ -7,6 +7,9 @@ tags: top
 ---
 ...which are select and recent
 
+#### Plug-In Diffusion and Flow-Matching Priors for Inverse Problems 
++ IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP 2025) [[Slides](CAMSAP-2025-Dec.pdf)\] (Dec, 2025) 
+
 #### Advancing Trustworthy & Efficient AI for Science, Engineering, and Medicine      
 +  ECE Communications and Signal Processing Seminar at University of Michigan \[[Slides](UMich-CSP-Oct-16-2025.pdf)\] (Oct, 2025)
 + Systems, Information, Learning and Optimization (SILO) Seminar, University of Wisconsin, Madison \[[Slides](UWM-Jun-04-2025.pdf)\] (Jun, 2025)
@@ -21,6 +24,8 @@ tags: top
 + AI4Science Seminar Series, AWS  \[[Slides](2024-Apr-AI4Sci-AWS.pdf)\] (Apr, 2024) 
 
 #### Deep Learning with Nontrivial Constraints
++ UMN Industrial and Systems Engineering Graduate Seminar \[[Slides](NCVX-2025-UMN-ISYE.pdf)\] (Dec, 2025)
++ Annual Midwest Optimization Meeting \[[Slides](NCVX-2025-Midwest-OPT.pdf)\] (Oct, 2025)
 + [2024 INFORMS Optimization Society Conference](https://ios2024.rice.edu/)  \[[Slides](INFORMS-OPT-2024-Mar.pdf)\] (Mar, 2024) 
 
 #### What’s Wrong with End-to-End Learning for Phase Retrieval?   
