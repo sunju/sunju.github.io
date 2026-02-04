@@ -23,8 +23,8 @@ Disclaimer: The schedule is tentative and subject to change
 | Date   | Topics |    
 | ------ |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|    
 | Jan 20/22 | Deep learning: overview \[[slides](Jan-20.pdf)\] <br> Neural networks: old and new \[[slides](Jan-22.pdf)\] <br> [Supplementary notes on high-dimensional calculus](calculus-review.pdf) |    
-| Jan 27/29 | Fundamental belief: universal approximation theorems \[[slides](Jan-27.pdf)\]  <br> Basics of numerical optimization: optimality conditions \[[slides]\]  |
-| Feb 03/05 | Basics of numerical optimization: iterative methods \[[slides]\]   |
+| Jan 27/29 | Fundamental belief: universal approximation theorems [[slides](Jan-27.pdf)\]  |
+| Feb 03/05 | Basics of numerical optimization: optimality conditions \[[slides](Feb-03.pdf)\] <br> Basics of numerical optimization: iterative methods \[[slides](Feb-05.pdf)\]   |
 | Feb 10/12 | Basics of numerical optimization: computing derivatives \[[slides]\]  | 
 | Feb 17/19 | Basics of numerical optimization: computing derivative (Continued) <br> Training DNNs: Basic methods and tricks \[[slides]\]  |    
 | Feb 24/26 | Training DNNs: basic methods and tricks (Continued) | 
