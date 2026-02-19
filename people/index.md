@@ -31,6 +31,7 @@ tags: top
 - Yuxiang Wan (CEGE) -->
 
 ### Masters
+- [Sihang Zhang](https://www.linkedin.com/in/sihang-zhang-341b84296/) (Stats) 
 - Runqi Chen (CS&E) 
 - [Vivek Kumar](https://www.linkedin.com/in/vivek-kumar-robotics/) (Robotics)
 
@@ -42,9 +43,9 @@ tags: top
 
 - [Hengkang Wang](https://scholar.google.com/citations?user=APqDZvUAAAAJ&hl=en) (PhD'25 with thesis pending, @Meta AI) 
 - [Tiancong Chen](https://sites.google.com/view/tiancong-chen) (PhD'24 with thesis pending, @Morgan Stanley;  co-advised with [Prof. Arindam Banerjee](https://arindam.cs.illinois.edu/))
-- Yash Travadi (PhD'25 with thesis pending, @Astrin Biosciences; co-advised with [Prof. Hui Zou](http://users.stat.umn.edu/~zouxx019/))
+- [Yash Travadi](https://scholar.google.com/citations?user=UABnM0cAAAAJ&hl=en) (PhD'26 [Thesis: Learning with Data Imbalance], @Astrin Biosciences; co-advised with [Prof. Hui Zou](http://users.stat.umn.edu/~zouxx019/))
 - [Taihui Li](https://taihui.github.io/) (PhD'25 [Thesis: Advancing Untrained Deep Neural Networks], Research Scientist@Meta AI; co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/))
-- [Le Peng](https://sites.google.com/view/le-peng/) (PhD'25 [Thesis: Towards Robust and Reliable Artificial Intelligence in Healthcare], Research Scientist@Meta)
+- [Le Peng](https://sites.google.com/view/le-peng/) (PhD'25 [Thesis: Towards Robust and Reliable Artificial Intelligence in Healthcare](https://hdl.handle.net/11299/277387), Research Scientist@Meta)
 - [Hengyue Liang](https://hengyuel.github.io/) (PhD'25; [Thesis: Robustness and Safety of Deep Learning Models](https://hdl.handle.net/11299/275904), Applied Scientist@Amazon)
 - [Chuan He](https://liu.se/en/employee/chuhe48) (Postdoc'23--24, Assistant Professor @Linköping University, Sweden)
 - [Zhong Zhuang](https://scholar.google.com/citations?user=rGGxUQEAAAAJ) (PhD'23; [Thesis: Advancing Deep Learning For Scientific Inverse Problems](https://hdl.handle.net/11299/258910), Postdoc @UCLA; Co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/)) 
