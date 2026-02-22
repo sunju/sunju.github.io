@@ -147,6 +147,9 @@ Paper profile: \[[Google Scholar](http://scholar.google.com/citations?user=V6FaD
 
 ### Conferences and Workshops
 
+> **Flow Matching for Multimodal Distributions**. \[[arXiv]\]         
+> &nbsp; &nbsp; Gaoxiang Luo, Frank Cole, Sihang Zhang, Yuxiang Wan, Yulong Lu, **Ju Sun**. Conference on Computer Vision and Pattern Recognition (CVPR), 2026. 
+
 > **Temporal-Consistent Video Restoration with Pre-trained Diffusion Models**. \[[arXiv](https://arxiv.org/abs/2503.14863)\]         
 > &nbsp; &nbsp; Hengkang Wang, Yang Liu, Huidong Liu, Chien-Chih Wang, Yanhui Guo, Hongdong Li, Bryan Wang, **Ju Sun**. AAAI Conference on Artificial Intelligence (AAAI), 2026. 
 

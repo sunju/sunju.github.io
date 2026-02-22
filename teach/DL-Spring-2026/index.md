@@ -26,7 +26,7 @@ Disclaimer: The schedule is tentative and subject to change
 | Jan 27/29 | Fundamental belief: universal approximation theorems [[slides](Jan-27.pdf)\]  |
 | Feb 03/05 | Basics of numerical optimization: optimality conditions \[[slides](Feb-03.pdf)\] <br> Basics of numerical optimization: iterative methods \[[slides](Feb-05.pdf)\]   |
 | Feb 10/12 | Basics of numerical optimization: computing derivatives \[[slides](Feb-12.pdf)\]  | 
-| Feb 17/19 | Basics of numerical optimization: computing derivative (continued) <br> Training DNNs: Basic methods and tricks \[[slides]\]  |    
+| Feb 17/19 | Basics of numerical optimization: computing derivative (continued) <br> Training DNNs: Basic methods and tricks \[[slides](Feb-19.pdf)\]  |    
 | Feb 24/26 | Training DNNs: basic methods and tricks (Continued) | 
 | Mar 03/05 | Introduction to Google Colab and PyTorch \[[slides]\] <br> Introduction to Minnesota Supercomputing Institute (MSI) \[[slides]\] <br>    Course project \[[slides]\] | 
 | Mar 10/12 | SPRING BREAK; NO LECTURES | 
