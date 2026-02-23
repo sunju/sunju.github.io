@@ -9,7 +9,7 @@ tags: top
 - SABBATICAL (Fall 2026--Spring 2027) 
 - [CSCI5527: Deep Learning: Models, Computation, Applications (Spring 2026)](DL-Spring-2026)
 - NO TEACHING (Fall 2025) 
-- [CSCI5527: Deep Learning: Models, Computation, Applications (Spring 2025)](DL-Spring-2025)
+- CSCI5527: Deep Learning: Models, Computation, Applications (Spring 2025) 
 - [CSCI5525: Machine Learning: Analysis and Methods (Fall 2024)](ML-Fall-2024)
 - NO TEACHING  (Spring 2024)
 - CSCI5527: Deep Learning: Models, Computation, Applications (Fall 2023)
