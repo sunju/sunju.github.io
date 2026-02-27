@@ -56,6 +56,8 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 #### Upcoming
 
 - **Service & Event**: Serving as local chair for [IEEE International Conference on Healthcare Informatics 2026](https://zhang-informatics.github.io/ICHI2026/) (UMN, Jun 01--04, 2026)    
+- **Talk & Event**: [Peter O. Stahl Advanced Design Forum 2026](https://sites.google.com/umn.edu/stahlforum/home) (Cargill & UMN, May 14--15, 2026)
+- **Talk & Event**: [AI for Engineering Workshop/ID4 Meeting](https://id4.mines.edu/ai-for-engineering/) (Princeton U., May 13--14, 2026)
 
 #### Past
 
