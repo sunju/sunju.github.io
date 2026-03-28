@@ -62,6 +62,7 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 
 #### Past
 
+- **Service**: To be an Area Chair for [ Neural Information Processing Systems (NeurIPS) 2026](https://neurips.cc/) (Mar, 2026) 
 - **Graduation**: The fifth PhD student of the group, [Yash Travadi](https://scholar.google.com/citations?user=UABnM0cAAAAJ&hl=en) (Stats) has successfully defended his thesis titled **Learning with Imbalanced Data**. Heartfelt congratulations to Dr. Travadi, who has developed highly innovative methods for dealing with data imbalance in learning with high-dimensional modern data! Yash has joined [Astrin Biosciences](https://astrinbio.com/) as an AI scientist! (Feb 19, 2026)  
 - **Talk**: [IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP 2025)](https://camsap25.ig.umons.ac.be/) [[Slides](talks/CAMSAP-2025-Dec.pdf)\] (Dominican Republic, Dec 14--17, 2025)
 - **Talk**: [UMN Industrial and Systems Engineering Graduate Seminar](https://cse.umn.edu/isye/isye-seminar-series)  \[[Slides](talks/NCVX-2025-UMN-ISYE.pdf)\] (UMN, Dec 10, 2025)

@@ -31,7 +31,7 @@ Disclaimer: The schedule is tentative and subject to change
 | Mar 03/05 | Introduction to Google Colab and PyTorch \[[slides](Intro-Colab-PyTorch.pdf)\] <br> Introduction to Minnesota Supercomputing Institute (MSI) \[[slides](Intro-MSI.pdf)\] <br>    Course project \[[slides](project.pdf)\] | 
 | Mar 10/12 | SPRING BREAK; NO LECTURES | 
 | Mar 17/19 | From fully connected to convolutional neural networks \[[slides](Mar-17-19.pdf)\] | 
-| Mar 24/26 | Applications of CNNs in computer vision: detection & segmentation \[[slides]\]| 
+| Mar 24/26 | Applications of CNNs in computer vision: detection & segmentation \[[slides](CNN-Appl.pdf)\]| 
 | Mar 31/Apr 02 | Sequence modeling: recurrent neural networks \[[slides]\] | 
 | Apr 07/09 | Transformers, large language models, and foundation models \[[slides]\]| 
 | Apr 14/16 | Relationship modeling: graph neural networks \[[slides]\]| 
@@ -43,6 +43,6 @@ Disclaimer: The schedule is tentative and subject to change
 + [HW 0](HW0-2026.pdf) (Due: Feb 07)
 + [HW 1](HW1-2026.pdf) (Due: Feb 21) 
 + [HW 2](HW2-2026.zip) (Due: Mar 08)
-+ [HW 3] (Due: xx)
++ [HW 3](HW3-2026.pdf) (Due: Apr 07)
 + [HW 4] (Due: xx)
 + [HW 5] (Due: xx)

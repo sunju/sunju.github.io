@@ -32,8 +32,20 @@ Paper profile: \[[Google Scholar](http://scholar.google.com/citations?user=V6FaD
 > **Ensemble Selective Classification**.  
 > &nbsp; &nbsp; Sinian Zhang, Guanchen Li, Chongwei Chen, **Ju Sun**.  2025. 
 
+> **Zero-Shot Video Restoration via a Plug-in Framework with Spatial and Temporal Generative Priors**.    
+> &nbsp; &nbsp; Qiaozhi Huang, Gaoxiang Luo, Yuxiang Wan, Wenjie Zhang,  **Ju Sun**. Under review for European Conference on Computer Vision (ECCV), 2026.
+
+> **Object Detection with Reject Option**.   
+> &nbsp; &nbsp; Jiandong Chen, Yi Chen, Ramya Korlakai Vinayak, **Ju Sun**. Under review for European Conference on Computer Vision (ECCV), 2026.
+
+> **Rethink Steganography: Toward Practical Learning-Based Watermarks**.   
+> &nbsp; &nbsp; Yuxiang Wan, Jiandong Chen, Hengyue Liang, **Ju Sun**. Under review for European Conference on Computer Vision (ECCV), 2026.  
+
+> **Aligning Language Models with Selective Prediction**.   
+> &nbsp; &nbsp; Gaoxiang Luo, Yifan Wu, Sinian Zhang, Aryan Deshwal, **Ju Sun**. Under review for International Conference on Machine Learning (ICML), 2026. 
+
 > **Saving Foundation Flow-Matching Priors for Inverse Problems**. \[[arXiv](https://arxiv.org/abs/2511.16520)\]    
-> &nbsp; &nbsp; Yuxiang Wan, Ryan Devera, Wenjie Zhang, **Ju Sun**. 2025. 
+> &nbsp; &nbsp; Yuxiang Wan, Ryan Devera, Wenjie Zhang, **Ju Sun**. Under review for International Conference on Machine Learning (ICML),  2026. 
 
 > **Optimization and Optimizers for Adversarial Robustness**.   \[[arXiv](https://arxiv.org/abs/2303.13401)\]          
 > &nbsp; &nbsp;  Hengyue Liang, Buyun Liang, Le Peng, Ying Cui, Tim Mitchell, **Ju Sun**. 
