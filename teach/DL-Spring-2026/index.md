@@ -32,7 +32,7 @@ Disclaimer: The schedule is tentative and subject to change
 | Mar 10/12 | SPRING BREAK; NO LECTURES | 
 | Mar 17/19 | From fully connected to convolutional neural networks \[[slides](Mar-17-19.pdf)\] | 
 | Mar 24/26 | Applications of CNNs in computer vision: detection & segmentation \[[slides](CNN-Appl.pdf)\]| 
-| Mar 31/Apr 02 | Sequence modeling: recurrent neural networks \[[slides]\] | 
+| Mar 31/Apr 02 | Sequence modeling: recurrent neural networks \[[slides](RNN.pdf)\] | 
 | Apr 07/09 | Transformers, large language models, and foundation models \[[slides]\]| 
 | Apr 14/16 | Relationship modeling: graph neural networks \[[slides]\]| 
 | Apr 21/23 | Unsupervised and self-supervised representation \[[slides]\]| 
