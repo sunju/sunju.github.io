@@ -62,6 +62,7 @@ R&D Director of Artificial Intelligence, [PureBioX](https://purebiox.com/)
 
 #### Past
 
+- **Honors**: Extremely honored to receive [The Guillermo E. Borja Career Development Award](https://cse.umn.edu/college/faculty-and-staff/collegiate-awards#borja) from the College of Science and Engineering of UMN, which recognizes exceptional research and scholarly accomplishments by a candidate for tenure during the probationary period.  (Apr 01, 2026)  
 - **Service**: To be an Area Chair for [ Neural Information Processing Systems (NeurIPS) 2026](https://neurips.cc/) (Mar, 2026) 
 - **Graduation**: The fifth PhD student of the group, [Yash Travadi](https://scholar.google.com/citations?user=UABnM0cAAAAJ&hl=en) (Stats) has successfully defended his thesis titled **Learning with Imbalanced Data**. Heartfelt congratulations to Dr. Travadi, who has developed highly innovative methods for dealing with data imbalance in learning with high-dimensional modern data! Yash has joined [Astrin Biosciences](https://astrinbio.com/) as an AI scientist! (Feb 19, 2026)  
 - **Talk**: [IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP 2025)](https://camsap25.ig.umons.ac.be/) [[Slides](talks/CAMSAP-2025-Dec.pdf)\] (Dominican Republic, Dec 14--17, 2025)
