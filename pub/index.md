@@ -32,6 +32,9 @@ Paper profile: \[[Google Scholar](http://scholar.google.com/citations?user=V6FaD
 > **Ensemble Selective Classification**.  
 > &nbsp; &nbsp; Sinian Zhang, Guanchen Li, Chongwei Chen, **Ju Sun**.  2025. 
 
+> **A Systematic Evaluation of Imbalance Handling Methods in Biomedical Binary Classification**.    
+> &nbsp; &nbsp; Jiandong Chen, Lingjie Su, Le Peng, Yash Travadi, Rui Zhang, **Ju Sun**. Under review for The Journal of the American Medical Informatics Association (JAMIA), 2026. 
+
 > **Zero-Shot Video Restoration via a Plug-in Framework with Spatial and Temporal Generative Priors**.    
 > &nbsp; &nbsp; Qiaozhi Huang, Gaoxiang Luo, Yuxiang Wan, Wenjie Zhang,  **Ju Sun**. Under review for European Conference on Computer Vision (ECCV), 2026.
 
