@@ -47,9 +47,6 @@ Paper profile: \[[Google Scholar](http://scholar.google.com/citations?user=V6FaD
 > **Aligning Language Models with Selective Prediction**.   
 > &nbsp; &nbsp; Gaoxiang Luo, Yifan Wu, Sinian Zhang, Aryan Deshwal, **Ju Sun**. Under review for International Conference on Machine Learning (ICML), 2026. 
 
-> **Saving Foundation Flow-Matching Priors for Inverse Problems**. \[[arXiv](https://arxiv.org/abs/2511.16520)\]    
-> &nbsp; &nbsp; Yuxiang Wan, Ryan Devera, Wenjie Zhang, **Ju Sun**. Under review for International Conference on Machine Learning (ICML),  2026. 
-
 > **Optimization and Optimizers for Adversarial Robustness**.   \[[arXiv](https://arxiv.org/abs/2303.13401)\]          
 > &nbsp; &nbsp;  Hengyue Liang, Buyun Liang, Le Peng, Ying Cui, Tim Mitchell, **Ju Sun**. 
 
@@ -161,6 +158,9 @@ Paper profile: \[[Google Scholar](http://scholar.google.com/citations?user=V6FaD
 > &nbsp; &nbsp; Guangcan Liu,  Zhouchen Lin, Shuicheng Yan,  **Ju Sun**, Yong Yu, and Yi Ma.  IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI), 35(1), 171--184, 2013.
 
 ### Conferences and Workshops
+
+> **Saving Foundation Flow-Matching Priors for Inverse Problems**. \[[arXiv](https://arxiv.org/abs/2511.16520)\]    
+> &nbsp; &nbsp; Yuxiang Wan, Ryan Devera, Wenjie Zhang, **Ju Sun**. International Conference on Machine Learning (ICML), 2026. 
 
 > **Flow Matching for Multimodal Distributions**. \[[arXiv]\]         
 > &nbsp; &nbsp; Gaoxiang Luo, Frank Cole, Sihang Zhang, Yuxiang Wan, Yulong Lu, **Ju Sun**. Conference on Computer Vision and Pattern Recognition (CVPR), 2026. 

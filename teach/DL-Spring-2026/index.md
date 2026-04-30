@@ -36,7 +36,7 @@ Disclaimer: The schedule is tentative and subject to change
 | Apr 07/09 | Transformers, large language models, and foundation models \[[slides](Transformers.pdf)\]| 
 | Apr 14/16 | Relationship modeling: graph neural networks \[[slides](GNN.pdf)\]| 
 | Apr 21/23 | Unsupervised and self-supervised representation \[[slides](Un-Self-Supervised.pdf)\]| 
-| Apr 28/30 | Deep generative models \[[slides]\]| 
+| Apr 28/30 | Deep generative models \[[slides](Gen-models.pdf)\]| 
 |  |  |
 
 **Homework**   
@@ -45,4 +45,4 @@ Disclaimer: The schedule is tentative and subject to change
 + [HW 2](HW2-2026.zip) (Due: Mar 08)
 + [HW 3](HW3-2026.pdf) (Due: Apr 07)
 + [HW 4](HW4-2026.pdf) (Due: Apr 26)
-+ [HW 5] (Due: xx)
++ [HW 5](HW5-2026.pdf) (Due: May 14)
