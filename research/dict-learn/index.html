@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Ju Sun | Dictionary Learning, Blind Deconvolution, Deep Learning</title>
+  <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+">
+
+  <link rel="shortcut icon" href="/assets/img/favicon.ico">
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="canonical" href="/research/dict-learn/">
+  
+  <style>
+	ul {list-style-type: circle;}
+  </style>
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    
+    <span class="site-title">
+        
+        <strong>Ju Sun</strong>
+    </span>
+    
+
+    <nav class="site-nav">
+      <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+              <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+              <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+      <div class="trigger">
+        <!-- About -->
+        <a class="page-link" href="/">Welcome</a>
+
+        <!-- Blog -->
+        <a class="page-link" href="/blog/">Blog</a>
+
+        <!-- Pages -->
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+            <a class="page-link" href="/teach/">Teaching</a>
+          
+        
+          
+            <a class="page-link" href="/pub/">Publications</a>
+          
+        
+          
+            <a class="page-link" href="/talks/">Talks</a>
+          
+        
+          
+            <a class="page-link" href="/software/">Software</a>
+          
+        
+          
+            <a class="page-link" href="/grants/">Grants</a>
+          
+        
+          
+            <a class="page-link" href="/people/">People</a>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+            <a class="page-link" href="/research/">Research</a>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+
+        <!-- CV link -->
+        <!-- <a class="page-link" href="/assets/pdf/CV.pdf">vitae</a> -->
+
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Dictionary Learning, Blind Deconvolution, Deep Learning</h1>
+    <h5 class="post-description"></h5>
+  </header>
+
+  <article class="post-content Dictionary Learning, Blind Deconvolution, Deep Learning clearfix">
+    <p>Learning dictionaries/atomic sets that induce structured representation on data. Applications are still explosively emerging, especially of deep learning, where one allows multi-level nonlinear cascading of representation. Hence formulations to the problems are fairly diverse. We will roughly organize the references according to the problem they try to solve, concentrated on recent literature of theoretical nature.  (<strong>Update: Feb 29 2020</strong>)</p>
+
+<p>[<span style="color:red"><strong>S</strong></span>] indicates my contribution.</p>
+
+<h2 id="theory">Theory</h2>
+
+<h3 id="mathbfy--mathbfa-mathbfx-mathbfa-square-invertible-global-recovery">$\mathbf{Y} = \mathbf{A} \mathbf{X}$, $\mathbf{A}$ Square, Invertible, Global Recovery</h3>
+<p>This problem can be reduced to a sequence of problems, each taking the form of finding sparsest vector in a linear subspace. See also <a href="/research/struct-elem/">Structured Element Pursuit</a>.</p>
+
+<ul>
+  <li><a href="https://arxiv.org/abs/2002.10043">Complete Dictionary Learning via $\ell_p$-norm Maximization</a> (2020)</li>
+  <li><a href="https://arxiv.org/abs/1908.10776">A Nonconvex Approach for Exact and Efficient Multichannel Sparse Blind Deconvolution</a> (2019)</li>
+  <li><a href="https://arxiv.org/abs/1810.10702">Subgradient Descent Learns Orthogonal Dictionaries</a> ([<span style="color:red"><strong>S</strong></span>], 2018)</li>
+  <li><a href="https://arxiv.org/abs/1809.10313">Efficient Dictionary Learning with Gradient Descent</a> (2018)</li>
+  <li><a href="https://arxiv.org/abs/1706.08672">Fast and robust tensor decomposition with applications to dictionary learning</a> (2017)</li>
+  <li><a href="https://arxiv.org/abs/1602.05719">An improved analysis of the ER-SpUD dictionary learning algorithm</a> (2016)</li>
+  <li><a href="https://arxiv.org/abs/1601.02049">A note on the sample complexity of the Er-SpUD algorithm by Spielman, Wang and Wright for exact recovery of sparsely used dictionaries</a> (2016)</li>
+  <li><a href="https://arxiv.org/abs/1503.08854">Dictionary Learning with Few Samples and Matrix Concentration</a> (2015)</li>
+  <li><a href="http://arxiv.org/abs/1504.06785">Complete Dictionary Recovery over the Sphere</a> ([<span style="color:red"><strong>S</strong></span>], 2015)</li>
+  <li><a href="http://arxiv.org/abs/1407.1543">Dictionary Learning and Tensor Decomposition via the Sum-of-Squares Method</a> (2014)</li>
+  <li><a href="http://arxiv.org/abs/1404.5236">Sum-of-squares proofs and the quest toward optimal algorithms</a> (2014)</li>
+  <li><a href="http://arxiv.org/abs/1312.6652">Rounding Sum-of-Squares Relaxations</a> (2013)</li>
+  <li><a href="http://math.mit.edu/icg/papers/sparsest-element.pdf">Scaling law for recovering the sparsest element in a subspace</a> (2013)</li>
+  <li><a href="http://arxiv.org/abs/1206.5882">Exact Recovery of Sparsely-Used Dictionaries</a> (2012)</li>
+</ul>
+
+<h3 id="mathbfy--mathbfa-mathbfx-mathbfa-overcomplete-incoherent-global-recovery">$\mathbf{Y} = \mathbf{A} \mathbf{X}$, $\mathbf{A}$ Overcomplete, Incoherent, Global Recovery</h3>
+<ul>
+  <li><a href="https://arxiv.org/abs/1912.02427">Analysis of the Optimization Landscapes for Overcomplete Representation Learning</a> (2019)</li>
+  <li><a href="https://arxiv.org/abs/1804.08603">Towards Learning Sparsely Used Dictionaries with Arbitrary Supports</a> (2018)</li>
+  <li><a href="https://arxiv.org/abs/1711.03638">A Provable Approach for Double-Sparse Coding</a> (2017)</li>
+  <li><a href="https://arxiv.org/abs/1711.03634">Alternating minimization for dictionary learning with random initialization</a> (2017)</li>
+  <li><a href="https://arxiv.org/abs/1610.01980">Polynomial-time Tensor Decompositions with Sum-of-Squares</a> (2016)</li>
+  <li><a href="http://arxiv.org/abs/1503.00778">Simple, Efficient, and Neural Algorithms for Sparse Coding</a> (2015)</li>
+  <li><a href="http://arxiv.org/abs/1407.1543">Dictionary Learning and Tensor Decomposition via the Sum-of-Squares Method</a> (2014)</li>
+  <li><a href="http://arxiv.org/abs/1404.5236">Sum-of-squares proofs and the quest toward optimal algorithms</a> (2014)</li>
+  <li><a href="http://arxiv.org/abs/1312.6652">Rounding Sum-of-Squares Relaxations</a> (2013)</li>
+  <li><a href="http://arxiv.org/abs/1401.0579">More Algorithms for Provable Dictionary Learning</a> (2014)</li>
+  <li><a href="http://arxiv.org/abs/1309.1952">Exact Recovery of Sparsely Used Overcomplete Dictionaries</a> (2013)</li>
+  <li><a href="http://arxiv.org/abs/1308.6273">New Algorithms for Learning Incoherent and Overcomplete Dictionaries</a> (2013)</li>
+  <li><a href="http://arxiv.org/abs/1310.7991">Learning Sparsely Used Overcomplete Dictionaries via Alternating Minimization</a> (2013)</li>
+</ul>
+
+<h3 id="mathbfy--mathbfa-mathbfx-local-correctness">$\mathbf{Y} = \mathbf{A} \mathbf{X}$ Local Correctness</h3>
+
+<ul>
+  <li><a href="https://arxiv.org/abs/1906.02435">Complete Dictionary Learning via $\ell^4$-Norm Maximization over the Orthogonal Group</a> (2019)</li>
+  <li><a href="https://arxiv.org/abs/1902.08380">Unique Sharp Local Minimum in $\ell_1$-minimization Complete Dictionary Learning</a> (2019)</li>
+  <li><a href="http://www.columbia.edu/~jw2966/Geng11-IT.pdf">On the Local Correctness of $\ell^1$ Minimization for Dictionary Learning</a> (2011, $\mathbf{A}$ general)</li>
+  <li><a href="http://arxiv.org/abs/0904.4774">Dictionary Identification - Sparse Matrix-Factorisation via $\ell^1$-Minimisation</a> (2009, $\mathbf{A}$ square)</li>
+</ul>
+
+<h3 id="single-kernel-convolutional-aka-blind-deconvolution-mathbfy--mathbfa-otimes-mathbfx">Single-Kernel Convolutional (aka Blind Deconvolution): $\mathbf{y} = \mathbf{a} \otimes \mathbf{x}$</h3>
+
+<ul>
+  <li><a href="https://arxiv.org/abs/1911.11167">Manifold Gradient Descent Solves Multi-Channel Sparse Blind Deconvolution Provably and Efficiently</a> (2019)</li>
+  <li><a href="https://arxiv.org/abs/1901.01913">On the Global Geometry of Sphere-Constrained Sparse Blind Deconvolution</a> (2019)</li>
+  <li><a href="https://arxiv.org/abs/1901.00256">Geometry and Symmetry in Short-and-Sparse Deconvolution</a> (2019)</li>
+  <li><a href="https://arxiv.org/abs/1806.00338">Structured Local Optima in Sparse Blind Deconvolution</a> (2018)</li>
+  <li><a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_On_the_Global_CVPR_2017_paper.pdf">On the Global Geometry of Sphere-Constrained Sparse Blind Deconvolution</a> (2017)</li>
+  <li><a href="https://arxiv.org/abs/1710.03309">Blind Deconvolution by a Steepest Descent Algorithm on a Quotient Manifold</a> (2017)</li>
+  <li><a href="https://arxiv.org/abs/1709.09279">From Blind deconvolution to Blind Super-Resolution through convex programming</a> (2017)</li>
+  <li><a href="https://arxiv.org/abs/1702.04342">BranchHull: Convex bilinear inversion from the entrywise product of signals with known signs</a> (2017)</li>
+  <li><a href="https://arxiv.org/abs/1611.04196">Self-Calibration via Linear Least Squares</a> (2016)</li>
+  <li><a href="https://arxiv.org/abs/1610.09028">Through the Haze: A Non-Convex Approach to Blind Calibration for Linear Random Sensing Models</a> (2016)</li>
+  <li><a href="https://arxiv.org/abs/1610.06469">Fast and guaranteed blind multichannel deconvolution under a bilinear system model</a> (2016)</li>
+  <li><a href="https://arxiv.org/abs/1610.06098">Leveraging Diversity and Sparsity in Blind Deconvolution</a> (2016)</li>
+  <li><a href="http://arxiv.org/abs/1606.04933">Rapid, Robust, and Reliable Blind Deconvolution via Nonconvex Optimization</a> (2016)</li>
+  <li><a href="http://arxiv.org/abs/1605.02615">A Non-Convex Blind Calibration Method for Randomised Sensing Strategies</a> (2016)</li>
+  <li><a href="https://arxiv.org/abs/1608.08370">Empirical Chaos Processes and Blind Deconvolution</a> (2016)</li>
+  <li><a href="https://arxiv.org/abs/1603.07316">Optimal Injectivity Conditions for Bilinear Inverse Problems with Applications to Identifiability of Deconvolution Problems</a> (2016)</li>
+  <li><a href="http://arxiv.org/abs/1511.06146">RIP-like Properties in Subsampled Blind Deconvolution</a> (2015)</li>
+  <li><a href="http://arxiv.org/abs/1511.06149">Blind Recovery of Sparse Signals from Subsampled Convolution</a> (2015)</li>
+  <li><a href="https://arxiv.org/abs/1507.01308">Identifiability and Stability in Blind Deconvolution under Minimal Assumptions</a> (2015)</li>
+  <li><a href="https://arxiv.org/abs/1505.03399">Identifiability in Blind Deconvolution with Subspace or Sparsity Constraints</a> (2015)</li>
+  <li><a href="https://arxiv.org/abs/1501.06120">A Unified Framework for Identifiability Analysis in Bilinear Inverse Problems with Applications to Subspace and Sparsity Models</a> (2015)</li>
+  <li><a href="https://arxiv.org/abs/1503.03184">Fundamental Limits of Blind Deconvolution Part II: Sparsity-Ambiguity Trade-offs</a> (2015)</li>
+  <li><a href="https://arxiv.org/abs/1501.06864">Self-Calibration and Biconvex Compressive Sensing</a> (2015)</li>
+  <li><a href="https://arxiv.org/abs/1411.3810">Fundamental Limits of Blind Deconvolution Part I: Ambiguity Kernel</a> (2014)</li>
+  <li><a href="https://dx.doi.org/10.1109/ISIT.2014.6875385">Sparse blind deconvolution: What cannot be done</a> (2014)</li>
+  <li><a href="https://arxiv.org/abs/1402.2637">Identifiability Scaling Laws in Bilinear Inverse Problems</a> (2014)</li>
+  <li><a href="http://arxiv.org/abs/1312.0525">Near Optimal Compressed Sensing of Sparse Rank-One Matrices via Sparse Power Factorization</a> (2013)</li>
+  <li><a href="https://arxiv.org/abs/1211.5608">Blind Deconvolution using Convex Programming</a> (2012)</li>
+</ul>
+
+<h3 id="multi-kernel-convolutional-mathbfy--sum_i-mathbfa_i-otimes-mathbfx_i">Multi-Kernel Convolutional: $\mathbf{Y} = \sum_i \mathbf{a}_i \otimes \mathbf{x}_i$</h3>
+<ul>
+  <li><a href="https://arxiv.org/abs/1708.08587">On the Reconstruction Risk of Convolutional Sparse Dictionary Learning</a> (2017)</li>
+  <li><a href="https://arxiv.org/abs/1707.06066">Working Locally Thinking Globally: Theoretical Guarantees for Convolutional Sparse Coding</a> (2017)</li>
+  <li><a href="https://arxiv.org/abs/1704.04178">Blind Demixing and Deconvolution at Near-Optimal Rate</a> (2017)</li>
+  <li><a href="https://arxiv.org/abs/1703.08642">Regularized Gradient Descent: A Nonconvex Recipe for Fast Joint Blind Deconvolution and Demixing</a> (2017)</li>
+  <li><a href="https://arxiv.org/abs/1512.07730">Blind Deconvolution Meets Blind Demixing: Algorithms and Performance Bounds</a> (2015)</li>
+</ul>
+
+<h3 id="generalized-dictionary-learning">Generalized Dictionary Learning</h3>
+<ul>
+  <li><a href="https://arxiv.org/abs/1811.01885">Learning Two Layer Rectified Neural Networks in Polynomial Time</a> (2018)</li>
+  <li><a href="https://doi.org/10.1007/s10208-018-9386-z">Learning Semidefinite Regularizers</a> (2017)</li>
+</ul>
+
+<h3 id="waveletgeneral-scattering-network">Wavelet/General Scattering Network</h3>
+<ul>
+  <li><a href="https://arxiv.org/abs/1701.05217">Lipschitz Properties for Deep Convolutional Networks</a> (2017)</li>
+  <li><a href="https://arxiv.org/abs/1605.08283">Discrete Deep Feature Extraction: A Theory and New Architectures</a> (2016)</li>
+  <li><a href="http://arxiv.org/abs/1512.06293">A Mathematical Theory of Deep Convolutional Neural Networks for Feature Extraction</a> (2015)</li>
+  <li><a href="http://arxiv.org/abs/1504.05487">Deep Convolutional Neural Networks Based on Semi-Discrete Frames</a> (2015)</li>
+  <li><a href="http://arxiv.org/abs/1406.2390">Unsupervised Learning by Deep Scattering Contractions</a> (2014)</li>
+  <li><a href="http://www.di.ens.fr/data/publications/papers/pami-final.pdf">Invariant Scattering Convolution Network</a> (2013)</li>
+  <li><a href="http://arxiv.org/abs/1101.2286">Group Invariant Scattering</a> (2011)</li>
+</ul>
+
+<h3 id="provable-learning-of-deep-structure">Provable Learning of Deep Structure</h3>
+<ul>
+  <li><a href="http://arxiv.org/abs/1311.3315">Sparse Matrix Factorization</a> (2013)</li>
+  <li><a href="http://arxiv.org/abs/1310.6343">Provable Bounds for Learning Some Deep Representations</a> (2013)</li>
+</ul>
+
+<h2 id="algorithms-and-applications">Algorithms and Applications</h2>
+
+<h3 id="dictionary-learning">Dictionary Learning</h3>
+
+<ul>
+  <li>To get a taste of the applications of dictionary learning in signal and image processing (compression in these areas demands good bases/dictionaries), see the book by Michael Elad: <a href="https://www.springer.com/mathematics/analysis/book/978-1-4419-7010-7">Sparse and Redundant Representations: From Theory to Applications in Signal and Image Processing</a></li>
+</ul>
+
+<h3 id="transformation-learning">Transformation Learning</h3>
+<ul>
+  <li><a href="https://arxiv.org/abs/1810.08323">Learning Multi-Layer Transform Models</a> (2018)</li>
+  <li><a href="http://transformlearning.csl.illinois.edu/">Transformation Learning website@UIUC</a></li>
+</ul>
+
+<h3 id="convolutional-dictionary-learning">Convolutional Dictionary Learning</h3>
+<ul>
+  <li><a href="https://arxiv.org/abs/1908.10959">Short-and-Sparse Deconvolution – A Geometric Approach</a> (2019)</li>
+  <li><a href="https://arxiv.org/abs/1607.02009">Working Locally Thinking Globally - Part II: Stability and Algorithms for Convolutional Sparse Coding</a> (2016)</li>
+  <li><a href="https://arxiv.org/abs/1607.0200">Working Locally Thinking Globally - Part I: Theoretical Guarantees for Convolutional Sparse Coding</a> (2016)</li>
+  <li><a href="http://arxiv.org/abs/1506.03509">Convolutional Dictionary Learning through Tensor Factorization</a> (2015)</li>
+  <li><a href="http://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Bristow_Fast_Convolutional_Sparse_2013_CVPR_paper.pdf">Fast Convolutional Sparse Coding</a> (2013)</li>
+  <li><a href="www.matthewzeiler.com/pubs/cvpr2010/cvpr2010.pdf">Deconvolutional Network</a> (2010)</li>
+</ul>
+
+<h3 id="deep-learning">Deep Learning</h3>
+<ul>
+  <li><a href="http://www.di.ens.fr/data/scattering/">Scattering Page</a> maintained by Stephane Mallat’s group</li>
+</ul>
+
+<blockquote>
+  <p><strong>Disclaimer</strong> - This page is meant to serve a hub for references on this problem, and does not represent in any way personal endorsement of papers listed here. So I do not hold any responsibility for quality and technical correctness of each paper listed here. The reader is advised to use this resource with discretion.</p>
+</blockquote>
+
+<blockquote>
+  <p><strong>If you’d like your paper to be listed here</strong>  - Just drop me a few lines via email (which can be found on “Welcome” page). If you don’t bother to spend a word, just deposit your paper on arXiv. I get email alert about new animals there every morning,  and will be happy to hunt one for this zoo if it seems <strong>fit</strong>.</p>
+</blockquote>
+
+  </article>
+
+<!--  -->
+
+<!--  -->
+
+</div>
+
+      </div>
+    </div>
+
+    <footer>
+
+  <div class="wrapper">
+    &copy; Copyright 2026 Ju Sun.
+    Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+
+    
+  </div>
+
+</footer>
+
+
+    <!--load Ubuntu webfont -->
+
+<link href='http://fonts.googleapis.com/css?family=Ubuntu|Ubuntu+Condensed|Ubuntu+Mono' rel='stylesheet' type='text/css'>
+
+<!-- mathjax config-->
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  jax: ["input/TeX", "output/HTML-CSS"],
+  tex2jax: {
+    inlineMath: [ ['$', '$'], ['\\(','\\)']],
+    displayMath: [ ['$$', '$$'], ['\\[','\\]']],
+    processEscapes: true,
+    processEnvironments: true, 
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+  },
+    TeX: { equationNumbers: { autoNumber: "AMS", useLabelIds: true } }, 
+  messageStyle: "none",
+  "HTML-CSS": { preferredFont: "TeX", availableFonts: ["STIX","TeX"] }
+});
+</script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+<!-- Load jQuery -->
+<script src="//code.jquery.com/jquery-1.12.4.min.js"></script>
+
+<!-- Load Common JS -->
+<script src="/assets/js/common.js"></script>
+
+
+
+
+
+<!-- Include custom icon fonts -->
+<link rel="stylesheet" href="/assets/css/fontawesome-all.min.css">
+<link rel="stylesheet" href="/assets/css/academicons.min.css">
+
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', '', 'auto');
+ga('send', 'pageview');
+</script>
+
+
+  </body>
+
+</html>
