@@ -8,7 +8,7 @@ tags: top
 ...which are select and recent
 
 ####  Accelerating Materials Discovery via Physics-Informed & Data-Driven Constraints       
-+ [Peter O. Stahl Advanced Design Forum 2026](https://sites.google.com/umn.edu/stahlforum/home) at Cargill (May 2026)   
++ [Peter O. Stahl Advanced Design Forum 2026](https://sites.google.com/umn.edu/stahlforum/home) at Cargill [[Slides](AI4MatSci-2026-May.pdf)\](May 2026)   
 
 ####  Generative Models for Inverse Design with Constraints   
 + [AI for Engineering Workshop/ID4 Meeting](https://id4.mines.edu/ai-for-engineering/) at Princeton U. [[Slides](AI4Eng-2026-Princeton.pdf)\] (May 2026)

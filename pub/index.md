@@ -29,23 +29,26 @@ Paper profile: \[[Google Scholar](http://scholar.google.com/citations?user=V6FaD
 > **Neural Topology Optimization with Principled Constrained Optimization**.  
 > &nbsp; &nbsp; Ryan Devera, Binyao Guo, Buyun Liang, Qizhi He, **Ju Sun**. Under review for SIAM Journal on Scientific Computing (SISC), 2025. 
 
-> **Ensemble Selective Classification**.  
-> &nbsp; &nbsp; Sinian Zhang, Guanchen Li, Chongwei Chen, **Ju Sun**.  2025. 
-
-> **A Systematic Evaluation of Imbalance Handling Methods in Biomedical Binary Classification**.    
-> &nbsp; &nbsp; Jiandong Chen, Lingjie Su, Le Peng, Yash Travadi, Rui Zhang, **Ju Sun**. Under review for The Journal of the American Medical Informatics Association (JAMIA), 2026. 
-
 > **Zero-Shot Video Restoration via a Plug-in Framework with Spatial and Temporal Generative Priors**.    
-> &nbsp; &nbsp; Qiaozhi Huang, Gaoxiang Luo, Yuxiang Wan, Wenjie Zhang,  **Ju Sun**. Under review for European Conference on Computer Vision (ECCV), 2026.
+> &nbsp; &nbsp; Qiaozhi Huang, Gaoxiang Luo, Yuxiang Wan, Wenjie Zhang,  **Ju Sun**. 2026.
 
 > **Object Detection with Reject Option**.   
-> &nbsp; &nbsp; Jiandong Chen, Yi Chen, Ramya Korlakai Vinayak, **Ju Sun**. Under review for European Conference on Computer Vision (ECCV), 2026.
+> &nbsp; &nbsp; Jiandong Chen, Yi Chen, Ramya Korlakai Vinayak, **Ju Sun**. 2026.
 
 > **Rethink Steganography: Toward Practical Learning-Based Watermarks**.   
-> &nbsp; &nbsp; Yuxiang Wan, Jiandong Chen, Hengyue Liang, **Ju Sun**. Under review for European Conference on Computer Vision (ECCV), 2026.  
+> &nbsp; &nbsp; Yuxiang Wan, Jiandong Chen, Hengyue Liang, **Ju Sun**. 2026.  
+
+> **Data-Free Neural Combinatorial Optimization without Graph Neural Networks**.  
+> &nbsp; &nbsp; Ryan Devera, Ismail Alkhouri, **Ju Sun**. Under review for Neural Information Processing Systems (NeurIPS), 2026. 
+
+> **Ensemble Selective Classification**.  
+> &nbsp; &nbsp; Sinian Zhang, Guanchen Li, Chongwei Chen, **Ju Sun**. Under review for Neural Information Processing Systems (NeurIPS), 2026. 
 
 > **Aligning Language Models with Selective Prediction**.   
-> &nbsp; &nbsp; Gaoxiang Luo, Yifan Wu, Sinian Zhang, Aryan Deshwal, **Ju Sun**. Under review for International Conference on Machine Learning (ICML), 2026. 
+> &nbsp; &nbsp; Gaoxiang Luo, Yifan Wu, Sinian Zhang, Aryan Deshwal, **Ju Sun**. Under review for Neural Information Processing Systems (NeurIPS), 2026.
+
+> **A Systematic Evaluation of Imbalance Handling Methods in Biomedical Binary Classification**. \[[arXiv](https://arxiv.org/abs/2605.14147)\]                
+> &nbsp; &nbsp; Jiandong Chen, Lingjie Su, Le Peng, Yash Travadi, Rui Zhang, **Ju Sun**. Under review for The Journal of the American Medical Informatics Association (JAMIA), 2026. 
 
 > **Optimization and Optimizers for Adversarial Robustness**.   \[[arXiv](https://arxiv.org/abs/2303.13401)\]          
 > &nbsp; &nbsp;  Hengyue Liang, Buyun Liang, Le Peng, Ying Cui, Tim Mitchell, **Ju Sun**. 

@@ -56,10 +56,11 @@ R&D Director of Artificial Intelligence, [PureBioX Inc.](https://purebiox.com/)
 
 - **Talk & Event**: [Artificial Intelligence for Materials Science (AIMS) 2026](https://www.nist.gov/news-events/events/2026/06/artificial-intelligence-materials-science-aims-2026) (NIST, Jun 16--17, 2026)
 - **Service & Event**: Serving as local chair for [IEEE International Conference on Healthcare Informatics 2026](https://zhang-informatics.github.io/ICHI2026/) (UMN, Jun 01--04, 2026)    
-- **Talk & Event**: [Peter O. Stahl Advanced Design Forum 2026](https://sites.google.com/umn.edu/stahlforum/home) (Cargill & UMN, May 14--15, 2026)
 
 #### Past
 
+- **Paper release**: Proud to release our paper [A Systematic Evaluation of Imbalance Handling Methods in Biomedical Binary Classification](https://arxiv.org/abs/2605.14147), on arXiv! In this paper, we reaffirm the importance of imbalance handling methods for training binary classifiers on imbalanced biomedical data, especially on unstructured data and powerful models---that are emerging in practice, clearing up the water muddled by some previous work. (May 15, 2026)  
+- **Talk & Event**: [Peter O. Stahl Advanced Design Forum 2026](https://sites.google.com/umn.edu/stahlforum/home) [[Slides](talks/AI4MatSci-2026-May.pdf)\] (Cargill & UMN, May 14--15, 2026)
 - **Talk & Event**: [AI for Engineering Workshop/ID4 Meeting](https://id4.mines.edu/ai-for-engineering/) [[Slides](talks/AI4Eng-2026-Princeton.pdf)\] (Princeton U., May 13--14, 2026)
 - **Honors**: Extremely honored to receive [The Guillermo E. Borja Career Development Award](https://cse.umn.edu/college/faculty-and-staff/collegiate-awards#borja) from the College of Science and Engineering of UMN, which recognizes exceptional research and scholarly accomplishments by a candidate for tenure during the probationary period.  (Apr 01, 2026)  
 - **Service**: To be an Area Chair for [ Neural Information Processing Systems (NeurIPS) 2026](https://neurips.cc/) (Mar, 2026) 
