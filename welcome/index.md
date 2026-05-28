@@ -54,6 +54,7 @@ R&D Director of Artificial Intelligence, [PureBioX Inc.](https://purebiox.com/)
 
 #### Upcoming
 
+- **Event**: [SIGGRAPH 2026](https://s2026.siggraph.org/) (Los Angeles, Jul 19--23, 2026)
 - **Talk & Event**: [Artificial Intelligence for Materials Science (AIMS) 2026](https://www.nist.gov/news-events/events/2026/06/artificial-intelligence-materials-science-aims-2026) (NIST, Jun 16--17, 2026)
 - **Service & Event**: Serving as local chair for [IEEE International Conference on Healthcare Informatics 2026](https://zhang-informatics.github.io/ICHI2026/) (UMN, Jun 01--04, 2026)    
 
