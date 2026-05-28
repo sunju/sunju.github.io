@@ -16,7 +16,7 @@ news: true
 social: true
 ---
 
-[Curriculum Vitae](CV.pdf)
+[Curriculum Vitae (CV)](CV.pdf)
 
 [McKnight Land-Grant Professor](https://scholarswalk.umn.edu/university-awards/mcknight-land-grant-professorship), [Computer Science & Engineering](https://www.cs.umn.edu/)   
 Leader, [Group of Learning, Optimization, Vision, Healthcare, and X (GLOVEX)](https://glovex.umn.edu/)   
