@@ -44,7 +44,7 @@ Paper profile: \[[Google Scholar](http://scholar.google.com/citations?user=V6FaD
 > **Ensemble Selective Classification**.  
 > &nbsp; &nbsp; Sinian Zhang, Guanchen Li, Chongwei Chen, **Ju Sun**. Under review for Neural Information Processing Systems (NeurIPS), 2026. 
 
-> **Aligning Language Models with Selective Prediction**.   
+> **Aligning Language Models with Selective Prediction**. \[[arXiv](https://arxiv.org/abs/2607.03528)\]    
 > &nbsp; &nbsp; Gaoxiang Luo, Yifan Wu, Sinian Zhang, Aryan Deshwal, **Ju Sun**. Under review for Neural Information Processing Systems (NeurIPS), 2026.
 
 > **A Systematic Evaluation of Imbalance Handling Methods in Biomedical Binary Classification**. \[[arXiv](https://arxiv.org/abs/2605.14147)\]                
@@ -161,6 +161,9 @@ Paper profile: \[[Google Scholar](http://scholar.google.com/citations?user=V6FaD
 > &nbsp; &nbsp; Guangcan Liu,  Zhouchen Lin, Shuicheng Yan,  **Ju Sun**, Yong Yu, and Yi Ma.  IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI), 35(1), 171--184, 2013.
 
 ### Conferences and Workshops
+
+> **Aligning Language Models with Selective Prediction**. \[[arXiv](https://arxiv.org/abs/2607.03528)\]  
+> &nbsp; &nbsp; Gaoxiang Luo, Yifan Wu, Sinian Zhang, Aryan Deshwal, **Ju Sun**. ICML Workshop on Agents in the Wild: Safety, Security, and Beyond (AIWILD), 2026. 
 
 > **Saving Foundation Flow-Matching Priors for Inverse Problems**. \[[arXiv](https://arxiv.org/abs/2511.16520)\]    
 > &nbsp; &nbsp; Yuxiang Wan, Ryan Devera, Wenjie Zhang, **Ju Sun**. International Conference on Machine Learning (ICML), 2026. 

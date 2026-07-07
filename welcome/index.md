@@ -55,11 +55,13 @@ R&D Director of Artificial Intelligence, [PureBioX Inc.](https://purebiox.com/)
 #### Upcoming
 
 - **Event**: [SIGGRAPH 2026](https://s2026.siggraph.org/) (Los Angeles, Jul 19--23, 2026)
-- **Talk & Event**: [Artificial Intelligence for Materials Science (AIMS) 2026](https://www.nist.gov/news-events/events/2026/06/artificial-intelligence-materials-science-aims-2026) (NIST, Jun 16--17, 2026)
-- **Service & Event**: Serving as local chair for [IEEE International Conference on Healthcare Informatics 2026](https://zhang-informatics.github.io/ICHI2026/) (UMN, Jun 01--04, 2026)    
+
 
 #### Past
 
+- **Paper release**: Proud to release our paper [Aligning Language Models with Selective Prediction](https://arxiv.org/abs/2607.03528), on arXiv! In this paper, we clarify why aligning large language models (LLMs) with good calibration does not serve the practical purpose of prediction selection, and propose aligning LLMs directly with selective prediction---an emerging paradigm of balancing LLMs' safety and utility---by finetuning with respect to selection metrics directly.  (Jul 7, 2026)  
+- **Talk & Event**: [Artificial Intelligence for Materials Science (AIMS) 2026](https://www.nist.gov/news-events/events/2026/06/artificial-intelligence-materials-science-aims-2026) (NIST, Jun 16--17, 2026)
+- **Service & Event**: Serving as local chair for [IEEE International Conference on Healthcare Informatics 2026](https://zhang-informatics.github.io/ICHI2026/) (UMN, Jun 01--04, 2026)    
 - **Paper release**: Proud to release our paper [A Systematic Evaluation of Imbalance Handling Methods in Biomedical Binary Classification](https://arxiv.org/abs/2605.14147), on arXiv! In this paper, we reaffirm the importance of imbalance handling methods for training binary classifiers on imbalanced biomedical data, especially on unstructured data and powerful models---that are emerging in practice, clearing up the water muddled by some previous work. (May 15, 2026)  
 - **Talk & Event**: [Peter O. Stahl Advanced Design Forum 2026](https://sites.google.com/umn.edu/stahlforum/home) [[Slides](talks/AI4MatSci-2026-May.pdf)\] (Cargill & UMN, May 14--15, 2026)
 - **Talk & Event**: [AI for Engineering Workshop/ID4 Meeting](https://id4.mines.edu/ai-for-engineering/) [[Slides](talks/AI4Eng-2026-Princeton.pdf)\] (Princeton U., May 13--14, 2026)
