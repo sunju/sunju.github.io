@@ -54,8 +54,8 @@ R&D Director of Artificial Intelligence, [PureBioX Inc.](https://purebiox.com/)
 
 #### Upcoming
 
+- **Event**: [Frontiers of Generative AI & Science Workshop](https://sites.google.com/umn.edu/frontiers/home) (UMN, Aug 4--5, 2026) 
 - **Event**: [SIGGRAPH 2026](https://s2026.siggraph.org/) (Los Angeles, Jul 19--23, 2026)
-
 
 #### Past
 
