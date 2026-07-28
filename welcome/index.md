@@ -54,11 +54,12 @@ R&D Director of Artificial Intelligence, [PureBioX Inc.](https://purebiox.com/)
 
 #### Upcoming
 
+- **Talk**: [University of Arizona Biomedical Informatics (BMI) and Clinical Informatics (CI) Grand Rounds](https://phoenixmed.arizona.edu/bmi/grand-rounds) (Remote, Feb 16, 2027) 
 - **Event**: [Frontiers of Generative AI & Science Workshop](https://sites.google.com/umn.edu/frontiers/home) (UMN, Aug 4--5, 2026) 
-- **Event**: [SIGGRAPH 2026](https://s2026.siggraph.org/) (Los Angeles, Jul 19--23, 2026)
 
 #### Past
 
+- **Event**: [SIGGRAPH 2026](https://s2026.siggraph.org/) (Los Angeles, Jul 19--23, 2026)
 - **Paper release**: Proud to release our paper [Aligning Language Models with Selective Prediction](https://arxiv.org/abs/2607.03528), on arXiv! In this paper, we clarify why aligning large language models (LLMs) with good calibration does not serve the practical purpose of prediction selection, and propose aligning LLMs directly with selective prediction---an emerging paradigm of balancing LLMs' safety and utility---by finetuning with respect to selection metrics directly.  (Jul 7, 2026)  
 - **Talk & Event**: [Artificial Intelligence for Materials Science (AIMS) 2026](https://www.nist.gov/news-events/events/2026/06/artificial-intelligence-materials-science-aims-2026) (NIST, Jun 16--17, 2026)
 - **Service & Event**: Serving as local chair for [IEEE International Conference on Healthcare Informatics 2026](https://zhang-informatics.github.io/ICHI2026/) (UMN, Jun 01--04, 2026)    
