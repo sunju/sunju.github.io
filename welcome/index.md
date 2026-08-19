@@ -55,6 +55,7 @@ R&D Director of Artificial Intelligence, [PureBioX Inc.](https://purebiox.com/)
 #### Upcoming
 
 - **Talk**: [University of Arizona Biomedical Informatics (BMI) and Clinical Informatics (CI) Grand Rounds](https://phoenixmed.arizona.edu/bmi/grand-rounds) (Remote, Feb 16, 2027) 
+- **Visiting**: [LANL Michigan SPARC](https://www.lanl.gov/engage/collaboration/about-sparc) (University of Michigan, Oct 26--30, 2026) 
 
 #### Past
 - **Event**: [Frontiers of Generative AI & Science Workshop](https://sites.google.com/umn.edu/frontiers/home) (UMN, Aug 4--5, 2026) 
