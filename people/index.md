@@ -13,12 +13,13 @@ tags: top
   
 ### PhD's
 
+- [Sihang Zhang](https://www.linkedin.com/in/sihang-zhang-341b84296/) (CS&E, co-advised with [Prof. Aryan Deshwal](https://cse.umn.edu/cs/aryan-deshwal))
 - [Yifan Wu](https://www.linkedin.com/in/yifan-wu-42b6a8290/) ([BCIB](https://r.umn.edu/academics-research/graduate/bicb), co-advised with [Prof. Rui Zhang](https://med.umn.edu/bio/rui-zhang))
 - [Qiaozhi Huang](https://www.linkedin.com/in/qiaozhi-huang-1a1581269/) (CS&E)
 - [Lingjie Su](https://sulingjie.github.io/) (CS&E)
 - [Sinian Zhang](https://scholar.google.com/citations?user=gdFyWbIAAAAJ&hl=en) (Biostats, co-advised with [Prof. Jue Hou](https://directory.sph.umn.edu/bio/sph-a-z/jue-hou))
 - [Guanchen Li](https://scholar.google.com/citations?user=73BtRsIAAAAJ&hl=en) (CS&E) 
-- [Gaoxiang Luo](https://gaoxiangluo.github.io/index.html) (CS&E, co-advised witg [Prof. Aryan Deshwal](https://cse.umn.edu/cs/aryan-deshwal)) 
+- [Gaoxiang Luo](https://gaoxiangluo.github.io/index.html) (CS&E, co-advised with [Prof. Aryan Deshwal](https://cse.umn.edu/cs/aryan-deshwal)) 
 - [Yuxiang Wan](https://www.linkedin.com/in/yuxiang-wang-893b82b4) (CS&E)
 - [Corey Senger](https://www.linkedin.com/in/corey-senger-69bbb3122/) (CS&E, co-advised with [Prof. Jiarong Hong](https://cse.umn.edu/me/jiarong-hong))
 - [Wenjie Zhang](https://wenjie-zhang08.github.io/) (CS&E) 
