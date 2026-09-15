@@ -11,6 +11,7 @@ Paper profile: \[[Google Scholar](http://scholar.google.com/citations?user=V6FaD
 - [Preprints](#preprints)
 - [Journals](#journals)
 - [Conferences and Workshops](#conferences-and-workshops)
+- [Patents](#patents)
 - [Dissertation](#dissertation)
 - [Unpublished Reports](#unpublished-reports)
 
@@ -312,6 +313,12 @@ Paper profile: \[[Google Scholar](http://scholar.google.com/citations?user=V6FaD
 
 > **3D Ordinal Constraint in Spatial Configuration for Robust Scene Recognition**. \[[PDF](/docs/icpr08_ordinal.pdf)\]  
 > &nbsp; &nbsp; Ching-Lik Teo, Shimiao Li, Loong-Fah Cheong, **Ju Sun**.  IEEE International Conference on Pattern Recognition (ICPR), 2008.
+
+
+### Patents 
+
+> **Method and System Using Ultrasound Reflections of Main Portal Vein to Predict Liver Cancer**. 
+> Jose D. Debes and **Ju Sun**. US Patent 12,733,900, 2026. 
 
 ### Dissertation
 
