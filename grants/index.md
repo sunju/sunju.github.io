@@ -8,13 +8,14 @@ tags: top
 
 ## External
 
+- [**Assessment of Sound Waves from Liver Vessels via Artificial Intelligence to Detect Liver Cancer**] (Co-I, $2.12M, NIH, Sep 2026--Aug 2031)   
 - [**Collaborative Research: Understanding surfzone dynamics using observations and artificial intelligence**](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2548082) (UMN PI, $648K, NSF, Aug 2026--Jul 2029)   
 - [**CardioOnco-AI: AI-Empowered Cardiotoxicity Risk Prediction Among Breast Cancer Survivors Using Multi-Site Real-World Data**](https://reporter.nih.gov/search/kQwxqbON80uq0ZBtLW1oPA/project-details/11388065) (Co-PI, $1.5M, FDA, Oct 2025--Sep 2028) 
-- [**ACED: Accelerating Materials Discovery by Learning with Physics-Informed Constraints**](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2435911) (PI, $500K, NSF, Jun 2025--Nov 2026)  
 - [**Adolescents' Social Media Management Strategies: Bidirectional Links to Objective Social Media Use and Mental Health Outcomes**](https://reporter.nih.gov/search/sq1DIxuMwEOw3zgIBkrwbg/project-details/11045466) (Co-PI, $2.8M, NIH, 2024--2028)
 - [**AI-CLIMATE (AI INSTITUTE FOR CLIMATE-LAND INTERACTIONS, MITIGATION, ADAPTATION, TRADEOFFS AND ECONOMY)**](https://portal.nifa.usda.gov/web/crisprojectpages/1030594-ai-climate-ai-institute-for-climate-land-interactions-mitigation-adaptation-tradeoffs-and-economy.html) (Co-PI, $20M, NIFA, 2023--2028)
 - [**Quantification of Tics in Tourette Syndrome**](https://reporter.nih.gov/search/I81ac0XnF0WOj_1GA-VfYA/project-details/10635872) (Co-PI, $3.2M, NIH, 2023--2028)
 - [**SCH: A New Computational Framework for Learning from Imbalanced Biomedical Data**](https://reporter.nih.gov/search/QwX7jhHSHESjZuJsPmhPWw/project-details/10816630) (PI, $1.2M, NIH, 2023--2027)
+- [**ACED: Accelerating Materials Discovery by Learning with Physics-Informed Constraints**](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2435911) (PI, $500K, NSF, Jun 2025--Nov 2026)  
 - [**AI for Map Geolocation and Extraction to Find Critical Minerals**](https://knowledge-computing.github.io/criticalmaas-web/) (Co-PI, $3.2M, DARPA, 2023--2025)
 - [**CPS: Medium: Smart Tracking Systems for Safe and Smooth Interactions Between Scooters and Road Vehicles**](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2038403) (Co-PI, $1.2M, NSF, 2020--2024)
 - [**FAIR Framework for Physics-Inspired AI in High Energy Physics**](https://pamspublic.science.energy.gov/WebPAMSExternal/Interface/Common/ViewPublicAbstract.aspx?rv=535ad18b-d0cd-4f08-8c15-9a6e247d9ab4&rtc=24&PRoleId=10) (Co-PI, $750K, DOE, 2020--2024)
