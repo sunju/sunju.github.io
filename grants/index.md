@@ -8,7 +8,7 @@ tags: top
 
 ## External
 
-- [**Assessment of Sound Waves from Liver Vessels via Artificial Intelligence to Detect Liver Cancer**] (Co-I, $2.12M, NIH, Sep 2026--Aug 2031)   
+- [**Assessment of Sound Waves from Liver Vessels via Artificial Intelligence to Detect Liver Cancer**](https://reporter.nih.gov/search/6o2ljrCKPU6cxVOK29pQ5g/project-details/11241817) (Co-I, $2.12M, NIH, Sep 2026--Aug 2031)   
 - [**Collaborative Research: Understanding surfzone dynamics using observations and artificial intelligence**](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2548082) (UMN PI, $648K, NSF, Aug 2026--Jul 2029)   
 - [**CardioOnco-AI: AI-Empowered Cardiotoxicity Risk Prediction Among Breast Cancer Survivors Using Multi-Site Real-World Data**](https://reporter.nih.gov/search/kQwxqbON80uq0ZBtLW1oPA/project-details/11388065) (Co-PI, $1.5M, FDA, Oct 2025--Sep 2028) 
 - [**Adolescents' Social Media Management Strategies: Bidirectional Links to Objective Social Media Use and Mental Health Outcomes**](https://reporter.nih.gov/search/sq1DIxuMwEOw3zgIBkrwbg/project-details/11045466) (Co-PI, $2.8M, NIH, 2024--2028)
