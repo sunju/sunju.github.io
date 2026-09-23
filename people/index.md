@@ -42,7 +42,7 @@ tags: top
 ### PhD & Postdoc Alumni 
 
 - [Hengkang Wang](https://scholar.google.com/citations?user=APqDZvUAAAAJ&hl=en) (PhD with thesis pending, @Meta AI) 
-- [Tiancong Chen](https://sites.google.com/view/tiancong-chen) (PhD with thesis pending, @Morgan Stanley;  co-advised with [Prof. Arindam Banerjee](https://arindam.cs.illinois.edu/))
+- [Tiancong Chen](https://sites.google.com/view/tiancong-chen) (PhD'26, [Thesis: Reliable Machine Learning under Non-Ideal Data Conditions], @Morgan Stanley;  co-advised with [Prof. Arindam Banerjee](https://arindam.cs.illinois.edu/))
 - [Yash Travadi](https://scholar.google.com/citations?user=UABnM0cAAAAJ&hl=en) (PhD'26; [Thesis: Learning with Data Imbalance], @Astrin Biosciences; co-advised with [Prof. Hui Zou](http://users.stat.umn.edu/~zouxx019/))
 - [Taihui Li](https://taihui.github.io/) (PhD'25; [Thesis: Advancing Untrained Deep Neural Networks](https://hdl.handle.net/11299/280356), Research Scientist@Meta AI; co-advised with [Prof. Vladimir Cherkassky](http://people.ece.umn.edu/~cherkass/))
 - [Le Peng](https://sites.google.com/view/le-peng/) (PhD'25; [Thesis: Towards Robust and Reliable Artificial Intelligence in Healthcare](https://hdl.handle.net/11299/277387), Research Scientist@Meta)
