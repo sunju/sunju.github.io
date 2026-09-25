@@ -42,12 +42,6 @@ Paper profile: \[[Google Scholar](http://scholar.google.com/citations?user=V6FaD
 > **Data-Free Neural Combinatorial Optimization without Graph Neural Networks**.  
 > &nbsp; &nbsp; Ryan Devera, Ismail Alkhouri, **Ju Sun**. Under review for Neural Information Processing Systems (NeurIPS), 2026. 
 
-> **Ensemble Selective Classification**.  
-> &nbsp; &nbsp; Sinian Zhang, Guanchen Li, Chongwei Chen, **Ju Sun**. Under review for Neural Information Processing Systems (NeurIPS), 2026. 
-
-> **Aligning Language Models with Selective Prediction**. \[[arXiv](https://arxiv.org/abs/2607.03528)\]    
-> &nbsp; &nbsp; Gaoxiang Luo, Yifan Wu, Sinian Zhang, Aryan Deshwal, **Ju Sun**. Under review for Neural Information Processing Systems (NeurIPS), 2026.
-
 > **A Systematic Evaluation of Imbalance Handling Methods in Biomedical Binary Classification**. \[[arXiv](https://arxiv.org/abs/2605.14147)\]                
 > &nbsp; &nbsp; Jiandong Chen, Lingjie Su, Le Peng, Yash Travadi, Rui Zhang, **Ju Sun**. Under review for The Journal of the American Medical Informatics Association (JAMIA), 2026. 
 
@@ -162,6 +156,12 @@ Paper profile: \[[Google Scholar](http://scholar.google.com/citations?user=V6FaD
 > &nbsp; &nbsp; Guangcan Liu,  Zhouchen Lin, Shuicheng Yan,  **Ju Sun**, Yong Yu, and Yi Ma.  IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI), 35(1), 171--184, 2013.
 
 ### Conferences and Workshops
+
+> **Ensemble Selective Classification**.  
+> &nbsp; &nbsp; Sinian Zhang, Chongwei Chen, Guanchen Li, **Ju Sun**. Neural Information Processing Systems (NeurIPS), 2026. 
+
+> **Aligning Language Models with Selective Prediction**. \[[arXiv](https://arxiv.org/abs/2607.03528)\]    
+> &nbsp; &nbsp; Gaoxiang Luo, Yifan Wu, Sinian Zhang, Aryan Deshwal, **Ju Sun**. Neural Information Processing Systems (NeurIPS), 2026.
 
 > **Aligning Language Models with Selective Prediction**. \[[arXiv](https://arxiv.org/abs/2607.03528)\]  
 > &nbsp; &nbsp; Gaoxiang Luo, Yifan Wu, Sinian Zhang, Aryan Deshwal, **Ju Sun**. ICML Workshop on Agents in the Wild: Safety, Security, and Beyond (AIWILD), 2026. 
