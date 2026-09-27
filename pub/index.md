@@ -42,6 +42,9 @@ Paper profile: \[[Google Scholar](http://scholar.google.com/citations?user=V6FaD
 > **Data-Free Neural Combinatorial Optimization without Graph Neural Networks**.  
 > &nbsp; &nbsp; Ryan Devera, Ismail Alkhouri, **Ju Sun**. Under review for Neural Information Processing Systems (NeurIPS), 2026. 
 
+> **Revolutionizing Diffusion MRI Microstructure Mapping via Global Inversion**.  \[[arXiv](https://arxiv.org/abs/2609.28958)\]    
+> &nbsp; &nbsp; Yuxiang Wan, Hamza Farooq, Wenjie Zhang, Qiaozhi Huang, Lingjie Su, Christophe Lenglet, **Ju Sun**. Under review for onal Conference on Acoustics, Speech, and Signal Processing (ICCSSP, Special Session), 2026. 
+
 > **A Systematic Evaluation of Imbalance Handling Methods in Biomedical Binary Classification**. \[[arXiv](https://arxiv.org/abs/2605.14147)\]                
 > &nbsp; &nbsp; Jiandong Chen, Lingjie Su, Le Peng, Yash Travadi, Rui Zhang, **Ju Sun**. Under review for The Journal of the American Medical Informatics Association (JAMIA), 2026. 
 
