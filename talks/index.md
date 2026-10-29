@@ -14,6 +14,7 @@ tags: top
 + [AI for Engineering Workshop/ID4 Meeting](https://id4.mines.edu/ai-for-engineering/) at Princeton U. [[Slides](AI4Eng-2026-Princeton.pdf)\] (May 2026)
 
 #### Plug-In Diffusion and Flow-Matching Priors for Inverse Problems 
++ [LANL SPARC Exchange](https://micde.umich.edu/sparc-events/) [[Slides](SPARC-2026-Oct.pptx)\] (Oct 2026)
 + IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP 2025) [[Slides](CAMSAP-2025-Dec.pdf)\] (Dec, 2025) 
 
 #### Advancing Trustworthy & Efficient AI for Science, Engineering, and Medicine      
