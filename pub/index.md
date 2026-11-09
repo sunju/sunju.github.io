@@ -30,8 +30,23 @@ Paper profile: \[[Google Scholar](http://scholar.google.com/citations?user=V6FaD
 > **Neural Topology Optimization with Principled Constrained Optimization**.  
 > &nbsp; &nbsp; Ryan Devera, Binyao Guo, Buyun Liang, Qizhi He, **Ju Sun**. Under review for SIAM Journal on Scientific Computing (SISC), 2025. 
 
-> **Zero-Shot Video Restoration via a Plug-in Framework with Spatial and Temporal Generative Priors**.    
-> &nbsp; &nbsp; Qiaozhi Huang, Gaoxiang Luo, Yuxiang Wan, Wenjie Zhang,  **Ju Sun**. 2026.
+> **The Renaissance of Line Search for Deep Learning?**.    
+> &nbsp; &nbsp; Chongwei Chen, Yuxiang Wan, Wenjie Zhang, Sinian Zhang, **Ju Sun**. Under review for International Conference on Learning Representations (ICLR), 2026.
+
+> **Direct Optimization of Selective Classifier for Auto-Labeling via Exact Reformulation**.    
+> &nbsp; &nbsp; Lingjie Su, Sihang Zhang, Jiandong Chen, Yi Chen, Guanchen Li, Ramya Korlakai Vinayak, **Ju Sun**. Under review for International Conference on Learning Representations (ICLR), 2026. 
+
+> **Zero-Shot Blind Inpainting with Flow Matching**.    
+> &nbsp; &nbsp; Wenjie Zhang, Yuxiang Wan, Vivek Kumar, Sinian Zhang, Shancong Mou, **Ju Sun**. Under review for International Conference on Learning Representations (ICLR), 2026. 
+
+> **FLINT: A Simultaneous Emulator for Discontinuous and Smooth Structures with PINNs**.    
+> &nbsp; &nbsp; Ryan Devera, Gavin M. Kunesh, **Ju Sun**, Ismail Alkhouri, Jonah M. Miller. Under review for International Conference on Learning Representations (ICLR), 2026. 
+
+> **Boldness: Evaluating Models under Label-Changing Edits via Diffusion Latent Optimization**.    
+> &nbsp; &nbsp; Tiancong Chen, Hengkang Wang, **Ju Sun**. Under review for International Conference on Learning Representations (ICLR), 2026. 
+
+> **Your Video Model Is Also an Image Model: Two Priors for Video Restoration**.    
+> &nbsp; &nbsp; Qiaozhi Huang, Gaoxiang Luo, Yuxiang Wan, Wenjie Zhang, Hengkang Wang, **Ju Sun**. Under review for AAAI Conference on Artificial Intelligence (AAAI), 2026.
 
 > **Object Detection with Reject Option**.   
 > &nbsp; &nbsp; Jiandong Chen, Yi Chen, Ramya Korlakai Vinayak, **Ju Sun**. 2026.
@@ -40,7 +55,7 @@ Paper profile: \[[Google Scholar](http://scholar.google.com/citations?user=V6FaD
 > &nbsp; &nbsp; Yuxiang Wan, Jiandong Chen, Hengyue Liang, **Ju Sun**. 2026.  
 
 > **Data-Free Neural Combinatorial Optimization without Graph Neural Networks**.  
-> &nbsp; &nbsp; Ryan Devera, Ismail Alkhouri, **Ju Sun**. Under review for Neural Information Processing Systems (NeurIPS), 2026. 
+> &nbsp; &nbsp; Ryan Devera, Ismail Alkhouri, **Ju Sun**. 2026. 
 
 > **Revolutionizing Diffusion MRI Microstructure Mapping via Global Inversion**.  \[[arXiv](https://arxiv.org/abs/2609.28958)\]    
 > &nbsp; &nbsp; Yuxiang Wan, Hamza Farooq, Wenjie Zhang, Qiaozhi Huang, Lingjie Su, Christophe Lenglet, **Ju Sun**. Under review for International Conference on Acoustics, Speech, and Signal Processing (ICASSP, Special Session), 2026. 
@@ -159,6 +174,10 @@ Paper profile: \[[Google Scholar](http://scholar.google.com/citations?user=V6FaD
 > &nbsp; &nbsp; Guangcan Liu,  Zhouchen Lin, Shuicheng Yan,  **Ju Sun**, Yong Yu, and Yi Ma.  IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI), 35(1), 171--184, 2013.
 
 ### Conferences and Workshops
+
+
+> **Metric-Aligned Confidence for Selective Medical Image Segmentation**.  
+> &nbsp; &nbsp; Sinian Zhang, Chongwei Chen, Jiandong Chen, Lingjie Su, Rui Zhang, Ramya Korlakai Vinayak, **Ju Sun**. Machine Learning for Health (ML4H), 2026. 
 
 > **Ensemble Selective Classification**.  
 > &nbsp; &nbsp; Sinian Zhang, Chongwei Chen, Guanchen Li, **Ju Sun**. Neural Information Processing Systems (NeurIPS), 2026. 
